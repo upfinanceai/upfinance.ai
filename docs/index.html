@@ -25,6 +25,21 @@
         section {
             scroll-margin-top: 100px;
         }
+
+        /* Custom responsive padding left for large screens */
+        @media (min-width: 1024px) {
+            .lg\:pl-40 {
+                padding-left: 10rem;
+            }
+
+            .lg\:w-\[337px\] {
+                width: 337px;
+            }
+
+            .lg\:h-\[337px\] {
+                height: 337px;
+            }
+        }
     </style>
     <title>UP Finance</title>
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-KEDQK6Y10K"></script>
@@ -128,7 +143,7 @@
 <body style="font-family: 'Inclusive Sans', sans-serif; background-color: #090909;">
     <div class="w-full min-h-screen flex flex-col">
         <!-- Header -->
-        <header class="w-full px-4 md:px-16 md:py-4 relative z-50">
+        <header class="w-full px-4 md:px-16 md:py-4 relative py-2 z-50">
             <div class="flex justify-between items-center">
                 <img src="./assets/images/icon.png" alt="Up Finance Logo" style="width: 5em;" />
                 <!-- Mobile Menu Button -->
@@ -289,7 +304,7 @@
                 <div
                     class="flex flex-col lg:flex-row justify-center items-start gap-8 lg:gap-24 mt-8 md:mt-16 w-full max-w-6xl mx-auto">
                     <!-- Card 1: Start with Crypto -->
-                    <div class="flex justify-start items-start gap-8 w-full lg:w-auto" style="padding-left: 10em;">
+                    <div class="flex justify-start items-start gap-8 w-full lg:w-auto lg:pl-40">
                         <!-- Left side: Gradient bar -->
                         <div class="flex flex-col items-center gap-3">
                             <div class="w-2 h-8 bg-gradient-to-b from-amber-400 to-amber-500"></div>
@@ -626,7 +641,7 @@
                 <div
                     class="w-full max-w-xs lg:w-[337px] lg:h-[337px] mx-auto mt-4 text-center lg:mt-auto overflow-hidden rounded-lg px-4 lg:px-0 pb-6 lg:pb-0">
                     <img class="w-full h-auto lg:h-full mx-auto object-cover object-top"
-                        src="./assets/images/image_77.png" style="height:337px;width: 337px;" alt="Virtual Card" />
+                        src="./assets/images/image_77.png" style="height:337px;" alt="Virtual Card" />
                 </div>
             </div>
 
@@ -841,7 +856,7 @@
                         class="footer-toggle flex justify-between items-center w-full md:w-auto text-left bg-transparent border-none cursor-pointer group"
                         onclick="toggleFooterSection('product')">
                         <span
-                            class="text-white text-sm md:text-base font-medium font-['Inter'] leading-normal group-hover:text-sky-400 transition-colors">Product</span>
+                            class="text-white text-sm md:text-base font-medium  leading-normal group-hover:text-sky-400 transition-colors">Product</span>
                         <svg class="footer-arrow w-4 h-4 text-white/60 transform transition-transform duration-200 md:hidden"
                             fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7">
@@ -851,18 +866,18 @@
                     <div id="product-menu" class="footer-menu hidden md:block mt-2 md:mt-3 pl-0 md:pl-0">
                         <div class="flex flex-col gap-2">
                             <a href="#how-it-works"
-                                class="text-white/60 text-sm md:text-base font-medium font-['Inter'] leading-normal hover:text-white transition-colors">How
+                                class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">How
                                 It Works</a>
                             <a href="#features"
-                                class="text-white/60 text-sm md:text-base font-medium font-['Inter'] leading-normal hover:text-white transition-colors">Features</a>
+                                class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">Features</a>
                             <a href="#"
-                                class="text-white/60 text-sm md:text-base font-medium font-['Inter'] leading-normal hover:text-white transition-colors">Up
+                                class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">Up
                                 Wallet</a>
                             <a href="#up-card"
-                                class="text-white/60 text-sm md:text-base font-medium font-['Inter'] leading-normal hover:text-white transition-colors">Up
+                                class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">Up
                                 Card</a>
                             <a href="#global-coverage"
-                                class="text-white/60 text-sm md:text-base font-medium font-['Inter'] leading-normal hover:text-white transition-colors">Supported
+                                class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">Supported
                                 Countries</a>
                         </div>
                     </div>
@@ -874,7 +889,7 @@
                         class="footer-toggle flex justify-between items-center w-full md:w-auto text-left bg-transparent border-none cursor-pointer group"
                         onclick="toggleFooterSection('compliance')">
                         <span
-                            class="text-white text-sm md:text-base font-medium font-['Inter'] leading-normal group-hover:text-sky-400 transition-colors">Compliance</span>
+                            class="text-white text-sm md:text-base font-medium  leading-normal group-hover:text-sky-400 transition-colors">Compliance</span>
                         <svg class="footer-arrow w-4 h-4 text-white/60 transform transition-transform duration-200 md:hidden"
                             fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7">
@@ -884,19 +899,19 @@
                     <div id="compliance-menu" class="footer-menu hidden md:block mt-2 md:mt-3 pl-0 md:pl-0">
                         <div class="flex flex-col gap-2">
                             <a href="#"
-                                class="text-white/60 text-sm md:text-base font-medium font-['Inter'] leading-normal hover:text-white transition-colors">KYC
+                                class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">KYC
                                 / AML Policy</a>
                             <a href="#"
-                                class="text-white/60 text-sm md:text-base font-medium font-['Inter'] leading-normal hover:text-white transition-colors">Custody
+                                class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">Custody
                                 by MBT</a>
                             <a href="#"
-                                class="text-white/60 text-sm md:text-base font-medium font-['Inter'] leading-normal hover:text-white transition-colors">Terms
+                                class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">Terms
                                 of Use</a>
                             <a href="#"
-                                class="text-white/60 text-sm md:text-base font-medium font-['Inter'] leading-normal hover:text-white transition-colors">Privacy
+                                class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">Privacy
                                 Policy</a>
                             <a href="#"
-                                class="text-white/60 text-sm md:text-base font-medium font-['Inter'] leading-normal hover:text-white transition-colors">Audit-Ready
+                                class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">Audit-Ready
                                 Infrastructure</a>
                         </div>
                     </div>
@@ -908,7 +923,7 @@
                         class="footer-toggle flex justify-between items-center w-full md:w-auto text-left bg-transparent border-none cursor-pointer group"
                         onclick="toggleFooterSection('support')">
                         <span
-                            class="text-white text-sm md:text-base font-medium font-['Inter'] leading-normal group-hover:text-sky-400 transition-colors">Support</span>
+                            class="text-white text-sm md:text-base font-medium  leading-normal group-hover:text-sky-400 transition-colors">Support</span>
                         <svg class="footer-arrow w-4 h-4 text-white/60 transform transition-transform duration-200 md:hidden"
                             fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7">
@@ -918,15 +933,15 @@
                     <div id="support-menu" class="footer-menu hidden md:block mt-2 md:mt-3 pl-0 md:pl-0">
                         <div class="flex flex-col gap-2">
                             <a href="#"
-                                class="text-white/60 text-sm md:text-base font-medium font-['Inter'] leading-normal hover:text-white transition-colors">Help
+                                class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">Help
                                 Center</a>
                             <a href="#"
-                                class="text-white/60 text-sm md:text-base font-medium font-['Inter'] leading-normal hover:text-white transition-colors">Contact
+                                class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">Contact
                                 Us</a>
                             <a href="#"
-                                class="text-white/60 text-sm md:text-base font-medium font-['Inter'] leading-normal hover:text-white transition-colors">Telegram</a>
+                                class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">Telegram</a>
                             <a href="mailto:support@upfinance.ai"
-                                class="text-white/60 text-sm md:text-base font-medium font-['Inter'] leading-normal hover:text-white transition-colors">support@upfinance.ai</a>
+                                class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">support@upfinance.ai</a>
                         </div>
                     </div>
                 </div>
@@ -937,7 +952,7 @@
                         class="footer-toggle flex justify-between items-center w-full md:w-auto text-left bg-transparent border-none cursor-pointer group"
                         onclick="toggleFooterSection('company')">
                         <span
-                            class="text-white text-sm md:text-base font-medium font-['Inter'] leading-normal group-hover:text-sky-400 transition-colors">Company</span>
+                            class="text-white text-sm md:text-base font-medium  leading-normal group-hover:text-sky-400 transition-colors">Company</span>
                         <svg class="footer-arrow w-4 h-4 text-white/60 transform transition-transform duration-200 md:hidden"
                             fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7">
@@ -947,12 +962,12 @@
                     <div id="company-menu" class="footer-menu hidden md:block mt-2 md:mt-3 pl-0 md:pl-0">
                         <div class="flex flex-col gap-2">
                             <a href="#"
-                                class="text-white/60 text-sm md:text-base font-medium font-['Inter'] leading-normal hover:text-white transition-colors">About
+                                class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">About
                                 Up Finance</a>
                             <a href="#"
-                                class="text-white/60 text-sm md:text-base font-medium font-['Inter'] leading-normal hover:text-white transition-colors">Careers</a>
+                                class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">Careers</a>
                             <a href="#"
-                                class="text-white/60 text-sm md:text-base font-medium font-['Inter'] leading-normal hover:text-white transition-colors">Press
+                                class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">Press
                                 Kit</a>
                         </div>
                     </div>
@@ -967,10 +982,10 @@
             <div class="flex flex-col gap-4">
                 <img src="./assets/images/icon.png" alt="Up Finance Logo" style="width:5em;">
                 <div class="flex flex-col justify-start items-start gap-4">
-                    <div class="text-white/60 text-base font-medium font-['Inter'] leading-normal">&nbsp;</div>
-                    <div class="text-white/60 text-base font-medium font-['Inter'] leading-normal">&nbsp;</div>
-                    <div class="text-white/60 text-base font-medium font-['Inter'] leading-normal">&nbsp;</div>
-                    <div class="text-white/60 text-base font-medium font-['Inter'] leading-normal">&nbsp;</div>
+                    <div class="text-white/60 text-base font-medium  leading-normal">&nbsp;</div>
+                    <div class="text-white/60 text-base font-medium  leading-normal">&nbsp;</div>
+                    <div class="text-white/60 text-base font-medium  leading-normal">&nbsp;</div>
+                    <div class="text-white/60 text-base font-medium  leading-normal">&nbsp;</div>
                     <div class="flex items-center gap-4" style="margin-top:0.7em">
                         <img src="./assets/images/icon_x.png" alt="X (Twitter)" class="h-6 w-6">
                         <img src="./assets/images/icon_discord.png" alt="Discord" class="h-6 w-6">
@@ -980,52 +995,52 @@
 
             <!-- Product Column -->
             <div class="flex flex-col gap-4">
-                <div class="text-white text-base font-medium font-['Inter'] leading-normal">Product</div>
+                <div class="text-white text-base font-medium  leading-normal">Product</div>
                 <div class="flex flex-col justify-start items-start gap-4">
-                    <div class="text-white/60 text-base font-medium font-['Inter'] leading-normal">How It Works</div>
-                    <div class="text-white/60 text-base font-medium font-['Inter'] leading-normal">Features</div>
-                    <div class="text-white/60 text-base font-medium font-['Inter'] leading-normal">Up Wallet</div>
-                    <div class="text-white/60 text-base font-medium font-['Inter'] leading-normal">Up Card</div>
-                    <div class="text-white/60 text-base font-medium font-['Inter'] leading-normal">Supported Countries
+                    <div class="text-white/60 text-base font-medium  leading-normal">How It Works</div>
+                    <div class="text-white/60 text-base font-medium  leading-normal">Features</div>
+                    <div class="text-white/60 text-base font-medium  leading-normal">Up Wallet</div>
+                    <div class="text-white/60 text-base font-medium  leading-normal">Up Card</div>
+                    <div class="text-white/60 text-base font-medium  leading-normal">Supported Countries
                     </div>
                 </div>
             </div>
 
             <!-- Compliance Column -->
             <div class="flex flex-col gap-4">
-                <div class="text-white text-base font-medium font-['Inter'] leading-normal">Compliance</div>
+                <div class="text-white text-base font-medium  leading-normal">Compliance</div>
                 <div class="flex flex-col justify-start items-start gap-4">
-                    <div class="text-white/60 text-base font-medium font-['Inter'] leading-normal">KYC / AML Policy
+                    <div class="text-white/60 text-base font-medium  leading-normal">KYC / AML Policy
                     </div>
-                    <div class="text-white/60 text-base font-medium font-['Inter'] leading-normal">Custody by MBT</div>
-                    <div class="text-white/60 text-base font-medium font-['Inter'] leading-normal">Terms of Use</div>
-                    <div class="text-white/60 text-base font-medium font-['Inter'] leading-normal">Privacy Policy</div>
-                    <div class="text-white/60 text-base font-medium font-['Inter'] leading-normal">Audit-Ready
+                    <div class="text-white/60 text-base font-medium  leading-normal">Custody by MBT</div>
+                    <div class="text-white/60 text-base font-medium  leading-normal">Terms of Use</div>
+                    <div class="text-white/60 text-base font-medium  leading-normal">Privacy Policy</div>
+                    <div class="text-white/60 text-base font-medium  leading-normal">Audit-Ready
                         Infrastructure</div>
                 </div>
             </div>
 
             <!-- Support Column -->
             <div class="flex flex-col gap-4">
-                <div class="text-white text-base font-medium font-['Inter'] leading-normal">Support</div>
+                <div class="text-white text-base font-medium  leading-normal">Support</div>
                 <div class="flex flex-col justify-start items-start gap-4">
-                    <div class="text-white/60 text-base font-medium font-['Inter'] leading-normal">Help Center</div>
-                    <div class="text-white/60 text-base font-medium font-['Inter'] leading-normal">Contact Us</div>
-                    <div class="text-white/60 text-base font-medium font-['Inter'] leading-normal">Telegram</div>
-                    <div class="text-white/60 text-base font-medium font-['Inter'] leading-normal">&nbsp;</div>
-                    <div class="text-white/60 text-base font-medium font-['Inter'] leading-normal">support@upfinance.ai
+                    <div class="text-white/60 text-base font-medium  leading-normal">Help Center</div>
+                    <div class="text-white/60 text-base font-medium  leading-normal">Contact Us</div>
+                    <div class="text-white/60 text-base font-medium  leading-normal">Telegram</div>
+                    <div class="text-white/60 text-base font-medium  leading-normal">&nbsp;</div>
+                    <div class="text-white/60 text-base font-medium  leading-normal">support@upfinance.ai
                     </div>
                 </div>
             </div>
 
             <!-- Company Column -->
             <div class="flex flex-col gap-4">
-                <div class="text-white text-base font-medium font-['Inter'] leading-normal">Company</div>
+                <div class="text-white text-base font-medium  leading-normal">Company</div>
                 <div class="flex flex-col justify-start items-start gap-4">
-                    <div class="text-white/60 text-base font-medium font-['Inter'] leading-normal">About Up Finance
+                    <div class="text-white/60 text-base font-medium  leading-normal">About Up Finance
                     </div>
-                    <div class="text-white/60 text-base font-medium font-['Inter'] leading-normal">Careers</div>
-                    <div class="text-white/60 text-base font-medium font-['Inter'] leading-normal">Press Kit</div>
+                    <div class="text-white/60 text-base font-medium  leading-normal">Careers</div>
+                    <div class="text-white/60 text-base font-medium  leading-normal">Press Kit</div>
                 </div>
             </div>
         </div>
