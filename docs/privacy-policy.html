@@ -1,0 +1,657 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="apple-touch-icon" sizes="180x180" href="./assets/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./assets/images/favicon-16x16.png">
+    <title>Privacy Policy - Up Finance</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inclusive+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="./assets/css/app-CBeSrw4u.css">
+    <style>
+        html {
+            scroll-behavior: smooth;
+        }
+
+        /* Offset scroll position for fixed header */
+        section {
+            scroll-margin-top: 100px;
+        }
+
+        /* Custom responsive padding left for large screens */
+        @media (min-width: 1024px) {
+            .lg\:pl-40 {
+                padding-left: 10rem;
+            }
+
+            .lg\:w-\[337px\] {
+                width: 337px;
+            }
+
+            .lg\:h-\[337px\] {
+                height: 337px;
+            }
+
+            .lg\:scale-70 {
+                transform: scale(0.7);
+            }
+        }
+
+        /* Privacy Policy specific styles */
+        .content-section {
+            margin-bottom: 2rem;
+        }
+
+        .content-section h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: white;
+            margin-bottom: 1rem;
+        }
+
+        .content-section h2 {
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: white;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+        }
+
+        .content-section h3 {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: white;
+            margin-top: 1.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .content-section p {
+            color: rgba(255, 255, 255, 0.8);
+            line-height: 1.6;
+            margin-bottom: 1rem;
+        }
+
+        .content-section ul {
+            color: rgba(255, 255, 255, 0.8);
+            line-height: 1.6;
+            margin-bottom: 1rem;
+            padding-left: 1.5rem;
+        }
+
+        .content-section li {
+            margin-bottom: 0.5rem;
+        }
+
+        .last-updated {
+            color: rgba(255, 255, 255, 0.6);
+            font-style: italic;
+            margin-bottom: 2rem;
+        }
+    </style>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-KEDQK6Y10K"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+        gtag('config', 'G-KEDQK6Y10K');
+    </script>
+    <script>
+        // Mobile menu functionality
+        document.addEventListener('DOMContentLoaded', function () {
+            const mobileMenuBtn = document.getElementById('mobile-menu-btn');
+            const mobileMenu = document.getElementById('mobile-menu');
+            const backdrop = document.getElementById('mobile-menu-backdrop');
+
+            if (mobileMenuBtn && mobileMenu && backdrop) {
+                mobileMenuBtn.addEventListener('click', function () {
+                    mobileMenu.classList.toggle('hidden');
+                    backdrop.classList.toggle('hidden');
+                });
+
+                // Close menu when clicking on backdrop
+                backdrop.addEventListener('click', function () {
+                    mobileMenu.classList.add('hidden');
+                    backdrop.classList.add('hidden');
+                });
+
+                // Close menu when clicking on a link
+                const mobileLinks = mobileMenu.querySelectorAll('a');
+                mobileLinks.forEach(link => {
+                    link.addEventListener('click', function () {
+                        mobileMenu.classList.add('hidden');
+                        backdrop.classList.add('hidden');
+                    });
+                });
+            }
+        });
+
+        // Footer menu toggle functionality
+        function toggleFooterSection(sectionId) {
+            // Only apply mobile behavior on small screens
+            if (window.innerWidth >= 768) return;
+
+            const menu = document.getElementById(sectionId + '-menu');
+            const arrow = document.querySelector(`[onclick="toggleFooterSection('${sectionId}')"] .footer-arrow`);
+
+            if (menu.classList.contains('hidden')) {
+                // Close all other menus first
+                document.querySelectorAll('.footer-menu').forEach(m => {
+                    if (m !== menu) {
+                        m.classList.add('hidden');
+                        // Reset other arrows
+                        const otherArrow = m.closest('.footer-section').querySelector('.footer-arrow');
+                        if (otherArrow) otherArrow.classList.remove('rotate-180');
+                    }
+                });
+
+                // Open this menu
+                menu.classList.remove('hidden');
+                if (arrow) arrow.classList.add('rotate-180');
+            } else {
+                // Close this menu
+                menu.classList.add('hidden');
+                if (arrow) arrow.classList.remove('rotate-180');
+            }
+        }
+
+        // Handle responsive behavior on window resize
+        window.addEventListener('resize', function () {
+            const footerMenus = document.querySelectorAll('.footer-menu');
+            const footerArrows = document.querySelectorAll('.footer-arrow');
+
+            if (window.innerWidth >= 768) {
+                // Desktop: show all menus, hide arrows
+                footerMenus.forEach(menu => menu.classList.remove('hidden'));
+                footerArrows.forEach(arrow => arrow.classList.remove('rotate-180'));
+            } else {
+                // Mobile: hide all menus, reset arrows
+                footerMenus.forEach(menu => menu.classList.add('hidden'));
+                footerArrows.forEach(arrow => arrow.classList.remove('rotate-180'));
+            }
+        });
+
+        // Initialize footer on page load
+        document.addEventListener('DOMContentLoaded', function () {
+            const footerMenus = document.querySelectorAll('.footer-menu');
+
+            if (window.innerWidth < 768) {
+                // Mobile: hide all menus initially
+                footerMenus.forEach(menu => menu.classList.add('hidden'));
+            }
+        });
+    </script>
+</head>
+
+<body style="font-family: 'Inclusive Sans', sans-serif; background-color: #090909;">
+    <div class="w-full min-h-screen flex flex-col">
+        <!-- Header -->
+        <header class="w-full px-4 md:px-16 md:py-4 relative py-2 z-50">
+            <div class="flex justify-between items-center">
+                <a href="./index.html"><img src="./assets/images/icon.png" alt="Up Finance Logo"
+                        style="width: 5em;" /></a>
+                <!-- Mobile Menu Button -->
+                <button class="md:hidden flex flex-col gap-1 p-2 rounded hover:bg-white/10 transition-colors"
+                    id="mobile-menu-btn" style="z-index: 100;">
+                    <div class="w-6 h-0.5 shadow-sm"
+                        style="background-color: #ffffff !important; height: 2px; box-shadow: 0 0 2px rgba(255,255,255,0.8);">
+                    </div>
+                    <div class="w-6 h-0.5 shadow-sm"
+                        style="background-color: #ffffff !important; height: 2px; box-shadow: 0 0 2px rgba(255,255,255,0.8);">
+                    </div>
+                    <div class="w-6 h-0.5 shadow-sm"
+                        style="background-color: #ffffff !important; height: 2px; box-shadow: 0 0 2px rgba(255,255,255,0.8);">
+                    </div>
+                </button>
+                <!-- Desktop Navigation -->
+                <nav
+                    class="hidden md:flex justify-center items-center gap-8 px-6 py-3 bg-white/5 rounded border border-white/10">
+                    <a href="./index.html"
+                        class="text-white text-base font-normal font-['Inclusive_Sans'] hover:text-sky-400 transition-colors">Home</a>
+                    <a href="./index.html#how-it-works"
+                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors">How
+                        It Works</a>
+                    <a href="./index.html#features"
+                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors">Features</a>
+                    <a href="./index.html#up-card"
+                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors">UpCard</a>
+                    <a href="./index.html#global-coverage"
+                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors">Global
+                        Coverage</a>
+                </nav>
+                <div
+                    class="hidden md:flex px-2 py-3 bg-gradient-to-l from-blue-700 to-sky-500 rounded justify-center items-center gap-2.5">
+                    <a href="https://pay.upfinance.ai" target="_blank"
+                        class="text-white text-base font-bold font-['Inclusive_Sans'] uppercase">Get Started</a>
+                </div>
+            </div>
+            <!-- Mobile Menu Backdrop -->
+            <div id="mobile-menu-backdrop" class="hidden inset-0 bg-black/50 backdrop-blur-sm"></div>
+
+            <!-- Mobile Navigation Menu -->
+            <nav class="hidden w-full bg-black/95 backdrop-blur-sm border-t border-white/10 p-4" id="mobile-menu">
+                <div class="flex flex-col gap-4">
+                    <a href="./index.html"
+                        class="text-white text-base font-normal font-['Inclusive_Sans'] hover:text-sky-400 transition-colors py-2">Home</a>
+                    <a href="./index.html#how-it-works"
+                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors py-2">How
+                        It Works</a>
+                    <a href="./index.html#features"
+                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors py-2">Features</a>
+                    <a href="./index.html#up-card"
+                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors py-2">UpCard</a>
+                    <a href="./index.html#global-coverage"
+                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors py-2">Global
+                        Coverage</a>
+                    <div
+                        class="px-4 py-3 bg-gradient-to-l from-blue-700 to-sky-500 rounded flex justify-center items-center gap-2.5 mt-4">
+                        <a href="https://pay.upfinance.ai" target="_blank"
+                            class="text-white text-base font-bold font-['Inclusive_Sans'] uppercase">Get Started</a>
+                    </div>
+                </div>
+            </nav>
+        </header>
+
+        <!-- Main Content -->
+        <main class="flex-1 px-4 md:px-16 py-8 md:py-16">
+            <div class="max-w-4xl mx-auto">
+                <div class="content-section">
+                    <h1>UP FINANCE PRIVACY POLICY</h1>
+                    <div class="last-updated">Last Updated: Jul 18, 2025</div>
+
+                    <p>This Privacy Policy outlines how Osmosis Limited, a company incorporated in Hong Kong and
+                        operating under the brand name Up Finance ("Up Finance", "we", "us", or "our"), collects, uses,
+                        stores, transfers, and safeguards personal data in connection with our services. This policy
+                        governs the collection and processing of personal information of individuals who access or use
+                        any aspect of the Up Finance ecosystem, including its websites, mobile applications, APIs,
+                        custodial and non-custodial wallets, card services, and virtual accounts (collectively, the
+                        "Services").</p>
+
+                    <h2>1. Data Controller</h2>
+                    <p>Osmosis Limited, with registered office at Flat/Rm 505, Block C, Queen's Garden, 9 Old Peak Road,
+                        Mid-Level Central, Hong Kong, acts as the data controller in relation to personal data processed
+                        under this Policy. All data-related inquiries may be directed to our appointed Data Protection
+                        Officer at <a href="mailto:legal@upfinance.ai"
+                            class="text-sky-400 hover:text-sky-300">legal@upfinance.ai</a>.</p>
+
+                    <h2>2. Categories of Personal Data Collected</h2>
+                    <p>In the course of providing our Services, we collect and process the following categories of
+                        personal data:</p>
+                    <ul>
+                        <li><strong>Identity Information</strong>, including name, date of birth, nationality,
+                            identification documents (such as national ID or passport), and biometric identifiers (where
+                            applicable and permitted by law);</li>
+                        <li><strong>Contact Information</strong>, including physical address, email address, and
+                            telephone number;</li>
+                        <li><strong>Financial and Transactional Data</strong>, including wallet addresses, payment card
+                            details (masked or tokenized), bank account numbers, and records of fiat and crypto
+                            transactions;</li>
+                        <li><strong>Device and Technical Data</strong>, such as IP address, browser type, device
+                            identifiers, session logs, and metadata relating to the usage of the Services;</li>
+                        <li><strong>Behavioral and Analytics Data</strong>, including user interactions, clickstream
+                            behavior, support chat transcripts, and session recordings used for performance optimization
+                            and fraud prevention;</li>
+                        <li><strong>Marketing and Communication Data</strong>, such as newsletter subscriptions,
+                            preferences, and response data; and</li>
+                        <li><strong>Compliance Data</strong>, including employment background, source of funds,
+                            sanctions checks, and politically exposed person (PEP) status.</li>
+                    </ul>
+                    <p>We do not knowingly collect personal data from individuals under the age of 18. If we become
+                        aware that such data has been collected, we shall promptly delete it.</p>
+
+                    <h2>3. Purposes for Processing Personal Data</h2>
+                    <p>We process your personal data only where it is lawful and necessary for the operation of our
+                        Services, for compliance with our legal obligations, or where we have a legitimate interest to
+                        do so. The primary purposes include:</p>
+                    <ul>
+                        <li>To verify your identity and perform anti-money laundering and counter-terrorist financing
+                            screening, as required by applicable law;</li>
+                        <li>To enable you to register, access, and use various components of the Services, including
+                            wallets, cards, swaps, and virtual accounts;</li>
+                        <li>To monitor, detect, and investigate potentially fraudulent or suspicious behavior or
+                            violations of applicable law or our Terms of Use;</li>
+                        <li>To maintain system functionality and enhance service performance through diagnostics,
+                            optimization, and analytics;</li>
+                        <li>To deliver administrative and service-related communications, including policy updates,
+                            transactional alerts, and system notices;</li>
+                        <li>To comply with our statutory recordkeeping, reporting, and regulatory disclosure
+                            obligations; and</li>
+                        <li>To conduct automated risk assessments and eligibility determinations using tools that
+                            support fraud detection, identity verification, or customer profiling, subject to applicable
+                            safeguards.</li>
+                    </ul>
+
+                    <h2>4. Legal Basis for Processing</h2>
+                    <p>Our processing of personal data is based on one or more of the following legal grounds:</p>
+                    <ul>
+                        <li>Where you have provided your explicit consent for a specific purpose, such as receiving
+                            marketing communications or biometric processing;</li>
+                        <li>Where the processing is necessary for the performance of a contract to which you are party,
+                            including the provision of our Services;</li>
+                        <li>Where the processing is required to comply with a legal obligation to which we are subject;
+                        </li>
+                        <li>Where the processing is necessary to protect the vital interests of you or another natural
+                            person; and</li>
+                        <li>Where the processing is necessary for the purposes of our legitimate interests, provided
+                            that such interests are not overridden by your rights or freedoms.</li>
+                    </ul>
+
+                    <h2>5. Data Retention</h2>
+                    <p>We retain personal data only for as long as is necessary to fulfill the purposes for which it was
+                        collected, or to comply with legal, regulatory, and operational requirements. The retention
+                        periods we apply include:</p>
+                    <ul>
+                        <li>Personal data collected for KYC and AML purposes is retained for a minimum of seven (7)
+                            years following account closure or inactivity;</li>
+                        <li>Technical and session-related logs are retained for a period of thirty (30) to one hundred
+                            eighty (180) days, depending on security and operational needs;</li>
+                        <li>Marketing preferences and opt-out indicators are retained indefinitely to ensure compliance
+                            with applicable marketing laws;</li>
+                        <li>Customer service records and correspondence are retained for up to three (3) years following
+                            resolution, unless a longer period is required for dispute resolution or litigation.</li>
+                    </ul>
+
+                    <h2>6. Disclosure of Personal Data to Third Parties</h2>
+                    <p>We disclose personal data to third parties strictly on a need-to-know basis and only to the
+                        extent required for lawful and legitimate purposes. Recipients of personal data may include:</p>
+                    <ul>
+                        <li>Regulated custodial partners such as Merits Bank & Trust for purposes of account
+                            safeguarding, settlement, and compliance;</li>
+                        <li>Service providers performing functions on our behalf, such as KYC/AML vendors, cloud hosting
+                            platforms, analytics providers, and communication systems;</li>
+                        <li>Legal, regulatory, or supervisory authorities, where disclosure is required by law,
+                            regulation, court order, or lawful request;</li>
+                        <li>Professional advisors engaged in auditing, accounting, tax, or legal services pursuant to
+                            contractual confidentiality obligations.</li>
+                    </ul>
+                    <p>All disclosures are subject to strict confidentiality arrangements and, where applicable, are
+                        governed by data processing agreements that reflect applicable legal standards.</p>
+
+                    <h2>7. International Transfers of Data</h2>
+                    <p>In certain cases, your personal data may be transferred to and processed in jurisdictions outside
+                        of your place of residence, including to countries that may not provide the same level of data
+                        protection as your home jurisdiction. In such circumstances, we implement appropriate
+                        safeguards, including:</p>
+                    <ul>
+                        <li>Execution of Standard Contractual Clauses (SCCs) or equivalent legal mechanisms approved
+                            under applicable law;</li>
+                        <li>Transfers to jurisdictions that have been formally recognized as providing adequate levels
+                            of data protection;</li>
+                        <li>Reliance on your explicit consent, where permissible and required by law.</li>
+                    </ul>
+                    <p>We ensure that any cross-border transfer of personal data is made in accordance with applicable
+                        data protection law.</p>
+
+                    <h2>8. Rights of Data Subjects</h2>
+                    <p>You have certain rights under applicable data protection laws with respect to your personal data.
+                        These rights may include:</p>
+                    <ul>
+                        <li>The right to access and receive a copy of your personal data;</li>
+                        <li>The right to request correction of inaccurate or incomplete personal data;</li>
+                        <li>The right to request erasure of personal data, subject to any overriding legal retention
+                            requirements;</li>
+                        <li>The right to object to or request restriction of processing in certain circumstances;</li>
+                        <li>The right to data portability, where technically feasible and legally mandated;</li>
+                        <li>The right to withdraw previously given consent, without affecting the lawfulness of
+                            processing carried out prior to withdrawal.</li>
+                    </ul>
+                    <p>To exercise your rights, you may contact us at <a href="mailto:legal@upfinance.ai"
+                            class="text-sky-400 hover:text-sky-300">legal@upfinance.ai</a>. We reserve the right to
+                        verify your identity before responding to such requests.</p>
+
+                    <h2>9. Use of Cookies and Tracking Technologies</h2>
+                    <p>We use cookies and related tracking technologies to support platform functionality, perform usage
+                        analysis, and prevent fraudulent activity. You may control the use of non-essential cookies
+                        through your browser settings. Disabling certain cookies may impact the availability or
+                        functionality of the Services.</p>
+
+                    <h2>10. Security of Personal Data</h2>
+                    <p>We implement industry-standard technical and organizational measures designed to secure your
+                        personal data from accidental loss, unauthorized access, alteration, disclosure, or destruction.
+                        Such measures include:</p>
+                    <ul>
+                        <li>End-to-end encryption for data in transit and at rest;</li>
+                        <li>Role-based access controls and authentication mechanisms;</li>
+                        <li>Regular vulnerability assessments and penetration testing conducted by independent auditors;
+                        </li>
+                        <li>Incident response protocols, including detection, containment, and remediation processes.
+                        </li>
+                    </ul>
+                    <p>While we endeavor to maintain a robust security posture, no system is immune to risk. Users are
+                        responsible for maintaining the confidentiality of their account credentials and are encouraged
+                        to notify us immediately of any suspected security incident.</p>
+
+                    <h2>11. Breach Notification</h2>
+                    <p>In the event that a data breach occurs and is likely to result in a high risk to your rights or
+                        freedoms, we will notify you and the appropriate supervisory authority promptly and in
+                        accordance with applicable legal obligations.</p>
+
+                    <h2>12. Updates to This Policy</h2>
+                    <p>We may amend this Privacy Policy from time to time to reflect changes in our legal obligations,
+                        processing activities, or Services. Any material changes will be communicated through our
+                        official channels, and the revised version will take effect upon publication. Continued use of
+                        the Services following such publication constitutes acceptance of the revised terms.</p>
+                </div>
+            </div>
+        </main>
+
+        <!-- Footer Section -->
+        <!-- mobile footer -->
+        <footer class="md:hidden w-full py-8 md:py-16 overflow-hidden">
+            <div class="max-w-7xl mx-auto px-4 md:px-16">
+                <!-- Logo and Social Icons -->
+                <div class="flex flex-col md:flex-row justify-between items-start md:items-center gap-4 md:gap-8 mb-8">
+                    <img src="./assets/images/icon.png" alt="Up Finance Logo" class="w-16 md:w-20" />
+                    <div class="flex items-center gap-4">
+                        <a href="https://x.com/UpFinance_ai" target="_blank">
+                            <img src="./assets/images/icon_x.png" alt="X (Twitter)"
+                                class="h-5 w-5 md:h-6 md:w-6 cursor-pointer hover:opacity-80 transition-opacity" />
+                        </a>
+                        <a href="https://discord.gg/A8z7Btwuk4" target="_blank">
+                            <img src="./assets/images/icon_discord.png" alt="Discord"
+                                class="h-5 w-5 md:h-6 md:w-6 cursor-pointer hover:opacity-80 transition-opacity" />
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Horizontal Menu Sections -->
+                <div class="flex flex-col md:flex-row justify-start items-start gap-8 md:gap-16 w-full">
+                    <!-- Product Section -->
+                    <div class="footer-section w-full md:w-auto">
+                        <button
+                            class="footer-toggle flex justify-between items-center w-full md:w-auto text-left bg-transparent border-none cursor-pointer group"
+                            onclick="toggleFooterSection('product')">
+                            <span
+                                class="text-white text-sm md:text-base font-medium  leading-normal group-hover:text-sky-400 transition-colors">Product</span>
+                            <svg class="footer-arrow w-4 h-4 text-white/60 transform transition-transform duration-200 md:hidden"
+                                fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M19 9l-7 7-7-7">
+                                </path>
+                            </svg>
+                        </button>
+                        <div id="product-menu" class="footer-menu hidden md:block mt-2 md:mt-3 pl-0 md:pl-0">
+                            <div class="flex flex-col gap-2">
+                                <a href="./index.html#how-it-works"
+                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">How
+                                    It Works</a>
+                                <a href="./index.html#features"
+                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">Features</a>
+                                <a href="./index.html#up-card"
+                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">UpCard</a>
+                                <a href="./index.html#global-coverage"
+                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">Supported
+                                    Countries</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Compliance Section -->
+                    <div class="footer-section w-full md:w-auto">
+                        <button
+                            class="footer-toggle flex justify-between items-center w-full md:w-auto text-left bg-transparent border-none cursor-pointer group"
+                            onclick="toggleFooterSection('compliance')">
+                            <span
+                                class="text-white text-sm md:text-base font-medium  leading-normal group-hover:text-sky-400 transition-colors">Compliance</span>
+                            <svg class="footer-arrow w-4 h-4 text-white/60 transform transition-transform duration-200 md:hidden"
+                                fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M19 9l-7 7-7-7">
+                                </path>
+                            </svg>
+                        </button>
+                        <div id="compliance-menu" class="footer-menu hidden md:block mt-2 md:mt-3 pl-0 md:pl-0">
+                            <div class="flex flex-col gap-2">
+                                <a href="#"
+                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">KYC
+                                    / AML Policy</a>
+                                <a href="./terms-and-conditions.html"
+                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">Terms
+                                    of Use</a>
+                                <a href="./privacy-policy.html"
+                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">Privacy
+                                    Policy</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Support Section -->
+                    <div class="footer-section w-full md:w-auto">
+                        <button
+                            class="footer-toggle flex justify-between items-center w-full md:w-auto text-left bg-transparent border-none cursor-pointer group"
+                            onclick="toggleFooterSection('support')">
+                            <span
+                                class="text-white text-sm md:text-base font-medium  leading-normal group-hover:text-sky-400 transition-colors">Support</span>
+                            <svg class="footer-arrow w-4 h-4 text-white/60 transform transition-transform duration-200 md:hidden"
+                                fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M19 9l-7 7-7-7">
+                                </path>
+                            </svg>
+                        </button>
+                        <div id="support-menu" class="footer-menu hidden md:block mt-2 md:mt-3 pl-0 md:pl-0">
+                            <div class="flex flex-col gap-2">
+                                <a href="https://wa.me/85265830689" target="_blank"
+                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">Contact
+                                    Us</a>
+                                <a href="https://t.me/UpFinanceSupport" target="_blank"
+                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">Telegram</a>
+                                <a href="mailto:support@upfinance.ai" target="_blank"
+                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">support@upfinance.ai</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Company Section -->
+                    <div class="footer-section w-full md:w-auto">
+                        <button
+                            class="footer-toggle flex justify-between items-center w-full md:w-auto text-left bg-transparent border-none cursor-pointer group"
+                            onclick="toggleFooterSection('company')">
+                            <span
+                                class="text-white text-sm md:text-base font-medium  leading-normal group-hover:text-sky-400 transition-colors">Company</span>
+                            <svg class="footer-arrow w-4 h-4 text-white/60 transform transition-transform duration-200 md:hidden"
+                                fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M19 9l-7 7-7-7">
+                                </path>
+                            </svg>
+                        </button>
+                        <div id="company-menu" class="footer-menu hidden md:block mt-2 md:mt-3 pl-0 md:pl-0">
+                            <div class="flex flex-col gap-2">
+                                <a href="#"
+                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">Press
+                                    Kit</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+        <!-- desktop footer -->
+        <footer class="w-full py-16 overflow-hidden hidden md:block">
+            <div class="max-w-7xl mx-auto px-16 flex justify-between items-start gap-8">
+                <!-- Icon/Contact Column -->
+                <div class="flex flex-col gap-4">
+                    <img src="./assets/images/icon.png" alt="Up Finance Logo" style="width:5em;">
+                    <div class="flex flex-col justify-start items-start gap-4">
+                        <div class="text-white/60 text-base font-medium  leading-normal">&nbsp;</div>
+                        <div class="text-white/60 text-base font-medium  leading-normal">&nbsp;</div>
+                        <div class="text-white/60 text-base font-medium  leading-normal">&nbsp;</div>
+                        <div class="text-white/60 text-base font-medium  leading-normal">&nbsp;</div>
+                        <div class="flex items-center gap-4" style="margin-top:0.7em">
+                            <a href="https://x.com/UpFinance_ai" target="_blank"><img src="./assets/images/icon_x.png"
+                                    alt="X (Twitter)" class="h-6 w-6"></a>
+                            <a href="https://discord.gg/A8z7Btwuk4" target="_blank"><img
+                                    src="./assets/images/icon_discord.png" alt="Discord" class="h-6 w-6"></a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Product Column -->
+                <div class="flex flex-col gap-4">
+                    <div class="text-white text-base font-medium  leading-normal">Product</div>
+                    <div class="flex flex-col justify-start items-start gap-4">
+                        <div class="text-white/60 text-base font-medium  leading-normal"><a
+                                href="./index.html#how-it-works" target="_blank">How It Works</a></div>
+                        <div class="text-white/60 text-base font-medium  leading-normal">
+                            <a href="./index.html#features" target="_blank">Features</a>
+                        </div>
+                        <div class="text-white/60 text-base font-medium  leading-normal">
+                            <a href="./index.html#up-card" target="_blank">UpCard</a>
+                        </div>
+                        <div class="text-white/60 text-base font-medium  leading-normal">
+                            <a href="./index.html#global-coverage" target="_blank">Supported Countries</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Compliance Column -->
+                <div class="flex flex-col gap-4">
+                    <div class="text-white text-base font-medium  leading-normal">Compliance</div>
+                    <div class="flex flex-col justify-start items-start gap-4">
+                        <div class="text-white/60 text-base font-medium  leading-normal">KYC / AML Policy
+                        </div>
+                        <div class="text-white/60 text-base font-medium  leading-normal"><a
+                                href="./terms-and-conditions.html">Terms of Use</a></div>
+                        <div class="text-white/60 text-base font-medium  leading-normal"><a
+                                href="./privacy-policy.html">Privacy Policy</a></div>
+                    </div>
+                </div>
+
+                <!-- Support Column -->
+                <div class="flex flex-col gap-4">
+                    <div class="text-white text-base font-medium  leading-normal">Support</div>
+                    <div class="flex flex-col justify-start items-start gap-4">
+                        <div class="text-white/60 text-base font-medium  leading-normal"><a
+                                href="https://wa.me/85265830689" target="_blank">Contact Us</a></div>
+                        <div class="text-white/60 text-base font-medium  leading-normal"><a
+                                href="https://t.me/UpFinanceSupport" target="_blank">Telegram</a></div>
+                        <div class="text-white/60 text-base font-medium  leading-normal">support@upfinance.ai
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Company Column -->
+                <div class="flex flex-col gap-4">
+                    <div class="text-white text-base font-medium  leading-normal">Company</div>
+                    <div class="flex flex-col justify-start items-start gap-4">
+                        <div class="text-white/60 text-base font-medium  leading-normal">Press Kit</div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+</body>
+
+</html>
