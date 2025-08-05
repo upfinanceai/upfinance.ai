@@ -9,12 +9,16 @@
     <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="../assets/images/favicon-16x16.png">
-    <title>Terms & Conditions - Up Finance</title>
+    <title data-i18n="legal.termsTitle">Terms & Conditions - UP Finance</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inclusive+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap"
         rel="stylesheet">
     <link rel="stylesheet" href="../assets/css/app-CBeSrw4u.css">
+    <!-- i18n Scripts -->
+    <script src="../assets/js/i18n-en.js"></script>
+    <script src="../assets/js/i18n-kr.js"></script>
+    <script src="../assets/js/i18n.js"></script>
     <style>
         html {
             scroll-behavior: smooth;
@@ -275,22 +279,30 @@
                 <nav
                     class="hidden md:flex justify-center items-center gap-8 px-6 py-3 bg-white/5 rounded border border-white/10">
                     <a href="../index.html"
-                        class="text-white text-base font-normal font-['Inclusive_Sans'] hover:text-sky-400 transition-colors">Home</a>
+                        class="text-white text-base font-normal font-['Inclusive_Sans'] hover:text-sky-400 transition-colors"
+                        data-i18n="nav.home">Home</a>
                     <a href="../index.html#how-it-works"
-                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors">How
-                        It Works</a>
+                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors"
+                        data-i18n="nav.howItWorks">How It Works</a>
                     <a href="../index.html#features"
-                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors">Features</a>
+                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors"
+                        data-i18n="nav.features">Features</a>
                     <a href="../index.html#up-card"
-                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors">UpCard</a>
+                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors"
+                        data-i18n="nav.upCard">UpCard</a>
                     <a href="../index.html#global-coverage"
-                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors">Global
-                        Coverage</a>
+                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors"
+                        data-i18n="nav.globalCoverage">Global Coverage</a>
                 </nav>
-                <div
-                    class="hidden md:flex px-2 py-3 bg-gradient-to-l from-blue-700 to-sky-500 rounded justify-center items-center gap-2.5">
-                    <a href="https://pay.upfinance.ai" target="_blank"
-                        class="text-white text-base font-bold font-['Inclusive_Sans'] uppercase">Get Started</a>
+                <div class="hidden md:flex items-center gap-4">
+                    <!-- Language Switcher -->
+                    <div id="lang-switcher-desktop"></div>
+                    <div
+                        class="px-2 py-3 bg-gradient-to-l from-blue-700 to-sky-500 rounded justify-center items-center gap-2.5 flex">
+                        <a href="https://pay.upfinance.ai" target="_blank"
+                            class="text-white text-base font-bold font-['Inclusive_Sans'] uppercase"
+                            data-i18n="common.getStarted">Get Started</a>
+                    </div>
                 </div>
             </div>
             <!-- Mobile Menu Backdrop -->
@@ -300,803 +312,943 @@
             <nav class="hidden w-full bg-black/95 backdrop-blur-sm border-t border-white/10 p-4" id="mobile-menu">
                 <div class="flex flex-col gap-4">
                     <a href="../index.html"
-                        class="text-white text-base font-normal font-['Inclusive_Sans'] hover:text-sky-400 transition-colors py-2">Home</a>
+                        class="text-white text-base font-normal font-['Inclusive_Sans'] hover:text-sky-400 transition-colors py-2"
+                        data-i18n="nav.home">Home</a>
                     <a href="../index.html#how-it-works"
-                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors py-2">How
-                        It Works</a>
+                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors py-2"
+                        data-i18n="nav.howItWorks">How It Works</a>
                     <a href="../index.html#features"
-                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors py-2">Features</a>
+                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors py-2"
+                        data-i18n="nav.features">Features</a>
                     <a href="../index.html#up-card"
-                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors py-2">UpCard</a>
+                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors py-2"
+                        data-i18n="nav.upCard">UpCard</a>
                     <a href="../index.html#global-coverage"
-                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors py-2">Global
-                        Coverage</a>
+                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors py-2"
+                        data-i18n="nav.globalCoverage">Global Coverage</a>
+                    <!-- Mobile Language Switcher -->
+                    <div id="lang-switcher-mobile" class="mt-2"></div>
                     <div
                         class="px-4 py-3 bg-gradient-to-l from-blue-700 to-sky-500 rounded flex justify-center items-center gap-2.5 mt-4">
                         <a href="https://pay.upfinance.ai" target="_blank"
-                            class="text-white text-base font-bold font-['Inclusive_Sans'] uppercase">Get Started</a>
+                            class="text-white text-base font-bold font-['Inclusive_Sans'] uppercase"
+                            data-i18n="common.getStarted">Get Started</a>
                     </div>
                 </div>
             </nav>
         </header>
 
         <!-- Main Content -->
-        <main class="flex-1 px-4 md:px-16 py-8 md:py-16">
+        <main class="flex-1 px-4 md:px-16  mt-4 py-8 md:py-16">
             <div class="max-w-5xl mx-auto">
                 <div class="content-section">
-                    <h1>UpFinance SERVICES TERMS & CONDITIONS</h1>
-                    <div class="last-updated">Last Updated: Jul 18, 2025</div>
+                    <h1 data-i18n="termsContent.title">UpFinance SERVICES TERMS & CONDITIONS</h1>
+                    <div class="last-updated">
+                        <span data-i18n="legal.lastUpdated">Last Updated:</span> Jul 18, 2025
+                    </div>
 
                     <div class="legal-notice">
-                        <p><strong>THIS IS A LEGALLY BINDING DOCUMENT. PLEASE READ IT CAREFULLY.</strong></p>
+                        <p><strong data-i18n="termsContent.legalNotice">THIS IS A LEGALLY BINDING DOCUMENT. PLEASE READ
+                                IT CAREFULLY.</strong></p>
                     </div>
 
                     <div class="intro-text">
-                        <p>These Terms and Conditions ("Terms") constitute a legally binding agreement between you (the
-                            "User" or "you") and Osmosis Limited, a private company incorporated in Hong Kong, having
-                            its registered office at Flat/Rm 505, Block C, Queen's Garden, 9 Old Peak Road, Mid-Level
-                            Central, Hong Kong. "UpFinance" is a registered trademark and the primary commercial brand
-                            operated by Osmosis Limited for the delivery of its digital financial services. References
-                            in these Terms to "UpFinance", "we", "us", or "our" shall be construed as references to
-                            Osmosis Limited in its capacity as the legal entity behind the UpFinance platform.</p>
+                        <p data-i18n="termsContent.intro1">These Terms and Conditions ("Terms") constitute a legally
+                            binding agreement between you (the "User" or "you") and Osmosis Limited, a private company
+                            incorporated in Hong Kong, having its registered office at Flat/Rm 505, Block C, Queen's
+                            Garden, 9 Old Peak Road, Mid-Level Central, Hong Kong. "UpFinance" is a registered trademark
+                            and the primary commercial brand operated by Osmosis Limited for the delivery of its digital
+                            financial services. References in these Terms to "UpFinance", "we", "us", or "our" shall be
+                            construed as references to Osmosis Limited in its capacity as the legal entity behind the
+                            UpFinance platform.</p>
 
-                        <p>These Terms govern your access to and use of our Services (as defined herein), including but
-                            not limited to any website, mobile application, and associated financial products and tools
-                            operated under the UpFinance brand.</p>
+                        <p data-i18n="termsContent.intro2">These Terms govern your access to and use of our Services (as
+                            defined herein), including but not limited to any website, mobile application, and
+                            associated financial products and tools operated under the UpFinance brand.</p>
 
-                        <p>By accessing, registering for, or using any part of the Services, you acknowledge that you
-                            have read, understood, and agreed to be bound by these Terms, together with any policies,
-                            disclosures, schedules, and notices incorporated by reference. If you do not agree with
-                            these Terms, you must not use or access any of the Services.</p>
+                        <p data-i18n="termsContent.intro3">By accessing, registering for, or using any part of the
+                            Services, you acknowledge that you have read, understood, and agreed to be bound by these
+                            Terms, together with any policies, disclosures, schedules, and notices incorporated by
+                            reference. If you do not agree with these Terms, you must not use or access any of the
+                            Services.</p>
                     </div>
 
                     <div class="part-header">
-                        <h2>PART I: GENERAL TERMS AND CONDITIONS</h2>
+                        <h2 data-i18n="termsContent.part1.title">PART I: GENERAL TERMS AND CONDITIONS</h2>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>1. DEFINITIONS</h3>
-                        <p>Unless the context otherwise requires, capitalized terms used in these Terms shall have the
-                            meanings assigned to them in the Definitions Section at the end of this document.</p>
+                        <h3 data-i18n="termsContent.section1.title">1. DEFINITIONS</h3>
+                        <p data-i18n="termsContent.section1.content">Unless the context otherwise requires, capitalized
+                            terms used in these Terms shall have the meanings assigned to them in the Definitions
+                            Section at the end of this document.</p>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>2. SCOPE AND APPLICATION</h3>
+                        <h3 data-i18n="termsContent.section2.title">2. SCOPE AND APPLICATION</h3>
                         <div class="subsection">
-                            <p><strong>2.1</strong> These Terms apply to your Account and your use of the Services,
-                                including but not limited to: (a) the Custodian Account; (b) UpFinance Card Services;
-                                (c) Swap Transactions; (d) Wallet Services; (e) Virtual Accounts; and (f) access to or
-                                use of any Third-Party Services provided in conjunction with UpFinance.</p>
+                            <p data-i18n="termsContent.section2.content1"><strong>2.1</strong> These Terms apply to your
+                                Account and your use of the Services, including but not limited to: (a) the Custodian
+                                Account; (b) UpFinance Card Services; (c) Swap Transactions; (d) Wallet Services; (e)
+                                Virtual Accounts; and (f) access to or use of any Third-Party Services provided in
+                                conjunction with UpFinance.</p>
 
-                            <p><strong>2.2</strong> These Terms are supplemented by any specific terms and conditions
-                                applicable to each Service module, as set out in Parts A–F. To the extent of any
-                                conflict between the General Terms and the terms of a Service-specific Part, the
-                                Service-specific terms shall prevail.</p>
+                            <p data-i18n="termsContent.section2.content2"><strong>2.2</strong> These Terms are
+                                supplemented by any specific terms and conditions applicable to each Service module, as
+                                set out in Parts A–F. To the extent of any conflict between the General Terms and the
+                                terms of a Service-specific Part, the Service-specific terms shall prevail.</p>
 
-                            <p><strong>2.3</strong> These Terms are governed by the laws of Hong Kong. Any disputes
-                                shall be subject to the exclusive jurisdiction of the courts or arbitral bodies of Hong
-                                Kong, unless otherwise provided in the Dispute Resolution Clause.</p>
+                            <p data-i18n="termsContent.section2.content3"><strong>2.3</strong> These Terms are governed
+                                by the laws of Hong Kong. Any disputes shall be subject to the exclusive jurisdiction of
+                                the courts or arbitral bodies of Hong Kong, unless otherwise provided in the Dispute
+                                Resolution Clause.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>3. LICENSING AND REGULATORY FRAMEWORK</h3>
+                        <h3 data-i18n="termsContent.section3.title">3. LICENSING AND REGULATORY FRAMEWORK</h3>
                         <div class="subsection">
-                            <p><strong>3.1 Intermediary Licensing:</strong> UpFinance currently operates through
-                                licensed third-party institutions to ensure that all regulated components of its
-                                Services are provided in full compliance with applicable legal and regulatory
-                                frameworks. All custodial and settlement services are facilitated through Merits Bank &
-                                Trust Limited, a licensed trust company regulated under the Trust or Company Service
-                                Provider regime administered by the Hong Kong Companies Registry, holding Licence No.
-                                TC008817. UpFinance disclaims any representation that it itself is licensed to carry out
-                                trust, custodial, or banking activities and acts solely as an introducer and platform
-                                operator.</p>
+                            <p data-i18n="termsContent.section3.content1"><strong>3.1 Intermediary Licensing:</strong>
+                                UpFinance currently operates through licensed third-party institutions to ensure that
+                                all regulated components of its Services are provided in full compliance with applicable
+                                legal and regulatory frameworks. All custodial and settlement services are facilitated
+                                through Merits Bank & Trust Limited, a licensed trust company regulated under the Trust
+                                or Company Service Provider regime administered by the Hong Kong Companies Registry,
+                                holding Licence No. TC008817. UpFinance disclaims any representation that it itself is
+                                licensed to carry out trust, custodial, or banking activities and acts solely as an
+                                introducer and platform operator.</p>
 
-                            <p><strong>3.2 Disclosure Obligation:</strong> The User acknowledges that UpFinance does not
-                                independently hold a financial license in the initial stage of operations. All Services
-                                are offered through Merits' regulated license under full disclosure.</p>
+                            <p data-i18n="termsContent.section3.content2"><strong>3.2 Disclosure Obligation:</strong>
+                                The User acknowledges that UpFinance does not independently hold a financial license in
+                                the initial stage of operations. All Services are offered through Merits' regulated
+                                license under full disclosure.</p>
 
-                            <p><strong>3.3 Future Licensing:</strong> UpFinance reserves the right to acquire additional
-                                regulatory approvals or licenses in other jurisdictions and to migrate certain services
-                                to be conducted under its own license in due course.</p>
+                            <p data-i18n="termsContent.section3.content3"><strong>3.3 Future Licensing:</strong>
+                                UpFinance reserves the right to acquire additional regulatory approvals or licenses in
+                                other jurisdictions and to migrate certain services to be conducted under its own
+                                license in due course.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>4. ACCOUNT OPENING AND ELIGIBILITY</h3>
+                        <h3 data-i18n="termsContent.section4.title">4. ACCOUNT OPENING AND ELIGIBILITY</h3>
                         <div class="subsection">
-                            <p><strong>4.1</strong> To access and use the Services, you must:</p>
+                            <p data-i18n="termsContent.section4.intro"><strong>4.1</strong> To access and use the
+                                Services, you must:</p>
                             <ul>
-                                <li>Be at least eighteen (18) years of age;</li>
-                                <li>Not be a citizen or resident of a jurisdiction where the use of the Services is
-                                    prohibited by applicable laws or regulations;</li>
-                                <li>Provide all required documentation and complete KYC/AML checks to the satisfaction
-                                    of UpFinance or its designated compliance providers;</li>
-                                <li>Have full legal capacity to enter into binding contracts.</li>
+                                <li data-i18n="termsContent.section4.requirement1">Be at least eighteen (18) years of
+                                    age;</li>
+                                <li data-i18n="termsContent.section4.requirement2">Not be a citizen or resident of a
+                                    jurisdiction where the use of the Services is prohibited by applicable laws or
+                                    regulations;</li>
+                                <li data-i18n="termsContent.section4.requirement3">Provide all required documentation
+                                    and complete KYC/AML checks to the satisfaction of UpFinance or its designated
+                                    compliance providers;</li>
+                                <li data-i18n="termsContent.section4.requirement4">Have full legal capacity to enter
+                                    into binding contracts.</li>
                             </ul>
 
-                            <p><strong>4.2</strong> We reserve the right to approve or reject any application at our
-                                sole discretion. We may suspend or terminate access to the Services in case of suspected
-                                breach of these Terms or violation of any applicable laws.</p>
+                            <p data-i18n="termsContent.section4.content2"><strong>4.2</strong> We reserve the right to
+                                approve or reject any application at our sole discretion. We may suspend or terminate
+                                access to the Services in case of suspected breach of these Terms or violation of any
+                                applicable laws.</p>
 
-                            <p><strong>4.3</strong> You agree that your Account is non-transferable, and you will not
-                                allow third parties to access or operate your Account.</p>
+                            <p data-i18n="termsContent.section4.content3"><strong>4.3</strong> You agree that your
+                                Account is non-transferable, and you will not allow third parties to access or operate
+                                your Account.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>5. SERVICE AVAILABILITY AND MODIFICATIONS</h3>
+                        <h3 data-i18n="termsContent.section5.title">5. SERVICE AVAILABILITY AND MODIFICATIONS</h3>
                         <div class="subsection">
-                            <p><strong>5.1</strong> We reserve the right to:</p>
+                            <p data-i18n="termsContent.section5.intro"><strong>5.1</strong> We reserve the right to:</p>
                             <ul>
-                                <li>Modify, suspend, or discontinue any part of the Services at any time;</li>
-                                <li>Impose or change service limits;</li>
-                                <li>Update our policies and features without prior notice unless otherwise required by
-                                    law.</li>
+                                <li data-i18n="termsContent.section5.right1">Modify, suspend, or discontinue any part of
+                                    the Services at any time;</li>
+                                <li data-i18n="termsContent.section5.right2">Impose or change service limits;</li>
+                                <li data-i18n="termsContent.section5.right3">Update our policies and features without
+                                    prior notice unless otherwise required by law.</li>
                             </ul>
 
-                            <p><strong>5.2</strong> Your continued use of the Services constitutes acceptance of any
-                                changes made pursuant to this Section.</p>
+                            <p data-i18n="termsContent.section5.content2"><strong>5.2</strong> Your continued use of the
+                                Services constitutes acceptance of any changes made pursuant to this Section.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>6. FEES AND TAXATION</h3>
+                        <h3 data-i18n="termsContent.section6.title">6. FEES AND TAXATION</h3>
                         <div class="subsection">
-                            <p><strong>6.1</strong> All applicable fees, charges, and commissions are disclosed in the
-                                Fee Schedule, which forms part of these Terms.</p>
+                            <p data-i18n="termsContent.section6.content1"><strong>6.1</strong> All applicable fees,
+                                charges, and commissions are disclosed in the Fee Schedule, which forms part of these
+                                Terms.</p>
 
-                            <p><strong>6.2</strong> Fees may include (without limitation):</p>
+                            <p data-i18n="termsContent.section6.content2"><strong>6.2</strong> Fees may include (without
+                                limitation):</p>
                             <ul>
-                                <li>Card issuance and annual maintenance fees;</li>
-                                <li>FX or swap spreads;</li>
-                                <li>Withdrawal, deposit, or top-up fees;</li>
-                                <li>Network and blockchain transaction costs.</li>
+                                <li data-i18n="termsContent.section6.fee1">Card issuance and annual maintenance fees;
+                                </li>
+                                <li data-i18n="termsContent.section6.fee2">FX or swap spreads;</li>
+                                <li data-i18n="termsContent.section6.fee3">Withdrawal, deposit, or top-up fees;</li>
+                                <li data-i18n="termsContent.section6.fee4">Network and blockchain transaction costs.
+                                </li>
                             </ul>
 
-                            <p><strong>6.3</strong> Fees are exclusive of any applicable tax or withholding obligation.
-                                You are solely responsible for determining and fulfilling your tax liabilities in your
-                                jurisdiction of residence.</p>
+                            <p data-i18n="termsContent.section6.content3"><strong>6.3</strong> Fees are exclusive of any
+                                applicable tax or withholding obligation. You are solely responsible for determining and
+                                fulfilling your tax liabilities in your jurisdiction of residence.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>7. RISK DISCLOSURE</h3>
+                        <h3 data-i18n="termsContent.section7.title">7. RISK DISCLOSURE</h3>
                         <div class="subsection">
-                            <p><strong>7.1</strong> You acknowledge and accept that:</p>
+                            <p data-i18n="termsContent.section7.intro"><strong>7.1</strong> You acknowledge and accept
+                                that:</p>
                             <ul>
-                                <li>Digital assets are highly volatile and speculative in nature;</li>
-                                <li>There is a risk of partial or total loss of your holdings;</li>
-                                <li>Blockchain transactions may be irreversible;</li>
-                                <li>Custodial or self-custody solutions may be subject to technological and
-                                    cybersecurity risks.</li>
+                                <li data-i18n="termsContent.section7.risk1">Digital assets are highly volatile and
+                                    speculative in nature;</li>
+                                <li data-i18n="termsContent.section7.risk2">There is a risk of partial or total loss of
+                                    your holdings;</li>
+                                <li data-i18n="termsContent.section7.risk3">Blockchain transactions may be irreversible;
+                                </li>
+                                <li data-i18n="termsContent.section7.risk4">Custodial or self-custody solutions may be
+                                    subject to technological and cybersecurity risks.</li>
                             </ul>
 
-                            <p><strong>7.2</strong> You understand that UpFinance does not act as your financial
-                                advisor. All decisions made using the Services are undertaken at your sole discretion
-                                and risk.</p>
+                            <p data-i18n="termsContent.section7.content2"><strong>7.2</strong> You understand that
+                                UpFinance does not act as your financial advisor. All decisions made using the Services
+                                are undertaken at your sole discretion and risk.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>8. LIMITATION OF LIABILITY</h3>
+                        <h3 data-i18n="termsContent.section8.title">8. LIMITATION OF LIABILITY</h3>
                         <div class="subsection">
-                            <p><strong>8.1</strong> To the fullest extent permitted by applicable law, the total
-                                aggregate liability of UpFinance, Osmosis Limited, and their respective affiliates,
-                                directors, officers, employees, agents, service providers, and licensors (collectively,
-                                the "UpFinance Parties") arising out of or in connection with these Terms or the
-                                Services shall not exceed the lesser of (a) the total amount of direct fees paid by the
-                                User to UpFinance in the six (6) months preceding the event giving rise to the claim, or
-                                (b) USD 100,000.</p>
-
-                            <p><strong>8.2</strong> In no event shall any UpFinance Party be liable for any indirect,
-                                incidental, special, exemplary, punitive, or consequential damages, or for any loss of
-                                profits, revenue, goodwill, data, business opportunity, or anticipated savings, whether
-                                arising in contract, tort (including negligence), equity, strict liability, or
-                                otherwise, even if advised of the possibility of such damages.</p>
-
-                            <p><strong>8.3</strong> UpFinance disclaims liability for any loss, delay, or damage arising
-                                from or related to the actions or omissions of any third-party service provider,
-                                including custodians, banks, payment processors, settlement agents, or blockchain
-                                networks, except to the extent such loss is caused solely by the gross negligence or
-                                willful misconduct of UpFinance as determined by a final, non-appealable judgment.</p>
-
-                            <p><strong>8.4</strong> UpFinance shall not be liable for any failure or delay in
-                                performance resulting from events beyond its reasonable control, including acts of God,
-                                acts of civil or military authorities, war, terrorism, labor disputes, cyberattacks,
-                                technical failures, regulatory actions, or any interruption of third-party services or
-                                infrastructure.</p>
-
-                            <p><strong>8.5</strong> Notwithstanding anything to the contrary in these Terms, the
-                                exclusions and limitations of liability set forth in this Clause shall not apply where
-                                the claim results directly from gross negligence or willful misconduct by UpFinance, as
-                                established in a final judgment by a court of competent jurisdiction that is not subject
-                                to further appeal.</p>
-
-                            <p><strong>8.6</strong> Any claim or cause of action arising out of or related to the
-                                Services must be initiated within twelve (12) months after the date on which the facts
-                                giving rise to such claim first occurred. Claims not brought within this period shall be
-                                deemed irrevocably waived.</p>
-
-                            <p><strong>8.7</strong> You agree to indemnify, defend, and hold harmless UpFinance, Osmosis
+                            <p data-i18n="termsContent.section8.content1"><strong>8.1</strong> To the fullest extent
+                                permitted by applicable law, the total aggregate liability of UpFinance, Osmosis
                                 Limited, and their respective affiliates, directors, officers, employees, agents,
-                                service providers, licensors, and representatives from and against any and all claims,
-                                demands, actions, proceedings, losses, liabilities, damages, judgments, settlements,
-                                fines, penalties, costs, and expenses (including reasonable legal and accounting fees),
-                                whether direct or indirect, arising out of or relating to: (a) your access to or use of
-                                the Services; (b) your violation of these Terms or any incorporated policy; (c) your
-                                breach of any representation, warranty, or obligation under these Terms; (d) your
-                                violation of any applicable law, regulation, or third-party rights; (e) any act of
-                                fraud, misrepresentation, or willful misconduct on your part; or (f) any claim brought
-                                against UpFinance in connection with your data, activity, conduct, or transactions
-                                carried out through the Services. This indemnification obligation shall survive the
-                                termination or expiration of these Terms and your use of the Services.</p>
+                                service providers, and licensors (collectively, the "UpFinance Parties") arising out of
+                                or in connection with these Terms or the Services shall not exceed the lesser of (a) the
+                                total amount of direct fees paid by the User to UpFinance in the six (6) months
+                                preceding the event giving rise to the claim, or (b) USD 100,000.</p>
+
+                            <p data-i18n="termsContent.section8.content2"><strong>8.2</strong> In no event shall any
+                                UpFinance Party be liable for any indirect, incidental, special, exemplary, punitive, or
+                                consequential damages, or for any loss of profits, revenue, goodwill, data, business
+                                opportunity, or anticipated savings, whether arising in contract, tort (including
+                                negligence), equity, strict liability, or otherwise, even if advised of the possibility
+                                of such damages.</p>
+
+                            <p data-i18n="termsContent.section8.content3"><strong>8.3</strong> UpFinance disclaims
+                                liability for any loss, delay, or damage arising from or related to the actions or
+                                omissions of any third-party service provider, including custodians, banks, payment
+                                processors, settlement agents, or blockchain networks, except to the extent such loss is
+                                caused solely by the gross negligence or willful misconduct of UpFinance as determined
+                                by a final, non-appealable judgment.</p>
+
+                            <p data-i18n="termsContent.section8.content4"><strong>8.4</strong> UpFinance shall not be
+                                liable for any failure or delay in performance resulting from events beyond its
+                                reasonable control, including acts of God, acts of civil or military authorities, war,
+                                terrorism, labor disputes, cyberattacks, technical failures, regulatory actions, or any
+                                interruption of third-party services or infrastructure.</p>
+
+                            <p data-i18n="termsContent.section8.content5"><strong>8.5</strong> Notwithstanding anything
+                                to the contrary in these Terms, the exclusions and limitations of liability set forth in
+                                this Clause shall not apply where the claim results directly from gross negligence or
+                                willful misconduct by UpFinance, as established in a final judgment by a court of
+                                competent jurisdiction that is not subject to further appeal.</p>
+
+                            <p data-i18n="termsContent.section8.content6"><strong>8.6</strong> Any claim or cause of
+                                action arising out of or related to the Services must be initiated within twelve (12)
+                                months after the date on which the facts giving rise to such claim first occurred.
+                                Claims not brought within this period shall be deemed irrevocably waived.</p>
+
+                            <p data-i18n="termsContent.section8.content7"><strong>8.7</strong> You agree to indemnify,
+                                defend, and hold harmless UpFinance, Osmosis Limited, and their respective affiliates,
+                                directors, officers, employees, agents, service providers, licensors, and
+                                representatives from and against any and all claims, demands, actions, proceedings,
+                                losses, liabilities, damages, judgments, settlements, fines, penalties, costs, and
+                                expenses (including reasonable legal and accounting fees), whether direct or indirect,
+                                arising out of or relating to: (a) your access to or use of the Services; (b) your
+                                violation of these Terms or any incorporated policy; (c) your breach of any
+                                representation, warranty, or obligation under these Terms; (d) your violation of any
+                                applicable law, regulation, or third-party rights; (e) any act of fraud,
+                                misrepresentation, or willful misconduct on your part; or (f) any claim brought against
+                                UpFinance in connection with your data, activity, conduct, or transactions carried out
+                                through the Services. This indemnification obligation shall survive the termination or
+                                expiration of these Terms and your use of the Services.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>9. TERMINATION AND SUSPENSION</h3>
+                        <h3 data-i18n="termsContent.section9.title">9. TERMINATION AND SUSPENSION</h3>
                         <div class="subsection">
-                            <p><strong>9.1</strong> We may suspend, restrict, or terminate your access to the Services
-                                at our sole and absolute discretion, with or without prior notice, including but not
-                                limited to circumstances where we reasonably suspect fraud, money laundering, breach of
-                                law or regulation, violation of these Terms, material reputational risk, or if required
-                                to comply with any legal, regulatory, or governmental order, inquiry, investigation, or
-                                directive.</p>
+                            <p data-i18n="termsContent.section9.content1"><strong>9.1</strong> We may suspend, restrict,
+                                or terminate your access to the Services at our sole and absolute discretion, with or
+                                without prior notice, including but not limited to circumstances where we reasonably
+                                suspect fraud, money laundering, breach of law or regulation, violation of these Terms,
+                                material reputational risk, or if required to comply with any legal, regulatory, or
+                                governmental order, inquiry, investigation, or directive.</p>
 
-                            <p><strong>9.2</strong> We reserve the right to retain, freeze, or withhold funds or assets
-                                held in your Account if we determine, in our sole discretion, that such action is
-                                necessary to comply with applicable laws, support ongoing investigations, or mitigate
-                                potential harm or liability. Such retention shall be without prejudice to our other
-                                rights under these Terms or at law.</p>
+                            <p data-i18n="termsContent.section9.content2"><strong>9.2</strong> We reserve the right to
+                                retain, freeze, or withhold funds or assets held in your Account if we determine, in our
+                                sole discretion, that such action is necessary to comply with applicable laws, support
+                                ongoing investigations, or mitigate potential harm or liability. Such retention shall be
+                                without prejudice to our other rights under these Terms or at law.</p>
 
-                            <p><strong>9.3</strong> You may terminate your Account at any time by providing written
-                                notice and fulfilling all outstanding obligations. Termination shall not affect any
-                                accrued rights or liabilities.</p>
+                            <p data-i18n="termsContent.section9.content3"><strong>9.3</strong> You may terminate your
+                                Account at any time by providing written notice and fulfilling all outstanding
+                                obligations. Termination shall not affect any accrued rights or liabilities.</p>
 
-                            <p><strong>9.4</strong> Upon termination, all rights granted to you under these Terms shall
-                                immediately cease. Subject to applicable laws, we shall return any remaining eligible
-                                funds to a verified destination provided by you after completion of compliance and audit
-                                checks. We may impose offboarding fees or deduct any applicable charges, and we may
-                                retain data and transaction records for legal, compliance, or audit purposes.</p>
+                            <p data-i18n="termsContent.section9.content4"><strong>9.4</strong> Upon termination, all
+                                rights granted to you under these Terms shall immediately cease. Subject to applicable
+                                laws, we shall return any remaining eligible funds to a verified destination provided by
+                                you after completion of compliance and audit checks. We may impose offboarding fees or
+                                deduct any applicable charges, and we may retain data and transaction records for legal,
+                                compliance, or audit purposes.</p>
 
-                            <p><strong>9.5</strong> The provisions of these Terms relating to liability, indemnity,
-                                governing law, dispute resolution, and any other clauses that by their nature should
-                                survive termination shall continue to apply after your Account is closed or these Terms
-                                expire.</p>
+                            <p data-i18n="termsContent.section9.content5"><strong>9.5</strong> The provisions of these
+                                Terms relating to liability, indemnity, governing law, dispute resolution, and any other
+                                clauses that by their nature should survive termination shall continue to apply after
+                                your Account is closed or these Terms expire.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>10. NOTICES AND COMMUNICATIONS</h3>
-                        <p>All legal notices shall be deemed delivered when sent via email or posted on the official
-                            UpFinance website or mobile application. You agree to receive communications electronically
-                            and waive any right to physical delivery.</p>
+                        <h3 data-i18n="termsContent.section10.title">10. NOTICES AND COMMUNICATIONS</h3>
+                        <p data-i18n="termsContent.section10.content">All legal notices shall be deemed delivered when
+                            sent via email or posted on the official UpFinance website or mobile application. You agree
+                            to receive communications electronically and waive any right to physical delivery.</p>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>11. DEFINITIONS</h3>
-                        <p>In these Terms, unless the context requires otherwise, the following expressions shall have
-                            the following meanings:</p>
+                        <h3 data-i18n="termsContent.section11.title">11. DEFINITIONS</h3>
+                        <p data-i18n="termsContent.section11.intro">In these Terms, unless the context requires
+                            otherwise, the following expressions shall have the following meanings:</p>
 
                         <div class="subsection">
-                            <p><span class="definition-term">"Account"</span> means the registered user account created
-                                with UpFinance through which Services are accessed and managed.</p>
+                            <p data-i18n="termsContent.section11.account"><span class="definition-term">"Account"</span>
+                                means the registered user account created with UpFinance through which Services are
+                                accessed and managed.</p>
 
-                            <p><span class="definition-term">"Affiliate"</span> means any entity that directly or
+                            <p data-i18n="termsContent.section11.affiliate"><span
+                                    class="definition-term">"Affiliate"</span> means any entity that directly or
                                 indirectly controls, is controlled by, or is under common control with a party.</p>
 
-                            <p><span class="definition-term">"Custodian Account"</span> means the account established
-                                for the User under Part A for the custody and management of fiat or digital assets, held
+                            <p data-i18n="termsContent.section11.custodianAccount"><span
+                                    class="definition-term">"Custodian Account"</span> means the account established for
+                                the User under Part A for the custody and management of fiat or digital assets, held
                                 through licensed trust or custodial partners.</p>
 
-                            <p><span class="definition-term">"Digital Assets"</span> means any cryptographic tokens,
-                                virtual currencies, digital coins, or other blockchain-based representations of value
-                                supported by the Services.</p>
+                            <p data-i18n="termsContent.section11.digitalAssets"><span class="definition-term">"Digital
+                                    Assets"</span> means any cryptographic tokens, virtual currencies, digital coins, or
+                                other blockchain-based representations of value supported by the Services.</p>
 
-                            <p><span class="definition-term">"Fees"</span> means any charges, costs, spreads, or
-                                commissions applicable to the Services, as disclosed in the Fee Schedule or at the time
-                                of the transaction.</p>
+                            <p data-i18n="termsContent.section11.fees"><span class="definition-term">"Fees"</span> means
+                                any charges, costs, spreads, or commissions applicable to the Services, as disclosed in
+                                the Fee Schedule or at the time of the transaction.</p>
 
-                            <p><span class="definition-term">"Merits" or "Merits Bank & Trust"</span> refers to Merits
-                                Bank & Trust Limited, a licensed trust company in Hong Kong under Trust License No.
-                                TC008817, used as the primary custodian and settlement provider for UpFinance.</p>
+                            <p data-i18n="termsContent.section11.merits"><span class="definition-term">"Merits" or
+                                    "Merits Bank & Trust"</span> refers to Merits Bank & Trust Limited, a licensed trust
+                                company in Hong Kong under Trust License No. TC008817, used as the primary custodian and
+                                settlement provider for UpFinance.</p>
 
-                            <p><span class="definition-term">"Party A"</span> refers to Osmosis Limited, operating under
-                                the commercial name "UpFinance," including any of its successors or assigns.</p>
+                            <p data-i18n="termsContent.section11.partyA"><span class="definition-term">"Party A"</span>
+                                refers to Osmosis Limited, operating under the commercial name "UpFinance," including
+                                any of its successors or assigns.</p>
 
-                            <p><span class="definition-term">"Platform"</span> means all websites, mobile applications,
+                            <p data-i18n="termsContent.section11.platform"><span
+                                    class="definition-term">"Platform"</span> means all websites, mobile applications,
                                 APIs, interfaces, and other systems operated under the UpFinance brand.</p>
 
-                            <p><span class="definition-term">"Services"</span> means all products, functionalities, and
+                            <p data-i18n="termsContent.section11.services"><span
+                                    class="definition-term">"Services"</span> means all products, functionalities, and
                                 features made available to Users through the UpFinance Platform, including but not
                                 limited to Custodian Accounts, Card Services, Wallets, Swap Transactions, Virtual
                                 Accounts, and Third-Party Services.</p>
 
-                            <p><span class="definition-term">"Terms"</span> refers to these UpFinance Services Terms and
-                                Conditions, including any policies, schedules, annexes, and service-specific terms
-                                incorporated by reference.</p>
+                            <p data-i18n="termsContent.section11.terms"><span class="definition-term">"Terms"</span>
+                                refers to these UpFinance Services Terms and Conditions, including any policies,
+                                schedules, annexes, and service-specific terms incorporated by reference.</p>
 
-                            <p><span class="definition-term">"Third-Party Services"</span> means any external platforms,
+                            <p data-i18n="termsContent.section11.thirdPartyServices"><span
+                                    class="definition-term">"Third-Party Services"</span> means any external platforms,
                                 software, providers, or services integrated into or made available through UpFinance,
                                 over which Party A has no operational control.</p>
 
-                            <p><span class="definition-term">"User," "you," or "your"</span> means the individual or
-                                legal entity that registers for, accesses, or uses any part of the Services.</p>
+                            <p data-i18n="termsContent.section11.user"><span class="definition-term">"User," "you," or
+                                    "your"</span> means the individual or legal entity that registers for, accesses, or
+                                uses any part of the Services.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>12. DISPUTE RESOLUTION</h3>
+                        <h3 data-i18n="termsContent.section12.title">12. DISPUTE RESOLUTION</h3>
                         <div class="subsection">
-                            <p><strong>12.1</strong> To the fullest extent permitted by applicable law, any dispute,
-                                controversy, difference, or claim arising out of or relating to these Terms or the
-                                Services, including the existence, validity, interpretation, performance, breach, or
-                                termination thereof, shall be resolved through final and binding arbitration.</p>
+                            <p data-i18n="termsContent.section12.content1"><strong>12.1</strong> To the fullest extent
+                                permitted by applicable law, any dispute, controversy, difference, or claim arising out
+                                of or relating to these Terms or the Services, including the existence, validity,
+                                interpretation, performance, breach, or termination thereof, shall be resolved through
+                                final and binding arbitration.</p>
 
-                            <p><strong>12.2</strong> The arbitration shall be conducted in accordance with the Hong Kong
-                                International Arbitration Centre (HKIAC) Administered Arbitration Rules in force at the
-                                time of the commencement of the arbitration. The seat of arbitration shall be Hong Kong,
-                                and the language of the proceedings shall be English. The number of arbitrators shall be
-                                one, appointed in accordance with the HKIAC Rules. Judgment upon the arbitral award may
-                                be entered in any court of competent jurisdiction.</p>
+                            <p data-i18n="termsContent.section12.content2"><strong>12.2</strong> The arbitration shall
+                                be conducted in accordance with the Hong Kong International Arbitration Centre (HKIAC)
+                                Administered Arbitration Rules in force at the time of the commencement of the
+                                arbitration. The seat of arbitration shall be Hong Kong, and the language of the
+                                proceedings shall be English. The number of arbitrators shall be one, appointed in
+                                accordance with the HKIAC Rules. Judgment upon the arbitral award may be entered in any
+                                court of competent jurisdiction.</p>
 
-                            <p><strong>12.3</strong> The parties expressly waive, to the maximum extent permitted by
-                                law, any right to a trial by jury or to participate in any class action, mass action, or
-                                collective proceeding against the other party. Each party agrees to resolve disputes on
-                                an individual basis only and not as a plaintiff or class member in any purported class
-                                or representative proceeding.</p>
+                            <p data-i18n="termsContent.section12.content3"><strong>12.3</strong> The parties expressly
+                                waive, to the maximum extent permitted by law, any right to a trial by jury or to
+                                participate in any class action, mass action, or collective proceeding against the other
+                                party. Each party agrees to resolve disputes on an individual basis only and not as a
+                                plaintiff or class member in any purported class or representative proceeding.</p>
 
-                            <p><strong>12.4</strong> Notwithstanding the above, either party may seek interim,
-                                emergency, or injunctive relief from any court of competent jurisdiction where such
-                                relief is necessary to prevent imminent and irreparable harm, preserve assets, or
-                                protect confidential information or intellectual property rights, and such application
-                                shall not be deemed incompatible with this arbitration clause.</p>
+                            <p data-i18n="termsContent.section12.content4"><strong>12.4</strong> Notwithstanding the
+                                above, either party may seek interim, emergency, or injunctive relief from any court of
+                                competent jurisdiction where such relief is necessary to prevent imminent and
+                                irreparable harm, preserve assets, or protect confidential information or intellectual
+                                property rights, and such application shall not be deemed incompatible with this
+                                arbitration clause.</p>
 
-                            <p><strong>12.5</strong> All arbitration proceedings, filings, submissions, awards, and
-                                related materials shall be kept strictly confidential by all parties, and shall not be
-                                disclosed to any third party without the prior written consent of the other party,
-                                unless such disclosure is required by law or regulatory authority.</p>
+                            <p data-i18n="termsContent.section12.content5"><strong>12.5</strong> All arbitration
+                                proceedings, filings, submissions, awards, and related materials shall be kept strictly
+                                confidential by all parties, and shall not be disclosed to any third party without the
+                                prior written consent of the other party, unless such disclosure is required by law or
+                                regulatory authority.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>13. GENERAL TERMS</h3>
+                        <h3 data-i18n="termsContent.section13.title">13. GENERAL TERMS</h3>
                         <div class="subsection">
-                            <p><strong>13.1</strong> These Terms, together with all policies, disclosures, and documents
-                                incorporated herein by reference, constitute the entire agreement between you and Party
-                                A and supersede all prior agreements, understandings, negotiations, representations, and
-                                communications, whether oral or written, with respect to the subject matter hereof.</p>
+                            <p data-i18n="termsContent.section13.content1"><strong>13.1</strong> These Terms, together
+                                with all policies, disclosures, and documents incorporated herein by reference,
+                                constitute the entire agreement between you and Party A and supersede all prior
+                                agreements, understandings, negotiations, representations, and communications, whether
+                                oral or written, with respect to the subject matter hereof.</p>
 
-                            <p><strong>13.2</strong> No failure or delay by Party A in exercising any right, power, or
-                                remedy under these Terms shall operate as a waiver thereof, nor shall any single or
-                                partial exercise preclude any other or further exercise thereof. Any waiver must be in
-                                writing to be effective.</p>
+                            <p data-i18n="termsContent.section13.content2"><strong>13.2</strong> No failure or delay by
+                                Party A in exercising any right, power, or remedy under these Terms shall operate as a
+                                waiver thereof, nor shall any single or partial exercise preclude any other or further
+                                exercise thereof. Any waiver must be in writing to be effective.</p>
 
-                            <p><strong>13.3</strong> You may not assign, transfer, or novate your rights or obligations
-                                under these Terms without our prior written consent. We may assign or transfer these
-                                Terms, in whole or in part, without notice or consent, to any affiliate, successor
-                                entity, or in connection with a corporate reorganization, merger, acquisition, or sale
-                                of assets.</p>
+                            <p data-i18n="termsContent.section13.content3"><strong>13.3</strong> You may not assign,
+                                transfer, or novate your rights or obligations under these Terms without our prior
+                                written consent. We may assign or transfer these Terms, in whole or in part, without
+                                notice or consent, to any affiliate, successor entity, or in connection with a corporate
+                                reorganization, merger, acquisition, or sale of assets.</p>
 
-                            <p><strong>13.4</strong> Party A shall not be liable for any failure or delay in performance
-                                or availability of the Services to the extent such failure or delay results from events
-                                or circumstances beyond its reasonable control, including but not limited to acts of
-                                God, natural disasters, epidemic or pandemic outbreaks, war, terrorism, cyberattacks,
-                                communication failures, utility or network downtime, labor disputes, government
-                                restrictions or regulatory actions, custodial or service provider failures, and other
-                                unforeseeable operational disruptions.</p>
-
-                            <p><strong>13.5</strong> Party A reserves the right to amend, update, or modify these Terms
-                                or any of the incorporated documents at any time by publishing the revised version on
-                                the Platform or otherwise providing notice to you. Your continued use of the Services
-                                following such publication or notice constitutes your acceptance of the updated Terms.
+                            <p data-i18n="termsContent.section13.content4"><strong>13.4</strong> Party A shall not be
+                                liable for any failure or delay in performance or availability of the Services to the
+                                extent such failure or delay results from events or circumstances beyond its reasonable
+                                control, including but not limited to acts of God, natural disasters, epidemic or
+                                pandemic outbreaks, war, terrorism, cyberattacks, communication failures, utility or
+                                network downtime, labor disputes, government restrictions or regulatory actions,
+                                custodial or service provider failures, and other unforeseeable operational disruptions.
                             </p>
 
-                            <p><strong>13.6</strong> If any provision of these Terms is held by a court of competent
-                                jurisdiction to be invalid, illegal, or unenforceable, such provision shall be modified
-                                to the minimum extent necessary to render it valid and enforceable, and the remaining
-                                provisions shall remain in full force and effect.</p>
+                            <p data-i18n="termsContent.section13.content5"><strong>13.5</strong> Party A reserves the
+                                right to amend, update, or modify these Terms or any of the incorporated documents at
+                                any time by publishing the revised version on the Platform or otherwise providing notice
+                                to you. Your continued use of the Services following such publication or notice
+                                constitutes your acceptance of the updated Terms.</p>
 
-                            <p><strong>13.7</strong> These Terms shall be governed by and construed in accordance with
-                                the laws of the Hong Kong Special Administrative Region, without regard to conflict of
-                                law principles. You agree that Hong Kong shall be the exclusive forum for any disputes
-                                not otherwise subject to arbitration under these Terms.</p>
+                            <p data-i18n="termsContent.section13.content6"><strong>13.6</strong> If any provision of
+                                these Terms is held by a court of competent jurisdiction to be invalid, illegal, or
+                                unenforceable, such provision shall be modified to the minimum extent necessary to
+                                render it valid and enforceable, and the remaining provisions shall remain in full force
+                                and effect.</p>
 
-                            <p><strong>13.8</strong> To the fullest extent permitted by law, any claim or cause of
-                                action arising out of or related to these Terms or the Services must be filed within
-                                twelve (12) months from the date the claim first arose. Any claims not filed within such
-                                time shall be permanently barred.</p>
+                            <p data-i18n="termsContent.section13.content7"><strong>13.7</strong> These Terms shall be
+                                governed by and construed in accordance with the laws of the Hong Kong Special
+                                Administrative Region, without regard to conflict of law principles. You agree that Hong
+                                Kong shall be the exclusive forum for any disputes not otherwise subject to arbitration
+                                under these Terms.</p>
+
+                            <p data-i18n="termsContent.section13.content8"><strong>13.8</strong> To the fullest extent
+                                permitted by law, any claim or cause of action arising out of or related to these Terms
+                                or the Services must be filed within twelve (12) months from the date the claim first
+                                arose. Any claims not filed within such time shall be permanently barred.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>14. OPERATIONAL AND LEGAL SAFEGUARDS</h3>
+                        <h3 data-i18n="termsContent.section14.title">14. OPERATIONAL AND LEGAL SAFEGUARDS</h3>
                         <div class="subsection">
-                            <p><strong>14.1</strong> You agree to indemnify and hold harmless UpFinance, its affiliates,
-                                directors, officers, employees, agents, and service providers from and against any and
-                                all losses, damages, liabilities, claims, demands, costs, and expenses (including legal
-                                fees) arising from your breach of these Terms, your violation of applicable laws or
-                                regulations, your use of the Services, or any unauthorized, fraudulent, or negligent
-                                acts or omissions on your part.</p>
+                            <p data-i18n="termsContent.section14.content1"><strong>14.1</strong> You agree to indemnify
+                                and hold harmless UpFinance, its affiliates, directors, officers, employees, agents, and
+                                service providers from and against any and all losses, damages, liabilities, claims,
+                                demands, costs, and expenses (including legal fees) arising from your breach of these
+                                Terms, your violation of applicable laws or regulations, your use of the Services, or
+                                any unauthorized, fraudulent, or negligent acts or omissions on your part.</p>
 
-                            <p><strong>14.2</strong> We reserve the right to amend or vary these Terms at any time by
-                                posting the updated version on our website or platform. Your continued use of the
-                                Services following such notice shall constitute acceptance of the updated Terms.</p>
+                            <p data-i18n="termsContent.section14.content2"><strong>14.2</strong> We reserve the right to
+                                amend or vary these Terms at any time by posting the updated version on our website or
+                                platform. Your continued use of the Services following such notice shall constitute
+                                acceptance of the updated Terms.</p>
 
-                            <p><strong>14.3</strong> We shall not be liable for any failure or delay in performance
-                                caused by events or circumstances beyond our reasonable control, including but not
-                                limited to acts of God, cyber incidents, regulatory changes, custodial or banking
-                                failures, internet outages, war, civil unrest, or third-party service interruptions.</p>
+                            <p data-i18n="termsContent.section14.content3"><strong>14.3</strong> We shall not be liable
+                                for any failure or delay in performance caused by events or circumstances beyond our
+                                reasonable control, including but not limited to acts of God, cyber incidents,
+                                regulatory changes, custodial or banking failures, internet outages, war, civil unrest,
+                                or third-party service interruptions.</p>
 
-                            <p><strong>14.4</strong> To the maximum extent permitted by applicable law, you agree that
-                                any claim or cause of action arising out of or related to the use of the Services must
-                                be filed within twelve (12) months after such claim or cause of action arises, or be
-                                forever barred.</p>
+                            <p data-i18n="termsContent.section14.content4"><strong>14.4</strong> To the maximum extent
+                                permitted by applicable law, you agree that any claim or cause of action arising out of
+                                or related to the use of the Services must be filed within twelve (12) months after such
+                                claim or cause of action arises, or be forever barred.</p>
                         </div>
                     </div>
 
                     <div class="part-header">
-                        <h2>PART A: CUSTODIAN ACCOUNT</h2>
+                        <h2 data-i18n="termsContent.partA.title">PART A: CUSTODIAN ACCOUNT</h2>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>1. SCOPE</h3>
+                        <h3 data-i18n="termsContent.partA.section1.title">1. SCOPE</h3>
                         <div class="subsection">
-                            <p><strong>1.1</strong> This Part A sets out the terms and conditions applicable to the
-                                Custodian Account provided through UpFinance via its regulated partner, Merits Bank &
-                                Trust ("Merits"), a licensed trust company incorporated in Hong Kong.</p>
+                            <p data-i18n="termsContent.partA.section1.content1"><strong>1.1</strong> This Part A sets
+                                out the terms and conditions applicable to the Custodian Account provided through
+                                UpFinance via its regulated partner, Merits Bank & Trust ("Merits"), a licensed trust
+                                company incorporated in Hong Kong.</p>
 
-                            <p><strong>1.2</strong> By accessing or using the Custodian Account, you agree to be bound
-                                by this Part A in addition to the General Terms and Conditions.</p>
+                            <p data-i18n="termsContent.partA.section1.content2"><strong>1.2</strong> By accessing or
+                                using the Custodian Account, you agree to be bound by this Part A in addition to the
+                                General Terms and Conditions.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>2. CUSTODIAN ACCOUNT STRUCTURE</h3>
+                        <h3 data-i18n="termsContent.partA.section2.title">2. CUSTODIAN ACCOUNT STRUCTURE</h3>
                         <div class="subsection">
-                            <p><strong>2.1</strong> The Custodian Account enables Users to hold and manage digital
-                                assets and fiat currencies in a segregated trust environment. All Custodian Accounts are
-                                operated under the regulatory license and control framework of Merits.</p>
+                            <p data-i18n="termsContent.partA.section2.content1"><strong>2.1</strong> The Custodian
+                                Account enables Users to hold and manage digital assets and fiat currencies in a
+                                segregated trust environment. All Custodian Accounts are operated under the regulatory
+                                license and control framework of Merits.</p>
 
-                            <p><strong>2.2</strong> Funds held within Custodian Accounts are not mixed with UpFinance's
-                                corporate assets. They are maintained in accordance with fiduciary trust standards and
-                                are not subject to the claims of UpFinance's creditors.</p>
+                            <p data-i18n="termsContent.partA.section2.content2"><strong>2.2</strong> Funds held within
+                                Custodian Accounts are not mixed with UpFinance's corporate assets. They are maintained
+                                in accordance with fiduciary trust standards and are not subject to the claims of
+                                UpFinance's creditors.</p>
 
-                            <p><strong>2.3</strong> Custodian Accounts may include sub-accounts or wallets designated
-                                for specific asset types (e.g., BTC, ETH, USDT, USD) and functionalities (e.g., debit
-                                account, virtual account, or collateral wallet).</p>
+                            <p data-i18n="termsContent.partA.section2.content3"><strong>2.3</strong> Custodian Accounts
+                                may include sub-accounts or wallets designated for specific asset types (e.g., BTC, ETH,
+                                USDT, USD) and functionalities (e.g., debit account, virtual account, or collateral
+                                wallet).</p>
 
-                            <p><strong>2.4</strong> The User acknowledges and accepts that funds or assets transferred
-                                to, held with, or managed by Merits Bank & Trust or any designated sub-custodian are
-                                subject to the operational, insolvency, and legal risks associated with such third-party
-                                custodians. UpFinance disclaims all liability for losses, delays, unavailability of
-                                funds, or regulatory interventions involving such third-party institutions, except where
-                                caused by its own gross negligence or willful misconduct as established by final,
-                                non-appealable judgment.</p>
+                            <p data-i18n="termsContent.partA.section2.content4"><strong>2.4</strong> The User
+                                acknowledges and accepts that funds or assets transferred to, held with, or managed by
+                                Merits Bank & Trust or any designated sub-custodian are subject to the operational,
+                                insolvency, and legal risks associated with such third-party custodians. UpFinance
+                                disclaims all liability for losses, delays, unavailability of funds, or regulatory
+                                interventions involving such third-party institutions, except where caused by its own
+                                gross negligence or willful misconduct as established by final, non-appealable judgment.
+                            </p>
 
-                            <p><strong>2.5</strong> Unless otherwise required by applicable law, UpFinance acts solely
-                                as a facilitator and administrative coordinator with respect to custodial and trust
-                                arrangements. No fiduciary, trustee, or similar legal relationship is created between
-                                the User and UpFinance as a result of these arrangements.</p>
+                            <p data-i18n="termsContent.partA.section2.content5"><strong>2.5</strong> Unless otherwise
+                                required by applicable law, UpFinance acts solely as a facilitator and administrative
+                                coordinator with respect to custodial and trust arrangements. No fiduciary, trustee, or
+                                similar legal relationship is created between the User and UpFinance as a result of
+                                these arrangements.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>3. ACCOUNT OPENING AND ACCESS</h3>
+                        <h3 data-i18n="termsContent.partA.section3.title">3. ACCOUNT OPENING AND ACCESS</h3>
                         <div class="subsection">
-                            <p><strong>3.1</strong> To open a Custodian Account, Users must complete all required
-                                onboarding steps, including:</p>
+                            <p data-i18n="termsContent.partA.section3.intro"><strong>3.1</strong> To open a Custodian
+                                Account, Users must complete all required onboarding steps, including:</p>
                             <ul>
-                                <li>Identity verification;</li>
-                                <li>Source of funds and wealth declarations;</li>
-                                <li>Compliance with anti-money laundering (AML) and counter-terrorism financing (CTF)
-                                    requirements;</li>
-                                <li>Agreement to applicable custodial and user policies.</li>
+                                <li data-i18n="termsContent.partA.section3.requirement1">Identity verification;</li>
+                                <li data-i18n="termsContent.partA.section3.requirement2">Source of funds and wealth
+                                    declarations;</li>
+                                <li data-i18n="termsContent.partA.section3.requirement3">Compliance with anti-money
+                                    laundering (AML) and counter-terrorism financing (CTF) requirements;</li>
+                                <li data-i18n="termsContent.partA.section3.requirement4">Agreement to applicable
+                                    custodial and user policies.</li>
                             </ul>
 
-                            <p><strong>3.2</strong> We reserve the right to deny, suspend, or terminate access to
-                                Custodian Accounts in the event of:</p>
+                            <p data-i18n="termsContent.partA.section3.content2"><strong>3.2</strong> We reserve the
+                                right to deny, suspend, or terminate access to Custodian Accounts in the event of:</p>
                             <ul>
-                                <li>Incomplete or unsatisfactory documentation;</li>
-                                <li>Regulatory restrictions;</li>
-                                <li>Breach of any part of these Terms.</li>
+                                <li data-i18n="termsContent.partA.section3.reason1">Incomplete or unsatisfactory
+                                    documentation;</li>
+                                <li data-i18n="termsContent.partA.section3.reason2">Regulatory restrictions;</li>
+                                <li data-i18n="termsContent.partA.section3.reason3">Breach of any part of these Terms.
+                                </li>
                             </ul>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>4. DEPOSITS AND WITHDRAWALS</h3>
+                        <h3 data-i18n="termsContent.partA.section4.title">4. DEPOSITS AND WITHDRAWALS</h3>
                         <div class="subsection">
-                            <p><strong>4.1</strong> Deposits into the Custodian Account may be made in approved fiat
-                                currencies or supported digital assets.</p>
+                            <p data-i18n="termsContent.partA.section4.content1"><strong>4.1</strong> Deposits into the
+                                Custodian Account may be made in approved fiat currencies or supported digital assets.
+                            </p>
 
-                            <p><strong>4.2</strong> You are solely responsible for ensuring that you send only supported
-                                tokens to the appropriate address provided by UpFinance. Sending unsupported tokens or
-                                using incorrect deposit protocols may result in permanent loss.</p>
+                            <p data-i18n="termsContent.partA.section4.content2"><strong>4.2</strong> You are solely
+                                responsible for ensuring that you send only supported tokens to the appropriate address
+                                provided by UpFinance. Sending unsupported tokens or using incorrect deposit protocols
+                                may result in permanent loss.</p>
 
-                            <p><strong>4.3</strong> Withdrawals from the Custodian Account are subject to:</p>
+                            <p data-i18n="termsContent.partA.section4.content3"><strong>4.3</strong> Withdrawals from
+                                the Custodian Account are subject to:</p>
                             <ul>
-                                <li>Successful KYC/AML status;</li>
-                                <li>Minimum withdrawal thresholds;</li>
-                                <li>Internal risk and security checks;</li>
-                                <li>Blockchain network availability and third-party settlement constraints.</li>
+                                <li data-i18n="termsContent.partA.section4.requirement1">Successful KYC/AML status;</li>
+                                <li data-i18n="termsContent.partA.section4.requirement2">Minimum withdrawal thresholds;
+                                </li>
+                                <li data-i18n="termsContent.partA.section4.requirement3">Internal risk and security
+                                    checks;</li>
+                                <li data-i18n="termsContent.partA.section4.requirement4">Blockchain network availability
+                                    and third-party settlement constraints.</li>
                             </ul>
 
-                            <p><strong>4.4</strong> We reserve the right to implement withdrawal cooldown periods,
-                                compliance holds, or transaction reviews as reasonably necessary to fulfill our legal
-                                obligations.</p>
+                            <p data-i18n="termsContent.partA.section4.content4"><strong>4.4</strong> We reserve the
+                                right to implement withdrawal cooldown periods, compliance holds, or transaction reviews
+                                as reasonably necessary to fulfill our legal obligations.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>5. CUSTODY, SECURITY AND SEGREGATION</h3>
+                        <h3 data-i18n="termsContent.partA.section5.title">5. CUSTODY, SECURITY AND SEGREGATION</h3>
                         <div class="subsection">
-                            <p><strong>5.1</strong> All digital assets in the Custodian Account are held in wallets
-                                secured and operated by Merits Bank & Trust or its appointed sub-custodians, using
-                                institutional-grade infrastructure and security controls.</p>
+                            <p data-i18n="termsContent.partA.section5.content1"><strong>5.1</strong> All digital assets
+                                in the Custodian Account are held in wallets secured and operated by Merits Bank & Trust
+                                or its appointed sub-custodians, using institutional-grade infrastructure and security
+                                controls.</p>
 
-                            <p><strong>5.2</strong> Fiat balances are held in segregated client accounts under the name
-                                of Merits Bank & Trust for the benefit of Users. These accounts are not co-mingled with
-                                proprietary funds of UpFinance or Merits, except where required for operational purposes
-                                in accordance with applicable regulatory frameworks, and are subject to statutory
-                                protections.</p>
+                            <p data-i18n="termsContent.partA.section5.content2"><strong>5.2</strong> Fiat balances are
+                                held in segregated client accounts under the name of Merits Bank & Trust for the benefit
+                                of Users. These accounts are not co-mingled with proprietary funds of UpFinance or
+                                Merits, except where required for operational purposes in accordance with applicable
+                                regulatory frameworks, and are subject to statutory protections.</p>
 
-                            <p><strong>5.3</strong> UpFinance exercises reasonable care and skill in coordinating
-                                custodial arrangements but disclaims liability for any acts, omissions, insolvency, or
-                                delays of custodians, sub-custodians, banks, or other financial institutions once funds
-                                have been credited to such accounts, except in cases of UpFinance's own gross negligence
-                                or willful misconduct as determined by a final, non-appealable judgment.</p>
+                            <p data-i18n="termsContent.partA.section5.content3"><strong>5.3</strong> UpFinance exercises
+                                reasonable care and skill in coordinating custodial arrangements but disclaims liability
+                                for any acts, omissions, insolvency, or delays of custodians, sub-custodians, banks, or
+                                other financial institutions once funds have been credited to such accounts, except in
+                                cases of UpFinance's own gross negligence or willful misconduct as determined by a
+                                final, non-appealable judgment.</p>
 
-                            <p><strong>5.4</strong> Legal title to digital or fiat assets held in the Custodian Account
-                                remains with the User unless otherwise specified in a separate written agreement
-                                governing specific use cases such as staking, lending, or collateral arrangements.</p>
+                            <p data-i18n="termsContent.partA.section5.content4"><strong>5.4</strong> Legal title to
+                                digital or fiat assets held in the Custodian Account remains with the User unless
+                                otherwise specified in a separate written agreement governing specific use cases such as
+                                staking, lending, or collateral arrangements.</p>
 
-                            <p><strong>5.5</strong> The User agrees to indemnify and hold harmless UpFinance and its
-                                affiliates against all claims, losses, costs, and liabilities arising from custodial
-                                loss, seizure, or delay, except where such losses result directly from the gross
-                                negligence or willful misconduct of UpFinance.</p>
+                            <p data-i18n="termsContent.partA.section5.content5"><strong>5.5</strong> The User agrees to
+                                indemnify and hold harmless UpFinance and its affiliates against all claims, losses,
+                                costs, and liabilities arising from custodial loss, seizure, or delay, except where such
+                                losses result directly from the gross negligence or willful misconduct of UpFinance.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>6. LIMITATIONS AND RISKS</h3>
+                        <h3 data-i18n="termsContent.partA.section6.title">6. LIMITATIONS AND RISKS</h3>
                         <div class="subsection">
-                            <p><strong>6.1</strong> Custodian Accounts are not deposit accounts and do not accrue
+                            <p data-i18n="termsContent.partA.section6.content1"><strong>6.1</strong> Custodian Accounts
+                                are not deposit accounts and do not accrue
                                 interest unless otherwise agreed in writing.</p>
 
-                            <p><strong>6.2</strong> You acknowledge that UpFinance is not a licensed bank and that your
+                            <p data-i18n="termsContent.partA.section6.content2"><strong>6.2</strong> You acknowledge
+                                that UpFinance is not a licensed bank and that your
                                 Custodian Account is not protected by any deposit insurance scheme.</p>
 
-                            <p><strong>6.3</strong> Digital assets may lose value and are subject to technical, legal,
+                            <p data-i18n="termsContent.partA.section6.content3"><strong>6.3</strong> Digital assets may
+                                lose value and are subject to technical, legal,
                                 and regulatory risks. You accept these risks fully and unconditionally.</p>
 
-                            <p><strong>6.4</strong> We may suspend access to specific assets, networks, or services
+                            <p data-i18n="termsContent.partA.section6.content4"><strong>6.4</strong> We may suspend
+                                access to specific assets, networks, or services
                                 without prior notice if required for risk control, maintenance, or compliance.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>7. TERMINATION</h3>
+                        <h3 data-i18n="termsContent.partA.section7.title">7. TERMINATION</h3>
                         <div class="subsection">
-                            <p><strong>7.1</strong> Upon termination of your Account or closure of the Custodian
+                            <p data-i18n="termsContent.partA.section7.content1"><strong>7.1</strong> Upon termination of
+                                your Account or closure of the Custodian
                                 Account, we will:</p>
                             <ul>
-                                <li>Verify your identity and ensure compliance clearance;</li>
-                                <li>Facilitate the transfer of eligible balances to a verified destination provided by
+                                <li data-i18n="termsContent.partA.section7.item1">Verify your identity and ensure
+                                    compliance clearance;</li>
+                                <li data-i18n="termsContent.partA.section7.item2">Facilitate the transfer of eligible
+                                    balances to a verified destination provided by
                                     you;</li>
-                                <li>Apply any applicable fees and deduct outstanding obligations.</li>
+                                <li data-i18n="termsContent.partA.section7.item3">Apply any applicable fees and deduct
+                                    outstanding obligations.</li>
                             </ul>
 
-                            <p><strong>7.2</strong> We may retain records of your Custodian Account for legal and audit
+                            <p data-i18n="termsContent.partA.section7.content2"><strong>7.2</strong> We may retain
+                                records of your Custodian Account for legal and audit
                                 purposes, even after termination.</p>
                         </div>
                     </div>
 
                     <div class="part-header">
-                        <h2>PART B: CARD SERVICES</h2>
+                        <h2 data-i18n="termsContent.partB.title">PART B: CARD SERVICES</h2>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>1. SCOPE</h3>
+                        <h3 data-i18n="termsContent.partB.section1.title">1. SCOPE</h3>
                         <div class="subsection">
-                            <p><strong>1.1</strong> This Part B governs the terms and conditions under which UpFinance
+                            <p data-i18n="termsContent.partB.section1.content1"><strong>1.1</strong> This Part B governs
+                                the terms and conditions under which UpFinance
                                 offers its Users access to one or more physical or virtual payment cards (the "UpFinance
                                 Card"), issued in cooperation with one or more licensed BIN sponsors or electronic money
                                 institutions (the "Card Issuer").</p>
 
-                            <p><strong>1.2</strong> By applying for or using an UpFinance Card, you agree to be bound by
+                            <p data-i18n="termsContent.partB.section1.content2"><strong>1.2</strong> By applying for or
+                                using an UpFinance Card, you agree to be bound by
                                 this Part B in addition to the General Terms and any issuer-specific cardholder
                                 agreements, where applicable.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>2. CARD ISSUANCE</h3>
+                        <h3 data-i18n="termsContent.partB.section2.title">2. CARD ISSUANCE</h3>
                         <div class="subsection">
-                            <p><strong>2.1</strong> Subject to successful completion of all KYC, AML, and due diligence
+                            <p data-i18n="termsContent.partB.section2.content1"><strong>2.1</strong> Subject to
+                                successful completion of all KYC, AML, and due diligence
                                 requirements, and any applicable issuer policies, UpFinance may issue to you:</p>
                             <ul>
-                                <li>A physical card with EMV chip, PIN, and magnetic stripe;</li>
-                                <li>A virtual card for online use and contactless payments;</li>
-                                <li>Optional co-branded cards in partnership with merchants or business entities.</li>
+                                <li data-i18n="termsContent.partB.section2.item1">A physical card with EMV chip, PIN,
+                                    and magnetic stripe;</li>
+                                <li data-i18n="termsContent.partB.section2.item2">A virtual card for online use and
+                                    contactless payments;</li>
+                                <li data-i18n="termsContent.partB.section2.item3">Optional co-branded cards in
+                                    partnership with merchants or business entities.</li>
                             </ul>
 
-                            <p><strong>2.2</strong> Cards are issued and activated only upon approval by the designated
+                            <p data-i18n="termsContent.partB.section2.content2"><strong>2.2</strong> Cards are issued
+                                and activated only upon approval by the designated
                                 Card Issuer. Activation procedures will be communicated to the User and may include
                                 biometric verification or other secure processes.</p>
 
-                            <p><strong>2.3</strong> The Card remains the property of the Card Issuer at all times and
+                            <p data-i18n="termsContent.partB.section2.content3"><strong>2.3</strong> The Card remains
+                                the property of the Card Issuer at all times and
                                 must be returned or destroyed upon request.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>3. CARD USAGE</h3>
+                        <h3 data-i18n="termsContent.partB.section3.title">3. CARD USAGE</h3>
                         <div class="subsection">
-                            <p><strong>3.1</strong> The UpFinance Card may be used for:</p>
+                            <p data-i18n="termsContent.partB.section3.content1"><strong>3.1</strong> The UpFinance Card
+                                may be used for:</p>
                             <ul>
-                                <li>Point-of-sale (POS) transactions with merchants;</li>
-                                <li>Online payments;</li>
-                                <li>ATM cash withdrawals (where permitted);</li>
-                                <li>In-app transactions and subscriptions.</li>
+                                <li data-i18n="termsContent.partB.section3.usage1">Point-of-sale (POS) transactions with
+                                    merchants;</li>
+                                <li data-i18n="termsContent.partB.section3.usage2">Online payments;</li>
+                                <li data-i18n="termsContent.partB.section3.usage3">ATM cash withdrawals (where
+                                    permitted);</li>
+                                <li data-i18n="termsContent.partB.section3.usage4">In-app transactions and
+                                    subscriptions.</li>
                             </ul>
 
-                            <p><strong>3.2</strong> The Card may be linked to balances in your Custodian Account and is
+                            <p data-i18n="termsContent.partB.section3.content2"><strong>3.2</strong> The Card may be
+                                linked to balances in your Custodian Account and is
                                 subject to automatic liquidation of assets to settle fiat transactions in accordance
                                 with Part A and internal FX policies.</p>
 
-                            <p><strong>3.3</strong> You are responsible for maintaining sufficient balance to authorize
+                            <p data-i18n="termsContent.partB.section3.content3"><strong>3.3</strong> You are responsible
+                                for maintaining sufficient balance to authorize
                                 transactions. If insufficient funds are available, the transaction may be declined.</p>
 
-                            <p><strong>3.4</strong> Card use is subject to geographic, merchant category, and
+                            <p data-i18n="termsContent.partB.section3.content4"><strong>3.4</strong> Card use is subject
+                                to geographic, merchant category, and
                                 daily/monthly limits imposed by UpFinance and/or the Card Issuer.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>4. SECURITY AND RESPONSIBILITIES</h3>
+                        <h3 data-i18n="termsContent.partB.section4.title">4. SECURITY AND RESPONSIBILITIES</h3>
                         <div class="subsection">
-                            <p><strong>4.1</strong> You must:</p>
+                            <p data-i18n="termsContent.partB.section4.content1"><strong>4.1</strong> You must:</p>
                             <ul>
-                                <li>Protect the card number, CVV, PIN, and any other authentication credentials;</li>
-                                <li>Not share card credentials with any unauthorized third party;</li>
-                                <li>Promptly report any loss, theft, or suspected unauthorized access.</li>
+                                <li data-i18n="termsContent.partB.section4.responsibility1">Protect the card number,
+                                    CVV, PIN, and any other authentication credentials;</li>
+                                <li data-i18n="termsContent.partB.section4.responsibility2">Not share card credentials
+                                    with any unauthorized third party;</li>
+                                <li data-i18n="termsContent.partB.section4.responsibility3">Promptly report any loss,
+                                    theft, or suspected unauthorized access.</li>
                             </ul>
 
-                            <p><strong>4.2</strong> You shall be liable for any transactions initiated with your
+                            <p data-i18n="termsContent.partB.section4.content2"><strong>4.2</strong> You shall be liable
+                                for any transactions initiated with your
                                 credentials unless:</p>
                             <ul>
-                                <li>You have notified UpFinance of loss/theft;</li>
-                                <li>The Card has been blocked or suspended;</li>
-                                <li>The transaction occurred due to gross negligence or willful misconduct by UpFinance
+                                <li data-i18n="termsContent.partB.section4.exception1">You have notified UpFinance of
+                                    loss/theft;</li>
+                                <li data-i18n="termsContent.partB.section4.exception2">The Card has been blocked or
+                                    suspended;</li>
+                                <li data-i18n="termsContent.partB.section4.exception3">The transaction occurred due to
+                                    gross negligence or willful misconduct by UpFinance
                                     or the Card Issuer.</li>
                             </ul>
 
-                            <p><strong>4.3</strong> UpFinance reserves the right to suspend or block the Card at any
+                            <p data-i18n="termsContent.partB.section4.content3"><strong>4.3</strong> UpFinance reserves
+                                the right to suspend or block the Card at any
                                 time:</p>
                             <ul>
-                                <li>Upon suspected fraud or compromise;</li>
-                                <li>At the instruction of regulatory authorities;</li>
-                                <li>Upon violation of these Terms.</li>
+                                <li data-i18n="termsContent.partB.section4.reason1">Upon suspected fraud or compromise;
+                                </li>
+                                <li data-i18n="termsContent.partB.section4.reason2">At the instruction of regulatory
+                                    authorities;</li>
+                                <li data-i18n="termsContent.partB.section4.reason3">Upon violation of these Terms.</li>
                             </ul>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>5. FEES, LIMITS AND EXCHANGE</h3>
+                        <h3 data-i18n="termsContent.partB.section5.title">5. FEES, LIMITS AND EXCHANGE</h3>
                         <div class="subsection">
-                            <p><strong>5.1</strong> All applicable fees, including but not limited to:</p>
+                            <p data-i18n="termsContent.partB.section5.content1"><strong>5.1</strong> All applicable
+                                fees, including but not limited to:</p>
                             <ul>
-                                <li>Card issuance fee;</li>
-                                <li>Monthly or annual maintenance fee;</li>
-                                <li>FX spread or conversion margin;</li>
-                                <li>ATM withdrawal fees;</li>
-                                <li>Reissuance or replacement fees;</li>
+                                <li data-i18n="termsContent.partB.section5.fee1">Card issuance fee;</li>
+                                <li data-i18n="termsContent.partB.section5.fee2">Monthly or annual maintenance fee;</li>
+                                <li data-i18n="termsContent.partB.section5.fee3">FX spread or conversion margin;</li>
+                                <li data-i18n="termsContent.partB.section5.fee4">ATM withdrawal fees;</li>
+                                <li data-i18n="termsContent.partB.section5.fee5">Reissuance or replacement fees;</li>
                             </ul>
-                            <p>are disclosed in the applicable Fee Schedule.</p>
+                            <p data-i18n="termsContent.partB.section5.feesDisclosure">are disclosed in the applicable
+                                Fee Schedule.</p>
 
-                            <p><strong>5.2</strong> All foreign currency transactions will be converted using
+                            <p data-i18n="termsContent.partB.section5.content2"><strong>5.2</strong> All foreign
+                                currency transactions will be converted using
                                 UpFinance's prevailing rates, which include a spread above the mid-market rate or
                                 interbank rate.</p>
 
-                            <p><strong>5.3</strong> Fees may be charged in crypto or fiat and may be auto-deducted from
+                            <p data-i18n="termsContent.partB.section5.content3"><strong>5.3</strong> Fees may be charged
+                                in crypto or fiat and may be auto-deducted from
                                 your Custodian Account or invoiced in arrears.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>6. RESTRICTIONS</h3>
+                        <h3 data-i18n="termsContent.partB.section6.title">6. RESTRICTIONS</h3>
                         <div class="subsection">
-                            <p><strong>6.1</strong> You may not use the UpFinance Card for:</p>
+                            <p data-i18n="termsContent.partB.section6.content1"><strong>6.1</strong> You may not use the
+                                UpFinance Card for:</p>
                             <ul>
-                                <li>Prohibited transactions under applicable law (e.g., gambling, sanctioned entities);
+                                <li data-i18n="termsContent.partB.section6.restriction1">Prohibited transactions under
+                                    applicable law (e.g., gambling, sanctioned entities);
                                 </li>
-                                <li>Fraudulent or deceptive activities;</li>
-                                <li>Transactions inconsistent with AML/CTF obligations.</li>
+                                <li data-i18n="termsContent.partB.section6.restriction2">Fraudulent or deceptive
+                                    activities;</li>
+                                <li data-i18n="termsContent.partB.section6.restriction3">Transactions inconsistent with
+                                    AML/CTF obligations.</li>
                             </ul>
 
-                            <p><strong>6.2</strong> We reserve the right to cancel, suspend, or restrict the Card with
+                            <p data-i18n="termsContent.partB.section6.content2"><strong>6.2</strong> We reserve the
+                                right to cancel, suspend, or restrict the Card with
                                 or without notice to comply with our legal obligations or risk policies.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>7. TERMINATION AND EXPIRATION</h3>
+                        <h3 data-i18n="termsContent.partB.section7.title">7. TERMINATION AND EXPIRATION</h3>
                         <div class="subsection">
-                            <p><strong>7.1</strong> Your Card will be valid until its stated expiration date unless
+                            <p data-i18n="termsContent.partB.section7.content1"><strong>7.1</strong> Your Card will be
+                                valid until its stated expiration date unless
                                 earlier terminated. We may issue a replacement card prior to expiration at our
                                 discretion.</p>
 
-                            <p><strong>7.2</strong> Upon closure of your Account, expiration of the Card, or termination
+                            <p data-i18n="termsContent.partB.section7.content2"><strong>7.2</strong> Upon closure of
+                                your Account, expiration of the Card, or termination
                                 for breach, you must:</p>
                             <ul>
-                                <li>Cease use of the Card immediately;</li>
-                                <li>Destroy the physical card (if applicable);</li>
-                                <li>Ensure outstanding transactions and fees are settled.</li>
+                                <li data-i18n="termsContent.partB.section7.requirement1">Cease use of the Card
+                                    immediately;</li>
+                                <li data-i18n="termsContent.partB.section7.requirement2">Destroy the physical card (if
+                                    applicable);</li>
+                                <li data-i18n="termsContent.partB.section7.requirement3">Ensure outstanding transactions
+                                    and fees are settled.</li>
                             </ul>
 
-                            <p><strong>7.3</strong> Remaining funds (if any) will be returned in accordance with the
+                            <p data-i18n="termsContent.partB.section7.content3"><strong>7.3</strong> Remaining funds (if
+                                any) will be returned in accordance with the
                                 Custodian Account terms and subject to audit and regulatory clearance.</p>
                         </div>
                     </div>
 
                     <div class="part-header">
-                        <h2>PART C: SWAP TRANSACTIONS</h2>
+                        <h2 data-i18n="termsContent.partC.title">PART C: SWAP TRANSACTIONS</h2>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>1. SCOPE</h3>
+                        <h3 data-i18n="termsContent.partC.section1.title">1. SCOPE</h3>
                         <div class="subsection">
-                            <p><strong>1.1</strong> This Part C sets forth the terms and conditions governing the use of
+                            <p data-i18n="termsContent.partC.section1.content1"><strong>1.1</strong> This Part C sets
+                                forth the terms and conditions governing the use of
                                 UpFinance's swap services, which enable Users to convert one supported digital asset or
                                 fiat currency into another ("Swap Transactions").</p>
 
-                            <p><strong>1.2</strong> Swap Transactions may be facilitated by UpFinance directly or
+                            <p data-i18n="termsContent.partC.section1.content2"><strong>1.2</strong> Swap Transactions
+                                may be facilitated by UpFinance directly or
                                 through third-party liquidity providers ("Liquidity Providers") and may be executed via
                                 centralized or decentralized exchange protocols.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>2. ELIGIBILITY AND CONDITIONS</h3>
+                        <h3 data-i18n="termsContent.partC.section2.title">2. ELIGIBILITY AND CONDITIONS</h3>
                         <div class="subsection">
-                            <p><strong>2.1</strong> You must:</p>
+                            <p data-i18n="termsContent.partC.section2.content1"><strong>2.1</strong> You must:</p>
                             <ul>
-                                <li>Hold an active Custodian Account with sufficient eligible balance;</li>
-                                <li>Have completed all required identity and compliance verification steps;</li>
-                                <li>Accept the Swap Transaction terms and any associated pricing, slippage, or fees at
+                                <li data-i18n="termsContent.partC.section2.requirement1">Hold an active Custodian
+                                    Account with sufficient eligible balance;</li>
+                                <li data-i18n="termsContent.partC.section2.requirement2">Have completed all required
+                                    identity and compliance verification steps;</li>
+                                <li data-i18n="termsContent.partC.section2.requirement3">Accept the Swap Transaction
+                                    terms and any associated pricing, slippage, or fees at
                                     the time of execution.</li>
                             </ul>
 
-                            <p><strong>2.2</strong> UpFinance may limit the types of assets available for swap, minimum
+                            <p data-i18n="termsContent.partC.section2.content2"><strong>2.2</strong> UpFinance may limit
+                                the types of assets available for swap, minimum
                                 or maximum swap thresholds, and eligible counterparties.</p>
 
-                            <p><strong>2.3</strong> Swap functionality may be suspended at any time without prior notice
+                            <p data-i18n="termsContent.partC.section2.content3"><strong>2.3</strong> Swap functionality
+                                may be suspended at any time without prior notice
                                 for reasons including market volatility, risk controls, or service maintenance.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>3. EXECUTION AND PRICING</h3>
+                        <h3 data-i18n="termsContent.partC.section3.title">3. EXECUTION AND PRICING</h3>
                         <div class="subsection">
-                            <p><strong>3.1</strong> When initiating a Swap Transaction, you will be shown an indicative
+                            <p data-i18n="termsContent.partC.section3.content1"><strong>3.1</strong> When initiating a
+                                Swap Transaction, you will be shown an indicative
                                 quote reflecting:</p>
                             <ul>
-                                <li>The input and output asset type and amount;</li>
-                                <li>The applicable exchange rate or conversion formula;</li>
-                                <li>Estimated network and service fees;</li>
-                                <li>Any slippage tolerance limits.</li>
+                                <li data-i18n="termsContent.partC.section3.item1">The input and output asset type and
+                                    amount;</li>
+                                <li data-i18n="termsContent.partC.section3.item2">The applicable exchange rate or
+                                    conversion formula;</li>
+                                <li data-i18n="termsContent.partC.section3.item3">Estimated network and service fees;
+                                </li>
+                                <li data-i18n="termsContent.partC.section3.item4">Any slippage tolerance limits.</li>
                             </ul>
 
-                            <p><strong>3.2</strong> You acknowledge that:</p>
+                            <p data-i18n="termsContent.partC.section3.content2"><strong>3.2</strong> You acknowledge
+                                that:</p>
                             <ul>
-                                <li>Swap rates may change between quote and execution due to market movement;</li>
-                                <li>Network delays may result in execution outside your desired parameters;</li>
-                                <li>Transactions may be irreversible once executed.</li>
+                                <li data-i18n="termsContent.partC.section3.acknowledgment1">Swap rates may change
+                                    between quote and execution due to market movement;</li>
+                                <li data-i18n="termsContent.partC.section3.acknowledgment2">Network delays may result in
+                                    execution outside your desired parameters;</li>
+                                <li data-i18n="termsContent.partC.section3.acknowledgment3">Transactions may be
+                                    irreversible once executed.</li>
                             </ul>
 
-                            <p><strong>3.3</strong> You are solely responsible for verifying all swap parameters before
+                            <p data-i18n="termsContent.partC.section3.content3"><strong>3.3</strong> You are solely
+                                responsible for verifying all swap parameters before
                                 confirmation. You waive any claim arising from adverse price movements occurring prior
                                 to
                                 execution.</p>
@@ -1104,17 +1256,20 @@
                     </div>
 
                     <div class="numbered-section">
-                        <h3>4. SETTLEMENT AND CONFIRMATION</h3>
+                        <h3 data-i18n="termsContent.partC.section4.title">4. SETTLEMENT AND CONFIRMATION</h3>
                         <div class="subsection">
-                            <p><strong>4.1</strong> Upon execution, the corresponding balances in your Custodian Account
+                            <p data-i18n="termsContent.partC.section4.content1"><strong>4.1</strong> Upon execution, the
+                                corresponding balances in your Custodian Account
                                 will be debited and credited accordingly.</p>
 
-                            <p><strong>4.2</strong> A transaction record will be generated and made available through
+                            <p data-i18n="termsContent.partC.section4.content2"><strong>4.2</strong> A transaction
+                                record will be generated and made available through
                                 your
                                 Account interface. This shall serve as conclusive evidence of execution, unless manifest
                                 error is proven.</p>
 
-                            <p><strong>4.3</strong> Swap Transactions may take time to settle depending on the
+                            <p data-i18n="termsContent.partC.section4.content3"><strong>4.3</strong> Swap Transactions
+                                may take time to settle depending on the
                                 blockchain
                                 or external service provider involved. UpFinance is not liable for settlement delays
                                 beyond its control.</p>
@@ -1122,100 +1277,128 @@
                     </div>
 
                     <div class="numbered-section">
-                        <h3>5. FEES AND SPREADS</h3>
+                        <h3 data-i18n="termsContent.partC.section5.title">5. FEES AND SPREADS</h3>
                         <div class="subsection">
-                            <p><strong>5.1</strong> All Swap Transactions are subject to:</p>
+                            <p data-i18n="termsContent.partC.section5.content1"><strong>5.1</strong> All Swap
+                                Transactions are subject to:</p>
                             <ul>
-                                <li>A platform fee as disclosed in the Fee Schedule;</li>
-                                <li>A spread applied to the prevailing market rate;</li>
-                                <li>Any third-party gas or transaction fees, as applicable.</li>
+                                <li data-i18n="termsContent.partC.section5.fee1">A platform fee as disclosed in the Fee
+                                    Schedule;</li>
+                                <li data-i18n="termsContent.partC.section5.fee2">A spread applied to the prevailing
+                                    market rate;</li>
+                                <li data-i18n="termsContent.partC.section5.fee3">Any third-party gas or transaction
+                                    fees, as applicable.</li>
                             </ul>
 
-                            <p><strong>5.2</strong> Fees are deducted at the time of execution and are non-refundable
+                            <p data-i18n="termsContent.partC.section5.content2"><strong>5.2</strong> Fees are deducted
+                                at the time of execution and are non-refundable
                                 once
                                 the transaction has been confirmed on-chain or by our systems.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>6. RISK DISCLOSURE</h3>
+                        <h3 data-i18n="termsContent.partC.section6.title">6. RISK DISCLOSURE</h3>
                         <div class="subsection">
-                            <p><strong>6.1</strong> You acknowledge and accept the following risks:</p>
+                            <p data-i18n="termsContent.partC.section6.content1"><strong>6.1</strong> You acknowledge and
+                                accept the following risks:</p>
                             <ul>
-                                <li>Price slippage or unfavorable execution during volatile markets;</li>
-                                <li>Impermanent loss or depegging of stablecoins;</li>
-                                <li>Protocol errors or smart contract vulnerabilities (if using DEX routes);</li>
-                                <li>Liquidity shortfalls preventing transaction completion.</li>
+                                <li data-i18n="termsContent.partC.section6.risk1">Price slippage or unfavorable
+                                    execution during volatile markets;</li>
+                                <li data-i18n="termsContent.partC.section6.risk2">Impermanent loss or depegging of
+                                    stablecoins;</li>
+                                <li data-i18n="termsContent.partC.section6.risk3">Protocol errors or smart contract
+                                    vulnerabilities (if using DEX routes);</li>
+                                <li data-i18n="termsContent.partC.section6.risk4">Liquidity shortfalls preventing
+                                    transaction completion.</li>
                             </ul>
 
-                            <p><strong>6.2</strong> You bear full responsibility for the outcome of each Swap
+                            <p data-i18n="termsContent.partC.section6.content2"><strong>6.2</strong> You bear full
+                                responsibility for the outcome of each Swap
                                 Transaction,
                                 including tax consequences or unrealized gains/losses.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>7. RIGHT TO REFUSE OR CANCEL</h3>
+                        <h3 data-i18n="termsContent.partC.section7.title">7. RIGHT TO REFUSE OR CANCEL</h3>
                         <div class="subsection">
-                            <p><strong>7.1</strong> UpFinance reserves the right to:</p>
+                            <p data-i18n="termsContent.partC.section7.content1"><strong>7.1</strong> UpFinance reserves
+                                the right to:</p>
                             <ul>
-                                <li>Cancel or reverse any Swap Transaction in the event of technical malfunction,
+                                <li data-i18n="termsContent.partC.section7.right1">Cancel or reverse any Swap
+                                    Transaction in the event of technical malfunction,
                                     pricing
                                     error, or regulatory instruction;</li>
-                                <li>Limit swap frequency, volume, or access based on compliance or risk triggers;</li>
-                                <li>Delay settlement pending manual review where suspicious activity is detected.</li>
+                                <li data-i18n="termsContent.partC.section7.right2">Limit swap frequency, volume, or
+                                    access based on compliance or risk triggers;</li>
+                                <li data-i18n="termsContent.partC.section7.right3">Delay settlement pending manual
+                                    review where suspicious activity is detected.</li>
                             </ul>
 
-                            <p><strong>7.2</strong> In the event of suspected abuse or policy violation, your Account
+                            <p data-i18n="termsContent.partC.section7.content2"><strong>7.2</strong> In the event of
+                                suspected abuse or policy violation, your Account
                                 may
                                 be suspended and all pending transactions frozen without notice.</p>
                         </div>
                     </div>
 
                     <div class="part-header">
-                        <h2>PART D: WALLETS AND VAULTS</h2>
+                        <h2 data-i18n="termsContent.partD.title">PART D: WALLETS AND VAULTS</h2>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>1. SCOPE</h3>
+                        <h3 data-i18n="termsContent.partD.section1.title">1. SCOPE</h3>
                         <div class="subsection">
-                            <p><strong>1.1</strong> This Part D governs the use of wallet services and digital asset
+                            <p data-i18n="termsContent.partD.section1.content1"><strong>1.1</strong> This Part D governs
+                                the use of wallet services and digital asset
                                 vaults made available through UpFinance, including:</p>
                             <ul>
-                                <li>Non-custodial wallets generated or connected by the User;</li>
-                                <li>Smart contract-based vaults offered or operated by UpFinance;</li>
-                                <li>Hybrid storage systems integrating custodial and self-custodial features.</li>
+                                <li data-i18n="termsContent.partD.section1.type1">Non-custodial wallets generated or
+                                    connected by the User;</li>
+                                <li data-i18n="termsContent.partD.section1.type2">Smart contract-based vaults offered or
+                                    operated by UpFinance;</li>
+                                <li data-i18n="termsContent.partD.section1.type3">Hybrid storage systems integrating
+                                    custodial and self-custodial features.</li>
                             </ul>
 
-                            <p><strong>1.2</strong> Wallet and Vault Services are subject to applicable compliance,
+                            <p data-i18n="termsContent.partD.section1.content2"><strong>1.2</strong> Wallet and Vault
+                                Services are subject to applicable compliance,
                                 technical, and security protocols, and may be disabled, suspended, or modified at any
                                 time without prior notice.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>2. WALLET TYPES AND FUNCTIONALITY</h3>
+                        <h3 data-i18n="termsContent.partD.section2.title">2. WALLET TYPES AND FUNCTIONALITY</h3>
                         <div class="subsection">
-                            <p><strong>2.1</strong> UpFinance may support the following wallet types:</p>
+                            <p data-i18n="termsContent.partD.section2.content1"><strong>2.1</strong> UpFinance may
+                                support the following wallet types:</p>
                             <ul>
-                                <li>External Wallets: Non-custodial wallets connected by the User (e.g., MetaMask,
+                                <li data-i18n="termsContent.partD.section2.walletType1">External Wallets: Non-custodial
+                                    wallets connected by the User (e.g., MetaMask,
                                     WalletConnect);</li>
-                                <li>Smart Vaults: On-chain programmable vaults with predefined rules for storage,
+                                <li data-i18n="termsContent.partD.section2.walletType2">Smart Vaults: On-chain
+                                    programmable vaults with predefined rules for storage,
                                     access,
                                     or delegation;</li>
-                                <li>Recovery Wallets: Multisig or social recovery-enabled wallets managed through
+                                <li data-i18n="termsContent.partD.section2.walletType3">Recovery Wallets: Multisig or
+                                    social recovery-enabled wallets managed through
                                     UpFinance interfaces.</li>
                             </ul>
 
-                            <p><strong>2.2</strong> Vaults may include advanced features such as:</p>
+                            <p data-i18n="termsContent.partD.section2.content2"><strong>2.2</strong> Vaults may include
+                                advanced features such as:</p>
                             <ul>
-                                <li>Time-locked asset release;</li>
-                                <li>Delegation or inheritance rules;</li>
-                                <li>Automated task execution;</li>
-                                <li>Multi-party approvals.</li>
+                                <li data-i18n="termsContent.partD.section2.feature1">Time-locked asset release;</li>
+                                <li data-i18n="termsContent.partD.section2.feature2">Delegation or inheritance rules;
+                                </li>
+                                <li data-i18n="termsContent.partD.section2.feature3">Automated task execution;</li>
+                                <li data-i18n="termsContent.partD.section2.feature4">Multi-party approvals.</li>
                             </ul>
 
-                            <p><strong>2.3</strong> The functionality, visibility, and accessibility of each wallet or
+                            <p data-i18n="termsContent.partD.section2.content3"><strong>2.3</strong> The functionality,
+                                visibility, and accessibility of each wallet or
                                 vault
                                 may depend on blockchain network conditions, third-party integrations, or gas
                                 availability.</p>
@@ -1223,92 +1406,115 @@
                     </div>
 
                     <div class="numbered-section">
-                        <h3>3. USER CONTROL AND RESPONSIBILITY</h3>
+                        <h3 data-i18n="termsContent.partD.section3.title">3. USER CONTROL AND RESPONSIBILITY</h3>
                         <div class="subsection">
-                            <p><strong>3.1</strong> For all non-custodial or smart contract wallets:</p>
+                            <p data-i18n="termsContent.partD.section3.content1"><strong>3.1</strong> For all
+                                non-custodial or smart contract wallets:</p>
                             <ul>
-                                <li>You retain sole control over the private keys, seed phrases, or recovery
+                                <li data-i18n="termsContent.partD.section3.responsibility1">You retain sole control over
+                                    the private keys, seed phrases, or recovery
                                     credentials;
                                 </li>
-                                <li>UpFinance does not store, manage, or retrieve any User keys or access codes;</li>
-                                <li>Loss or compromise of your keys may result in irreversible loss of assets.</li>
+                                <li data-i18n="termsContent.partD.section3.responsibility2">UpFinance does not store,
+                                    manage, or retrieve any User keys or access codes;</li>
+                                <li data-i18n="termsContent.partD.section3.responsibility3">Loss or compromise of your
+                                    keys may result in irreversible loss of assets.</li>
                             </ul>
 
-                            <p><strong>3.2</strong> You are solely responsible for the use of dApps, signing of
+                            <p data-i18n="termsContent.partD.section3.content2"><strong>3.2</strong> You are solely
+                                responsible for the use of dApps, signing of
                                 transactions, and exposure to smart contract risks when interacting with Vault Services.
                             </p>
 
-                            <p><strong>3.3</strong> By using Wallet or Vault Services, you acknowledge that:</p>
+                            <p data-i18n="termsContent.partD.section3.content3"><strong>3.3</strong> By using Wallet or
+                                Vault Services, you acknowledge that:</p>
                             <ul>
-                                <li>Smart contracts may contain errors or bugs;</li>
-                                <li>You have conducted your own due diligence;</li>
-                                <li>You assume all risk related to such technologies.</li>
+                                <li data-i18n="termsContent.partD.section3.acknowledgment1">Smart contracts may contain
+                                    errors or bugs;</li>
+                                <li data-i18n="termsContent.partD.section3.acknowledgment2">You have conducted your own
+                                    due diligence;</li>
+                                <li data-i18n="termsContent.partD.section3.acknowledgment3">You assume all risk related
+                                    to such technologies.</li>
                             </ul>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>4. INTERACTIONS WITH CUSTODIAL SERVICES</h3>
+                        <h3 data-i18n="termsContent.partD.section4.title">4. INTERACTIONS WITH CUSTODIAL SERVICES</h3>
                         <div class="subsection">
-                            <p><strong>4.1</strong> You may transfer assets between your Custodian Account and Vaults or
+                            <p data-i18n="termsContent.partD.section4.content1"><strong>4.1</strong> You may transfer
+                                assets between your Custodian Account and Vaults or
                                 Wallets at any time, subject to applicable fees, gas costs, and platform policies.</p>
 
-                            <p><strong>4.2</strong> Vaults may be subject to lock-up periods, cooldown timers, or
+                            <p data-i18n="termsContent.partD.section4.content2"><strong>4.2</strong> Vaults may be
+                                subject to lock-up periods, cooldown timers, or
                                 programmable access conditions which may delay or restrict withdrawals.</p>
 
-                            <p><strong>4.3</strong> Interoperability with external custody solutions (e.g., Ledger, MPC
+                            <p data-i18n="termsContent.partD.section4.content3"><strong>4.3</strong> Interoperability
+                                with external custody solutions (e.g., Ledger, MPC
                                 providers) is not guaranteed and may be limited by third-party software or hardware
                                 constraints.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>5. FEES AND LIMITATIONS</h3>
+                        <h3 data-i18n="termsContent.partD.section5.title">5. FEES AND LIMITATIONS</h3>
                         <div class="subsection">
-                            <p><strong>5.1</strong> Usage of Wallet or Vault Services may incur:</p>
+                            <p data-i18n="termsContent.partD.section5.content1"><strong>5.1</strong> Usage of Wallet or
+                                Vault Services may incur:</p>
                             <ul>
-                                <li>Blockchain gas fees;</li>
-                                <li>Smart contract interaction charges;</li>
-                                <li>Vault creation or maintenance fees (where applicable).</li>
+                                <li data-i18n="termsContent.partD.section5.fee1">Blockchain gas fees;</li>
+                                <li data-i18n="termsContent.partD.section5.fee2">Smart contract interaction charges;
+                                </li>
+                                <li data-i18n="termsContent.partD.section5.fee3">Vault creation or maintenance fees
+                                    (where applicable).</li>
                             </ul>
 
-                            <p><strong>5.2</strong> UpFinance reserves the right to implement usage-based pricing,
+                            <p data-i18n="termsContent.partD.section5.content2"><strong>5.2</strong> UpFinance reserves
+                                the right to implement usage-based pricing,
                                 transaction throttling, or minimum/maximum transfer amounts.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>6. TERMINATION AND DATA RETENTION</h3>
+                        <h3 data-i18n="termsContent.partD.section6.title">6. TERMINATION AND DATA RETENTION</h3>
                         <div class="subsection">
-                            <p><strong>6.1</strong> Upon termination of your Account:</p>
+                            <p data-i18n="termsContent.partD.section6.content1"><strong>6.1</strong> Upon termination of
+                                your Account:</p>
                             <ul>
-                                <li>Vaults may be deactivated, and any automated processes halted;</li>
-                                <li>You will retain access to your external wallets, but Vault interfaces may be
+                                <li data-i18n="termsContent.partD.section6.termination1">Vaults may be deactivated, and
+                                    any automated processes halted;</li>
+                                <li data-i18n="termsContent.partD.section6.termination2">You will retain access to your
+                                    external wallets, but Vault interfaces may be
                                     disabled.
                                 </li>
                             </ul>
 
-                            <p><strong>6.2</strong> UpFinance shall not be responsible for preserving metadata,
+                            <p data-i18n="termsContent.partD.section6.content2"><strong>6.2</strong> UpFinance shall not
+                                be responsible for preserving metadata,
                                 transaction
                                 history, or user-configured vault logic after Account termination.</p>
 
-                            <p><strong>6.3</strong> You are advised to export or back up any relevant information before
+                            <p data-i18n="termsContent.partD.section6.content3"><strong>6.3</strong> You are advised to
+                                export or back up any relevant information before
                                 initiating Account closure.</p>
                         </div>
                     </div>
 
                     <div class="part-header">
-                        <h2>PART E: VIRTUAL ACCOUNTS</h2>
+                        <h2 data-i18n="termsContent.partE.title">PART E: VIRTUAL ACCOUNTS</h2>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>1. SCOPE</h3>
+                        <h3 data-i18n="termsContent.partE.section1.title">1. SCOPE</h3>
                         <div class="subsection">
-                            <p><strong>1.1</strong> This Part E sets forth the terms and conditions applicable to the
+                            <p data-i18n="termsContent.partE.section1.content1"><strong>1.1</strong> This Part E sets
+                                forth the terms and conditions applicable to the
                                 provision and use of virtual account services offered through UpFinance ("Virtual
                                 Accounts").</p>
 
-                            <p><strong>1.2</strong> Virtual Accounts refer to unique identifiers and associated payment
+                            <p data-i18n="termsContent.partE.section1.content2"><strong>1.2</strong> Virtual Accounts
+                                refer to unique identifiers and associated payment
                                 rails (e.g., dedicated IBANs, SWIFT codes, FPS identifiers, or proxy-linked accounts)
                                 that enable Users to receive or send fiat currency deposits and withdrawals through
                                 partnered banking and payment institutions.</p>
@@ -1316,79 +1522,96 @@
                     </div>
 
                     <div class="numbered-section">
-                        <h3>2. ACCOUNT ISSUANCE AND ELIGIBILITY</h3>
+                        <h3 data-i18n="termsContent.partE.section2.title">2. ACCOUNT ISSUANCE AND ELIGIBILITY</h3>
                         <div class="subsection">
-                            <p><strong>2.1</strong> Virtual Accounts are provided through licensed financial partners
+                            <p data-i18n="termsContent.partE.section2.content1"><strong>2.1</strong> Virtual Accounts
+                                are provided through licensed financial partners
                                 and
                                 are subject to their onboarding and compliance requirements. UpFinance does not
                                 independently issue or manage Virtual Accounts.</p>
 
-                            <p><strong>2.2</strong> You must:</p>
+                            <p data-i18n="termsContent.partE.section2.content2"><strong>2.2</strong> You must:</p>
                             <ul>
-                                <li>Maintain an active Custodian Account with UpFinance;</li>
-                                <li>Successfully complete all required KYC/AML procedures;</li>
-                                <li>Acknowledge and agree to any additional partner-specific terms and disclosures.</li>
+                                <li data-i18n="termsContent.partE.section2.requirement1">Maintain an active Custodian
+                                    Account with UpFinance;</li>
+                                <li data-i18n="termsContent.partE.section2.requirement2">Successfully complete all
+                                    required KYC/AML procedures;</li>
+                                <li data-i18n="termsContent.partE.section2.requirement3">Acknowledge and agree to any
+                                    additional partner-specific terms and disclosures.</li>
                             </ul>
 
-                            <p><strong>2.3</strong> UpFinance reserves the right to reject, suspend, or revoke access to
+                            <p data-i18n="termsContent.partE.section2.content3"><strong>2.3</strong> UpFinance reserves
+                                the right to reject, suspend, or revoke access to
                                 Virtual Accounts at any time for risk, compliance, or technical reasons.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>3. DEPOSITS AND FUNDING</h3>
+                        <h3 data-i18n="termsContent.partE.section3.title">3. DEPOSITS AND FUNDING</h3>
                         <div class="subsection">
-                            <p><strong>3.1</strong> Fiat deposits may be made to your Virtual Account via bank transfer
+                            <p data-i18n="termsContent.partE.section3.content1"><strong>3.1</strong> Fiat deposits may
+                                be made to your Virtual Account via bank transfer
                                 or
                                 other supported payment methods.</p>
 
-                            <p><strong>3.2</strong> Funds received into your Virtual Account will be credited to your
+                            <p data-i18n="termsContent.partE.section3.content2"><strong>3.2</strong> Funds received into
+                                your Virtual Account will be credited to your
                                 Custodian Account once cleared by the underlying financial institution. Delays may occur
                                 due to:</p>
                             <ul>
-                                <li>Bank processing times;</li>
-                                <li>Incorrect reference details;</li>
-                                <li>Network or correspondent banking issues.</li>
+                                <li data-i18n="termsContent.partE.section3.delay1">Bank processing times;</li>
+                                <li data-i18n="termsContent.partE.section3.delay2">Incorrect reference details;</li>
+                                <li data-i18n="termsContent.partE.section3.delay3">Network or correspondent banking
+                                    issues.</li>
                             </ul>
 
-                            <p><strong>3.3</strong> You are responsible for ensuring accurate transfer details.
+                            <p data-i18n="termsContent.partE.section3.content3"><strong>3.3</strong> You are responsible
+                                for ensuring accurate transfer details.
                                 Misrouted
                                 or improperly referenced transfers may be delayed or forfeited.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>4. OUTBOUND PAYMENTS</h3>
+                        <h3 data-i18n="termsContent.partE.section4.title">4. OUTBOUND PAYMENTS</h3>
                         <div class="subsection">
-                            <p><strong>4.1</strong> You may initiate outbound payments from your Custodian Account to
+                            <p data-i18n="termsContent.partE.section4.content1"><strong>4.1</strong> You may initiate
+                                outbound payments from your Custodian Account to
                                 external bank accounts via the Virtual Account system, subject to applicable fees,
                                 cut-off
                                 times, and anti-fraud checks.</p>
 
-                            <p><strong>4.2</strong> Transfers may be rejected or delayed due to:</p>
+                            <p data-i18n="termsContent.partE.section4.content2"><strong>4.2</strong> Transfers may be
+                                rejected or delayed due to:</p>
                             <ul>
-                                <li>Compliance flags;</li>
-                                <li>Sanction screening;</li>
-                                <li>Insufficient documentation or transaction justification.</li>
+                                <li data-i18n="termsContent.partE.section4.reason1">Compliance flags;</li>
+                                <li data-i18n="termsContent.partE.section4.reason2">Sanction screening;</li>
+                                <li data-i18n="termsContent.partE.section4.reason3">Insufficient documentation or
+                                    transaction justification.</li>
                             </ul>
 
-                            <p><strong>4.3</strong> All outbound instructions are deemed final once submitted. You
+                            <p data-i18n="termsContent.partE.section4.content3"><strong>4.3</strong> All outbound
+                                instructions are deemed final once submitted. You
                                 acknowledge that fiat payment networks are not reversible and UpFinance cannot guarantee
                                 recovery of misdirected funds.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>5. FEES AND CONVERSIONS</h3>
+                        <h3 data-i18n="termsContent.partE.section5.title">5. FEES AND CONVERSIONS</h3>
                         <div class="subsection">
-                            <p><strong>5.1</strong> Virtual Account usage may be subject to:</p>
+                            <p data-i18n="termsContent.partE.section5.content1"><strong>5.1</strong> Virtual Account
+                                usage may be subject to:</p>
                             <ul>
-                                <li>Deposit and withdrawal fees;</li>
-                                <li>FX conversion margins (if applicable);</li>
-                                <li>Third-party banking and processing charges.</li>
+                                <li data-i18n="termsContent.partE.section5.fee1">Deposit and withdrawal fees;</li>
+                                <li data-i18n="termsContent.partE.section5.fee2">FX conversion margins (if applicable);
+                                </li>
+                                <li data-i18n="termsContent.partE.section5.fee3">Third-party banking and processing
+                                    charges.</li>
                             </ul>
 
-                            <p><strong>5.2</strong> Fees are disclosed in the current Fee Schedule and may be amended
+                            <p data-i18n="termsContent.partE.section5.content2"><strong>5.2</strong> Fees are disclosed
+                                in the current Fee Schedule and may be amended
                                 from
                                 time to time. You agree to pay all applicable fees in full and authorize UpFinance to
                                 deduct such fees from your Custodian Account.</p>
@@ -1396,184 +1619,240 @@
                     </div>
 
                     <div class="numbered-section">
-                        <h3>6. ACCOUNT LIMITATIONS AND MONITORING</h3>
+                        <h3 data-i18n="termsContent.partE.section6.title">6. ACCOUNT LIMITATIONS AND MONITORING</h3>
                         <div class="subsection">
-                            <p><strong>6.1</strong> Virtual Accounts are provided on a best-effort basis. Service may be
+                            <p data-i18n="termsContent.partE.section6.content1"><strong>6.1</strong> Virtual Accounts
+                                are provided on a best-effort basis. Service may be
                                 disrupted due to partner outages, regulatory directives, or banking policy changes.</p>
 
-                            <p><strong>6.2</strong> We reserve the right to:</p>
+                            <p data-i18n="termsContent.partE.section6.content2"><strong>6.2</strong> We reserve the
+                                right to:</p>
                             <ul>
-                                <li>Impose transaction limits or velocity controls;</li>
-                                <li>Require justification for high-value or unusual transactions;</li>
-                                <li>Freeze or reverse specific entries pending review.</li>
+                                <li data-i18n="termsContent.partE.section6.right1">Impose transaction limits or velocity
+                                    controls;</li>
+                                <li data-i18n="termsContent.partE.section6.right2">Require justification for high-value
+                                    or unusual transactions;</li>
+                                <li data-i18n="termsContent.partE.section6.right3">Freeze or reverse specific entries
+                                    pending review.</li>
                             </ul>
 
-                            <p><strong>6.3</strong> You agree to provide full cooperation in any inquiry or
+                            <p data-i18n="termsContent.partE.section6.content3"><strong>6.3</strong> You agree to
+                                provide full cooperation in any inquiry or
                                 investigation
                                 related to Virtual Account activity.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>7. TERMINATION</h3>
+                        <h3 data-i18n="termsContent.partE.section7.title">7. TERMINATION</h3>
                         <div class="subsection">
-                            <p><strong>7.1</strong> Your access to a Virtual Account may be terminated:</p>
+                            <p data-i18n="termsContent.partE.section7.content1"><strong>7.1</strong> Your access to a
+                                Virtual Account may be terminated:</p>
                             <ul>
-                                <li>Upon closure of your Custodian Account;</li>
-                                <li>If you fail to comply with onboarding or ongoing verification;</li>
-                                <li>At the instruction of the issuing financial institution.</li>
+                                <li data-i18n="termsContent.partE.section7.reason1">Upon closure of your Custodian
+                                    Account;</li>
+                                <li data-i18n="termsContent.partE.section7.reason2">If you fail to comply with
+                                    onboarding or ongoing verification;</li>
+                                <li data-i18n="termsContent.partE.section7.reason3">At the instruction of the issuing
+                                    financial institution.</li>
                             </ul>
 
-                            <p><strong>7.2</strong> Upon termination, any residual balances will be reconciled and
+                            <p data-i18n="termsContent.partE.section7.content2"><strong>7.2</strong> Upon termination,
+                                any residual balances will be reconciled and
                                 returned in accordance with our standard offboarding and compliance protocols.</p>
                         </div>
                     </div>
 
                     <div class="part-header">
-                        <h2>PART F: THIRD-PARTY SERVICES</h2>
+                        <h2 data-i18n="termsContent.partF.title">PART F: THIRD-PARTY SERVICES</h2>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>1. SCOPE</h3>
+                        <h3 data-i18n="termsContent.partF.section1.title">1. SCOPE</h3>
                         <div class="subsection">
-                            <p><strong>1.1</strong> This Part F governs your access to and use of any third-party
+                            <p data-i18n="termsContent.partF.section1.content1"><strong>1.1</strong> This Part F governs
+                                your access to and use of any third-party
                                 services, platforms, applications, or tools ("Third-Party Services") that are made
                                 available through or integrated with the UpFinance ecosystem.</p>
 
-                            <p><strong>1.2</strong> By interacting with any Third-Party Services through UpFinance, you
+                            <p data-i18n="termsContent.partF.section1.content2"><strong>1.2</strong> By interacting with
+                                any Third-Party Services through UpFinance, you
                                 acknowledge that:</p>
                             <ul>
-                                <li>Such services are operated by independent third-party providers;</li>
-                                <li>UpFinance does not control, endorse, or assume liability for these services;</li>
-                                <li>You are solely responsible for reviewing and agreeing to the third party's terms and
+                                <li data-i18n="termsContent.partF.section1.acknowledgment1">Such services are operated
+                                    by independent third-party providers;</li>
+                                <li data-i18n="termsContent.partF.section1.acknowledgment2">UpFinance does not control,
+                                    endorse, or assume liability for these services;</li>
+                                <li data-i18n="termsContent.partF.section1.acknowledgment3">You are solely responsible
+                                    for reviewing and agreeing to the third party's terms and
                                     policies.</li>
                             </ul>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>2. ACCESS AND INTEGRATION</h3>
+                        <h3 data-i18n="termsContent.partF.section2.title">2. ACCESS AND INTEGRATION</h3>
                         <div class="subsection">
-                            <p><strong>2.1</strong> Third-Party Services may be accessed via APIs, embedded interfaces,
+                            <p data-i18n="termsContent.partF.section2.content1"><strong>2.1</strong> Third-Party
+                                Services may be accessed via APIs, embedded interfaces,
                                 deep links, wallet connectors, or data-sharing protocols provided through UpFinance's
                                 platform.</p>
 
-                            <p><strong>2.2</strong> These may include, without limitation:</p>
+                            <p data-i18n="termsContent.partF.section2.content2"><strong>2.2</strong> These may include,
+                                without limitation:</p>
                             <ul>
-                                <li>Trading platforms or DEX aggregators;</li>
-                                <li>Lending or staking applications;</li>
-                                <li>Decentralized identity or KYC providers;</li>
-                                <li>Tax reporting or accounting software;</li>
-                                <li>Payment processors or fiat gateways.</li>
+                                <li data-i18n="termsContent.partF.section2.service1">Trading platforms or DEX
+                                    aggregators;</li>
+                                <li data-i18n="termsContent.partF.section2.service2">Lending or staking applications;
+                                </li>
+                                <li data-i18n="termsContent.partF.section2.service3">Decentralized identity or KYC
+                                    providers;</li>
+                                <li data-i18n="termsContent.partF.section2.service4">Tax reporting or accounting
+                                    software;</li>
+                                <li data-i18n="termsContent.partF.section2.service5">Payment processors or fiat
+                                    gateways.</li>
                             </ul>
 
-                            <p><strong>2.3</strong> UpFinance reserves the right to enable, restrict, or discontinue any
+                            <p data-i18n="termsContent.partF.section2.content3"><strong>2.3</strong> UpFinance reserves
+                                the right to enable, restrict, or discontinue any
                                 Third-Party Service integration at its sole discretion.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>3. RISK AND DUE DILIGENCE</h3>
+                        <h3 data-i18n="termsContent.partF.section3.title">3. RISK AND DUE DILIGENCE</h3>
                         <div class="subsection">
-                            <p><strong>3.1</strong> You acknowledge that Third-Party Services may:</p>
+                            <p data-i18n="termsContent.partF.section3.content1"><strong>3.1</strong> You acknowledge
+                                that Third-Party Services may:</p>
                             <ul>
-                                <li>Be subject to different laws, regulations, or compliance standards;</li>
-                                <li>Present operational, financial, technological, or reputational risks;</li>
-                                <li>Interact with your wallet or Custodian Account with elevated permissions.</li>
+                                <li data-i18n="termsContent.partF.section3.risk1">Be subject to different laws,
+                                    regulations, or compliance standards;</li>
+                                <li data-i18n="termsContent.partF.section3.risk2">Present operational, financial,
+                                    technological, or reputational risks;</li>
+                                <li data-i18n="termsContent.partF.section3.risk3">Interact with your wallet or Custodian
+                                    Account with elevated permissions.</li>
                             </ul>
 
-                            <p><strong>3.2</strong> You agree to perform your own due diligence before using any
+                            <p data-i18n="termsContent.partF.section3.content2"><strong>3.2</strong> You agree to
+                                perform your own due diligence before using any
                                 Third-Party Service and to assume full responsibility for any resulting loss or
                                 liability.
                             </p>
 
-                            <p><strong>3.3</strong> UpFinance makes no warranties or guarantees regarding:</p>
+                            <p data-i18n="termsContent.partF.section3.content3"><strong>3.3</strong> UpFinance makes no
+                                warranties or guarantees regarding:</p>
                             <ul>
-                                <li>The performance, reliability, or accuracy of third-party tools;</li>
-                                <li>The safety or legality of smart contracts operated by third parties;</li>
-                                <li>The data handling practices of such providers.</li>
+                                <li data-i18n="termsContent.partF.section3.warranty1">The performance, reliability, or
+                                    accuracy of third-party tools;</li>
+                                <li data-i18n="termsContent.partF.section3.warranty2">The safety or legality of smart
+                                    contracts operated by third parties;</li>
+                                <li data-i18n="termsContent.partF.section3.warranty3">The data handling practices of
+                                    such providers.</li>
                             </ul>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>4. DATA SHARING AND CONSENTS</h3>
+                        <h3 data-i18n="termsContent.partF.section4.title">4. DATA SHARING AND CONSENTS</h3>
                         <div class="subsection">
-                            <p><strong>4.1</strong> You authorize UpFinance to share certain personal, transactional, or
+                            <p data-i18n="termsContent.partF.section4.content1"><strong>4.1</strong> You authorize
+                                UpFinance to share certain personal, transactional, or
                                 compliance data with third-party providers as required to enable or support the
                                 requested
                                 service.</p>
 
-                            <p><strong>4.2</strong> Such data sharing will be governed by:</p>
+                            <p data-i18n="termsContent.partF.section4.content2"><strong>4.2</strong> Such data sharing
+                                will be governed by:</p>
                             <ul>
-                                <li>The specific consent you provide at the time of activation;</li>
-                                <li>Our Privacy Policy;</li>
-                                <li>Applicable data protection regulations.</li>
+                                <li data-i18n="termsContent.partF.section4.governance1">The specific consent you provide
+                                    at the time of activation;</li>
+                                <li data-i18n="termsContent.partF.section4.governance2">Our Privacy Policy;</li>
+                                <li data-i18n="termsContent.partF.section4.governance3">Applicable data protection
+                                    regulations.</li>
                             </ul>
 
-                            <p><strong>4.3</strong> You may revoke access or unlink a Third-Party Service at any time
+                            <p data-i18n="termsContent.partF.section4.content3"><strong>4.3</strong> You may revoke
+                                access or unlink a Third-Party Service at any time
                                 via
                                 the settings or integrations dashboard.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>5. FEES AND COMMISSIONS</h3>
+                        <h3 data-i18n="termsContent.partF.section5.title">5. FEES AND COMMISSIONS</h3>
                         <div class="subsection">
-                            <p><strong>5.1</strong> Use of Third-Party Services may incur additional fees, including but
+                            <p data-i18n="termsContent.partF.section5.content1"><strong>5.1</strong> Use of Third-Party
+                                Services may incur additional fees, including but
                                 not limited to:</p>
                             <ul>
-                                <li>API access or usage fees;</li>
-                                <li>Platform commissions or referral markups;</li>
-                                <li>Subscription or service charges by the provider.</li>
+                                <li data-i18n="termsContent.partF.section5.fee1">API access or usage fees;</li>
+                                <li data-i18n="termsContent.partF.section5.fee2">Platform commissions or referral
+                                    markups;</li>
+                                <li data-i18n="termsContent.partF.section5.fee3">Subscription or service charges by the
+                                    provider.</li>
                             </ul>
 
-                            <p><strong>5.2</strong> Where applicable, UpFinance may earn referral income or share in
+                            <p data-i18n="termsContent.partF.section5.content2"><strong>5.2</strong> Where applicable,
+                                UpFinance may earn referral income or share in
                                 fees
                                 collected by third parties, as disclosed from time to time.</p>
 
-                            <p><strong>5.3</strong> You acknowledge that fee structures and billing mechanisms are
+                            <p data-i18n="termsContent.partF.section5.content3"><strong>5.3</strong> You acknowledge
+                                that fee structures and billing mechanisms are
                                 governed by the third-party provider and are beyond UpFinance's control.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>6. LIABILITY AND DISCLAIMERS</h3>
+                        <h3 data-i18n="termsContent.partF.section6.title">6. LIABILITY AND DISCLAIMERS</h3>
                         <div class="subsection">
-                            <p><strong>6.1</strong> UpFinance shall not be liable for:</p>
+                            <p data-i18n="termsContent.partF.section6.content1"><strong>6.1</strong> UpFinance shall not
+                                be liable for:</p>
                             <ul>
-                                <li>Any direct or indirect loss arising from your use of Third-Party Services;</li>
-                                <li>Contractual breaches, fraud, or misconduct by the third-party provider;</li>
-                                <li>Unauthorized access, data breaches, or downtime associated with the service.</li>
+                                <li data-i18n="termsContent.partF.section6.liability1">Any direct or indirect loss
+                                    arising from your use of Third-Party Services;</li>
+                                <li data-i18n="termsContent.partF.section6.liability2">Contractual breaches, fraud, or
+                                    misconduct by the third-party provider;</li>
+                                <li data-i18n="termsContent.partF.section6.liability3">Unauthorized access, data
+                                    breaches, or downtime associated with the service.</li>
                             </ul>
 
-                            <p><strong>6.2</strong> All Third-Party Services are provided on an "AS IS" and "AS
+                            <p data-i18n="termsContent.partF.section6.content2"><strong>6.2</strong> All Third-Party
+                                Services are provided on an "AS IS" and "AS
                                 AVAILABLE" basis without warranties of any kind, express or implied.</p>
                         </div>
                     </div>
 
                     <div class="numbered-section">
-                        <h3>7. TERMINATION</h3>
+                        <h3 data-i18n="termsContent.partF.section7.title">7. TERMINATION</h3>
                         <div class="subsection">
-                            <p><strong>7.1</strong> We may suspend or terminate access to a Third-Party Service if:</p>
+                            <p data-i18n="termsContent.partF.section7.content1"><strong>7.1</strong> We may suspend or
+                                terminate access to a Third-Party Service if:</p>
                             <ul>
-                                <li>Required by law or regulatory directive;</li>
-                                <li>The provider ceases operations or fails to meet our technical/integrity standards;
+                                <li data-i18n="termsContent.partF.section7.reason1">Required by law or regulatory
+                                    directive;</li>
+                                <li data-i18n="termsContent.partF.section7.reason2">The provider ceases operations or
+                                    fails to meet our technical/integrity standards;
                                 </li>
-                                <li>You violate any term of this Part F.</li>
+                                <li data-i18n="termsContent.partF.section7.reason3">You violate any term of this Part F.
+                                </li>
                             </ul>
 
-                            <p><strong>7.2</strong> Upon disconnection or termination:</p>
+                            <p data-i18n="termsContent.partF.section7.content2"><strong>7.2</strong> Upon disconnection
+                                or termination:</p>
                             <ul>
-                                <li>All access rights to the affected Third-Party Service shall immediately cease;</li>
-                                <li>You remain liable for any pending transactions, fees, or obligations.</li>
+                                <li data-i18n="termsContent.partF.section7.consequence1">All access rights to the
+                                    affected Third-Party Service shall immediately cease;</li>
+                                <li data-i18n="termsContent.partF.section7.consequence2">You remain liable for any
+                                    pending transactions, fees, or obligations.</li>
                             </ul>
                         </div>
                     </div>
 
                     <div class="legal-notice">
-                        <p><strong>END OF SERVICE-SPECIFIC TERMS</strong></p>
-                        <p>The remaining provisions of these Terms, including the Definitions Section and Dispute
+                        <p data-i18n="termsContent.endOfTerms.title"><strong>END OF SERVICE-SPECIFIC TERMS</strong></p>
+                        <p data-i18n="termsContent.endOfTerms.content">The remaining provisions of these Terms,
+                            including the Definitions Section and Dispute
                             Resolution Clause, continue to apply.</p>
                     </div>
                 </div>
@@ -1607,7 +1886,8 @@
                             class="footer-toggle flex justify-between items-center w-full md:w-auto text-left bg-transparent border-none cursor-pointer group"
                             onclick="toggleFooterSection('product')">
                             <span
-                                class="text-white text-sm md:text-base font-medium  leading-normal group-hover:text-sky-400 transition-colors">Product</span>
+                                class="text-white text-sm md:text-base font-medium  leading-normal group-hover:text-sky-400 transition-colors"
+                                data-i18n="footer.product.title">Product</span>
                             <svg class="footer-arrow w-4 h-4 text-white/60 transform transition-transform duration-200 md:hidden"
                                 fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -1618,15 +1898,17 @@
                         <div id="product-menu" class="footer-menu hidden md:block mt-2 md:mt-3 pl-0 md:pl-0">
                             <div class="flex flex-col gap-2">
                                 <a href="../index.html#how-it-works"
-                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">How
-                                    It Works</a>
+                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors"
+                                    data-i18n="footer.product.howItWorks">How It Works</a>
                                 <a href="../index.html#features"
-                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">Features</a>
+                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors"
+                                    data-i18n="footer.product.features">Features</a>
                                 <a href="../index.html#up-card"
-                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">UpCard</a>
+                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors"
+                                    data-i18n="footer.product.upCard">UpCard</a>
                                 <a href="../index.html#global-coverage"
-                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">Supported
-                                    Countries</a>
+                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors"
+                                    data-i18n="footer.product.supportedCountries">Supported Countries</a>
                             </div>
                         </div>
                     </div>
@@ -1637,7 +1919,8 @@
                             class="footer-toggle flex justify-between items-center w-full md:w-auto text-left bg-transparent border-none cursor-pointer group"
                             onclick="toggleFooterSection('compliance')">
                             <span
-                                class="text-white text-sm md:text-base font-medium  leading-normal group-hover:text-sky-400 transition-colors">Compliance</span>
+                                class="text-white text-sm md:text-base font-medium  leading-normal group-hover:text-sky-400 transition-colors"
+                                data-i18n="footer.compliance.title">Compliance</span>
                             <svg class="footer-arrow w-4 h-4 text-white/60 transform transition-transform duration-200 md:hidden"
                                 fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -1648,14 +1931,14 @@
                         <div id="compliance-menu" class="footer-menu hidden md:block mt-2 md:mt-3 pl-0 md:pl-0">
                             <div class="flex flex-col gap-2">
                                 <a href="#"
-                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">KYC
-                                    / AML Policy</a>
+                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors"
+                                    data-i18n="footer.compliance.kycAml">KYC / AML Policy</a>
                                 <a href="../terms-and-conditions"
-                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">Terms
-                                    of Use</a>
+                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors"
+                                    data-i18n="footer.compliance.termsOfUse">Terms of Use</a>
                                 <a href="../privacy-policy"
-                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">Privacy
-                                    Policy</a>
+                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors"
+                                    data-i18n="footer.compliance.privacyPolicy">Privacy Policy</a>
                             </div>
                         </div>
                     </div>
@@ -1666,7 +1949,8 @@
                             class="footer-toggle flex justify-between items-center w-full md:w-auto text-left bg-transparent border-none cursor-pointer group"
                             onclick="toggleFooterSection('support')">
                             <span
-                                class="text-white text-sm md:text-base font-medium  leading-normal group-hover:text-sky-400 transition-colors">Support</span>
+                                class="text-white text-sm md:text-base font-medium  leading-normal group-hover:text-sky-400 transition-colors"
+                                data-i18n="footer.support.title">Support</span>
                             <svg class="footer-arrow w-4 h-4 text-white/60 transform transition-transform duration-200 md:hidden"
                                 fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -1677,12 +1961,14 @@
                         <div id="support-menu" class="footer-menu hidden md:block mt-2 md:mt-3 pl-0 md:pl-0">
                             <div class="flex flex-col gap-2">
                                 <a href="https://wa.me/85265830689" target="_blank"
-                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">Contact
-                                    Us</a>
+                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors"
+                                    data-i18n="footer.support.contactUs">Contact Us</a>
                                 <a href="https://t.me/UpFinanceSupport" target="_blank"
-                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">Telegram</a>
+                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors"
+                                    data-i18n="footer.support.telegram">Telegram</a>
                                 <a href="mailto:support@upfinance.ai" target="_blank"
-                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">support@upfinance.ai</a>
+                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors"
+                                    data-i18n="footer.support.email">support@upfinance.ai</a>
                             </div>
                         </div>
                     </div>
@@ -1693,7 +1979,8 @@
                             class="footer-toggle flex justify-between items-center w-full md:w-auto text-left bg-transparent border-none cursor-pointer group"
                             onclick="toggleFooterSection('company')">
                             <span
-                                class="text-white text-sm md:text-base font-medium  leading-normal group-hover:text-sky-400 transition-colors">Company</span>
+                                class="text-white text-sm md:text-base font-medium  leading-normal group-hover:text-sky-400 transition-colors"
+                                data-i18n="footer.company.title">Company</span>
                             <svg class="footer-arrow w-4 h-4 text-white/60 transform transition-transform duration-200 md:hidden"
                                 fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -1704,8 +1991,8 @@
                         <div id="company-menu" class="footer-menu hidden md:block mt-2 md:mt-3 pl-0 md:pl-0">
                             <div class="flex flex-col gap-2">
                                 <a href="#"
-                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">Press
-                                    Kit</a>
+                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors"
+                                    data-i18n="footer.company.pressKit">Press Kit</a>
                             </div>
                         </div>
                     </div>
@@ -1735,58 +2022,84 @@
 
                 <!-- Product Column -->
                 <div class="flex flex-col gap-4">
-                    <div class="text-white text-base font-medium  leading-normal">Product</div>
+                    <div class="text-white text-base font-medium  leading-normal" data-i18n="footer.product.title">
+                        Product
+                    </div>
                     <div class="flex flex-col justify-start items-start gap-4">
                         <div class="text-white/60 text-base font-medium  leading-normal"><a
-                                href="../index.html#how-it-works" target="_blank">How It Works</a></div>
+                                href="../index.html#how-it-works" target="_blank"
+                                data-i18n="footer.product.howItWorks">How It Works</a></div>
                         <div class="text-white/60 text-base font-medium  leading-normal">
-                            <a href="../index.html#features" target="_blank">Features</a>
+                            <a href="../index.html#features" target="_blank"
+                                data-i18n="footer.product.features">Features</a>
                         </div>
                         <div class="text-white/60 text-base font-medium  leading-normal">
-                            <a href="../index.html#up-card" target="_blank">UpCard</a>
+                            <a href="../index.html#up-card" target="_blank" data-i18n="footer.product.upCard">UpCard</a>
                         </div>
                         <div class="text-white/60 text-base font-medium  leading-normal">
-                            <a href="../index.html#global-coverage" target="_blank">Supported Countries</a>
+                            <a href="../index.html#global-coverage" target="_blank"
+                                data-i18n="footer.product.supportedCountries">Supported Countries</a>
                         </div>
                     </div>
                 </div>
 
                 <!-- Compliance Column -->
                 <div class="flex flex-col gap-4">
-                    <div class="text-white text-base font-medium  leading-normal">Compliance</div>
+                    <div class="text-white text-base font-medium  leading-normal" data-i18n="footer.compliance.title">
+                        Compliance</div>
                     <div class="flex flex-col justify-start items-start gap-4">
-                        <div class="text-white/60 text-base font-medium  leading-normal">KYC / AML Policy
+                        <div class="text-white/60 text-base font-medium  leading-normal"
+                            data-i18n="footer.compliance.kycAml">KYC / AML Policy</div>
+                        <div class="text-white/60 text-base font-medium  leading-normal">
+                            <a href="../terms-and-conditions" data-i18n="footer.compliance.termsOfUse">Terms of Use</a>
                         </div>
-                        <div class="text-white/60 text-base font-medium  leading-normal"><a
-                                href="../terms-and-conditions">Terms of Use</a></div>
-                        <div class="text-white/60 text-base font-medium  leading-normal"><a
-                                href="../privacy-policy">Privacy Policy</a></div>
+                        <div class="text-white/60 text-base font-medium  leading-normal">
+                            <a href="../privacy-policy" data-i18n="footer.compliance.privacyPolicy">Privacy Policy</a>
+                        </div>
                     </div>
                 </div>
 
                 <!-- Support Column -->
                 <div class="flex flex-col gap-4">
-                    <div class="text-white text-base font-medium  leading-normal">Support</div>
+                    <div class="text-white text-base font-medium  leading-normal" data-i18n="footer.support.title">
+                        Support
+                    </div>
                     <div class="flex flex-col justify-start items-start gap-4">
                         <div class="text-white/60 text-base font-medium  leading-normal"><a
-                                href="https://wa.me/85265830689" target="_blank">Contact Us</a></div>
+                                href="https://wa.me/85265830689" target="_blank"
+                                data-i18n="footer.support.contactUs">Contact Us</a></div>
                         <div class="text-white/60 text-base font-medium  leading-normal"><a
-                                href="https://t.me/UpFinanceSupport" target="_blank">Telegram</a></div>
-                        <div class="text-white/60 text-base font-medium  leading-normal">support@upfinance.ai
-                        </div>
+                                href="https://t.me/UpFinanceSupport" target="_blank"
+                                data-i18n="footer.support.telegram">Telegram</a></div>
+                        <div class="text-white/60 text-base font-medium  leading-normal"
+                            data-i18n="footer.support.email">support@upfinance.ai</div>
                     </div>
                 </div>
 
                 <!-- Company Column -->
                 <div class="flex flex-col gap-4">
-                    <div class="text-white text-base font-medium  leading-normal">Company</div>
+                    <div class="text-white text-base font-medium  leading-normal" data-i18n="footer.company.title">
+                        Company
+                    </div>
                     <div class="flex flex-col justify-start items-start gap-4">
-                        <div class="text-white/60 text-base font-medium  leading-normal">Press Kit</div>
+                        <div class="text-white/60 text-base font-medium  leading-normal"
+                            data-i18n="footer.company.pressKit">Press Kit</div>
                     </div>
                 </div>
             </div>
         </footer>
     </div>
+
+    <!-- Initialize language switchers -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            // Initialize language switchers for desktop and mobile
+            if (window.i18n) {
+                window.i18n.createLanguageSwitcher('lang-switcher-desktop');
+                window.i18n.createLanguageSwitcher('lang-switcher-mobile');
+            }
+        });
+    </script>
 </body>
 
 </html>

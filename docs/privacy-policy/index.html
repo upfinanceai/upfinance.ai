@@ -9,12 +9,16 @@
     <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="../assets/images/favicon-16x16.png">
-    <title>Privacy Policy - Up Finance</title>
+    <title data-i18n="legal.privacyTitle">Privacy Policy - UP Finance</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inclusive+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap"
         rel="stylesheet">
     <link rel="stylesheet" href="../assets/css/app-CBeSrw4u.css">
+    <!-- i18n Scripts -->
+    <script src="../assets/js/i18n-en.js"></script>
+    <script src="../assets/js/i18n-kr.js"></script>
+    <script src="../assets/js/i18n.js"></script>
     <style>
         html {
             scroll-behavior: smooth;
@@ -217,22 +221,30 @@
                 <nav
                     class="hidden md:flex justify-center items-center gap-8 px-6 py-3 bg-white/5 rounded border border-white/10">
                     <a href="../index.html"
-                        class="text-white text-base font-normal font-['Inclusive_Sans'] hover:text-sky-400 transition-colors">Home</a>
+                        class="text-white text-base font-normal font-['Inclusive_Sans'] hover:text-sky-400 transition-colors"
+                        data-i18n="nav.home">Home</a>
                     <a href="../index.html#how-it-works"
-                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors">How
-                        It Works</a>
+                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors"
+                        data-i18n="nav.howItWorks">How It Works</a>
                     <a href="../index.html#features"
-                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors">Features</a>
+                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors"
+                        data-i18n="nav.features">Features</a>
                     <a href="../index.html#up-card"
-                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors">UpCard</a>
+                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors"
+                        data-i18n="nav.upCard">UpCard</a>
                     <a href="../index.html#global-coverage"
-                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors">Global
-                        Coverage</a>
+                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors"
+                        data-i18n="nav.globalCoverage">Global Coverage</a>
                 </nav>
-                <div
-                    class="hidden md:flex px-2 py-3 bg-gradient-to-l from-blue-700 to-sky-500 rounded justify-center items-center gap-2.5">
-                    <a href="https://pay.upfinance.ai" target="_blank"
-                        class="text-white text-base font-bold font-['Inclusive_Sans'] uppercase">Get Started</a>
+                <div class="hidden md:flex items-center gap-4">
+                    <!-- Language Switcher -->
+                    <div id="lang-switcher-desktop"></div>
+                    <div
+                        class="px-2 py-3 bg-gradient-to-l from-blue-700 to-sky-500 rounded justify-center items-center gap-2.5 flex">
+                        <a href="https://pay.upfinance.ai" target="_blank"
+                            class="text-white text-base font-bold font-['Inclusive_Sans'] uppercase"
+                            data-i18n="common.getStarted">Get Started</a>
+                    </div>
                 </div>
             </div>
             <!-- Mobile Menu Backdrop -->
@@ -242,21 +254,27 @@
             <nav class="hidden w-full bg-black/95 backdrop-blur-sm border-t border-white/10 p-4" id="mobile-menu">
                 <div class="flex flex-col gap-4">
                     <a href="../index.html"
-                        class="text-white text-base font-normal font-['Inclusive_Sans'] hover:text-sky-400 transition-colors py-2">Home</a>
+                        class="text-white text-base font-normal font-['Inclusive_Sans'] hover:text-sky-400 transition-colors py-2"
+                        data-i18n="nav.home">Home</a>
                     <a href="../index.html#how-it-works"
-                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors py-2">How
-                        It Works</a>
+                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors py-2"
+                        data-i18n="nav.howItWorks">How It Works</a>
                     <a href="../index.html#features"
-                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors py-2">Features</a>
+                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors py-2"
+                        data-i18n="nav.features">Features</a>
                     <a href="../index.html#up-card"
-                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors py-2">UpCard</a>
+                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors py-2"
+                        data-i18n="nav.upCard">UpCard</a>
                     <a href="../index.html#global-coverage"
-                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors py-2">Global
-                        Coverage</a>
+                        class="text-white/60 text-base font-normal font-['Inclusive_Sans'] hover:text-white transition-colors py-2"
+                        data-i18n="nav.globalCoverage">Global Coverage</a>
+                    <!-- Mobile Language Switcher -->
+                    <div id="lang-switcher-mobile" class="mt-2"></div>
                     <div
                         class="px-4 py-3 bg-gradient-to-l from-blue-700 to-sky-500 rounded flex justify-center items-center gap-2.5 mt-4">
                         <a href="https://pay.upfinance.ai" target="_blank"
-                            class="text-white text-base font-bold font-['Inclusive_Sans'] uppercase">Get Started</a>
+                            class="text-white text-base font-bold font-['Inclusive_Sans'] uppercase"
+                            data-i18n="common.getStarted">Get Started</a>
                     </div>
                 </div>
             </nav>
@@ -266,178 +284,235 @@
         <main class="flex-1 px-4 md:px-16 py-8 md:py-16">
             <div class="max-w-4xl mx-auto">
                 <div class="content-section">
-                    <h1>UP FINANCE PRIVACY POLICY</h1>
-                    <div class="last-updated">Last Updated: Jul 18, 2025</div>
+                    <h1 data-i18n="privacyContent.title">UP FINANCE PRIVACY POLICY</h1>
+                    <div class="last-updated">
+                        <span data-i18n="legal.lastUpdated">Last Updated:</span> Jul 18, 2025
+                    </div>
 
-                    <p>This Privacy Policy outlines how Osmosis Limited, a company incorporated in Hong Kong and
-                        operating under the brand name Up Finance ("Up Finance", "we", "us", or "our"), collects, uses,
-                        stores, transfers, and safeguards personal data in connection with our services. This policy
-                        governs the collection and processing of personal information of individuals who access or use
-                        any aspect of the Up Finance ecosystem, including its websites, mobile applications, APIs,
-                        custodial and non-custodial wallets, card services, and virtual accounts (collectively, the
-                        "Services").</p>
+                    <p data-i18n="privacyContent.intro">This Privacy Policy outlines how Osmosis Limited, a company
+                        incorporated in Hong Kong and operating under the brand name UP Finance ("UP Finance", "we",
+                        "us", or "our"), collects, uses, stores, transfers, and safeguards personal data in connection
+                        with our services. This policy governs the collection and processing of personal information of
+                        individuals who access or use any aspect of the UP Finance ecosystem, including its websites,
+                        mobile applications, APIs, custodial and non-custodial wallets, card services, and virtual
+                        accounts (collectively, the "Services").</p>
 
-                    <h2>1. Data Controller</h2>
-                    <p>Osmosis Limited, with registered office at Flat/Rm 505, Block C, Queen's Garden, 9 Old Peak Road,
-                        Mid-Level Central, Hong Kong, acts as the data controller in relation to personal data processed
-                        under this Policy. All data-related inquiries may be directed to our appointed Data Protection
-                        Officer at <a href="mailto:legal@upfinance.ai"
+                    <h2 data-i18n="privacyContent.section1.title">1. Data Controller</h2>
+                    <p data-i18n="privacyContent.section1.content">Osmosis Limited, with registered office at Flat/Rm
+                        505, Block C, Queen's Garden, 9 Old Peak Road, Mid-Level Central, Hong Kong, acts as the data
+                        controller in relation to personal data processed under this Policy. All data-related inquiries
+                        may be directed to our appointed Data Protection Officer at <a href="mailto:legal@upfinance.ai"
                             class="text-sky-400 hover:text-sky-300">legal@upfinance.ai</a>.</p>
 
-                    <h2>2. Categories of Personal Data Collected</h2>
-                    <p>In the course of providing our Services, we collect and process the following categories of
-                        personal data:</p>
+                    <h2 data-i18n="privacyContent.section2.title">2. Categories of Personal Data Collected</h2>
+                    <p data-i18n="privacyContent.section2.intro">In the course of providing our Services, we collect and
+                        process the following categories of personal data:</p>
                     <ul>
-                        <li><strong>Identity Information</strong>, including name, date of birth, nationality,
+                        <li data-i18n="privacyContent.section2.identityInfo"><strong>Identity Information</strong>,
+                            including name, date of birth, nationality,
                             identification documents (such as national ID or passport), and biometric identifiers (where
                             applicable and permitted by law);</li>
-                        <li><strong>Contact Information</strong>, including physical address, email address, and
+                        <li data-i18n="privacyContent.section2.contactInfo"><strong>Contact Information</strong>,
+                            including physical address, email address, and
                             telephone number;</li>
-                        <li><strong>Financial and Transactional Data</strong>, including wallet addresses, payment card
+                        <li data-i18n="privacyContent.section2.financialData"><strong>Financial and Transactional
+                                Data</strong>, including wallet addresses, payment card
                             details (masked or tokenized), bank account numbers, and records of fiat and crypto
                             transactions;</li>
-                        <li><strong>Device and Technical Data</strong>, such as IP address, browser type, device
+                        <li data-i18n="privacyContent.section2.deviceData"><strong>Device and Technical Data</strong>,
+                            such as IP address, browser type, device
                             identifiers, session logs, and metadata relating to the usage of the Services;</li>
-                        <li><strong>Behavioral and Analytics Data</strong>, including user interactions, clickstream
+                        <li data-i18n="privacyContent.section2.behavioralData"><strong>Behavioral and Analytics
+                                Data</strong>, including user interactions, clickstream
                             behavior, support chat transcripts, and session recordings used for performance optimization
                             and fraud prevention;</li>
-                        <li><strong>Marketing and Communication Data</strong>, such as newsletter subscriptions,
+                        <li data-i18n="privacyContent.section2.marketingData"><strong>Marketing and Communication
+                                Data</strong>, such as newsletter subscriptions,
                             preferences, and response data; and</li>
-                        <li><strong>Compliance Data</strong>, including employment background, source of funds,
+                        <li data-i18n="privacyContent.section2.complianceData"><strong>Compliance Data</strong>,
+                            including employment background, source of funds,
                             sanctions checks, and politically exposed person (PEP) status.</li>
                     </ul>
-                    <p>We do not knowingly collect personal data from individuals under the age of 18. If we become
+                    <p data-i18n="privacyContent.section2.ageNotice">We do not knowingly collect personal data from
+                        individuals under the age of 18. If we become
                         aware that such data has been collected, we shall promptly delete it.</p>
 
-                    <h2>3. Purposes for Processing Personal Data</h2>
-                    <p>We process your personal data only where it is lawful and necessary for the operation of our
+                    <h2 data-i18n="privacyContent.section3.title">3. Purposes for Processing Personal Data</h2>
+                    <p data-i18n="privacyContent.section3.intro">We process your personal data only where it is lawful
+                        and necessary for the operation of our
                         Services, for compliance with our legal obligations, or where we have a legitimate interest to
                         do so. The primary purposes include:</p>
                     <ul>
-                        <li>To verify your identity and perform anti-money laundering and counter-terrorist financing
+                        <li data-i18n="privacyContent.section3.purpose1">To verify your identity and perform anti-money
+                            laundering and counter-terrorist financing
                             screening, as required by applicable law;</li>
-                        <li>To enable you to register, access, and use various components of the Services, including
+                        <li data-i18n="privacyContent.section3.purpose2">To enable you to register, access, and use
+                            various components of the Services, including
                             wallets, cards, swaps, and virtual accounts;</li>
-                        <li>To monitor, detect, and investigate potentially fraudulent or suspicious behavior or
+                        <li data-i18n="privacyContent.section3.purpose3">To monitor, detect, and investigate potentially
+                            fraudulent or suspicious behavior or
                             violations of applicable law or our Terms of Use;</li>
-                        <li>To maintain system functionality and enhance service performance through diagnostics,
+                        <li data-i18n="privacyContent.section3.purpose4">To maintain system functionality and enhance
+                            service performance through diagnostics,
                             optimization, and analytics;</li>
-                        <li>To deliver administrative and service-related communications, including policy updates,
+                        <li data-i18n="privacyContent.section3.purpose5">To deliver administrative and service-related
+                            communications, including policy updates,
                             transactional alerts, and system notices;</li>
-                        <li>To comply with our statutory recordkeeping, reporting, and regulatory disclosure
+                        <li data-i18n="privacyContent.section3.purpose6">To comply with our statutory recordkeeping,
+                            reporting, and regulatory disclosure
                             obligations; and</li>
-                        <li>To conduct automated risk assessments and eligibility determinations using tools that
+                        <li data-i18n="privacyContent.section3.purpose7">To conduct automated risk assessments and
+                            eligibility determinations using tools that
                             support fraud detection, identity verification, or customer profiling, subject to applicable
                             safeguards.</li>
                     </ul>
 
-                    <h2>4. Legal Basis for Processing</h2>
-                    <p>Our processing of personal data is based on one or more of the following legal grounds:</p>
+                    <h2 data-i18n="privacyContent.section4.title">4. Legal Basis for Processing</h2>
+                    <p data-i18n="privacyContent.section4.intro">Our processing of personal data is based on one or more
+                        of the following legal grounds:</p>
                     <ul>
-                        <li>Where you have provided your explicit consent for a specific purpose, such as receiving
+                        <li data-i18n="privacyContent.section4.basis1">Where you have provided your explicit consent for
+                            a specific purpose, such as receiving
                             marketing communications or biometric processing;</li>
-                        <li>Where the processing is necessary for the performance of a contract to which you are party,
+                        <li data-i18n="privacyContent.section4.basis2">Where the processing is necessary for the
+                            performance of a contract to which you are party,
                             including the provision of our Services;</li>
-                        <li>Where the processing is required to comply with a legal obligation to which we are subject;
+                        <li data-i18n="privacyContent.section4.basis3">Where the processing is required to comply with a
+                            legal obligation to which we are subject;
                         </li>
-                        <li>Where the processing is necessary to protect the vital interests of you or another natural
+                        <li data-i18n="privacyContent.section4.basis4">Where the processing is necessary to protect the
+                            vital interests of you or another natural
                             person; and</li>
-                        <li>Where the processing is necessary for the purposes of our legitimate interests, provided
+                        <li data-i18n="privacyContent.section4.basis5">Where the processing is necessary for the
+                            purposes of our legitimate interests, provided
                             that such interests are not overridden by your rights or freedoms.</li>
                     </ul>
 
-                    <h2>5. Data Retention</h2>
-                    <p>We retain personal data only for as long as is necessary to fulfill the purposes for which it was
+                    <h2 data-i18n="privacyContent.section5.title">5. Data Retention</h2>
+                    <p data-i18n="privacyContent.section5.intro">We retain personal data only for as long as is
+                        necessary to fulfill the purposes for which it was
                         collected, or to comply with legal, regulatory, and operational requirements. The retention
                         periods we apply include:</p>
                     <ul>
-                        <li>Personal data collected for KYC and AML purposes is retained for a minimum of seven (7)
+                        <li data-i18n="privacyContent.section5.retention1">Personal data collected for KYC and AML
+                            purposes is retained for a minimum of seven (7)
                             years following account closure or inactivity;</li>
-                        <li>Technical and session-related logs are retained for a period of thirty (30) to one hundred
+                        <li data-i18n="privacyContent.section5.retention2">Technical and session-related logs are
+                            retained for a period of thirty (30) to one hundred
                             eighty (180) days, depending on security and operational needs;</li>
-                        <li>Marketing preferences and opt-out indicators are retained indefinitely to ensure compliance
+                        <li data-i18n="privacyContent.section5.retention3">Marketing preferences and opt-out indicators
+                            are retained indefinitely to ensure compliance
                             with applicable marketing laws;</li>
-                        <li>Customer service records and correspondence are retained for up to three (3) years following
+                        <li data-i18n="privacyContent.section5.retention4">Customer service records and correspondence
+                            are retained for up to three (3) years following
                             resolution, unless a longer period is required for dispute resolution or litigation.</li>
                     </ul>
 
-                    <h2>6. Disclosure of Personal Data to Third Parties</h2>
-                    <p>We disclose personal data to third parties strictly on a need-to-know basis and only to the
+                    <h2 data-i18n="privacyContent.section6.title">6. Disclosure of Personal Data to Third Parties</h2>
+                    <p data-i18n="privacyContent.section6.intro">We disclose personal data to third parties strictly on
+                        a need-to-know basis and only to the
                         extent required for lawful and legitimate purposes. Recipients of personal data may include:</p>
                     <ul>
-                        <li>Regulated custodial partners such as Merits Bank & Trust for purposes of account
+                        <li data-i18n="privacyContent.section6.recipient1">Regulated custodial partners such as Merits
+                            Bank & Trust for purposes of account
                             safeguarding, settlement, and compliance;</li>
-                        <li>Service providers performing functions on our behalf, such as KYC/AML vendors, cloud hosting
+                        <li data-i18n="privacyContent.section6.recipient2">Service providers performing functions on our
+                            behalf, such as KYC/AML vendors, cloud hosting
                             platforms, analytics providers, and communication systems;</li>
-                        <li>Legal, regulatory, or supervisory authorities, where disclosure is required by law,
+                        <li data-i18n="privacyContent.section6.recipient3">Legal, regulatory, or supervisory
+                            authorities, where disclosure is required by law,
                             regulation, court order, or lawful request;</li>
-                        <li>Professional advisors engaged in auditing, accounting, tax, or legal services pursuant to
+                        <li data-i18n="privacyContent.section6.recipient4">Professional advisors engaged in auditing,
+                            accounting, tax, or legal services pursuant to
                             contractual confidentiality obligations.</li>
                     </ul>
-                    <p>All disclosures are subject to strict confidentiality arrangements and, where applicable, are
+                    <p data-i18n="privacyContent.section6.disclosureNote">All disclosures are subject to strict
+                        confidentiality arrangements and, where applicable, are
                         governed by data processing agreements that reflect applicable legal standards.</p>
 
-                    <h2>7. International Transfers of Data</h2>
-                    <p>In certain cases, your personal data may be transferred to and processed in jurisdictions outside
+                    <h2 data-i18n="privacyContent.section7.title">7. International Transfers of Data</h2>
+                    <p data-i18n="privacyContent.section7.intro">In certain cases, your personal data may be transferred
+                        to and processed in jurisdictions outside
                         of your place of residence, including to countries that may not provide the same level of data
                         protection as your home jurisdiction. In such circumstances, we implement appropriate
                         safeguards, including:</p>
                     <ul>
-                        <li>Execution of Standard Contractual Clauses (SCCs) or equivalent legal mechanisms approved
+                        <li data-i18n="privacyContent.section7.safeguard1">Execution of Standard Contractual Clauses
+                            (SCCs) or equivalent legal mechanisms approved
                             under applicable law;</li>
-                        <li>Transfers to jurisdictions that have been formally recognized as providing adequate levels
+                        <li data-i18n="privacyContent.section7.safeguard2">Transfers to jurisdictions that have been
+                            formally recognized as providing adequate levels
                             of data protection;</li>
-                        <li>Reliance on your explicit consent, where permissible and required by law.</li>
+                        <li data-i18n="privacyContent.section7.safeguard3">Reliance on your explicit consent, where
+                            permissible and required by law.</li>
                     </ul>
-                    <p>We ensure that any cross-border transfer of personal data is made in accordance with applicable
+                    <p data-i18n="privacyContent.section7.complianceNote">We ensure that any cross-border transfer of
+                        personal data is made in accordance with applicable
                         data protection law.</p>
 
-                    <h2>8. Rights of Data Subjects</h2>
-                    <p>You have certain rights under applicable data protection laws with respect to your personal data.
+                    <h2 data-i18n="privacyContent.section8.title">8. Rights of Data Subjects</h2>
+                    <p data-i18n="privacyContent.section8.intro">You have certain rights under applicable data
+                        protection laws with respect to your personal data.
                         These rights may include:</p>
                     <ul>
-                        <li>The right to access and receive a copy of your personal data;</li>
-                        <li>The right to request correction of inaccurate or incomplete personal data;</li>
-                        <li>The right to request erasure of personal data, subject to any overriding legal retention
+                        <li data-i18n="privacyContent.section8.right1">The right to access and receive a copy of your
+                            personal data;</li>
+                        <li data-i18n="privacyContent.section8.right2">The right to request correction of inaccurate or
+                            incomplete personal data;</li>
+                        <li data-i18n="privacyContent.section8.right3">The right to request erasure of personal data,
+                            subject to any overriding legal retention
                             requirements;</li>
-                        <li>The right to object to or request restriction of processing in certain circumstances;</li>
-                        <li>The right to data portability, where technically feasible and legally mandated;</li>
-                        <li>The right to withdraw previously given consent, without affecting the lawfulness of
+                        <li data-i18n="privacyContent.section8.right4">The right to object to or request restriction of
+                            processing in certain circumstances;</li>
+                        <li data-i18n="privacyContent.section8.right5">The right to data portability, where technically
+                            feasible and legally mandated;</li>
+                        <li data-i18n="privacyContent.section8.right6">The right to withdraw previously given consent,
+                            without affecting the lawfulness of
                             processing carried out prior to withdrawal.</li>
                     </ul>
-                    <p>To exercise your rights, you may contact us at <a href="mailto:legal@upfinance.ai"
+                    <p data-i18n="privacyContent.section8.contactInfo">To exercise your rights, you may contact us at <a
+                            href="mailto:legal@upfinance.ai"
                             class="text-sky-400 hover:text-sky-300">legal@upfinance.ai</a>. We reserve the right to
                         verify your identity before responding to such requests.</p>
 
-                    <h2>9. Use of Cookies and Tracking Technologies</h2>
-                    <p>We use cookies and related tracking technologies to support platform functionality, perform usage
+                    <h2 data-i18n="privacyContent.section9.title">9. Use of Cookies and Tracking Technologies</h2>
+                    <p data-i18n="privacyContent.section9.content">We use cookies and related tracking technologies to
+                        support platform functionality, perform usage
                         analysis, and prevent fraudulent activity. You may control the use of non-essential cookies
                         through your browser settings. Disabling certain cookies may impact the availability or
                         functionality of the Services.</p>
 
-                    <h2>10. Security of Personal Data</h2>
-                    <p>We implement industry-standard technical and organizational measures designed to secure your
+                    <h2 data-i18n="privacyContent.section10.title">10. Security of Personal Data</h2>
+                    <p data-i18n="privacyContent.section10.intro">We implement industry-standard technical and
+                        organizational measures designed to secure your
                         personal data from accidental loss, unauthorized access, alteration, disclosure, or destruction.
                         Such measures include:</p>
                     <ul>
-                        <li>End-to-end encryption for data in transit and at rest;</li>
-                        <li>Role-based access controls and authentication mechanisms;</li>
-                        <li>Regular vulnerability assessments and penetration testing conducted by independent auditors;
+                        <li data-i18n="privacyContent.section10.measure1">End-to-end encryption for data in transit and
+                            at rest;</li>
+                        <li data-i18n="privacyContent.section10.measure2">Role-based access controls and authentication
+                            mechanisms;</li>
+                        <li data-i18n="privacyContent.section10.measure3">Regular vulnerability assessments and
+                            penetration testing conducted by independent auditors;
                         </li>
-                        <li>Incident response protocols, including detection, containment, and remediation processes.
+                        <li data-i18n="privacyContent.section10.measure4">Incident response protocols, including
+                            detection, containment, and remediation processes.
                         </li>
                     </ul>
-                    <p>While we endeavor to maintain a robust security posture, no system is immune to risk. Users are
+                    <p data-i18n="privacyContent.section10.securityNote">While we endeavor to maintain a robust security
+                        posture, no system is immune to risk. Users are
                         responsible for maintaining the confidentiality of their account credentials and are encouraged
                         to notify us immediately of any suspected security incident.</p>
 
-                    <h2>11. Breach Notification</h2>
-                    <p>In the event that a data breach occurs and is likely to result in a high risk to your rights or
+                    <h2 data-i18n="privacyContent.section11.title">11. Breach Notification</h2>
+                    <p data-i18n="privacyContent.section11.content">In the event that a data breach occurs and is likely
+                        to result in a high risk to your rights or
                         freedoms, we will notify you and the appropriate supervisory authority promptly and in
                         accordance with applicable legal obligations.</p>
 
-                    <h2>12. Updates to This Policy</h2>
-                    <p>We may amend this Privacy Policy from time to time to reflect changes in our legal obligations,
+                    <h2 data-i18n="privacyContent.section12.title">12. Updates to This Policy</h2>
+                    <p data-i18n="privacyContent.section12.content">We may amend this Privacy Policy from time to time
+                        to reflect changes in our legal obligations,
                         processing activities, or Services. Any material changes will be communicated through our
                         official channels, and the revised version will take effect upon publication. Continued use of
                         the Services following such publication constitutes acceptance of the revised terms.</p>
@@ -472,7 +547,8 @@
                             class="footer-toggle flex justify-between items-center w-full md:w-auto text-left bg-transparent border-none cursor-pointer group"
                             onclick="toggleFooterSection('product')">
                             <span
-                                class="text-white text-sm md:text-base font-medium  leading-normal group-hover:text-sky-400 transition-colors">Product</span>
+                                class="text-white text-sm md:text-base font-medium  leading-normal group-hover:text-sky-400 transition-colors"
+                                data-i18n="footer.product.title">Product</span>
                             <svg class="footer-arrow w-4 h-4 text-white/60 transform transition-transform duration-200 md:hidden"
                                 fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -483,15 +559,17 @@
                         <div id="product-menu" class="footer-menu hidden md:block mt-2 md:mt-3 pl-0 md:pl-0">
                             <div class="flex flex-col gap-2">
                                 <a href="../index.html#how-it-works"
-                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">How
-                                    It Works</a>
+                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors"
+                                    data-i18n="footer.product.howItWorks">How It Works</a>
                                 <a href="../index.html#features"
-                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">Features</a>
+                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors"
+                                    data-i18n="footer.product.features">Features</a>
                                 <a href="../index.html#up-card"
-                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">UpCard</a>
+                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors"
+                                    data-i18n="footer.product.upCard">UpCard</a>
                                 <a href="../index.html#global-coverage"
-                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">Supported
-                                    Countries</a>
+                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors"
+                                    data-i18n="footer.product.supportedCountries">Supported Countries</a>
                             </div>
                         </div>
                     </div>
@@ -502,7 +580,8 @@
                             class="footer-toggle flex justify-between items-center w-full md:w-auto text-left bg-transparent border-none cursor-pointer group"
                             onclick="toggleFooterSection('compliance')">
                             <span
-                                class="text-white text-sm md:text-base font-medium  leading-normal group-hover:text-sky-400 transition-colors">Compliance</span>
+                                class="text-white text-sm md:text-base font-medium  leading-normal group-hover:text-sky-400 transition-colors"
+                                data-i18n="footer.compliance.title">Compliance</span>
                             <svg class="footer-arrow w-4 h-4 text-white/60 transform transition-transform duration-200 md:hidden"
                                 fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -513,14 +592,14 @@
                         <div id="compliance-menu" class="footer-menu hidden md:block mt-2 md:mt-3 pl-0 md:pl-0">
                             <div class="flex flex-col gap-2">
                                 <a href="#"
-                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">KYC
-                                    / AML Policy</a>
+                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors"
+                                    data-i18n="footer.compliance.kycAml">KYC / AML Policy</a>
                                 <a href="../terms-and-conditions"
-                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">Terms
-                                    of Use</a>
+                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors"
+                                    data-i18n="footer.compliance.termsOfUse">Terms of Use</a>
                                 <a href="../privacy-policy"
-                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">Privacy
-                                    Policy</a>
+                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors"
+                                    data-i18n="footer.compliance.privacyPolicy">Privacy Policy</a>
                             </div>
                         </div>
                     </div>
@@ -531,7 +610,8 @@
                             class="footer-toggle flex justify-between items-center w-full md:w-auto text-left bg-transparent border-none cursor-pointer group"
                             onclick="toggleFooterSection('support')">
                             <span
-                                class="text-white text-sm md:text-base font-medium  leading-normal group-hover:text-sky-400 transition-colors">Support</span>
+                                class="text-white text-sm md:text-base font-medium  leading-normal group-hover:text-sky-400 transition-colors"
+                                data-i18n="footer.support.title">Support</span>
                             <svg class="footer-arrow w-4 h-4 text-white/60 transform transition-transform duration-200 md:hidden"
                                 fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -542,12 +622,14 @@
                         <div id="support-menu" class="footer-menu hidden md:block mt-2 md:mt-3 pl-0 md:pl-0">
                             <div class="flex flex-col gap-2">
                                 <a href="https://wa.me/85265830689" target="_blank"
-                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">Contact
-                                    Us</a>
+                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors"
+                                    data-i18n="footer.support.contactUs">Contact Us</a>
                                 <a href="https://t.me/UpFinanceSupport" target="_blank"
-                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">Telegram</a>
+                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors"
+                                    data-i18n="footer.support.telegram">Telegram</a>
                                 <a href="mailto:support@upfinance.ai" target="_blank"
-                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">support@upfinance.ai</a>
+                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors"
+                                    data-i18n="footer.support.email">support@upfinance.ai</a>
                             </div>
                         </div>
                     </div>
@@ -558,7 +640,8 @@
                             class="footer-toggle flex justify-between items-center w-full md:w-auto text-left bg-transparent border-none cursor-pointer group"
                             onclick="toggleFooterSection('company')">
                             <span
-                                class="text-white text-sm md:text-base font-medium  leading-normal group-hover:text-sky-400 transition-colors">Company</span>
+                                class="text-white text-sm md:text-base font-medium  leading-normal group-hover:text-sky-400 transition-colors"
+                                data-i18n="footer.company.title">Company</span>
                             <svg class="footer-arrow w-4 h-4 text-white/60 transform transition-transform duration-200 md:hidden"
                                 fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -569,8 +652,8 @@
                         <div id="company-menu" class="footer-menu hidden md:block mt-2 md:mt-3 pl-0 md:pl-0">
                             <div class="flex flex-col gap-2">
                                 <a href="#"
-                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors">Press
-                                    Kit</a>
+                                    class="text-white/60 text-sm md:text-base font-medium  leading-normal hover:text-white transition-colors"
+                                    data-i18n="footer.company.pressKit">Press Kit</a>
                             </div>
                         </div>
                     </div>
@@ -600,58 +683,84 @@
 
                 <!-- Product Column -->
                 <div class="flex flex-col gap-4">
-                    <div class="text-white text-base font-medium  leading-normal">Product</div>
+                    <div class="text-white text-base font-medium  leading-normal" data-i18n="footer.product.title">
+                        Product
+                    </div>
                     <div class="flex flex-col justify-start items-start gap-4">
                         <div class="text-white/60 text-base font-medium  leading-normal"><a
-                                href="../index.html#how-it-works" target="_blank">How It Works</a></div>
+                                href="../index.html#how-it-works" target="_blank"
+                                data-i18n="footer.product.howItWorks">How It Works</a></div>
                         <div class="text-white/60 text-base font-medium  leading-normal">
-                            <a href="../index.html#features" target="_blank">Features</a>
+                            <a href="../index.html#features" target="_blank"
+                                data-i18n="footer.product.features">Features</a>
                         </div>
                         <div class="text-white/60 text-base font-medium  leading-normal">
-                            <a href="../index.html#up-card" target="_blank">UpCard</a>
+                            <a href="../index.html#up-card" target="_blank" data-i18n="footer.product.upCard">UpCard</a>
                         </div>
                         <div class="text-white/60 text-base font-medium  leading-normal">
-                            <a href="../index.html#global-coverage" target="_blank">Supported Countries</a>
+                            <a href="../index.html#global-coverage" target="_blank"
+                                data-i18n="footer.product.supportedCountries">Supported Countries</a>
                         </div>
                     </div>
                 </div>
 
                 <!-- Compliance Column -->
                 <div class="flex flex-col gap-4">
-                    <div class="text-white text-base font-medium  leading-normal">Compliance</div>
+                    <div class="text-white text-base font-medium  leading-normal" data-i18n="footer.compliance.title">
+                        Compliance</div>
                     <div class="flex flex-col justify-start items-start gap-4">
-                        <div class="text-white/60 text-base font-medium  leading-normal">KYC / AML Policy
+                        <div class="text-white/60 text-base font-medium  leading-normal"
+                            data-i18n="footer.compliance.kycAml">KYC / AML Policy</div>
+                        <div class="text-white/60 text-base font-medium  leading-normal">
+                            <a href="../terms-and-conditions" data-i18n="footer.compliance.termsOfUse">Terms of Use</a>
                         </div>
-                        <div class="text-white/60 text-base font-medium  leading-normal"><a
-                                href="../terms-and-conditions">Terms of Use</a></div>
-                        <div class="text-white/60 text-base font-medium  leading-normal"><a
-                                href="../privacy-policy">Privacy Policy</a></div>
+                        <div class="text-white/60 text-base font-medium  leading-normal">
+                            <a href="../privacy-policy" data-i18n="footer.compliance.privacyPolicy">Privacy Policy</a>
+                        </div>
                     </div>
                 </div>
 
                 <!-- Support Column -->
                 <div class="flex flex-col gap-4">
-                    <div class="text-white text-base font-medium  leading-normal">Support</div>
+                    <div class="text-white text-base font-medium  leading-normal" data-i18n="footer.support.title">
+                        Support
+                    </div>
                     <div class="flex flex-col justify-start items-start gap-4">
                         <div class="text-white/60 text-base font-medium  leading-normal"><a
-                                href="https://wa.me/85265830689" target="_blank">Contact Us</a></div>
+                                href="https://wa.me/85265830689" target="_blank"
+                                data-i18n="footer.support.contactUs">Contact Us</a></div>
                         <div class="text-white/60 text-base font-medium  leading-normal"><a
-                                href="https://t.me/UpFinanceSupport" target="_blank">Telegram</a></div>
-                        <div class="text-white/60 text-base font-medium  leading-normal">support@upfinance.ai
-                        </div>
+                                href="https://t.me/UpFinanceSupport" target="_blank"
+                                data-i18n="footer.support.telegram">Telegram</a></div>
+                        <div class="text-white/60 text-base font-medium  leading-normal"
+                            data-i18n="footer.support.email">support@upfinance.ai</div>
                     </div>
                 </div>
 
                 <!-- Company Column -->
                 <div class="flex flex-col gap-4">
-                    <div class="text-white text-base font-medium  leading-normal">Company</div>
+                    <div class="text-white text-base font-medium  leading-normal" data-i18n="footer.company.title">
+                        Company
+                    </div>
                     <div class="flex flex-col justify-start items-start gap-4">
-                        <div class="text-white/60 text-base font-medium  leading-normal">Press Kit</div>
+                        <div class="text-white/60 text-base font-medium  leading-normal"
+                            data-i18n="footer.company.pressKit">Press Kit</div>
                     </div>
                 </div>
             </div>
         </footer>
     </div>
+
+    <!-- Initialize language switchers -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            // Initialize language switchers for desktop and mobile
+            if (window.i18n) {
+                window.i18n.createLanguageSwitcher('lang-switcher-desktop');
+                window.i18n.createLanguageSwitcher('lang-switcher-mobile');
+            }
+        });
+    </script>
 </body>
 
 </html>
