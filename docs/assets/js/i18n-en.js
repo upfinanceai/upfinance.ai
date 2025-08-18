@@ -228,7 +228,7 @@ const i18n_en = {
     termsContent: {
         title: "UpFinance SERVICES TERMS & CONDITIONS",
         legalNotice: "THIS IS A LEGALLY BINDING DOCUMENT. PLEASE READ IT CAREFULLY.",
-        intro1: "These Terms and Conditions (\"Terms\") constitute a legally binding agreement between you (the \"User\" or \"you\") and Osmosis Limited, a private company incorporated in Hong Kong, having its registered office at Flat/Rm 505, Block C, Queen's Garden, 9 Old Peak Road, Mid-Level Central, Hong Kong. \"UpFinance\" is a registered trademark and the primary commercial brand operated by Osmosis Limited for the delivery of its digital financial services. References in these Terms to \"UpFinance\", \"we\", \"us\", or \"our\" shall be construed as references to Osmosis Limited in its capacity as the legal entity behind the UpFinance platform.",
+        intro1: "These Terms and Conditions (\"Terms\") constitute a legally binding agreement between you (the \"User\" or \"you\") and Osmosis Limited, a private company incorporated in Hong Kong, having its registered office at 16 Floor, 60 GLOUCESTER ROAD, Wan Chai, Hong Kong. \"UpFinance\" is a registered trademark and the primary commercial brand operated by Osmosis Limited for the delivery of its digital financial services. References in these Terms to \"UpFinance\", \"we\", \"us\", or \"our\" shall be construed as references to Osmosis Limited in its capacity as the legal entity behind the UpFinance platform.",
         intro2: "These Terms govern your access to and use of our Services (as defined herein), including but not limited to any website, mobile application, and associated financial products and tools operated under the UpFinance brand.",
         intro3: "By accessing, registering for, or using any part of the Services, you acknowledge that you have read, understood, and agreed to be bound by these Terms, together with any policies, disclosures, schedules, and notices incorporated by reference. If you do not agree with these Terms, you must not use or access any of the Services.",
         part1: {
@@ -275,7 +275,7 @@ const i18n_en = {
             fee1: "Card issuance and annual maintenance fees;",
             fee2: "FX or swap spreads;",
             fee3: "Withdrawal, deposit, or top-up fees;",
-            fee4: "Network and blockchain transaction costs.",
+            fee4: "Network and blockchain transaction costs;",
             content3: "6.3 Fees are exclusive of any applicable tax or withholding obligation. You are solely responsible for determining and fulfilling your tax liabilities in your jurisdiction of residence."
         },
         section7: {
@@ -284,7 +284,7 @@ const i18n_en = {
             risk1: "Digital assets are highly volatile and speculative in nature;",
             risk2: "There is a risk of partial or total loss of your holdings;",
             risk3: "Blockchain transactions may be irreversible;",
-            risk4: "Custodial or self-custody solutions may be subject to technological and cybersecurity risks.",
+            risk4: "Custodial or self-custody solutions may be subject to technological and cybersecurity risks;",
             content2: "7.2 You understand that UpFinance does not act as your financial advisor. All decisions made using the Services are undertaken at your sole discretion and risk."
         },
         section8: {
@@ -743,10 +743,10 @@ const i18n_en = {
     // Privacy Policy Content
     privacyContent: {
         title: "UP FINANCE PRIVACY POLICY",
-        intro: "This Privacy Policy outlines how Osmosis Limited, a company incorporated in Hong Kong and operating under the brand name UP Finance (\"UP Finance\", \"we\", \"us\", or \"our\"), collects, uses, stores, transfers, and safeguards personal data in connection with our services. This policy governs the collection and processing of personal information of individuals who access or use any aspect of the UP Finance ecosystem, including its websites, mobile applications, APIs, custodial and non-custodial wallets, card services, and virtual accounts (collectively, the \"Services\").",
+        intro: "This Privacy Policy outlines how Osmosis Limited, a company incorporated in Hong Kong and operating under the brand name Up Finance (\"Up Finance\", \"we\", \"us\", or \"our\"), collects, uses, stores, transfers, and safeguards personal data in connection with our services. This policy governs the collection and processing of personal information of individuals who access or use any aspect of the Up Finance ecosystem, including its websites, mobile applications, APIs, custodial and non-custodial wallets, card services, and virtual accounts (collectively, the \"Services\").",
         section1: {
             title: "1. Data Controller",
-            content: "Osmosis Limited, with registered office at Flat/Rm 505, Block C, Queen's Garden, 9 Old Peak Road, Mid-Level Central, Hong Kong, acts as the data controller in relation to personal data processed under this Policy. All data-related inquiries may be directed to our appointed Data Protection Officer at legal@upfinance.ai."
+            content: "Osmosis Limited, with registered office at 16 Floor, 60 GLOUCESTER ROAD, Wan Chai, Hong Kong, acts as the data controller in relation to personal data processed under this Policy. All data-related inquiries may be directed to our appointed Data Protection Officer at legal@upfinance.ai."
         },
         section2: {
             title: "2. Categories of Personal Data Collected",
