@@ -214,7 +214,8 @@ const i18n_en = {
         company: {
             title: "Company",
             pressKit: "Press Kit"
-        }
+        },
+        copyright: "© 2025 UpGlobal Inc. All rights reserved. FinCEN MSB Reg. No. 31000308751680."
     },
 
     // Legal pages
@@ -228,7 +229,7 @@ const i18n_en = {
     termsContent: {
         title: "UpFinance SERVICES TERMS & CONDITIONS",
         legalNotice: "THIS IS A LEGALLY BINDING DOCUMENT. PLEASE READ IT CAREFULLY.",
-        intro1: "These Terms and Conditions (\"Terms\") constitute a legally binding agreement between you (the \"User\" or \"you\") and Osmosis Limited, a private company incorporated in Hong Kong, having its registered office at 16 Floor, 60 GLOUCESTER ROAD, Wan Chai, Hong Kong. \"UpFinance\" is a registered trademark and the primary commercial brand operated by Osmosis Limited for the delivery of its digital financial services. References in these Terms to \"UpFinance\", \"we\", \"us\", or \"our\" shall be construed as references to Osmosis Limited in its capacity as the legal entity behind the UpFinance platform.",
+        intro1: "These Terms and Conditions (\"Terms\") constitute a legally binding agreement between you (the \"User\" or \"you\") and UpGlobal Inc., a corporation incorporated in Delaware, having its registered office at 8 The Green Ste A Dover, DE 19901, in the City of Dover, County of Kent, Zip Code 19901. \"UpFinance\" is a registered trademark and the primary commercial brand operated by UpGlobal Inc. for the delivery of its digital financial services. References in these Terms to \"UpFinance\", \"we\", \"us\", or \"our\" shall be construed as references to UpGlobal Inc. in its capacity as the legal entity behind the UpFinance platform.",
         intro2: "These Terms govern your access to and use of our Services (as defined herein), including but not limited to any website, mobile application, and associated financial products and tools operated under the UpFinance brand.",
         intro3: "By accessing, registering for, or using any part of the Services, you acknowledge that you have read, understood, and agreed to be bound by these Terms, together with any policies, disclosures, schedules, and notices incorporated by reference. If you do not agree with these Terms, you must not use or access any of the Services.",
         part1: {
@@ -242,13 +243,15 @@ const i18n_en = {
             title: "2. SCOPE AND APPLICATION",
             content1: "2.1 These Terms apply to your Account and your use of the Services, including but not limited to: (a) the Custodian Account; (b) UpFinance Card Services; (c) Swap Transactions; (d) Wallet Services; (e) Virtual Accounts; and (f) access to or use of any Third-Party Services provided in conjunction with UpFinance.",
             content2: "2.2 These Terms are supplemented by any specific terms and conditions applicable to each Service module, as set out in Parts A–F. To the extent of any conflict between the General Terms and the terms of a Service-specific Part, the Service-specific terms shall prevail.",
-            content3: "2.3 These Terms are governed by the laws of Hong Kong. Any disputes shall be subject to the exclusive jurisdiction of the courts or arbitral bodies of Hong Kong, unless otherwise provided in the Dispute Resolution Clause."
+            content3: "2.3 These Terms are governed by the laws of Delaware. Any disputes shall be subject to the exclusive jurisdiction of the courts or arbitral bodies of Delaware, unless otherwise provided in the Dispute Resolution Clause."
         },
         section3: {
             title: "3. LICENSING AND REGULATORY FRAMEWORK",
-            content1: "3.1 Intermediary Licensing: UpFinance currently operates through licensed third-party institutions to ensure that all regulated components of its Services are provided in full compliance with applicable legal and regulatory frameworks. All custodial and settlement services are facilitated through Merits Bank & Trust Limited, a licensed trust company regulated under the Trust or Company Service Provider regime administered by the Hong Kong Companies Registry, holding Licence No. TC008817. UpFinance disclaims any representation that it itself is licensed to carry out trust, custodial, or banking activities and acts solely as an introducer and platform operator.",
-            content2: "3.2 Disclosure Obligation: The User acknowledges that UpFinance does not independently hold a financial license in the initial stage of operations. All Services are offered through Merits' regulated license under full disclosure.",
-            content3: "3.3 Future Licensing: UpFinance reserves the right to acquire additional regulatory approvals or licenses in other jurisdictions and to migrate certain services to be conducted under its own license in due course."
+            content1: "3.1 U.S. FinCEN Registration. UpGlobal Inc is registered with the U.S. Financial Crimes Enforcement Network (FinCEN) as a Money Services Business under Registration No. 31000308751680 (Date on MSB transcript: Aug 28, 2025; Received date: Aug 25, 2025), with the registered business address 8 The Green, Ste A, Dover, DE 19901. FinCEN registration is a federal registration under the Bank Secrecy Act and does not constitute an approval or endorsement by FinCEN.",
+            content2: "3.2 State Licensing: Certain money transmission or payment services may require state money transmitter licenses (MTLs). Availability of specific services can vary by state or territory and may be restricted, delayed, or provided via licensed partners until applicable licenses are obtained. Nothing in these Terms shall be construed as representing that UpGlobal Inc holds all state MTLs.",
+            content3: "3.3 Intermediary & Partner Licensing: UpFinance may deliver regulated components of the Services through licensed third-party institutions. Custodial and settlement services may be facilitated through Merits Bank & Trust Limited, a Hong Kong licensed trust or company service provider (TCSP Licence No. TC008817). UpGlobal Inc does not itself conduct trust, custodial, or banking business.",
+            content4: "3.4 Disclosure Obligation: The User acknowledges that UpFinance does not independently hold a financial license in the initial stage of operations. All Services are offered through Merits' regulated license under full disclosure.",
+            content5: "3.5 Future Licensing: UpFinance reserves the right to acquire additional regulatory approvals or licenses in other jurisdictions and to migrate certain services to be conducted under its own license in due course.",
         },
         section4: {
             title: "4. ACCOUNT OPENING AND ELIGIBILITY",
@@ -258,7 +261,9 @@ const i18n_en = {
             requirement3: "Provide all required documentation and complete KYC/AML checks to the satisfaction of UpFinance or its designated compliance providers;",
             requirement4: "Have full legal capacity to enter into binding contracts.",
             content2: "4.2 We reserve the right to approve or reject any application at our sole discretion. We may suspend or terminate access to the Services in case of suspected breach of these Terms or violation of any applicable laws.",
-            content3: "4.3 You agree that your Account is non-transferable, and you will not allow third parties to access or operate your Account."
+            content3: "4.3 You agree that your Account is non-transferable, and you will not allow third parties to access or operate your Account.",
+            content4: "4.4 You represent you are not located in, organized under the laws of, or ordinarily resident in any sanctioned jurisdiction, and you are not a sanctioned person (e.g., on any U.S. OFAC list). You will not use the Services for any activities prohibited by U.S. sanctions or export-control laws.",
+            content5: "4.5 Prohibited/Restricted Jurisdictions may apply and can change."
         },
         section5: {
             title: "5. SERVICE AVAILABILITY AND MODIFICATIONS",
@@ -285,17 +290,18 @@ const i18n_en = {
             risk2: "There is a risk of partial or total loss of your holdings;",
             risk3: "Blockchain transactions may be irreversible;",
             risk4: "Custodial or self-custody solutions may be subject to technological and cybersecurity risks;",
-            content2: "7.2 You understand that UpFinance does not act as your financial advisor. All decisions made using the Services are undertaken at your sole discretion and risk."
+            content2: "7.2 You understand that UpFinance does not act as your financial advisor. All decisions made using the Services are undertaken at your sole discretion and risk.",
+            content3: "7.3 UpGlobal Inc is not a bank, and Accounts are not FDIC-insured, unless expressly stated for a specific product."
         },
         section8: {
             title: "8. LIMITATION OF LIABILITY",
-            content1: "8.1 To the fullest extent permitted by applicable law, the total aggregate liability of UpFinance, Osmosis Limited, and their respective affiliates, directors, officers, employees, agents, service providers, and licensors (collectively, the \"UpFinance Parties\") arising out of or in connection with these Terms or the Services shall not exceed the lesser of (a) the total amount of direct fees paid by the User to UpFinance in the six (6) months preceding the event giving rise to the claim, or (b) USD 100,000.",
+            content1: "8.1 To the fullest extent permitted by applicable law, the total aggregate liability of UpGlobal Inc and its respective affiliates, directors, officers, employees, agents, service providers, and licensors (collectively, the \"UpFinance Parties\") arising out of or in connection with these Terms or the Services shall not exceed the lesser of (a) the total amount of direct fees paid by the User to UpFinance in the six (6) months preceding the event giving rise to the claim, or (b) USD 100,000.",
             content2: "8.2 In no event shall any UpFinance Party be liable for any indirect, incidental, special, exemplary, punitive, or consequential damages, or for any loss of profits, revenue, goodwill, data, business opportunity, or anticipated savings, whether arising in contract, tort (including negligence), equity, strict liability, or otherwise, even if advised of the possibility of such damages.",
             content3: "8.3 UpFinance disclaims liability for any loss, delay, or damage arising from or related to the actions or omissions of any third-party service provider, including custodians, banks, payment processors, settlement agents, or blockchain networks, except to the extent such loss is caused solely by the gross negligence or willful misconduct of UpFinance as determined by a final, non-appealable judgment.",
             content4: "8.4 UpFinance shall not be liable for any failure or delay in performance resulting from events beyond its reasonable control, including acts of God, acts of civil or military authorities, war, terrorism, labor disputes, cyberattacks, technical failures, regulatory actions, or any interruption of third-party services or infrastructure.",
             content5: "8.5 Notwithstanding anything to the contrary in these Terms, the exclusions and limitations of liability set forth in this Clause shall not apply where the claim results directly from gross negligence or willful misconduct by UpFinance, as established in a final judgment by a court of competent jurisdiction that is not subject to further appeal.",
             content6: "8.6 Any claim or cause of action arising out of or related to the Services must be initiated within twelve (12) months after the date on which the facts giving rise to such claim first occurred. Claims not brought within this period shall be deemed irrevocably waived.",
-            content7: "8.7 You agree to indemnify, defend, and hold harmless UpFinance, Osmosis Limited, and their respective affiliates, directors, officers, employees, agents, service providers, licensors, and representatives from and against any and all claims, demands, actions, proceedings, losses, liabilities, damages, judgments, settlements, fines, penalties, costs, and expenses (including reasonable legal and accounting fees), whether direct or indirect, arising out of or relating to: (a) your access to or use of the Services; (b) your violation of these Terms or any incorporated policy; (c) your breach of any representation, warranty, or obligation under these Terms; (d) your violation of any applicable law, regulation, or third-party rights; (e) any act of fraud, misrepresentation, or willful misconduct on your part; or (f) any claim brought against UpFinance in connection with your data, activity, conduct, or transactions carried out through the Services. This indemnification obligation shall survive the termination or expiration of these Terms and your use of the Services."
+            content7: "8.6 You agree to indemnify, defend, and hold harmless UpGlobal Inc and its respective affiliates, directors, officers, employees, agents, service providers, licensors, and representatives from and against any and all claims, demands, actions, proceedings, losses, liabilities, damages, judgments, settlements, fines, penalties, costs, and expenses (including reasonable legal and accounting fees), whether direct or indirect, arising out of or relating to: (a) your access to or use of the Services; (b) your violation of these Terms or any incorporated policy; (c) your breach of any representation, warranty, or obligation under these Terms; (d) your violation of any applicable law, regulation, or third-party rights; (e) any act of fraud, misrepresentation, or willful misconduct on your part; or (f) any claim brought against UpFinance in connection with your data, activity, conduct, or transactions carried out through the Services. This indemnification obligation shall survive the termination or expiration of these Terms and your use of the Services."
         },
         section9: {
             title: "9. TERMINATION AND SUSPENSION",
@@ -307,7 +313,8 @@ const i18n_en = {
         },
         section10: {
             title: "10. NOTICES AND COMMUNICATIONS",
-            content: "All legal notices shall be deemed delivered when sent via email or posted on the official UpFinance website or mobile application. You agree to receive communications electronically and waive any right to physical delivery."
+            content1: "All legal notices shall be deemed delivered when sent via email to support@upfinance.ai or mailed to UpGlobal Inc, 8 The Green, Ste A, Dover, DE 19901, USA. You agree to receive communications electronically and waive any right to physical delivery.",
+            content2: "By using the Services, you consent to receive notices and disclosures electronically in accordance with the U.S. E-SIGN Act (15 U.S.C. § 7001 et seq.)."
         },
         section11: {
             title: "11. DEFINITIONS",
@@ -317,18 +324,18 @@ const i18n_en = {
             custodianAccount: "\"Custodian Account\" means the account established for the User under Part A for the custody and management of fiat or digital assets, held through licensed trust or custodial partners.",
             digitalAssets: "\"Digital Assets\" means any cryptographic tokens, virtual currencies, digital coins, or other blockchain-based representations of value supported by the Services.",
             fees: "\"Fees\" means any charges, costs, spreads, or commissions applicable to the Services, as disclosed in the Fee Schedule or at the time of the transaction.",
-            merits: "\"Merits\" or \"Merits Bank & Trust\" refers to Merits Bank & Trust Limited, a licensed trust company in Hong Kong under Trust License No. TC008817, used as the primary custodian and settlement provider for UpFinance.",
+            merits: "\"Merits\" or \"Merits Bank & Trust\" means Merits Bank & Trust Limited, a Hong Kong licensed trust or company service provider (TCSP Licence No. TC008817), which may be used as a custodial and settlement partner.",
             partyA: "\"Party A\" refers to Osmosis Limited, operating under the commercial name \"UpFinance,\" including any of its successors or assigns.",
             platform: "\"Platform\" means all websites, mobile applications, APIs, interfaces, and other systems operated under the UpFinance brand.",
             services: "\"Services\" means all products, functionalities, and features made available to Users through the UpFinance Platform, including but not limited to Custodian Accounts, Card Services, Wallets, Swap Transactions, Virtual Accounts, and Third-Party Services.",
             terms: "\"Terms\" refers to these UpFinance Services Terms and Conditions, including any policies, schedules, annexes, and service-specific terms incorporated by reference.",
-            thirdPartyServices: "\"Third-Party Services\" means any external platforms, software, providers, or services integrated into or made available through UpFinance, over which Party A has no operational control.",
+            thirdPartyServices: "\"Third-Party Services\" means any external platforms, software, providers, or services integrated into or made available through UpFinance, over which UpGlobal Inc has no operational control.",
             user: "\"User,\" \"you,\" or \"your\" means the individual or legal entity that registers for, accesses, or uses any part of the Services."
         },
         section12: {
             title: "12. DISPUTE RESOLUTION",
             content1: "12.1 To the fullest extent permitted by applicable law, any dispute, controversy, difference, or claim arising out of or relating to these Terms or the Services, including the existence, validity, interpretation, performance, breach, or termination thereof, shall be resolved through final and binding arbitration.",
-            content2: "12.2 The arbitration shall be conducted in accordance with the Hong Kong International Arbitration Centre (HKIAC) Administered Arbitration Rules in force at the time of the commencement of the arbitration. The seat of arbitration shall be Hong Kong, and the language of the proceedings shall be English. The number of arbitrators shall be one, appointed in accordance with the HKIAC Rules. Judgment upon the arbitral award may be entered in any court of competent jurisdiction.",
+            content2: "12.2 The arbitration shall be conducted in accordance with the American Arbitration Association (AAA) Commercial Arbitration Rules in force at the time of the commencement of the arbitration. The seat of arbitration shall be Delaware, and the language of the proceedings shall be English. The number of arbitrators shall be one, appointed in accordance with the AAA Rules. Judgment upon the arbitral award may be entered in any court of competent jurisdiction.",
             content3: "12.3 The parties expressly waive, to the maximum extent permitted by law, any right to a trial by jury or to participate in any class action, mass action, or collective proceeding against the other party. Each party agrees to resolve disputes on an individual basis only and not as a plaintiff or class member in any purported class or representative proceeding.",
             content4: "12.4 Notwithstanding the above, either party may seek interim, emergency, or injunctive relief from any court of competent jurisdiction where such relief is necessary to prevent imminent and irreparable harm, preserve assets, or protect confidential information or intellectual property rights, and such application shall not be deemed incompatible with this arbitration clause.",
             content5: "12.5 All arbitration proceedings, filings, submissions, awards, and related materials shall be kept strictly confidential by all parties, and shall not be disclosed to any third party without the prior written consent of the other party, unless such disclosure is required by law or regulatory authority."
@@ -336,26 +343,24 @@ const i18n_en = {
         section13: {
             title: "13. GENERAL TERMS",
             content1: "13.1 These Terms, together with all policies, disclosures, and documents incorporated herein by reference, constitute the entire agreement between you and Party A and supersede all prior agreements, understandings, negotiations, representations, and communications, whether oral or written, with respect to the subject matter hereof.",
-            content2: "13.2 No failure or delay by Party A in exercising any right, power, or remedy under these Terms shall operate as a waiver thereof, nor shall any single or partial exercise preclude any other or further exercise thereof. Any waiver must be in writing to be effective.",
+            content2: "13.2 No failure or delay by UpGlobal Inc in exercising any right, power, or remedy under these Terms shall operate as a waiver thereof, nor shall any single or partial exercise preclude any other or further exercise thereof. Any waiver must be in writing to be effective.",
             content3: "13.3 You may not assign, transfer, or novate your rights or obligations under these Terms without our prior written consent. We may assign or transfer these Terms, in whole or in part, without notice or consent, to any affiliate, successor entity, or in connection with a corporate reorganization, merger, acquisition, or sale of assets.",
-            content4: "13.4 Party A shall not be liable for any failure or delay in performance or availability of the Services to the extent such failure or delay results from events or circumstances beyond its reasonable control, including but not limited to acts of God, natural disasters, epidemic or pandemic outbreaks, war, terrorism, cyberattacks, communication failures, utility or network downtime, labor disputes, government restrictions or regulatory actions, custodial or service provider failures, and other unforeseeable operational disruptions.",
-            content5: "13.5 Party A reserves the right to amend, update, or modify these Terms or any of the incorporated documents at any time by publishing the revised version on the Platform or otherwise providing notice to you. Your continued use of the Services following such publication or notice constitutes your acceptance of the updated Terms.",
+            content4: "13.4 UpGlobal Inc shall not be liable for any failure or delay in performance or availability of the Services to the extent such failure or delay results from events or circumstances beyond its reasonable control, including but not limited to acts of God, natural disasters, epidemic or pandemic outbreaks, war, terrorism, cyberattacks, communication failures, utility or network downtime, labor disputes, government restrictions or regulatory actions, custodial or service provider failures, and other unforeseeable operational disruptions.",
+            content5: "13.5 UpGlobal Inc reserves the right to amend, update, or modify these Terms or any of the incorporated documents at any time by publishing the revised version on the Platform or otherwise providing notice to you. Your continued use of the Services following such publication or notice constitutes your acceptance of the updated Terms.",
             content6: "13.6 If any provision of these Terms is held by a court of competent jurisdiction to be invalid, illegal, or unenforceable, such provision shall be modified to the minimum extent necessary to render it valid and enforceable, and the remaining provisions shall remain in full force and effect.",
-            content7: "13.7 These Terms shall be governed by and construed in accordance with the laws of the Hong Kong Special Administrative Region, without regard to conflict of law principles. You agree that Hong Kong shall be the exclusive forum for any disputes not otherwise subject to arbitration under these Terms.",
+            content7: "13.7 These Terms shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to conflict of law principles. You agree that Delaware shall be the exclusive forum for any disputes not otherwise subject to arbitration under these Terms.",
             content8: "13.8 To the fullest extent permitted by law, any claim or cause of action arising out of or related to these Terms or the Services must be filed within twelve (12) months from the date the claim first arose. Any claims not filed within such time shall be permanently barred."
         },
         section14: {
             title: "14. OPERATIONAL AND LEGAL SAFEGUARDS",
             content1: "14.1 You agree to indemnify and hold harmless UpFinance, its affiliates, directors, officers, employees, agents, and service providers from and against any and all losses, damages, liabilities, claims, demands, costs, and expenses (including legal fees) arising from your breach of these Terms, your violation of applicable laws or regulations, your use of the Services, or any unauthorized, fraudulent, or negligent acts or omissions on your part.",
-            content2: "14.2 We reserve the right to amend or vary these Terms at any time by posting the updated version on our website or platform. Your continued use of the Services following such notice shall constitute acceptance of the updated Terms.",
-            content3: "14.3 We shall not be liable for any failure or delay in performance caused by events or circumstances beyond our reasonable control, including but not limited to acts of God, cyber incidents, regulatory changes, custodial or banking failures, internet outages, war, civil unrest, or third-party service interruptions.",
-            content4: "14.4 To the maximum extent permitted by applicable law, you agree that any claim or cause of action arising out of or related to the use of the Services must be filed within twelve (12) months after such claim or cause of action arises, or be forever barred."
+            content2: "14.2 We shall not be liable for any failure or delay in performance caused by events or circumstances beyond our reasonable control, including but not limited to acts of God, cyber incidents, regulatory changes, custodial or banking failures, internet outages, war, civil unrest, or third-party service interruptions."
         },
         partA: {
             title: "PART A: CUSTODIAN ACCOUNT",
             section1: {
                 title: "1. SCOPE",
-                content1: "1.1 This Part A sets out the terms and conditions applicable to the Custodian Account provided through UpFinance via its regulated partner, Merits Bank & Trust (\"Merits\"), a licensed trust company incorporated in Hong Kong.",
+                content1: "1.1 This Part A sets out the terms and conditions applicable to the Custodian Account provided through UpFinance via its regulated partner, Merits Bank & Trust (“Merits”), a licensed trust company incorporated in Hong Kong.",
                 content2: "1.2 By accessing or using the Custodian Account, you agree to be bound by this Part A in addition to the General Terms and Conditions."
             },
             section2: {
@@ -462,9 +467,9 @@ const i18n_en = {
                 fee2: "Monthly or annual maintenance fee;",
                 fee3: "FX spread or conversion margin;",
                 fee4: "ATM withdrawal fees;",
-                fee5: "Reissuance or replacement fees;",
+                fee5: "Reissuance or replacement fees are disclosed in the applicable Fee Schedule.",
                 feesDisclosure: "are disclosed in the applicable Fee Schedule.",
-                content2: "5.2 All foreign currency transactions will be converted using UpFinance's prevailing rates, which include a spread above the mid-market rate or interbank rate.",
+                content2: "5.2 All non-USD transactions are converted using rates set by UpFinance or the Card Issuer, which include a spread over benchmark interbank rates. The applicable rate will be disclosed or made available at the time of transaction.",
                 content3: "5.3 Fees may be charged in crypto or fiat and may be auto-deducted from your Custodian Account or invoiced in arrears."
             },
             section6: {
@@ -737,105 +742,180 @@ const i18n_en = {
         endOfTerms: {
             title: "END OF SERVICE-SPECIFIC TERMS",
             content: "The remaining provisions of these Terms, including the Definitions Section and Dispute Resolution Clause, continue to apply."
+        },
+        copyright: "© 2025 UpGlobal Inc. All rights reserved. FinCEN MSB Reg. No. 31000308751680."
+    },
+
+    // KYC/AML Policy Content
+    kycAmlContent: {
+        title: "UpFinance ANTI-MONEY LAUNDERING (AML) AND KNOW-YOUR-CUSTOMER (KYC) POLICY",
+        lastUpdated: "Oct 8, 2025",
+        intro1: "This Anti-Money Laundering (\"AML\") and Know-Your-Customer (\"KYC\") Policy (\"Policy\") is issued by UpGlobal Inc., a corporation incorporated under the laws of the State of Delaware with its registered office at 8 The Green, Ste A, Dover, DE 19901, USA, doing business as UpFinance (\"we,\" \"us,\" or \"our\").",
+        intro2: "The purpose of this Policy is to establish comprehensive governance, controls, and procedures to prevent money laundering, terrorist financing, proliferation financing, sanctions evasion, and related illicit financial activity.",
+        intro3: "This Policy applies to all users, counterparties, employees, and partners of UpFinance and forms an integral part of our Terms of Use.",
+        section1: {
+            title: "1. Legal and Regulatory Framework",
+            content: "UpFinance complies with all applicable U.S. laws and regulations, including the Bank Secrecy Act (BSA), USA PATRIOT Act, and related FinCEN rules (31 CFR §§ 1010-1023), as well as the Financial Action Task Force (FATF) Recommendations.",
+            content2: "UpGlobal Inc. is registered with the U.S. Financial Crimes Enforcement Network (FinCEN) as a Money Services Business (MSB Reg. No. 31000308751680).",
+            content3: "Where applicable, we coordinate with licensed custodial partners, including Merits Bank & Trust Limited (Hong Kong — TCSP Licence No. TC008817), which operate under their respective regulatory regimes."
+        },
+        section2: {
+            title: "2. Risk-Based Approach (RBA)",
+            content1: "We employ a risk-based approach consistent with FATF guidance and FinCEN expectations. Customers are risk-classified based on geographic origin, business nature, transaction patterns, source of funds, and PEP/sanctions status. ",
+            content2: "Enhanced Due Diligence (EDD) is applied to high-risk profiles, including those from higher-risk jurisdictions or with complex structures or unusual behavior."
+        },
+        section3: {
+            title: "3. Customer Due Diligence (CDD)",
+            intro: "CDD is mandatory before establishing any relationship or enabling transactions. It includes:",
+            requirement1: "Verification of identity via government ID and, where permitted, biometric checks;",
+            requirement2: "Collection of residential address, nationality, date of birth, and contact details;",
+            requirement3: "Verification of source of funds and source of wealth;",
+            requirement4: "Sanctions screening against OFAC, UN, EU, and other lists;",
+            requirement5: "Determination of Ultimate Beneficial Ownership (UBO) for entities.",
+            content: "No services are provided to individuals or entities failing to meet CDD standards. All data is handled in accordance with our Privacy Policy and applicable data-protection laws."
+        },
+        section4: {
+            title: "4. Ongoing Monitoring",
+            intro: "UpFinance uses automated and manual controls to monitor transactions and behavior continuously, including:",
+            item1: "Screening against updated sanctions and PEP lists;",
+            item2: "Review of activity against typologies of fraud and money laundering;",
+            item3: "Triggering alerts on threshold breaches or anomalies;",
+            item4: "Periodic re-verification of customer information.",
+            content: "Suspicious activity is documented, escalated internally, and may be reported to FinCEN or other competent authorities as required by law."
+        },
+        section5: {
+            title: "5. Recordkeeping and Reporting",
+            content: "All records related to CDD, transactions, communications, and internal reviews are retained for a minimum of seven (7) years after account closure or final activity, consistent with 31 CFR § 1010.430. UpFinance files Suspicious Activity Reports (SARs) or Currency Transaction Reports (CTRs) when required and cooperates fully with law-enforcement and regulatory requests."
+        },
+        section6: {
+            title: "6. Training and Governance",
+            content1:"All personnel receive annual AML/KYC training covering red flags, typologies, and reporting obligations.",
+            content2:"A designated Compliance Officer oversees program implementation, monitors effectiveness, and reports directly to the Board of Directors.",
+            content3:"This Policy is reviewed at least annually and updated to reflect new regulations and emerging risks."
+        },
+        section7: {
+            title: "7. Prohibited Clients and Activities",
+            intro: "UpFinance does not onboard clients who:",
+            prohibition1: "Reside in or are nationals of jurisdictions under comprehensive U.S. OFAC or UN sanctions;",
+            prohibition2: "Appear on OFAC SDN, EU Consolidated, or UN lists;",
+            prohibition3: "Refuse to provide required information or submit false documents; or",
+            prohibition4: "Are suspected of laundering, fraud, terrorist financing, or sanctions evasion.",
+            intro2: "We also prohibit use of the Services for:",
+            prohibition5: "Mixing or tumbling transactions without legitimate purpose;",
+            prohibition6: "Facilitating ransomware payments; or",
+            prohibition7: "Anonymous or synthetic-identity usage."
+        },
+        section8: {
+            title: "8. Cooperation and Audit",
+            content1: "UpFinance cooperates with regulators, auditors, and licensed partners (including Merits Bank & Trust) to ensure audit readiness and transparency.",
+            content2: " Authorized auditors and regulators may inspect our AML controls under confidentiality obligations.",
+        },
+        footer: {
+            copyright: "© 2025 UpGlobal Inc. All rights reserved.",
+            registration: "Registered with FinCEN as a Money Services Business (MSB Reg. No. 31000308751680)."
         }
     },
 
     // Privacy Policy Content
     privacyContent: {
-        title: "UP FINANCE PRIVACY POLICY",
-        intro: "This Privacy Policy outlines how Osmosis Limited, a company incorporated in Hong Kong and operating under the brand name Up Finance (\"Up Finance\", \"we\", \"us\", or \"our\"), collects, uses, stores, transfers, and safeguards personal data in connection with our services. This policy governs the collection and processing of personal information of individuals who access or use any aspect of the Up Finance ecosystem, including its websites, mobile applications, APIs, custodial and non-custodial wallets, card services, and virtual accounts (collectively, the \"Services\").",
+        title: "UpFinance PRIVACY POLICY",
+        intro: "This Privacy Policy explains how UpGlobal Inc., a corporation incorporated under the laws of the State of Delaware, U.S.A., with its registered office at 8 The Green, Ste A, Dover, DE 19901 (doing business as UpFinance, \"we,\" \"us,\" or \"our\"), collects, uses, stores, transfers, and safeguards personal data in connection with our services.\n It applies to individuals who access or use any part of the UpFinance ecosystem, including our websites, mobile applications, APIs, custodial and non-custodial wallets, card services, and virtual accounts (collectively, the \"Services\").",
         section1: {
             title: "1. Data Controller",
-            content: "Osmosis Limited, with registered office at 16 Floor, 60 GLOUCESTER ROAD, Wan Chai, Hong Kong, acts as the data controller in relation to personal data processed under this Policy. All data-related inquiries may be directed to our appointed Data Protection Officer at legal@upfinance.ai."
+            content: `UpGlobal Inc. acts as the data controller for processing activities described in this Policy. \n For custodial and settlement functions provided by Merits Bank & Trust Limited (Hong Kong — TCSP Licence No. TC008817), that institution acts as an independent or joint data controller for its respective regulated obligations. \n All privacy inquiries may be directed to our Data Protection Officer at legal@upfinance.ai.`
         },
         section2: {
             title: "2. Categories of Personal Data Collected",
-            intro: "In the course of providing our Services, we collect and process the following categories of personal data:",
-            identityInfo: "Identity Information, including name, date of birth, nationality, identification documents (such as national ID or passport), and biometric identifiers (where applicable and permitted by law);",
-            contactInfo: "Contact Information, including physical address, email address, and telephone number;",
-            financialData: "Financial and Transactional Data, including wallet addresses, payment card details (masked or tokenized), bank account numbers, and records of fiat and crypto transactions;",
-            deviceData: "Device and Technical Data, such as IP address, browser type, device identifiers, session logs, and metadata relating to the usage of the Services;",
-            behavioralData: "Behavioral and Analytics Data, including user interactions, clickstream behavior, support chat transcripts, and session recordings used for performance optimization and fraud prevention;",
-            marketingData: "Marketing and Communication Data, such as newsletter subscriptions, preferences, and response data; and",
-            complianceData: "Compliance Data, including employment background, source of funds, sanctions checks, and politically exposed person (PEP) status.",
-            ageNotice: "We do not knowingly collect personal data from individuals under the age of 18. If we become aware that such data has been collected, we shall promptly delete it."
+            intro: "We collect and process the following categories of personal data:",
+            identityInfo: "Identity Information: name, date of birth, nationality, identification documents (e.g., passport or ID), and biometric identifiers (where permitted by law);",
+            contactInfo: "Contact Information: address, email, telephone number;",
+            financialData: "Financial and Transactional Data: wallet addresses, payment-card details (masked or tokenized), bank account numbers, and records of fiat and digital-asset transactions;",
+            deviceData: "Device and Technical Data: IP address, browser type, device IDs, session logs, and metadata about usage;",
+            behavioralData: "Behavioral and Analytics Data: user interactions, clickstream activity, support transcripts, and session recordings;",
+            marketingData: "Marketing and Communication Data: subscription status and preferences;",
+            complianceData: "Compliance Data: employment background, source of funds, sanctions and PEP screening results.",
+            ageNotice: "We do not knowingly collect personal data from anyone under 18. If such data is discovered, it will be deleted promptly."
         },
         section3: {
-            title: "3. Purposes for Processing Personal Data",
-            intro: "We process your personal data only where it is lawful and necessary for the operation of our Services, for compliance with our legal obligations, or where we have a legitimate interest to do so. The primary purposes include:",
-            purpose1: "To verify your identity and perform anti-money laundering and counter-terrorist financing screening, as required by applicable law;",
-            purpose2: "To enable you to register, access, and use various components of the Services, including wallets, cards, swaps, and virtual accounts;",
-            purpose3: "To monitor, detect, and investigate potentially fraudulent or suspicious behavior or violations of applicable law or our Terms of Use;",
-            purpose4: "To maintain system functionality and enhance service performance through diagnostics, optimization, and analytics;",
-            purpose5: "To deliver administrative and service-related communications, including policy updates, transactional alerts, and system notices;",
-            purpose6: "To comply with our statutory recordkeeping, reporting, and regulatory disclosure obligations; and",
-            purpose7: "To conduct automated risk assessments and eligibility determinations using tools that support fraud detection, identity verification, or customer profiling, subject to applicable safeguards."
+            title: "3. Purposes for Processing",
+            intro: "We process personal data only where lawful and necessary, including:",
+            purpose1: "Verifying identity and performing AML/CFT screening as required by law;",
+            purpose2: "Registering and providing access to the Services (wallets, cards, swaps, accounts);",
+            purpose3: "Detecting and investigating fraudulent or suspicious activity;",
+            purpose4: "Maintaining and optimizing system performance;",
+            purpose5: "Sending administrative and transactional communications;",
+            purpose6: "Meeting statutory record-keeping and reporting obligations;",
+            purpose7: "Conducting automated risk assessments and eligibility checks."
         },
         section4: {
             title: "4. Legal Basis for Processing",
-            intro: "Our processing of personal data is based on one or more of the following legal grounds:",
-            basis1: "Where you have provided your explicit consent for a specific purpose, such as receiving marketing communications or biometric processing;",
-            basis2: "Where the processing is necessary for the performance of a contract to which you are party, including the provision of our Services;",
-            basis3: "Where the processing is required to comply with a legal obligation to which we are subject;",
-            basis4: "Where the processing is necessary to protect the vital interests of you or another natural person; and",
-            basis5: "Where the processing is necessary for the purposes of our legitimate interests, provided that such interests are not overridden by your rights or freedoms."
+            intro: "Processing is carried out on the following grounds:",
+            basis1: "Your explicit consent (for example, marketing or biometric processing);",
+            basis2: "Performance of a contract (the Terms of Use and related services);",
+            basis3: "Compliance with legal obligations (e.g., AML laws and FinCEN rules);",
+            basis4: "Protection of vital interests;",
+            basis5: "Our legitimate business interests, balanced against your rights."
         },
         section5: {
             title: "5. Data Retention",
-            intro: "We retain personal data only for as long as is necessary to fulfill the purposes for which it was collected, or to comply with legal, regulatory, and operational requirements. The retention periods we apply include:",
-            retention1: "Personal data collected for KYC and AML purposes is retained for a minimum of seven (7) years following account closure or inactivity;",
-            retention2: "Technical and session-related logs are retained for a period of thirty (30) to one hundred eighty (180) days, depending on security and operational needs;",
-            retention3: "Marketing preferences and opt-out indicators are retained indefinitely to ensure compliance with applicable marketing laws;",
-            retention4: "Customer service records and correspondence are retained for up to three (3) years following resolution, unless a longer period is required for dispute resolution or litigation."
+            intro: "We retain personal data only as long as necessary for its purpose or to meet legal requirements. Typical periods include:",
+            retention1: "KYC/AML data: minimum 7 years after account closure;",
+            retention2: "Technical logs: 30–180 days;",
+            retention3: "Marketing opt-out records: indefinitely (to honor preferences);",
+            retention4: "Support records: up to 3 years after resolution, unless longer needed for legal reasons."
         },
         section6: {
             title: "6. Disclosure of Personal Data to Third Parties",
-            intro: "We disclose personal data to third parties strictly on a need-to-know basis and only to the extent required for lawful and legitimate purposes. Recipients of personal data may include:",
-            recipient1: "Regulated custodial partners such as Merits Bank & Trust for purposes of account safeguarding, settlement, and compliance;",
-            recipient2: "Service providers performing functions on our behalf, such as KYC/AML vendors, cloud hosting platforms, analytics providers, and communication systems;",
-            recipient3: "Legal, regulatory, or supervisory authorities, where disclosure is required by law, regulation, court order, or lawful request;",
-            recipient4: "Professional advisors engaged in auditing, accounting, tax, or legal services pursuant to contractual confidentiality obligations.",
-            disclosureNote: "All disclosures are subject to strict confidentiality arrangements and, where applicable, are governed by data processing agreements that reflect applicable legal standards."
+            intro: "We share personal data only on a need-to-know basis with:",
+            recipient1: "Licensed custodial partners (e.g., Merits Bank & Trust Limited) for safeguarding and settlement;",
+            recipient2: "Service providers for KYC/AML screening, cloud hosting, analytics, and communications;",
+            recipient3: "Regulatory and law-enforcement authorities when required by law or court order;",
+            recipient4: "Professional advisors (audit, tax, legal) under confidentiality duties.",
+            disclosureNote: "All transfers are governed by contractual data-protection clauses and confidentiality obligations."
         },
         section7: {
             title: "7. International Transfers of Data",
-            intro: "In certain cases, your personal data may be transferred to and processed in jurisdictions outside of your place of residence, including to countries that may not provide the same level of data protection as your home jurisdiction. In such circumstances, we implement appropriate safeguards, including:",
-            safeguard1: "Execution of Standard Contractual Clauses (SCCs) or equivalent legal mechanisms approved under applicable law;",
-            safeguard2: "Transfers to jurisdictions that have been formally recognized as providing adequate levels of data protection;",
-            safeguard3: "Reliance on your explicit consent, where permissible and required by law.",
-            complianceNote: "We ensure that any cross-border transfer of personal data is made in accordance with applicable data protection law."
+            intro: "Your personal data may be transferred to and processed in countries that may not offer the same level of protection. We apply appropriate safeguards, including:",
+            safeguard1: "Standard Contractual Clauses or other approved transfer mechanisms;",
+            safeguard2: "Transfers to jurisdictions recognized as adequate;",
+            safeguard3: "Your explicit consent where required.",
+            complianceNote: "All cross-border transfers comply with applicable data-protection law."
         },
         section8: {
             title: "8. Rights of Data Subjects",
-            intro: "You have certain rights under applicable data protection laws with respect to your personal data. These rights may include:",
-            right1: "The right to access and receive a copy of your personal data;",
-            right2: "The right to request correction of inaccurate or incomplete personal data;",
-            right3: "The right to request erasure of personal data, subject to any overriding legal retention requirements;",
-            right4: "The right to object to or request restriction of processing in certain circumstances;",
-            right5: "The right to data portability, where technically feasible and legally mandated;",
-            right6: "The right to withdraw previously given consent, without affecting the lawfulness of processing carried out prior to withdrawal.",
-            contactInfo: "To exercise your rights, you may contact us at legal@upfinance.ai. We reserve the right to verify your identity before responding to such requests."
+            intro: "You may have the right to:",
+            right1: "Access and obtain a copy of your personal data;",
+            right2: "Request correction or deletion;",
+            right3: "Restrict or object to processing;",
+            right4: "Request data portability (where technically feasible);",
+            right5: "Withdraw consent at any time without affecting prior processing.",
+            contactInfo: "To exercise these rights, contact legal@upfinance.ai. We may require identity verification before acting on requests."
         },
         section9: {
-            title: "9. Use of Cookies and Tracking Technologies",
-            content: "We use cookies and related tracking technologies to support platform functionality, perform usage analysis, and prevent fraudulent activity. You may control the use of non-essential cookies through your browser settings. Disabling certain cookies may impact the availability or functionality of the Services."
+            title: "9. Cookies and Tracking Technologies",
+            content: "We use cookies and similar technologies to enable site functionality, analyze usage, and prevent fraud. You can manage non-essential cookies through browser settings. Disabling certain cookies may limit service features."
         },
         section10: {
             title: "10. Security of Personal Data",
-            intro: "We implement industry-standard technical and organizational measures designed to secure your personal data from accidental loss, unauthorized access, alteration, disclosure, or destruction. Such measures include:",
-            measure1: "End-to-end encryption for data in transit and at rest;",
-            measure2: "Role-based access controls and authentication mechanisms;",
-            measure3: "Regular vulnerability assessments and penetration testing conducted by independent auditors;",
-            measure4: "Incident response protocols, including detection, containment, and remediation processes.",
-            securityNote: "While we endeavor to maintain a robust security posture, no system is immune to risk. Users are responsible for maintaining the confidentiality of their account credentials and are encouraged to notify us immediately of any suspected security incident."
+            intro: "We employ industry-standard technical and organizational measures, including:",
+            measure1: "Encryption in transit and at rest;",
+            measure2: "Role-based access controls and multi-factor authentication;",
+            measure3: "Regular security audits and penetration tests; and",
+            measure4: "Documented incident-response procedures.",
+            securityNote: "No system is completely secure. Users should safeguard their credentials and notify us promptly of suspected breaches."
         },
         section11: {
             title: "11. Breach Notification",
-            content: "In the event that a data breach occurs and is likely to result in a high risk to your rights or freedoms, we will notify you and the appropriate supervisory authority promptly and in accordance with applicable legal obligations."
+            content: "If a data breach is likely to pose a high risk to individual rights or freedoms, we will notify affected users and relevant authorities without undue delay as required by law."
         },
         section12: {
             title: "12. Updates to This Policy",
-            content: "We may amend this Privacy Policy from time to time to reflect changes in our legal obligations, processing activities, or Services. Any material changes will be communicated through our official channels, and the revised version will take effect upon publication. Continued use of the Services following such publication constitutes acceptance of the revised terms."
+            content: "We may update this Privacy Policy to reflect changes in law or operations. Material changes will be communicated via official channels and take effect upon publication. Continued use of the Services constitutes acceptance of the revised Policy."
+        },
+        section13: {
+            title: "13. Regulatory Reference and Contact",
+            content1: "UpFinance operates under the brand of UpGlobal Inc., registered with the U.S. Financial Crimes Enforcement Network (FinCEN) as a Money Services Business (MSB Reg. No. 31000308751680).",
+            content2: "For questions about this Policy or your data rights, please email legal@upfinance.ai."
         }
     }
 };
