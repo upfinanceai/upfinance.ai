@@ -43,6 +43,10 @@
             .lg\:scale-70 {
                 transform: scale(0.7);
             }
+
+            .lg\:translate-virtual-card {
+                transform: translate(10px, 60px);
+            }
         }
     </style>
     <title data-i18n="common.siteName">UP Finance</title>
@@ -725,9 +729,9 @@
 
                 <!-- Image Section -->
                 <div
-                    class="w-full max-w-xs lg:w-[337px] lg:h-[337px] mx-auto mt-4 text-center lg:mt-auto overflow-hidden rounded-lg px-4 lg:px-0 pb-6 lg:pb-0">
-                    <img class="w-full h-auto lg:h-full mx-auto object-cover object-top"
-                        src="./assets/images/image_77.png" style="height:337px;" alt="Virtual Card" />
+                    class="w-full max-w-xs md:max-w-sm lg:w-[337px] lg:h-[337px] mx-auto mt-4 md:mt-8 text-center lg:mt-auto overflow-hidden rounded-lg px-4 lg:px-0 pb-6 lg:pb-0 flex items-center justify-center">
+                    <img class="w-full h-auto md:max-h-[280px] lg:h-full mx-auto object-contain object-center lg:translate-virtual-card"
+                        src="./assets/images/Virtual Card.png" alt="Virtual Card" />
                 </div>
             </div>
 
@@ -746,7 +750,7 @@
                 <!-- Image Section -->
                 <div
                     class="w-full lg:w-[452px] lg:h-[337px] mx-auto mt-4 lg:mt-auto overflow-hidden rounded-lg px-4 lg:px-0 pb-6 lg:pb-0">
-                    <img class="w-full h-auto lg:h-full object-cover object-top" src="./assets/images/upcard02.png"
+                    <img class="w-full h-auto lg:h-full object-cover object-top" src="./assets/images/Physical Card.png"
                         alt="Physical Card" />
                 </div>
             </div>
