@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="286" height="128.62" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 286 128.62">
+  <defs>
+    <linearGradient id="linear-gradient" x1="279" y1="113" x2="279" y2="71" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#95ff15"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="234" x2="234" y2="0" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="188" x2="188" y2="26" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="143" x2="143" y2="40" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="98" x2="98" y2="11" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" x1="52" x2="52" y2="60" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-7" x1="7" x2="7" y2="39" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="S">
+    <path d="M275.31,125.73h1.21c0,.98.9,1.85,2.43,1.85s2.46-.58,2.46-1.73-1.04-1.48-2.43-1.7c-1.55-.26-3.44-.77-3.44-2.65,0-1.39.95-2.58,3.37-2.58,2.19,0,3.35,1.09,3.35,2.65h-1.22c0-.92-.75-1.58-2.15-1.58-1.68,0-2.15.76-2.15,1.52,0,.98.94,1.39,2.6,1.62,1.54.25,3.28.81,3.28,2.72,0,1.74-1.39,2.77-3.68,2.77-2.52,0-3.65-1.48-3.65-2.89Z" fill="#c5c5c5" stroke-width="0"/>
+  </g>
+  <g id="F">
+    <path d="M231.29,119.12h6.18v1.1h-4.97v3.27h4.32v1.03h-4.32v3.9h-1.21v-9.3Z" fill="#c5c5c5" stroke-width="0"/>
+  </g>
+  <g id="T">
+    <path d="M187.35,120.21h-2.94v-1.09h7.1v1.09h-2.95v8.21h-1.21v-8.21Z" fill="#c5c5c5" stroke-width="0"/>
+  </g>
+  <g id="W">
+    <path d="M136.16,119.12h1.29l2.37,7.14.14.55h.03l.11-.56,2.24-7.12h1.28l2.24,7.12.12.57h.02l.14-.6,2.36-7.08h1.28l-3.16,9.3h-1.19l-2.45-7.62-2.45,7.62h-1.18l-3.17-9.3Z" fill="#c5c5c5" stroke-width="0"/>
+  </g>
+  <g id="T-2" data-name="T">
+    <path d="M97.35,120.21h-2.94v-1.09h7.1v1.09h-2.95v8.21h-1.21v-8.21Z" fill="#c5c5c5" stroke-width="0"/>
+  </g>
+  <g id="M">
+    <path d="M47.37,119.12h1.05l3.53,4.69h0l3.53-4.69h1.06v9.3h-1.21v-7.34l-3.21,4.29h-.35l-3.19-4.29v7.35h-1.21v-9.3Z" fill="#c5c5c5" stroke-width="0"/>
+  </g>
+  <g id="S-2" data-name="S">
+    <path d="M3.31,125.73h1.21c0,.98.9,1.85,2.43,1.85s2.46-.58,2.46-1.73-1.04-1.48-2.43-1.7c-1.55-.26-3.44-.77-3.44-2.65,0-1.39.95-2.58,3.37-2.58,2.19,0,3.35,1.09,3.35,2.65h-1.22c0-.92-.75-1.58-2.15-1.58-1.68,0-2.15.76-2.15,1.52,0,.98.94,1.39,2.6,1.62,1.54.25,3.27.81,3.27,2.72,0,1.74-1.39,2.77-3.68,2.77-2.52,0-3.65-1.48-3.65-2.89Z" fill="#c5c5c5" stroke-width="0"/>
+  </g>
+  <g id="Rectangle_1" data-name="Rectangle 1" isolation="isolate">
+    <g id="Rectangle_1-2" data-name="Rectangle 1">
+      <path d="M279,71c-3.87,0-7,3.13-7,7v35h14v-35c0-3.87-3.13-7-7-7Z" fill="url(#linear-gradient)" fill-rule="evenodd" stroke-width="0"/>
+    </g>
+  </g>
+  <g id="Rectangle_1-3" data-name="Rectangle 1" isolation="isolate">
+    <g id="Rectangle_1-4" data-name="Rectangle 1">
+      <path d="M234,0C230.13,0,227,3.13,227,7v106h14V7C241,3.13,237.87,0,234,0Z" fill="url(#linear-gradient-2)" fill-rule="evenodd" stroke-width="0"/>
+    </g>
+  </g>
+  <g id="Rectangle_1-5" data-name="Rectangle 1" isolation="isolate">
+    <g id="Rectangle_1-6" data-name="Rectangle 1">
+      <path d="M188,26c-3.87,0-7,3.13-7,7v80h14V33c0-3.87-3.13-7-7-7Z" fill="url(#linear-gradient-3)" fill-rule="evenodd" stroke-width="0"/>
+    </g>
+  </g>
+  <g id="Rectangle_1-7" data-name="Rectangle 1" isolation="isolate">
+    <g id="Rectangle_1-8" data-name="Rectangle 1">
+      <path d="M143,40c-3.87,0-7,3.13-7,7v66h14V47c0-3.87-3.13-7-7-7Z" fill="url(#linear-gradient-4)" fill-rule="evenodd" stroke-width="0"/>
+    </g>
+  </g>
+  <g id="Rectangle_1-9" data-name="Rectangle 1" isolation="isolate">
+    <g id="Rectangle_1-10" data-name="Rectangle 1">
+      <path d="M98,11c-3.87,0-7,3.13-7,7v95h14V18c0-3.87-3.13-7-7-7Z" fill="url(#linear-gradient-5)" fill-rule="evenodd" stroke-width="0"/>
+    </g>
+  </g>
+  <g id="Rectangle_1-11" data-name="Rectangle 1" isolation="isolate">
+    <g id="Rectangle_1-12" data-name="Rectangle 1">
+      <path d="M52,60c-3.87,0-7,3.13-7,7v46h14v-46c0-3.87-3.13-7-7-7Z" fill="url(#linear-gradient-6)" fill-rule="evenodd" stroke-width="0"/>
+    </g>
+  </g>
+  <g id="Rectangle_1-13" data-name="Rectangle 1" isolation="isolate">
+    <g id="Rectangle_1-14" data-name="Rectangle 1">
+      <path d="M7,39c-3.87,0-7,3.13-7,7v67h14V46c0-3.87-3.13-7-7-7Z" fill="url(#linear-gradient-7)" fill-rule="evenodd" stroke-width="0"/>
+    </g>
+  </g>
+</svg>

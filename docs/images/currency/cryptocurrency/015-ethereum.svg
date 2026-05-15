@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c1ccf7;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #203ce2;
+      }
+
+      .cls-3 {
+        fill: #8198ee;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Flat_Color" data-name="Flat Color">
+      <g id="Ethereum_ETH_" data-name="Ethereum ETH ">
+        <circle class="cls-2" cx="100" cy="100" r="100"/>
+        <path class="cls-4" d="M99.99,127.24l-33.6-19.85,33.6,47.36,33.63-47.36-33.63,19.85Z"/>
+        <path class="cls-4" d="M133.6,101.02l-33.61,19.86-33.61-19.86,33.61-55.77,33.61,55.77Z"/>
+        <g>
+          <path class="cls-1" d="M133.6,101.02l-33.61-15.28v-40.49l33.61,55.77Z"/>
+          <path class="cls-1" d="M133.62,107.39l-33.63,47.36v-27.51l33.63-19.85Z"/>
+          <path class="cls-1" d="M99.99,85.74v35.14l-33.6-19.86,33.6-15.28Z"/>
+        </g>
+        <path class="cls-3" d="M133.6,101.02l-33.61,19.86v-35.14l33.61,15.28Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

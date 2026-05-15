@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <g id="Rectangle_1" data-name="Rectangle 1" isolation="isolate">
+    <g id="Rectangle_1-2" data-name="Rectangle 1">
+      <rect width="600" height="600" fill="#282828" stroke-width="0"/>
+    </g>
+  </g>
+  <g id="_8bit_face" data-name="8bit face" isolation="isolate">
+    <g id="_8bit_face-2" data-name="8bit face">
+      <path d="M363.64,364.3h64.58v-64.58h-64.58v64.58ZM234.48,364.3v64.58h129.16v-64.58h-129.16ZM169.9,299.72v64.58h64.58v-64.58h-64.58ZM363.64,170.56v64.58h64.58v-64.58h-64.58ZM234.48,170.56h-64.58v64.58h64.58v-64.58Z" fill="#fff" fill-rule="evenodd" stroke-width="0"/>
+    </g>
+  </g>
+</svg>
