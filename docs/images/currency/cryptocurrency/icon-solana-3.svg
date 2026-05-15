@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #6b3dea;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Flat_Color" data-name="Flat Color">
+      <g id="Solana_SOL_" data-name="Solana SOL ">
+        <circle class="cls-1" cx="100" cy="100" r="100"/>
+        <g>
+          <path class="cls-2" d="M69.2,118.9c.5-.6,1.3-.9,2.1-.9h73c.8,0,1.5.8,1.5,1.6,0,0,0,0,0,0,0,.4-.2.7-.4,1l-14.4,14.4c-.6.6-1.3.9-2.1.9H55.8c-.8,0-1.5-.5-1.6-1.4,0-.5.2-1,.6-1.3l14.4-14.4Z"/>
+          <path class="cls-2" d="M69.2,65c.6-.6,1.3-.9,2.1-.9h73c.8,0,1.5.7,1.5,1.5,0,.4-.2.8-.4,1l-14.4,14.5c-.6.6-1.3.9-2.1.9H55.8c-.9,0-1.5-.8-1.5-1.6,0-.4.2-.7.4-1l14.4-14.4Z"/>
+          <path class="cls-2" d="M130.9,91.8c-.6-.6-1.3-.9-2.1-.9H55.8c-.9,0-1.5.8-1.5,1.6,0,.4.2.7.4,1l14.4,14.3c.6.6,1.3.9,2.1.9h73c.8,0,1.5-.7,1.5-1.5,0-.4-.2-.8-.4-1l-14.4-14.4Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="UpFinance-Logo" xmlns="http://www.w3.org/2000/svg" width="48" height="48" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 48 48">
+  <defs>
+    <linearGradient id="linear-gradient" x1="36" y1="-606.11017" x2="36" y2="-558.11017" gradientTransform="translate(0 -558.11017) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity=".1"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Logomark">
+    <rect width="24" height="24" fill="#fff" stroke-width="0"/>
+    <rect x="24" width="24" height="48" fill="url(#linear-gradient)" stroke-width="0"/>
+  </g>
+</svg>
