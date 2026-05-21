@@ -226,7 +226,7 @@ const i18n_en = {
     },
 
     // Terms & Conditions Content
-    termsContent: {
+    terms_content: {
         title: "UpFinance SERVICES TERMS & CONDITIONS",
         legalNotice: "THIS IS A LEGALLY BINDING DOCUMENT. PLEASE READ IT CAREFULLY.",
         intro1: "These Terms and Conditions (\"Terms\") constitute a legally binding agreement between you (the \"User\" or \"you\") and UpGlobal Inc., a corporation incorporated in Delaware, having its registered office at 8 The Green Ste A Dover, DE 19901, in the City of Dover, County of Kent, Zip Code 19901. \"UpFinance\" is a registered trademark and the primary commercial brand operated by UpGlobal Inc. for the delivery of its digital financial services. References in these Terms to \"UpFinance\", \"we\", \"us\", or \"our\" shall be construed as references to UpGlobal Inc. in its capacity as the legal entity behind the UpFinance platform.",
@@ -747,7 +747,7 @@ const i18n_en = {
     },
 
     // KYC/AML Policy Content
-    kycAmlContent: {
+    kyc_aml_content: {
         title: "UpFinance ANTI-MONEY LAUNDERING (AML) AND KNOW-YOUR-CUSTOMER (KYC) POLICY",
         lastUpdated: "Oct 8, 2025",
         intro1: "This Anti-Money Laundering (\"AML\") and Know-Your-Customer (\"KYC\") Policy (\"Policy\") is issued by UpGlobal Inc., a corporation incorporated under the laws of the State of Delaware with its registered office at 8 The Green, Ste A, Dover, DE 19901, USA, doing business as UpFinance (\"we,\" \"us,\" or \"our\").",
@@ -817,7 +817,7 @@ const i18n_en = {
     },
 
     // Privacy Policy Content
-    privacyContent: {
+    privacy_content: {
         title: "UpFinance PRIVACY POLICY",
         intro: "This Privacy Policy explains how UpGlobal Inc., a corporation incorporated under the laws of the State of Delaware, U.S.A., with its registered office at 8 The Green, Ste A, Dover, DE 19901 (doing business as UpFinance, \"we,\" \"us,\" or \"our\"), collects, uses, stores, transfers, and safeguards personal data in connection with our services.\n It applies to individuals who access or use any part of the UpFinance ecosystem, including our websites, mobile applications, APIs, custodial and non-custodial wallets, card services, and virtual accounts (collectively, the \"Services\").",
         section1: {
