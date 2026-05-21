@@ -259,691 +259,691 @@
     "submit_success": "Gửi thành công. Chúng tôi sẽ sớm liên hệ."
   },
   "terms_content": {
-    "title": "UpFinance SERVICES TERMS & CONDITIONS",
-    "legalNotice": "THIS IS A LEGALLY BINDING DOCUMENT. PLEASE READ IT CAREFULLY.",
-    "intro1": "These Terms and Conditions (\"Terms\") constitute a legally binding agreement between you (the \"User\" or \"you\") and UpGlobal Inc., a corporation incorporated in Delaware, having its registered office at 8 The Green Ste A Dover, DE 19901, in the City of Dover, County of Kent, Zip Code 19901. \"UpFinance\" is a registered trademark and the primary commercial brand operated by UpGlobal Inc. for the delivery of its digital financial services. References in these Terms to \"UpFinance\", \"we\", \"us\", or \"our\" shall be construed as references to UpGlobal Inc. in its capacity as the legal entity behind the UpFinance platform.",
-    "intro2": "These Terms govern your access to and use of our Services (as defined herein), including but not limited to any website, mobile application, and associated financial products and tools operated under the UpFinance brand.",
-    "intro3": "By accessing, registering for, or using any part of the Services, you acknowledge that you have read, understood, and agreed to be bound by these Terms, together with any policies, disclosures, schedules, and notices incorporated by reference. If you do not agree with these Terms, you must not use or access any of the Services.",
+    "title": "ĐIỀU KHOẢN & ĐIỀU KIỆN DỊCH VỤ UPFINANCE",
+    "legalNotice": "ĐÂY LÀ TÀI LIỆU CÓ GIÁ TRỊ RÀNG BUỘC PHÁP LÝ. VUI LÒNG ĐỌC KỸ.",
+    "intro1": "Các Điều khoản và Điều kiện này (\"Điều khoản\") cấu thành một thỏa thuận có giá trị ràng buộc pháp lý giữa bạn (\"Người dùng\" hoặc \"bạn\") và UpGlobal Inc., một công ty được thành lập tại Delaware, có địa chỉ đăng ký tại 8 The Green Ste A Dover, DE 19901, Thành phố Dover, Quận Kent, Mã bưu chính 19901. \"UpFinance\" là nhãn hiệu đã đăng ký và là thương hiệu thương mại chính do UpGlobal Inc. vận hành để cung cấp các dịch vụ tài chính số. Các tham chiếu trong Điều khoản này đến \"UpFinance\", \"chúng tôi\", \"của chúng tôi\" được hiểu là tham chiếu đến UpGlobal Inc. với tư cách pháp nhân đứng sau nền tảng UpFinance.",
+    "intro2": "Các Điều khoản này điều chỉnh việc bạn truy cập và sử dụng Dịch vụ của chúng tôi (theo định nghĩa tại đây), bao gồm nhưng không giới hạn ở bất kỳ website, ứng dụng di động, sản phẩm và công cụ tài chính liên quan nào được vận hành dưới thương hiệu UpFinance.",
+    "intro3": "Bằng việc truy cập, đăng ký hoặc sử dụng bất kỳ phần nào của Dịch vụ, bạn xác nhận rằng bạn đã đọc, hiểu và đồng ý bị ràng buộc bởi các Điều khoản này, cùng với mọi chính sách, công bố, biểu phí và thông báo được dẫn chiếu. Nếu bạn không đồng ý với các Điều khoản này, bạn không được sử dụng hoặc truy cập bất kỳ Dịch vụ nào.",
     "part1": {
-      "title": "PART I: GENERAL TERMS AND CONDITIONS"
+      "title": "PHẦN I: ĐIỀU KHOẢN VÀ ĐIỀU KIỆN CHUNG"
     },
     "section1": {
-      "title": "1. DEFINITIONS",
-      "content": "Unless the context otherwise requires, capitalized terms used in these Terms shall have the meanings assigned to them in the Definitions Section at the end of this document."
+      "title": "1. ĐỊNH NGHĨA",
+      "content": "Trừ khi ngữ cảnh yêu cầu khác, các thuật ngữ viết hoa dùng trong Điều khoản này có ý nghĩa như được quy định tại Mục Định nghĩa ở cuối tài liệu này."
     },
     "section2": {
-      "title": "2. SCOPE AND APPLICATION",
-      "content1": "2.1 These Terms apply to your Account and your use of the Services, including but not limited to: (a) the Custodian Account; (b) UpFinance Card Services; (c) Swap Transactions; (d) Wallet Services; (e) Virtual Accounts; and (f) access to or use of any Third-Party Services provided in conjunction with UpFinance.",
-      "content2": "2.2 These Terms are supplemented by any specific terms and conditions applicable to each Service module, as set out in Parts A–F. To the extent of any conflict between the General Terms and the terms of a Service-specific Part, the Service-specific terms shall prevail.",
-      "content3": "2.3 These Terms are governed by the laws of Delaware. Any disputes shall be subject to the exclusive jurisdiction of the courts or arbitral bodies of Delaware, unless otherwise provided in the Dispute Resolution Clause."
+      "title": "2. PHẠM VI VÀ ÁP DỤNG",
+      "content1": "2.1 Các Điều khoản này áp dụng cho Tài khoản của bạn và việc bạn sử dụng Dịch vụ, bao gồm nhưng không giới hạn ở: (a) Tài khoản Lưu ký; (b) Dịch vụ Thẻ UpFinance; (c) Giao dịch Hoán đổi; (d) Dịch vụ Ví; (e) Tài khoản Ảo; và (f) truy cập hoặc sử dụng bất kỳ Dịch vụ Bên thứ ba nào được cung cấp cùng với UpFinance.",
+      "content2": "2.2 Các Điều khoản này được bổ sung bởi các điều khoản và điều kiện cụ thể áp dụng cho từng mô-đun Dịch vụ như nêu tại các Phần A–F. Trong trường hợp có xung đột giữa Điều khoản chung và điều khoản của một Phần dịch vụ cụ thể, điều khoản dịch vụ cụ thể sẽ được ưu tiên áp dụng.",
+      "content3": "2.3 Các Điều khoản này được điều chỉnh theo pháp luật Delaware. Mọi tranh chấp thuộc thẩm quyền tài phán riêng của tòa án hoặc cơ quan trọng tài tại Delaware, trừ khi có quy định khác trong Điều khoản Giải quyết Tranh chấp."
     },
     "section3": {
-      "title": "3. LICENSING AND REGULATORY FRAMEWORK",
-      "content1": "3.1 U.S. FinCEN Registration. UpGlobal Inc is registered with the U.S. Financial Crimes Enforcement Network (FinCEN) as a Money Services Business under Registration No. 31000308751680 (Date on MSB transcript: Aug 28, 2025; Received date: Aug 25, 2025), with the registered business address 8 The Green, Ste A, Dover, DE 19901. FinCEN registration is a federal registration under the Bank Secrecy Act and does not constitute an approval or endorsement by FinCEN.",
-      "content2": "3.2 State Licensing: Certain money transmission or payment services may require state money transmitter licenses (MTLs). Availability of specific services can vary by state or territory and may be restricted, delayed, or provided via licensed partners until applicable licenses are obtained. Nothing in these Terms shall be construed as representing that UpGlobal Inc holds all state MTLs.",
-      "content3": "3.3 Intermediary & Partner Licensing: UpFinance may deliver regulated components of the Services through licensed third-party institutions. Custodial and settlement services may be facilitated through Merits Bank & Trust Limited, a Hong Kong licensed trust or company service provider (TCSP Licence No. TC008817). UpGlobal Inc does not itself conduct trust, custodial, or banking business.",
-      "content4": "3.4 Disclosure Obligation: The User acknowledges that UpFinance does not independently hold a financial license in the initial stage of operations. All Services are offered through Merits' regulated license under full disclosure.",
-      "content5": "3.5 Future Licensing: UpFinance reserves the right to acquire additional regulatory approvals or licenses in other jurisdictions and to migrate certain services to be conducted under its own license in due course."
+      "title": "3. CẤP PHÉP VÀ KHUNG PHÁP LÝ QUẢN LÝ",
+      "content1": "3.1 Đăng ký FinCEN Hoa Kỳ. UpGlobal Inc được đăng ký với Mạng lưới Phòng chống Tội phạm Tài chính Hoa Kỳ (FinCEN) là Doanh nghiệp Dịch vụ Tiền tệ theo số đăng ký 31000308751680 (ngày trên MSB transcript: 28/08/2025; ngày tiếp nhận: 25/08/2025), địa chỉ kinh doanh đăng ký: 8 The Green, Ste A, Dover, DE 19901. Việc đăng ký FinCEN là đăng ký liên bang theo Đạo luật Bảo mật Ngân hàng và không cấu thành sự phê duyệt hoặc bảo chứng của FinCEN.",
+      "content2": "3.2 Giấy phép cấp bang: Một số dịch vụ chuyển tiền hoặc thanh toán có thể yêu cầu giấy phép chuyển tiền cấp bang (MTL). Khả dụng của từng dịch vụ có thể khác nhau theo bang hoặc vùng lãnh thổ và có thể bị hạn chế, trì hoãn hoặc được cung cấp thông qua đối tác được cấp phép cho đến khi có giấy phép phù hợp. Không nội dung nào trong Điều khoản này được hiểu là khẳng định UpGlobal Inc nắm giữ toàn bộ MTL cấp bang.",
+      "content3": "3.3 Cấp phép trung gian & đối tác: UpFinance có thể cung cấp các cấu phần dịch vụ chịu quản lý thông qua các tổ chức bên thứ ba được cấp phép. Dịch vụ lưu ký và thanh toán bù trừ có thể được hỗ trợ thông qua Merits Bank & Trust Limited, nhà cung cấp dịch vụ tín thác hoặc dịch vụ doanh nghiệp được cấp phép tại Hồng Kông (TCSP Licence No. TC008817). UpGlobal Inc không trực tiếp thực hiện hoạt động tín thác, lưu ký hoặc ngân hàng.",
+      "content4": "3.4 Nghĩa vụ công bố: Người dùng xác nhận rằng UpFinance không độc lập nắm giữ giấy phép tài chính trong giai đoạn đầu vận hành. Tất cả Dịch vụ được cung cấp thông qua giấy phép chịu quản lý của Merits với công bố đầy đủ.",
+      "content5": "3.5 Cấp phép tương lai: UpFinance bảo lưu quyền xin thêm phê duyệt hoặc giấy phép quản lý tại các khu vực pháp lý khác và chuyển một số dịch vụ sang vận hành dưới giấy phép của chính mình vào thời điểm phù hợp."
     },
     "section4": {
-      "title": "4. ACCOUNT OPENING AND ELIGIBILITY",
-      "intro": "4.1 To access and use the Services, you must:",
-      "requirement1": "Be at least eighteen (18) years of age;",
-      "requirement2": "Not be a citizen or resident of a jurisdiction where the use of the Services is prohibited by applicable laws or regulations;",
-      "requirement3": "Provide all required documentation and complete KYC/AML checks to the satisfaction of UpFinance or its designated compliance providers;",
-      "requirement4": "Have full legal capacity to enter into binding contracts.",
-      "content2": "4.2 We reserve the right to approve or reject any application at our sole discretion. We may suspend or terminate access to the Services in case of suspected breach of these Terms or violation of any applicable laws.",
-      "content3": "4.3 You agree that your Account is non-transferable, and you will not allow third parties to access or operate your Account.",
-      "content4": "4.4 You represent you are not located in, organized under the laws of, or ordinarily resident in any sanctioned jurisdiction, and you are not a sanctioned person (e.g., on any U.S. OFAC list). You will not use the Services for any activities prohibited by U.S. sanctions or export-control laws.",
-      "content5": "4.5 Prohibited/Restricted Jurisdictions may apply and can change."
+      "title": "4. MỞ TÀI KHOẢN VÀ ĐIỀU KIỆN THAM GIA",
+      "intro": "4.1 Để truy cập và sử dụng Dịch vụ, bạn phải:",
+      "requirement1": "Từ đủ mười tám (18) tuổi;",
+      "requirement2": "Không phải là công dân hoặc cư dân của khu vực pháp lý nơi việc sử dụng Dịch vụ bị cấm theo luật hoặc quy định hiện hành;",
+      "requirement3": "Cung cấp đầy đủ tài liệu theo yêu cầu và hoàn tất kiểm tra KYC/AML theo yêu cầu của UpFinance hoặc nhà cung cấp tuân thủ được chỉ định;",
+      "requirement4": "Có đầy đủ năng lực pháp lý để giao kết hợp đồng ràng buộc.",
+      "content2": "4.2 Chúng tôi bảo lưu quyền chấp thuận hoặc từ chối bất kỳ đơn đăng ký nào theo toàn quyền quyết định của mình. Chúng tôi có thể tạm ngừng hoặc chấm dứt quyền truy cập Dịch vụ khi nghi ngờ vi phạm Điều khoản này hoặc vi phạm luật áp dụng.",
+      "content3": "4.3 Bạn đồng ý rằng Tài khoản của bạn không được chuyển nhượng và bạn sẽ không cho phép bên thứ ba truy cập hoặc vận hành Tài khoản của bạn.",
+      "content4": "4.4 Bạn cam kết rằng bạn không đang ở, không được thành lập theo luật, và không thường trú tại bất kỳ khu vực pháp lý bị trừng phạt nào, đồng thời không phải là cá nhân/tổ chức bị trừng phạt (ví dụ: nằm trong danh sách OFAC của Hoa Kỳ). Bạn sẽ không sử dụng Dịch vụ cho bất kỳ hoạt động nào bị cấm bởi luật trừng phạt hoặc kiểm soát xuất khẩu của Hoa Kỳ.",
+      "content5": "4.5 Danh sách khu vực pháp lý bị cấm/hạn chế có thể áp dụng và có thể thay đổi."
     },
     "section5": {
-      "title": "5. SERVICE AVAILABILITY AND MODIFICATIONS",
-      "intro": "5.1 We reserve the right to:",
-      "right1": "Modify, suspend, or discontinue any part of the Services at any time;",
-      "right2": "Impose or change service limits;",
-      "right3": "Update our policies and features without prior notice unless otherwise required by law.",
-      "content2": "5.2 Your continued use of the Services constitutes acceptance of any changes made pursuant to this Section."
+      "title": "5. TÍNH SẴN CÓ CỦA DỊCH VỤ VÀ ĐIỀU CHỈNH",
+      "intro": "5.1 Chúng tôi bảo lưu quyền:",
+      "right1": "Điều chỉnh, tạm ngừng hoặc ngừng bất kỳ phần nào của Dịch vụ vào bất kỳ thời điểm nào;",
+      "right2": "Áp đặt hoặc thay đổi các giới hạn dịch vụ;",
+      "right3": "Cập nhật chính sách và tính năng mà không cần thông báo trước, trừ khi pháp luật yêu cầu khác.",
+      "content2": "5.2 Việc bạn tiếp tục sử dụng Dịch vụ được xem là chấp nhận mọi thay đổi thực hiện theo Mục này."
     },
     "section6": {
-      "title": "6. FEES AND TAXATION",
-      "content1": "6.1 All applicable fees, charges, and commissions are disclosed in the Fee Schedule, which forms part of these Terms.",
-      "content2": "6.2 Fees may include (without limitation):",
-      "fee1": "Card issuance and annual maintenance fees;",
-      "fee2": "FX or swap spreads;",
-      "fee3": "Withdrawal, deposit, or top-up fees;",
-      "fee4": "Network and blockchain transaction costs;",
-      "content3": "6.3 Fees are exclusive of any applicable tax or withholding obligation. You are solely responsible for determining and fulfilling your tax liabilities in your jurisdiction of residence."
+      "title": "6. PHÍ VÀ THUẾ",
+      "content1": "6.1 Mọi khoản phí, phụ phí và hoa hồng áp dụng được công bố trong Biểu phí, là một phần của Điều khoản này.",
+      "content2": "6.2 Phí có thể bao gồm (không giới hạn):",
+      "fee1": "Phí phát hành thẻ và phí duy trì hằng năm;",
+      "fee2": "Chênh lệch tỷ giá hoặc chênh lệch hoán đổi;",
+      "fee3": "Phí rút tiền, nạp tiền hoặc top-up;",
+      "fee4": "Chi phí mạng lưới và giao dịch blockchain;",
+      "content3": "6.3 Phí chưa bao gồm bất kỳ nghĩa vụ thuế hoặc khấu trừ nào áp dụng. Bạn tự chịu trách nhiệm xác định và thực hiện nghĩa vụ thuế tại nơi cư trú của mình."
     },
     "section7": {
-      "title": "7. RISK DISCLOSURE",
-      "intro": "7.1 You acknowledge and accept that:",
-      "risk1": "Digital assets are highly volatile and speculative in nature;",
-      "risk2": "There is a risk of partial or total loss of your holdings;",
-      "risk3": "Blockchain transactions may be irreversible;",
-      "risk4": "Custodial or self-custody solutions may be subject to technological and cybersecurity risks;",
-      "content2": "7.2 You understand that UpFinance does not act as your financial advisor. All decisions made using the Services are undertaken at your sole discretion and risk.",
-      "content3": "7.3 UpGlobal Inc is not a bank, and Accounts are not FDIC-insured, unless expressly stated for a specific product."
+      "title": "7. CÔNG BỐ RỦI RO",
+      "intro": "7.1 Bạn xác nhận và chấp nhận rằng:",
+      "risk1": "Tài sản số có mức biến động cao và mang tính đầu cơ;",
+      "risk2": "Có rủi ro mất một phần hoặc toàn bộ tài sản nắm giữ;",
+      "risk3": "Giao dịch blockchain có thể không thể đảo ngược;",
+      "risk4": "Giải pháp lưu ký hoặc tự lưu ký có thể chịu rủi ro công nghệ và an ninh mạng;",
+      "content2": "7.2 Bạn hiểu rằng UpFinance không đóng vai trò cố vấn tài chính cho bạn. Mọi quyết định khi sử dụng Dịch vụ do bạn tự quyết định và tự chịu rủi ro.",
+      "content3": "7.3 UpGlobal Inc không phải ngân hàng và Tài khoản không được bảo hiểm FDIC, trừ khi có nêu rõ cho sản phẩm cụ thể."
     },
     "section8": {
-      "title": "8. LIMITATION OF LIABILITY",
-      "content1": "8.1 To the fullest extent permitted by applicable law, the total aggregate liability of UpGlobal Inc and its respective affiliates, directors, officers, employees, agents, service providers, and licensors (collectively, the \"UpFinance Parties\") arising out of or in connection with these Terms or the Services shall not exceed the lesser of (a) the total amount of direct fees paid by the User to UpFinance in the six (6) months preceding the event giving rise to the claim, or (b) USD 100,000.",
-      "content2": "8.2 In no event shall any UpFinance Party be liable for any indirect, incidental, special, exemplary, punitive, or consequential damages, or for any loss of profits, revenue, goodwill, data, business opportunity, or anticipated savings, whether arising in contract, tort (including negligence), equity, strict liability, or otherwise, even if advised of the possibility of such damages.",
-      "content3": "8.3 UpFinance disclaims liability for any loss, delay, or damage arising from or related to the actions or omissions of any third-party service provider, including custodians, banks, payment processors, settlement agents, or blockchain networks, except to the extent such loss is caused solely by the gross negligence or willful misconduct of UpFinance as determined by a final, non-appealable judgment.",
-      "content4": "8.4 UpFinance shall not be liable for any failure or delay in performance resulting from events beyond its reasonable control, including acts of God, acts of civil or military authorities, war, terrorism, labor disputes, cyberattacks, technical failures, regulatory actions, or any interruption of third-party services or infrastructure.",
-      "content5": "8.5 Notwithstanding anything to the contrary in these Terms, the exclusions and limitations of liability set forth in this Clause shall not apply where the claim results directly from gross negligence or willful misconduct by UpFinance, as established in a final judgment by a court of competent jurisdiction that is not subject to further appeal.",
-      "content6": "8.6 Any claim or cause of action arising out of or related to the Services must be initiated within twelve (12) months after the date on which the facts giving rise to such claim first occurred. Claims not brought within this period shall be deemed irrevocably waived.",
-      "content7": "8.6 You agree to indemnify, defend, and hold harmless UpGlobal Inc and its respective affiliates, directors, officers, employees, agents, service providers, licensors, and representatives from and against any and all claims, demands, actions, proceedings, losses, liabilities, damages, judgments, settlements, fines, penalties, costs, and expenses (including reasonable legal and accounting fees), whether direct or indirect, arising out of or relating to: (a) your access to or use of the Services; (b) your violation of these Terms or any incorporated policy; (c) your breach of any representation, warranty, or obligation under these Terms; (d) your violation of any applicable law, regulation, or third-party rights; (e) any act of fraud, misrepresentation, or willful misconduct on your part; or (f) any claim brought against UpFinance in connection with your data, activity, conduct, or transactions carried out through the Services. This indemnification obligation shall survive the termination or expiration of these Terms and your use of the Services."
+      "title": "8. GIỚI HẠN TRÁCH NHIỆM",
+      "content1": "8.1 Trong phạm vi tối đa mà pháp luật hiện hành cho phép, tổng trách nhiệm cộng gộp của UpGlobal Inc và các công ty liên kết, giám đốc, cán bộ quản lý, nhân viên, đại lý, nhà cung cấp dịch vụ và bên cấp phép tương ứng (gọi chung là \"Các Bên UpFinance\") phát sinh từ hoặc liên quan đến Điều khoản này hoặc Dịch vụ sẽ không vượt quá mức thấp hơn giữa: (a) tổng số phí trực tiếp mà Người dùng đã thanh toán cho UpFinance trong sáu (6) tháng trước sự kiện làm phát sinh khiếu nại; hoặc (b) 100.000 USD.",
+      "content2": "8.2 Trong mọi trường hợp, không Bên UpFinance nào chịu trách nhiệm đối với bất kỳ thiệt hại gián tiếp, ngẫu nhiên, đặc biệt, mang tính răn đe, trừng phạt hoặc hậu quả, hoặc bất kỳ tổn thất về lợi nhuận, doanh thu, uy tín thương mại, dữ liệu, cơ hội kinh doanh hoặc khoản tiết kiệm dự kiến, dù phát sinh theo hợp đồng, ngoài hợp đồng (bao gồm cả sơ suất), công bằng, trách nhiệm nghiêm ngặt hoặc căn cứ khác, kể cả khi đã được thông báo về khả năng xảy ra các thiệt hại đó.",
+      "content3": "8.3 UpFinance từ chối trách nhiệm đối với mọi tổn thất, chậm trễ hoặc thiệt hại phát sinh từ hoặc liên quan đến hành vi hoặc thiếu sót của bất kỳ nhà cung cấp dịch vụ bên thứ ba nào, bao gồm đơn vị lưu ký, ngân hàng, đơn vị xử lý thanh toán, đại lý thanh toán bù trừ hoặc mạng blockchain, trừ trong phạm vi tổn thất đó chỉ do lỗi bất cẩn nghiêm trọng hoặc hành vi cố ý sai trái của UpFinance theo phán quyết cuối cùng, không thể kháng cáo.",
+      "content4": "8.4 UpFinance không chịu trách nhiệm cho bất kỳ việc không thực hiện hoặc chậm thực hiện nào do sự kiện nằm ngoài khả năng kiểm soát hợp lý, bao gồm thiên tai, hành vi của cơ quan dân sự hoặc quân sự, chiến tranh, khủng bố, tranh chấp lao động, tấn công mạng, lỗi kỹ thuật, hành động quản lý nhà nước hoặc bất kỳ gián đoạn nào của dịch vụ hay hạ tầng bên thứ ba.",
+      "content5": "8.5 Mặc dù có quy định trái ngược trong Điều khoản này, các ngoại trừ và giới hạn trách nhiệm tại Điều này sẽ không áp dụng khi khiếu nại phát sinh trực tiếp từ lỗi bất cẩn nghiêm trọng hoặc hành vi cố ý sai trái của UpFinance, được xác lập bằng phán quyết cuối cùng của tòa án có thẩm quyền và không còn quyền kháng cáo.",
+      "content6": "8.6 Mọi khiếu nại hoặc căn cứ khởi kiện phát sinh từ hoặc liên quan đến Dịch vụ phải được khởi xướng trong vòng mười hai (12) tháng kể từ ngày sự kiện làm phát sinh khiếu nại lần đầu xảy ra. Khiếu nại không được đưa ra trong thời hạn này được xem là từ bỏ vĩnh viễn, không thể hủy ngang.",
+      "content7": "8.6 Bạn đồng ý bồi thường, bảo vệ và miễn trừ trách nhiệm cho UpGlobal Inc cùng các công ty liên kết, giám đốc, cán bộ quản lý, nhân viên, đại lý, nhà cung cấp dịch vụ, bên cấp phép và người đại diện tương ứng của họ trước mọi khiếu nại, yêu cầu, vụ kiện, thủ tục tố tụng, tổn thất, nghĩa vụ, thiệt hại, phán quyết, dàn xếp, tiền phạt, chế tài, chi phí và phí tổn (bao gồm chi phí pháp lý và kế toán hợp lý), dù trực tiếp hay gián tiếp, phát sinh từ hoặc liên quan đến: (a) việc bạn truy cập hoặc sử dụng Dịch vụ; (b) việc bạn vi phạm Điều khoản này hoặc bất kỳ chính sách tích hợp nào; (c) việc bạn vi phạm bất kỳ cam kết, bảo đảm hoặc nghĩa vụ nào theo Điều khoản này; (d) việc bạn vi phạm bất kỳ luật, quy định hiện hành hoặc quyền của bên thứ ba; (e) bất kỳ hành vi gian lận, trình bày sai hoặc hành vi cố ý sai trái nào từ phía bạn; hoặc (f) bất kỳ khiếu nại nào chống lại UpFinance liên quan đến dữ liệu, hoạt động, hành vi hoặc giao dịch của bạn thực hiện thông qua Dịch vụ. Nghĩa vụ bồi thường này tiếp tục có hiệu lực sau khi Điều khoản này chấm dứt/hết hiệu lực và sau khi bạn ngừng sử dụng Dịch vụ."
     },
     "section9": {
-      "title": "9. TERMINATION AND SUSPENSION",
-      "content1": "9.1 We may suspend, restrict, or terminate your access to the Services at our sole and absolute discretion, with or without prior notice, including but not limited to circumstances where we reasonably suspect fraud, money laundering, breach of law or regulation, violation of these Terms, material reputational risk, or if required to comply with any legal, regulatory, or governmental order, inquiry, investigation, or directive.",
-      "content2": "9.2 We reserve the right to retain, freeze, or withhold funds or assets held in your Account if we determine, in our sole discretion, that such action is necessary to comply with applicable laws, support ongoing investigations, or mitigate potential harm or liability. Such retention shall be without prejudice to our other rights under these Terms or at law.",
-      "content3": "9.3 You may terminate your Account at any time by providing written notice and fulfilling all outstanding obligations. Termination shall not affect any accrued rights or liabilities.",
-      "content4": "9.4 Upon termination, all rights granted to you under these Terms shall immediately cease. Subject to applicable laws, we shall return any remaining eligible funds to a verified destination provided by you after completion of compliance and audit checks. We may impose offboarding fees or deduct any applicable charges, and we may retain data and transaction records for legal, compliance, or audit purposes.",
-      "content5": "9.5 The provisions of these Terms relating to liability, indemnity, governing law, dispute resolution, and any other clauses that by their nature should survive termination shall continue to apply after your Account is closed or these Terms expire."
+      "title": "9. CHẤM DỨT VÀ TẠM NGỪNG",
+      "content1": "9.1 Chúng tôi có thể tạm ngừng, hạn chế hoặc chấm dứt quyền truy cập Dịch vụ của bạn theo toàn quyền quyết định, có hoặc không có thông báo trước, bao gồm nhưng không giới hạn các trường hợp chúng tôi có cơ sở hợp lý nghi ngờ gian lận, rửa tiền, vi phạm pháp luật/quy định, vi phạm Điều khoản này, rủi ro uy tín trọng yếu, hoặc khi cần tuân thủ bất kỳ lệnh, yêu cầu, điều tra, chỉ đạo pháp lý/quản lý/nhà nước nào.",
+      "content2": "9.2 Chúng tôi bảo lưu quyền giữ lại, phong tỏa hoặc tạm giữ tiền/tài sản trong Tài khoản của bạn nếu theo quyết định riêng của chúng tôi, hành động đó là cần thiết để tuân thủ pháp luật hiện hành, hỗ trợ điều tra đang diễn ra hoặc giảm thiểu thiệt hại/trách nhiệm tiềm ẩn. Việc giữ lại này không làm ảnh hưởng đến các quyền khác của chúng tôi theo Điều khoản này hoặc theo pháp luật.",
+      "content3": "9.3 Bạn có thể chấm dứt Tài khoản bất cứ lúc nào bằng thông báo bằng văn bản và hoàn thành mọi nghĩa vụ còn tồn đọng. Việc chấm dứt không ảnh hưởng đến bất kỳ quyền hoặc nghĩa vụ đã phát sinh.",
+      "content4": "9.4 Khi chấm dứt, mọi quyền được cấp cho bạn theo Điều khoản này sẽ chấm dứt ngay lập tức. Theo pháp luật hiện hành, chúng tôi sẽ hoàn trả khoản tiền đủ điều kiện còn lại về đích nhận đã xác minh do bạn cung cấp sau khi hoàn tất kiểm tra tuân thủ và kiểm toán. Chúng tôi có thể áp dụng phí kết thúc dịch vụ hoặc khấu trừ các khoản phí áp dụng, đồng thời có thể lưu giữ dữ liệu và hồ sơ giao dịch cho mục đích pháp lý, tuân thủ hoặc kiểm toán.",
+      "content5": "9.5 Các điều khoản trong Điều khoản này liên quan đến trách nhiệm, bồi thường, luật điều chỉnh, giải quyết tranh chấp và các điều khoản khác mà theo bản chất cần tiếp tục có hiệu lực sau khi chấm dứt sẽ vẫn được áp dụng sau khi Tài khoản đóng hoặc Điều khoản hết hiệu lực."
     },
     "section10": {
-      "title": "10. NOTICES AND COMMUNICATIONS",
-      "content1": "All legal notices shall be deemed delivered when sent via email to support@upfinance.ai or mailed to UpGlobal Inc, 8 The Green, Ste A, Dover, DE 19901, USA. You agree to receive communications electronically and waive any right to physical delivery.",
-      "content2": "By using the Services, you consent to receive notices and disclosures electronically in accordance with the U.S. E-SIGN Act (15 U.S.C. § 7001 et seq.)."
+      "title": "10. THÔNG BÁO VÀ LIÊN LẠC",
+      "content1": "Mọi thông báo pháp lý được xem là đã được gửi khi được gửi qua email đến support@upfinance.ai hoặc gửi thư đến UpGlobal Inc, 8 The Green, Ste A, Dover, DE 19901, USA. Bạn đồng ý nhận liên lạc điện tử và từ bỏ mọi quyền yêu cầu giao bản giấy.",
+      "content2": "Khi sử dụng Dịch vụ, bạn đồng ý nhận thông báo và công bố bằng phương thức điện tử theo Đạo luật E-SIGN của Hoa Kỳ (15 U.S.C. § 7001 và các điều khoản tiếp theo)."
     },
     "section11": {
-      "title": "11. DEFINITIONS",
-      "intro": "In these Terms, unless the context requires otherwise, the following expressions shall have the following meanings:",
-      "account": "\"Account\" means the registered user account created with UpFinance through which Services are accessed and managed.",
-      "affiliate": "\"Affiliate\" means any entity that directly or indirectly controls, is controlled by, or is under common control with a party.",
-      "custodianAccount": "\"Custodian Account\" means the account established for the User under Part A for the custody and management of fiat or digital assets, held through licensed trust or custodial partners.",
-      "digitalAssets": "\"Digital Assets\" means any cryptographic tokens, virtual currencies, digital coins, or other blockchain-based representations of value supported by the Services.",
-      "fees": "\"Fees\" means any charges, costs, spreads, or commissions applicable to the Services, as disclosed in the Fee Schedule or at the time of the transaction.",
-      "merits": "\"Merits\" or \"Merits Bank & Trust\" means Merits Bank & Trust Limited, a Hong Kong licensed trust or company service provider (TCSP Licence No. TC008817), which may be used as a custodial and settlement partner.",
-      "partyA": "\"Party A\" refers to Osmosis Limited, operating under the commercial name \"UpFinance,\" including any of its successors or assigns.",
-      "platform": "\"Platform\" means all websites, mobile applications, APIs, interfaces, and other systems operated under the UpFinance brand.",
-      "services": "\"Services\" means all products, functionalities, and features made available to Users through the UpFinance Platform, including but not limited to Custodian Accounts, Card Services, Wallets, Swap Transactions, Virtual Accounts, and Third-Party Services.",
-      "terms": "\"Terms\" refers to these UpFinance Services Terms and Conditions, including any policies, schedules, annexes, and service-specific terms incorporated by reference.",
-      "thirdPartyServices": "\"Third-Party Services\" means any external platforms, software, providers, or services integrated into or made available through UpFinance, over which UpGlobal Inc has no operational control.",
-      "user": "\"User,\" \"you,\" or \"your\" means the individual or legal entity that registers for, accesses, or uses any part of the Services."
+      "title": "11. ĐỊNH NGHĨA",
+      "intro": "Trong Điều khoản này, trừ khi ngữ cảnh yêu cầu khác, các cụm từ sau có nghĩa như sau:",
+      "account": "\"Tài khoản\" là tài khoản người dùng đã đăng ký được tạo với UpFinance, qua đó Dịch vụ được truy cập và quản lý.",
+      "affiliate": "\"Công ty liên kết\" là bất kỳ thực thể nào trực tiếp hoặc gián tiếp kiểm soát một bên, bị một bên kiểm soát, hoặc cùng chịu sự kiểm soát chung với một bên.",
+      "custodianAccount": "\"Tài khoản Lưu ký\" là tài khoản được thiết lập cho Người dùng theo Phần A để lưu giữ và quản lý tài sản tiền pháp định hoặc tài sản số, được nắm giữ thông qua các đối tác tín thác hoặc lưu ký được cấp phép.",
+      "digitalAssets": "\"Tài sản số\" là bất kỳ token mật mã, tiền tệ ảo, đồng tiền số, hoặc đại diện giá trị dựa trên blockchain nào khác được Dịch vụ hỗ trợ.",
+      "fees": "\"Phí\" là mọi khoản phụ phí, chi phí, chênh lệch hoặc hoa hồng áp dụng cho Dịch vụ, theo công bố trong Biểu phí hoặc tại thời điểm giao dịch.",
+      "merits": "\"Merits\" hoặc \"Merits Bank & Trust\" là Merits Bank & Trust Limited, nhà cung cấp dịch vụ tín thác hoặc dịch vụ doanh nghiệp được cấp phép tại Hồng Kông (TCSP Licence No. TC008817), có thể được sử dụng làm đối tác lưu ký và thanh toán bù trừ.",
+      "partyA": "\"Bên A\" là Osmosis Limited, hoạt động dưới tên thương mại \"UpFinance,\" bao gồm mọi bên kế thừa hoặc bên nhận chuyển nhượng của tổ chức này.",
+      "platform": "\"Nền tảng\" là toàn bộ website, ứng dụng di động, API, giao diện và các hệ thống khác được vận hành dưới thương hiệu UpFinance.",
+      "services": "\"Dịch vụ\" là toàn bộ sản phẩm, chức năng và tính năng được cung cấp cho Người dùng thông qua Nền tảng UpFinance, bao gồm nhưng không giới hạn ở Tài khoản Lưu ký, Dịch vụ Thẻ, Ví, Giao dịch Hoán đổi, Tài khoản Ảo và Dịch vụ Bên thứ ba.",
+      "terms": "\"Điều khoản\" là Bộ Điều khoản và Điều kiện Dịch vụ UpFinance này, bao gồm mọi chính sách, biểu, phụ lục và điều khoản riêng theo từng dịch vụ được dẫn chiếu và tích hợp.",
+      "thirdPartyServices": "\"Dịch vụ Bên thứ ba\" là mọi nền tảng, phần mềm, nhà cung cấp hoặc dịch vụ bên ngoài được tích hợp vào hoặc cung cấp thông qua UpFinance, mà UpGlobal Inc không có quyền kiểm soát vận hành.",
+      "user": "\"Người dùng,\" \"bạn,\" hoặc \"của bạn\" là cá nhân hoặc pháp nhân đăng ký, truy cập hoặc sử dụng bất kỳ phần nào của Dịch vụ."
     },
     "section12": {
-      "title": "12. DISPUTE RESOLUTION",
-      "content1": "12.1 To the fullest extent permitted by applicable law, any dispute, controversy, difference, or claim arising out of or relating to these Terms or the Services, including the existence, validity, interpretation, performance, breach, or termination thereof, shall be resolved through final and binding arbitration.",
-      "content2": "12.2 The arbitration shall be conducted in accordance with the American Arbitration Association (AAA) Commercial Arbitration Rules in force at the time of the commencement of the arbitration. The seat of arbitration shall be Delaware, and the language of the proceedings shall be English. The number of arbitrators shall be one, appointed in accordance with the AAA Rules. Judgment upon the arbitral award may be entered in any court of competent jurisdiction.",
-      "content3": "12.3 The parties expressly waive, to the maximum extent permitted by law, any right to a trial by jury or to participate in any class action, mass action, or collective proceeding against the other party. Each party agrees to resolve disputes on an individual basis only and not as a plaintiff or class member in any purported class or representative proceeding.",
-      "content4": "12.4 Notwithstanding the above, either party may seek interim, emergency, or injunctive relief from any court of competent jurisdiction where such relief is necessary to prevent imminent and irreparable harm, preserve assets, or protect confidential information or intellectual property rights, and such application shall not be deemed incompatible with this arbitration clause.",
-      "content5": "12.5 All arbitration proceedings, filings, submissions, awards, and related materials shall be kept strictly confidential by all parties, and shall not be disclosed to any third party without the prior written consent of the other party, unless such disclosure is required by law or regulatory authority."
+      "title": "12. GIẢI QUYẾT TRANH CHẤP",
+      "content1": "12.1 Trong phạm vi tối đa pháp luật hiện hành cho phép, mọi tranh chấp, bất đồng, khác biệt hoặc khiếu nại phát sinh từ hoặc liên quan đến Điều khoản này hoặc Dịch vụ, bao gồm sự tồn tại, hiệu lực, cách diễn giải, việc thực hiện, vi phạm hoặc chấm dứt, sẽ được giải quyết bằng trọng tài chung thẩm và có tính ràng buộc.",
+      "content2": "12.2 Trọng tài sẽ được tiến hành theo Quy tắc Trọng tài Thương mại của Hiệp hội Trọng tài Hoa Kỳ (AAA) có hiệu lực tại thời điểm bắt đầu trọng tài. Địa điểm trọng tài là Delaware và ngôn ngữ tố tụng là tiếng Anh. Số lượng trọng tài viên là một (01), được chỉ định theo Quy tắc AAA. Phán quyết trọng tài có thể được yêu cầu công nhận và thi hành tại bất kỳ tòa án có thẩm quyền nào.",
+      "content3": "12.3 Các bên rõ ràng từ bỏ, trong phạm vi tối đa pháp luật cho phép, mọi quyền xét xử bởi bồi thẩm đoàn hoặc tham gia bất kỳ vụ kiện tập thể, kiện hàng loạt hoặc thủ tục tố tụng đại diện nào chống lại bên kia. Mỗi bên đồng ý chỉ giải quyết tranh chấp trên cơ sở cá nhân, không với tư cách nguyên đơn hay thành viên nhóm trong bất kỳ thủ tục đại diện hoặc tập thể nào.",
+      "content4": "12.4 Mặc dù có quy định nêu trên, mỗi bên vẫn có thể yêu cầu tòa án có thẩm quyền áp dụng biện pháp tạm thời, khẩn cấp hoặc lệnh cấm khi cần thiết để ngăn ngừa thiệt hại sắp xảy ra và không thể khắc phục, bảo toàn tài sản hoặc bảo vệ thông tin mật hay quyền sở hữu trí tuệ; việc yêu cầu này không bị xem là trái với điều khoản trọng tài.",
+      "content5": "12.5 Toàn bộ thủ tục trọng tài, đơn từ, tài liệu nộp, phán quyết và tài liệu liên quan phải được tất cả các bên giữ bí mật nghiêm ngặt và không được tiết lộ cho bất kỳ bên thứ ba nào nếu không có sự chấp thuận trước bằng văn bản của bên còn lại, trừ khi việc tiết lộ đó theo yêu cầu của pháp luật hoặc cơ quan quản lý."
     },
     "section13": {
-      "title": "13. GENERAL TERMS",
-      "content1": "13.1 These Terms, together with all policies, disclosures, and documents incorporated herein by reference, constitute the entire agreement between you and Party A and supersede all prior agreements, understandings, negotiations, representations, and communications, whether oral or written, with respect to the subject matter hereof.",
-      "content2": "13.2 No failure or delay by UpGlobal Inc in exercising any right, power, or remedy under these Terms shall operate as a waiver thereof, nor shall any single or partial exercise preclude any other or further exercise thereof. Any waiver must be in writing to be effective.",
-      "content3": "13.3 You may not assign, transfer, or novate your rights or obligations under these Terms without our prior written consent. We may assign or transfer these Terms, in whole or in part, without notice or consent, to any affiliate, successor entity, or in connection with a corporate reorganization, merger, acquisition, or sale of assets.",
-      "content4": "13.4 UpGlobal Inc shall not be liable for any failure or delay in performance or availability of the Services to the extent such failure or delay results from events or circumstances beyond its reasonable control, including but not limited to acts of God, natural disasters, epidemic or pandemic outbreaks, war, terrorism, cyberattacks, communication failures, utility or network downtime, labor disputes, government restrictions or regulatory actions, custodial or service provider failures, and other unforeseeable operational disruptions.",
-      "content5": "13.5 UpGlobal Inc reserves the right to amend, update, or modify these Terms or any of the incorporated documents at any time by publishing the revised version on the Platform or otherwise providing notice to you. Your continued use of the Services following such publication or notice constitutes your acceptance of the updated Terms.",
-      "content6": "13.6 If any provision of these Terms is held by a court of competent jurisdiction to be invalid, illegal, or unenforceable, such provision shall be modified to the minimum extent necessary to render it valid and enforceable, and the remaining provisions shall remain in full force and effect.",
-      "content7": "13.7 These Terms shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to conflict of law principles. You agree that Delaware shall be the exclusive forum for any disputes not otherwise subject to arbitration under these Terms.",
-      "content8": "13.8 To the fullest extent permitted by law, any claim or cause of action arising out of or related to these Terms or the Services must be filed within twelve (12) months from the date the claim first arose. Any claims not filed within such time shall be permanently barred."
+      "title": "13. ĐIỀU KHOẢN CHUNG",
+      "content1": "13.1 Điều khoản này, cùng với mọi chính sách, công bố và tài liệu được dẫn chiếu và tích hợp tại đây, tạo thành toàn bộ thỏa thuận giữa bạn và Bên A, thay thế mọi thỏa thuận, hiểu biết, đàm phán, tuyên bố và trao đổi trước đó, dù bằng miệng hay bằng văn bản, liên quan đến cùng đối tượng điều chỉnh.",
+      "content2": "13.2 Việc UpGlobal Inc không thực hiện hoặc chậm thực hiện bất kỳ quyền, thẩm quyền hoặc biện pháp khắc phục nào theo Điều khoản này không được xem là từ bỏ quyền đó; việc thực hiện một phần hoặc một lần cũng không ngăn cản việc thực hiện tiếp hoặc thực hiện quyền khác. Mọi việc từ bỏ quyền chỉ có hiệu lực khi được lập thành văn bản.",
+      "content3": "13.3 Bạn không được chuyển nhượng, chuyển giao hoặc thay thế nghĩa vụ/quyền theo Điều khoản này nếu không có chấp thuận trước bằng văn bản của chúng tôi. Chúng tôi có thể chuyển nhượng hoặc chuyển giao toàn bộ hoặc một phần Điều khoản này, không cần thông báo hoặc xin chấp thuận, cho công ty liên kết, pháp nhân kế thừa hoặc trong bối cảnh tái cơ cấu doanh nghiệp, sáp nhập, mua lại hoặc bán tài sản.",
+      "content4": "13.4 UpGlobal Inc không chịu trách nhiệm đối với bất kỳ việc không thực hiện hoặc chậm trễ nào về việc cung cấp hay khả dụng của Dịch vụ khi nguyên nhân đến từ sự kiện hoặc hoàn cảnh nằm ngoài kiểm soát hợp lý của mình, bao gồm nhưng không giới hạn: thiên tai, thảm họa tự nhiên, bùng phát dịch bệnh hoặc đại dịch, chiến tranh, khủng bố, tấn công mạng, lỗi liên lạc, gián đoạn điện/nước/mạng, tranh chấp lao động, hạn chế của chính phủ hoặc hành động quản lý, sự cố của bên lưu ký hay nhà cung cấp dịch vụ, và các gián đoạn vận hành không thể lường trước khác.",
+      "content5": "13.5 UpGlobal Inc bảo lưu quyền sửa đổi, cập nhật hoặc điều chỉnh Điều khoản này hoặc bất kỳ tài liệu tích hợp nào vào bất kỳ thời điểm nào bằng cách công bố bản sửa đổi trên Nền tảng hoặc thông báo cho bạn theo cách khác. Việc bạn tiếp tục sử dụng Dịch vụ sau khi có công bố hoặc thông báo như vậy đồng nghĩa với việc bạn chấp nhận Điều khoản đã cập nhật.",
+      "content6": "13.6 Nếu bất kỳ điều khoản nào trong Điều khoản này bị tòa án có thẩm quyền xác định là vô hiệu, trái pháp luật hoặc không thể thi hành, điều khoản đó sẽ được điều chỉnh ở mức tối thiểu cần thiết để trở nên hợp lệ và có thể thi hành; các điều khoản còn lại vẫn giữ nguyên đầy đủ hiệu lực.",
+      "content7": "13.7 Điều khoản này được điều chỉnh và giải thích theo pháp luật Bang Delaware, không xét đến các nguyên tắc xung đột pháp luật. Bạn đồng ý rằng Delaware là diễn đàn tài phán riêng cho mọi tranh chấp không thuộc phạm vi trọng tài theo Điều khoản này.",
+      "content8": "13.8 Trong phạm vi tối đa pháp luật cho phép, mọi khiếu nại hoặc căn cứ khởi kiện phát sinh từ hoặc liên quan đến Điều khoản này hoặc Dịch vụ phải được nộp trong vòng mười hai (12) tháng kể từ ngày phát sinh khiếu nại. Mọi khiếu nại nộp sau thời hạn này sẽ vĩnh viễn mất quyền yêu cầu."
     },
     "section14": {
-      "title": "14. OPERATIONAL AND LEGAL SAFEGUARDS",
-      "content1": "14.1 You agree to indemnify and hold harmless UpFinance, its affiliates, directors, officers, employees, agents, and service providers from and against any and all losses, damages, liabilities, claims, demands, costs, and expenses (including legal fees) arising from your breach of these Terms, your violation of applicable laws or regulations, your use of the Services, or any unauthorized, fraudulent, or negligent acts or omissions on your part.",
-      "content2": "14.2 We shall not be liable for any failure or delay in performance caused by events or circumstances beyond our reasonable control, including but not limited to acts of God, cyber incidents, regulatory changes, custodial or banking failures, internet outages, war, civil unrest, or third-party service interruptions."
+      "title": "14. BIỆN PHÁP BẢO ĐẢM VẬN HÀNH VÀ PHÁP LÝ",
+      "content1": "14.1 Bạn đồng ý bồi thường và miễn trừ trách nhiệm cho UpFinance, các công ty liên kết, giám đốc, cán bộ quản lý, nhân viên, đại lý và nhà cung cấp dịch vụ của UpFinance trước mọi tổn thất, thiệt hại, nghĩa vụ, khiếu nại, yêu cầu, chi phí và phí tổn (bao gồm chi phí pháp lý) phát sinh từ việc bạn vi phạm Điều khoản này, vi phạm luật/quy định hiện hành, sử dụng Dịch vụ, hoặc bất kỳ hành vi/hành động trái phép, gian lận hay bất cẩn nào của bạn.",
+      "content2": "14.2 Chúng tôi không chịu trách nhiệm đối với bất kỳ việc không thực hiện hoặc chậm thực hiện nào do sự kiện hoặc hoàn cảnh nằm ngoài kiểm soát hợp lý, bao gồm nhưng không giới hạn ở thiên tai, sự cố an ninh mạng, thay đổi quy định, sự cố của đơn vị lưu ký hoặc ngân hàng, gián đoạn internet, chiến tranh, bất ổn dân sự hoặc gián đoạn dịch vụ bên thứ ba."
     },
     "partA": {
-      "title": "PART A: CUSTODIAN ACCOUNT",
+      "title": "PHẦN A: TÀI KHOẢN LƯU KÝ",
       "section1": {
-        "title": "1. SCOPE",
-        "content1": "1.1 This Part A sets out the terms and conditions applicable to the Custodian Account provided through UpFinance via its regulated partner, Merits Bank & Trust (“Merits”), a licensed trust company incorporated in Hong Kong.",
-        "content2": "1.2 By accessing or using the Custodian Account, you agree to be bound by this Part A in addition to the General Terms and Conditions."
+        "title": "1. PHẠM VI",
+        "content1": "1.1 Phần A này quy định các điều khoản và điều kiện áp dụng cho Tài khoản Lưu ký được cung cấp thông qua UpFinance bởi đối tác chịu quản lý của UpFinance là Merits Bank & Trust (\"Merits\"), một công ty tín thác được cấp phép thành lập tại Hồng Kông.",
+        "content2": "1.2 Khi truy cập hoặc sử dụng Tài khoản Lưu ký, bạn đồng ý bị ràng buộc bởi Phần A này ngoài các Điều khoản và Điều kiện Chung."
       },
       "section2": {
-        "title": "2. CUSTODIAN ACCOUNT STRUCTURE",
-        "content1": "2.1 The Custodian Account enables Users to hold and manage digital assets and fiat currencies in a segregated trust environment. All Custodian Accounts are operated under the regulatory license and control framework of Merits.",
-        "content2": "2.2 Funds held within Custodian Accounts are not mixed with UpFinance's corporate assets. They are maintained in accordance with fiduciary trust standards and are not subject to the claims of UpFinance's creditors.",
-        "content3": "2.3 Custodian Accounts may include sub-accounts or wallets designated for specific asset types (e.g., BTC, ETH, USDT, USD) and functionalities (e.g., debit account, virtual account, or collateral wallet).",
-        "content4": "2.4 The User acknowledges and accepts that funds or assets transferred to, held with, or managed by Merits Bank & Trust or any designated sub-custodian are subject to the operational, insolvency, and legal risks associated with such third-party custodians. UpFinance disclaims all liability for losses, delays, unavailability of funds, or regulatory interventions involving such third-party institutions, except where caused by its own gross negligence or willful misconduct as established by final, non-appealable judgment.",
-        "content5": "2.5 Unless otherwise required by applicable law, UpFinance acts solely as a facilitator and administrative coordinator with respect to custodial and trust arrangements. No fiduciary, trustee, or similar legal relationship is created between the User and UpFinance as a result of these arrangements."
+        "title": "2. CẤU TRÚC TÀI KHOẢN LƯU KÝ",
+        "content1": "2.1 Tài khoản Lưu ký cho phép Người dùng nắm giữ và quản lý tài sản số cũng như tiền pháp định trong môi trường tín thác tách biệt. Mọi Tài khoản Lưu ký đều được vận hành theo giấy phép quản lý và khuôn khổ kiểm soát của Merits.",
+        "content2": "2.2 Tiền được giữ trong Tài khoản Lưu ký không bị trộn lẫn với tài sản doanh nghiệp của UpFinance. Các khoản này được duy trì theo tiêu chuẩn tín thác ủy thác và không phải đối tượng yêu cầu của chủ nợ của UpFinance.",
+        "content3": "2.3 Tài khoản Lưu ký có thể bao gồm tài khoản phụ hoặc ví được chỉ định cho từng loại tài sản cụ thể (ví dụ: BTC, ETH, USDT, USD) và chức năng cụ thể (ví dụ: tài khoản ghi nợ, tài khoản ảo hoặc ví tài sản thế chấp).",
+        "content4": "2.4 Người dùng xác nhận và chấp nhận rằng tiền hoặc tài sản được chuyển đến, lưu giữ tại, hoặc được quản lý bởi Merits Bank & Trust hay bất kỳ đơn vị lưu ký phụ được chỉ định nào sẽ chịu các rủi ro vận hành, mất khả năng thanh toán và rủi ro pháp lý liên quan đến các đơn vị lưu ký bên thứ ba đó. UpFinance từ chối mọi trách nhiệm đối với tổn thất, chậm trễ, việc không khả dụng của tiền, hoặc can thiệp quản lý liên quan đến các tổ chức bên thứ ba đó, trừ trường hợp do lỗi bất cẩn nghiêm trọng hoặc hành vi cố ý sai trái của chính UpFinance theo phán quyết cuối cùng, không thể kháng cáo.",
+        "content5": "2.5 Trừ khi pháp luật hiện hành yêu cầu khác, UpFinance chỉ đóng vai trò là bên hỗ trợ và điều phối hành chính đối với các sắp xếp lưu ký và tín thác. Không có quan hệ pháp lý ủy thác, người được ủy thác hoặc quan hệ tương tự nào giữa Người dùng và UpFinance được hình thành từ các sắp xếp này."
       },
       "section3": {
-        "title": "3. ACCOUNT OPENING AND ACCESS",
-        "intro": "3.1 To open a Custodian Account, Users must complete all required onboarding steps, including:",
-        "requirement1": "Identity verification;",
-        "requirement2": "Source of funds and wealth declarations;",
-        "requirement3": "Compliance with anti-money laundering (AML) and counter-terrorism financing (CTF) requirements;",
-        "requirement4": "Agreement to applicable custodial and user policies.",
-        "content2": "3.2 We reserve the right to deny, suspend, or terminate access to Custodian Accounts in the event of:",
-        "reason1": "Incomplete or unsatisfactory documentation;",
-        "reason2": "Regulatory restrictions;",
-        "reason3": "Breach of any part of these Terms."
+        "title": "3. MỞ TÀI KHOẢN VÀ TRUY CẬP",
+        "intro": "3.1 Để mở Tài khoản Lưu ký, Người dùng phải hoàn tất toàn bộ các bước khởi tạo bắt buộc, bao gồm:",
+        "requirement1": "Xác minh danh tính;",
+        "requirement2": "Kê khai nguồn tiền và nguồn tài sản;",
+        "requirement3": "Tuân thủ yêu cầu chống rửa tiền (AML) và chống tài trợ khủng bố (CTF);",
+        "requirement4": "Đồng ý với các chính sách lưu ký và chính sách người dùng áp dụng.",
+        "content2": "3.2 Chúng tôi bảo lưu quyền từ chối, tạm ngừng hoặc chấm dứt quyền truy cập Tài khoản Lưu ký trong trường hợp:",
+        "reason1": "Tài liệu không đầy đủ hoặc không đạt yêu cầu;",
+        "reason2": "Hạn chế từ cơ quan quản lý;",
+        "reason3": "Vi phạm bất kỳ phần nào của Điều khoản này."
       },
       "section4": {
-        "title": "4. DEPOSITS AND WITHDRAWALS",
-        "content1": "4.1 Deposits into the Custodian Account may be made in approved fiat currencies or supported digital assets.",
-        "content2": "4.2 You are solely responsible for ensuring that you send only supported tokens to the appropriate address provided by UpFinance. Sending unsupported tokens or using incorrect deposit protocols may result in permanent loss.",
-        "content3": "4.3 Withdrawals from the Custodian Account are subject to:",
-        "requirement1": "Successful KYC/AML status;",
-        "requirement2": "Minimum withdrawal thresholds;",
-        "requirement3": "Internal risk and security checks;",
-        "requirement4": "Blockchain network availability and third-party settlement constraints.",
-        "content4": "4.4 We reserve the right to implement withdrawal cooldown periods, compliance holds, or transaction reviews as reasonably necessary to fulfill our legal obligations."
+        "title": "4. NẠP VÀ RÚT TIỀN",
+        "content1": "4.1 Việc nạp vào Tài khoản Lưu ký có thể được thực hiện bằng tiền pháp định đã được chấp thuận hoặc tài sản số được hỗ trợ.",
+        "content2": "4.2 Bạn hoàn toàn chịu trách nhiệm bảo đảm chỉ gửi token được hỗ trợ đến đúng địa chỉ do UpFinance cung cấp. Việc gửi token không được hỗ trợ hoặc dùng sai giao thức nạp có thể dẫn tới mất mát vĩnh viễn.",
+        "content3": "4.3 Việc rút khỏi Tài khoản Lưu ký phụ thuộc vào:",
+        "requirement1": "Trạng thái KYC/AML đạt yêu cầu;",
+        "requirement2": "Ngưỡng rút tối thiểu;",
+        "requirement3": "Kiểm tra rủi ro và an ninh nội bộ;",
+        "requirement4": "Tình trạng khả dụng của mạng blockchain và các hạn chế thanh toán bù trừ từ bên thứ ba.",
+        "content4": "4.4 Chúng tôi bảo lưu quyền áp dụng thời gian chờ khi rút, giữ lệnh vì tuân thủ, hoặc rà soát giao dịch ở mức hợp lý cần thiết để thực hiện nghĩa vụ pháp lý."
       },
       "section5": {
-        "title": "5. CUSTODY, SECURITY AND SEGREGATION",
-        "content1": "5.1 All digital assets in the Custodian Account are held in wallets secured and operated by Merits Bank & Trust or its appointed sub-custodians, using institutional-grade infrastructure and security controls.",
-        "content2": "5.2 Fiat balances are held in segregated client accounts under the name of Merits Bank & Trust for the benefit of Users. These accounts are not co-mingled with proprietary funds of UpFinance or Merits, except where required for operational purposes in accordance with applicable regulatory frameworks, and are subject to statutory protections.",
-        "content3": "5.3 UpFinance exercises reasonable care and skill in coordinating custodial arrangements but disclaims liability for any acts, omissions, insolvency, or delays of custodians, sub-custodians, banks, or other financial institutions once funds have been credited to such accounts, except in cases of UpFinance's own gross negligence or willful misconduct as determined by a final, non-appealable judgment.",
-        "content4": "5.4 Legal title to digital or fiat assets held in the Custodian Account remains with the User unless otherwise specified in a separate written agreement governing specific use cases such as staking, lending, or collateral arrangements.",
-        "content5": "5.5 The User agrees to indemnify and hold harmless UpFinance and its affiliates against all claims, losses, costs, and liabilities arising from custodial loss, seizure, or delay, except where such losses result directly from the gross negligence or willful misconduct of UpFinance."
+        "title": "5. LƯU KÝ, BẢO MẬT VÀ TÁCH BIỆT",
+        "content1": "5.1 Mọi tài sản số trong Tài khoản Lưu ký được nắm giữ trong các ví do Merits Bank & Trust hoặc đơn vị lưu ký phụ được chỉ định bảo mật và vận hành, sử dụng hạ tầng cấp tổ chức và các biện pháp kiểm soát an ninh phù hợp.",
+        "content2": "5.2 Số dư tiền pháp định được giữ trong các tài khoản khách hàng tách biệt đứng tên Merits Bank & Trust vì lợi ích của Người dùng. Các tài khoản này không bị trộn lẫn với quỹ sở hữu của UpFinance hoặc Merits, trừ khi cần cho mục đích vận hành theo khuôn khổ quản lý hiện hành, và chịu sự bảo vệ theo luật định.",
+        "content3": "5.3 UpFinance thực hiện sự cẩn trọng và năng lực hợp lý trong việc điều phối các sắp xếp lưu ký, nhưng từ chối trách nhiệm đối với mọi hành vi, thiếu sót, mất khả năng thanh toán hoặc chậm trễ của đơn vị lưu ký, lưu ký phụ, ngân hàng hoặc tổ chức tài chính khác sau khi tiền đã được ghi có vào các tài khoản đó, trừ trường hợp lỗi bất cẩn nghiêm trọng hoặc hành vi cố ý sai trái của chính UpFinance theo phán quyết cuối cùng, không thể kháng cáo.",
+        "content4": "5.4 Quyền sở hữu pháp lý đối với tài sản số hoặc tiền pháp định trong Tài khoản Lưu ký vẫn thuộc về Người dùng, trừ khi có quy định khác trong thỏa thuận riêng bằng văn bản cho các mục đích như staking, cho vay hoặc sắp xếp tài sản thế chấp.",
+        "content5": "5.5 Người dùng đồng ý bồi thường và miễn trừ trách nhiệm cho UpFinance và các công ty liên kết trước mọi khiếu nại, tổn thất, chi phí và nghĩa vụ phát sinh từ mất mát, phong tỏa hoặc chậm trễ lưu ký, trừ trường hợp các tổn thất đó phát sinh trực tiếp từ lỗi bất cẩn nghiêm trọng hoặc hành vi cố ý sai trái của UpFinance."
       },
       "section6": {
-        "title": "6. LIMITATIONS AND RISKS",
-        "content1": "6.1 Custodian Accounts are not deposit accounts and do not accrue interest unless otherwise agreed in writing.",
-        "content2": "6.2 You acknowledge that UpFinance is not a licensed bank and that your Custodian Account is not protected by any deposit insurance scheme.",
-        "content3": "6.3 Digital assets may lose value and are subject to technical, legal, and regulatory risks. You accept these risks fully and unconditionally.",
-        "content4": "6.4 We may suspend access to specific assets, networks, or services without prior notice if required for risk control, maintenance, or compliance."
+        "title": "6. GIỚI HẠN VÀ RỦI RO",
+        "content1": "6.1 Tài khoản Lưu ký không phải tài khoản tiền gửi và không phát sinh lãi trừ khi có thỏa thuận khác bằng văn bản.",
+        "content2": "6.2 Bạn xác nhận rằng UpFinance không phải ngân hàng được cấp phép và Tài khoản Lưu ký của bạn không được bảo vệ bởi bất kỳ cơ chế bảo hiểm tiền gửi nào.",
+        "content3": "6.3 Tài sản số có thể giảm giá trị và chịu rủi ro kỹ thuật, pháp lý và quản lý. Bạn chấp nhận đầy đủ và vô điều kiện các rủi ro này.",
+        "content4": "6.4 Chúng tôi có thể tạm ngừng truy cập đối với tài sản, mạng lưới hoặc dịch vụ cụ thể mà không cần thông báo trước nếu cần cho kiểm soát rủi ro, bảo trì hoặc tuân thủ."
       },
       "section7": {
-        "title": "7. TERMINATION",
-        "content1": "7.1 Upon termination of your Account or closure of the Custodian Account, we will:",
-        "item1": "Verify your identity and ensure compliance clearance;",
-        "item2": "Facilitate the transfer of eligible balances to a verified destination provided by you;",
-        "item3": "Apply any applicable fees and deduct outstanding obligations.",
-        "content2": "7.2 We may retain records of your Custodian Account for legal and audit purposes, even after termination."
+        "title": "7. CHẤM DỨT",
+        "content1": "7.1 Khi Tài khoản của bạn chấm dứt hoặc Tài khoản Lưu ký bị đóng, chúng tôi sẽ:",
+        "item1": "Xác minh danh tính của bạn và bảo đảm đã hoàn tất kiểm tra tuân thủ;",
+        "item2": "Hỗ trợ chuyển số dư đủ điều kiện đến địa chỉ/tài khoản đích đã được xác minh do bạn cung cấp;",
+        "item3": "Áp dụng các loại phí liên quan và khấu trừ các nghĩa vụ còn tồn đọng.",
+        "content2": "7.2 Chúng tôi có thể lưu giữ hồ sơ Tài khoản Lưu ký của bạn cho mục đích pháp lý và kiểm toán ngay cả sau khi chấm dứt."
       }
     },
     "partB": {
-      "title": "PART B: CARD SERVICES",
+      "title": "PHẦN B: DỊCH VỤ THẺ",
       "section1": {
-        "title": "1. SCOPE",
-        "content1": "1.1 This Part B governs the terms and conditions under which UpFinance offers its Users access to one or more physical or virtual payment cards (the \"UpFinance Card\"), issued in cooperation with one or more licensed BIN sponsors or electronic money institutions (the \"Card Issuer\").",
-        "content2": "1.2 By applying for or using an UpFinance Card, you agree to be bound by this Part B in addition to the General Terms and any issuer-specific cardholder agreements, where applicable."
+        "title": "1. PHẠM VI",
+        "content1": "1.1 Phần B này quy định các điều khoản và điều kiện theo đó UpFinance cung cấp cho Người dùng quyền truy cập một hoặc nhiều thẻ thanh toán vật lý hoặc thẻ ảo (\"Thẻ UpFinance\"), được phát hành với sự hợp tác của một hoặc nhiều đơn vị tài trợ BIN hoặc tổ chức tiền điện tử được cấp phép (\"Tổ chức Phát hành Thẻ\").",
+        "content2": "1.2 Khi đăng ký hoặc sử dụng Thẻ UpFinance, bạn đồng ý bị ràng buộc bởi Phần B này cùng với Điều khoản Chung và mọi thỏa thuận chủ thẻ riêng của tổ chức phát hành (nếu có)."
       },
       "section2": {
-        "title": "2. CARD ISSUANCE",
-        "content1": "2.1 Subject to successful completion of all KYC, AML, and due diligence requirements, and any applicable issuer policies, UpFinance may issue to you:",
-        "item1": "A physical card with EMV chip, PIN, and magnetic stripe;",
-        "item2": "A virtual card for online use and contactless payments;",
-        "item3": "Optional co-branded cards in partnership with merchants or business entities.",
-        "content2": "2.2 Cards are issued and activated only upon approval by the designated Card Issuer. Activation procedures will be communicated to the User and may include biometric verification or other secure processes.",
-        "content3": "2.3 The Card remains the property of the Card Issuer at all times and must be returned or destroyed upon request."
+        "title": "2. PHÁT HÀNH THẺ",
+        "content1": "2.1 Với điều kiện bạn hoàn tất thành công mọi yêu cầu KYC, AML, thẩm định và các chính sách phát hành áp dụng, UpFinance có thể phát hành cho bạn:",
+        "item1": "Thẻ vật lý có chip EMV, mã PIN và dải từ;",
+        "item2": "Thẻ ảo dùng cho thanh toán trực tuyến và thanh toán không tiếp xúc;",
+        "item3": "Thẻ đồng thương hiệu (tùy chọn) hợp tác với thương nhân hoặc tổ chức kinh doanh.",
+        "content2": "2.2 Thẻ chỉ được phát hành và kích hoạt sau khi được Tổ chức Phát hành Thẻ được chỉ định chấp thuận. Quy trình kích hoạt sẽ được thông báo cho Người dùng và có thể bao gồm xác minh sinh trắc học hoặc quy trình bảo mật khác.",
+        "content3": "2.3 Thẻ luôn thuộc sở hữu của Tổ chức Phát hành Thẻ và phải được hoàn trả hoặc tiêu hủy khi có yêu cầu."
       },
       "section3": {
-        "title": "3. CARD USAGE",
-        "content1": "3.1 The UpFinance Card may be used for:",
-        "usage1": "Point-of-sale (POS) transactions with merchants;",
-        "usage2": "Online payments;",
-        "usage3": "ATM cash withdrawals (where permitted);",
-        "usage4": "In-app transactions and subscriptions.",
-        "content2": "3.2 The Card may be linked to balances in your Custodian Account and is subject to automatic liquidation of assets to settle fiat transactions in accordance with Part A and internal FX policies.",
-        "content3": "3.3 You are responsible for maintaining sufficient balance to authorize transactions. If insufficient funds are available, the transaction may be declined.",
-        "content4": "3.4 Card use is subject to geographic, merchant category, and daily/monthly limits imposed by UpFinance and/or the Card Issuer."
+        "title": "3. SỬ DỤNG THẺ",
+        "content1": "3.1 Thẻ UpFinance có thể được dùng cho:",
+        "usage1": "Giao dịch tại điểm bán (POS) với thương nhân;",
+        "usage2": "Thanh toán trực tuyến;",
+        "usage3": "Rút tiền mặt tại ATM (nơi được cho phép);",
+        "usage4": "Giao dịch và đăng ký dịch vụ trong ứng dụng.",
+        "content2": "3.2 Thẻ có thể liên kết với số dư trong Tài khoản Lưu ký của bạn và có thể áp dụng cơ chế tự động thanh lý tài sản để tất toán giao dịch tiền pháp định theo Phần A và chính sách ngoại hối nội bộ.",
+        "content3": "3.3 Bạn có trách nhiệm duy trì số dư đủ để phê duyệt giao dịch. Nếu số dư không đủ, giao dịch có thể bị từ chối.",
+        "content4": "3.4 Việc sử dụng thẻ phải tuân theo giới hạn theo khu vực địa lý, nhóm ngành thương nhân và hạn mức ngày/tháng do UpFinance và/hoặc Tổ chức Phát hành Thẻ áp dụng."
       },
       "section4": {
-        "title": "4. SECURITY AND RESPONSIBILITIES",
-        "content1": "4.1 You must:",
-        "responsibility1": "Protect the card number, CVV, PIN, and any other authentication credentials;",
-        "responsibility2": "Not share card credentials with any unauthorized third party;",
-        "responsibility3": "Promptly report any loss, theft, or suspected unauthorized access.",
-        "content2": "4.2 You shall be liable for any transactions initiated with your credentials unless:",
-        "exception1": "You have notified UpFinance of loss/theft;",
-        "exception2": "The Card has been blocked or suspended;",
-        "exception3": "The transaction occurred due to gross negligence or willful misconduct by UpFinance or the Card Issuer.",
-        "content3": "4.3 UpFinance reserves the right to suspend or block the Card at any time:",
-        "reason1": "Upon suspected fraud or compromise;",
-        "reason2": "At the instruction of regulatory authorities;",
-        "reason3": "Upon violation of these Terms."
+        "title": "4. BẢO MẬT VÀ TRÁCH NHIỆM",
+        "content1": "4.1 Bạn phải:",
+        "responsibility1": "Bảo vệ số thẻ, CVV, PIN và mọi thông tin xác thực khác;",
+        "responsibility2": "Không chia sẻ thông tin thẻ cho bất kỳ bên thứ ba không được ủy quyền nào;",
+        "responsibility3": "Báo cáo ngay mọi trường hợp mất thẻ, bị đánh cắp hoặc nghi ngờ truy cập trái phép.",
+        "content2": "4.2 Bạn chịu trách nhiệm cho mọi giao dịch được khởi tạo bằng thông tin xác thực của mình, trừ khi:",
+        "exception1": "Bạn đã thông báo cho UpFinance về việc mất/bị đánh cắp;",
+        "exception2": "Thẻ đã bị khóa hoặc tạm ngừng;",
+        "exception3": "Giao dịch xảy ra do lỗi bất cẩn nghiêm trọng hoặc hành vi cố ý sai trái của UpFinance hoặc Tổ chức Phát hành Thẻ.",
+        "content3": "4.3 UpFinance bảo lưu quyền tạm ngừng hoặc khóa Thẻ vào bất kỳ lúc nào:",
+        "reason1": "Khi nghi ngờ gian lận hoặc lộ lọt bảo mật;",
+        "reason2": "Theo chỉ đạo của cơ quan quản lý;",
+        "reason3": "Khi có vi phạm Điều khoản này."
       },
       "section5": {
-        "title": "5. FEES, LIMITS AND EXCHANGE",
-        "content1": "5.1 All applicable fees, including but not limited to:",
-        "fee1": "Card issuance fee;",
-        "fee2": "Monthly or annual maintenance fee;",
-        "fee3": "FX spread or conversion margin;",
-        "fee4": "ATM withdrawal fees;",
-        "fee5": "Reissuance or replacement fees are disclosed in the applicable Fee Schedule.",
-        "feesDisclosure": "are disclosed in the applicable Fee Schedule.",
-        "content2": "5.2 All non-USD transactions are converted using rates set by UpFinance or the Card Issuer, which include a spread over benchmark interbank rates. The applicable rate will be disclosed or made available at the time of transaction.",
-        "content3": "5.3 Fees may be charged in crypto or fiat and may be auto-deducted from your Custodian Account or invoiced in arrears."
+        "title": "5. PHÍ, HẠN MỨC VÀ CHUYỂN ĐỔI",
+        "content1": "5.1 Mọi loại phí áp dụng, bao gồm nhưng không giới hạn:",
+        "fee1": "Phí phát hành thẻ;",
+        "fee2": "Phí duy trì hàng tháng hoặc hàng năm;",
+        "fee3": "Chênh lệch tỷ giá FX hoặc biên độ chuyển đổi;",
+        "fee4": "Phí rút tiền ATM;",
+        "fee5": "Phí phát hành lại hoặc thay thế thẻ được công bố trong Biểu Phí áp dụng.",
+        "feesDisclosure": "được công bố trong Biểu Phí áp dụng.",
+        "content2": "5.2 Mọi giao dịch không phải USD được quy đổi theo tỷ giá do UpFinance hoặc Tổ chức Phát hành Thẻ thiết lập, bao gồm chênh lệch so với tỷ giá liên ngân hàng chuẩn. Tỷ giá áp dụng sẽ được công bố hoặc cung cấp tại thời điểm giao dịch.",
+        "content3": "5.3 Phí có thể được thu bằng crypto hoặc tiền pháp định và có thể tự động khấu trừ từ Tài khoản Lưu ký của bạn hoặc xuất hóa đơn thanh toán sau."
       },
       "section6": {
-        "title": "6. RESTRICTIONS",
-        "content1": "6.1 You may not use the UpFinance Card for:",
-        "restriction1": "Prohibited transactions under applicable law (e.g., gambling, sanctioned entities);",
-        "restriction2": "Fraudulent or deceptive activities;",
-        "restriction3": "Transactions inconsistent with AML/CTF obligations.",
-        "content2": "6.2 We reserve the right to cancel, suspend, or restrict the Card with or without notice to comply with our legal obligations or risk policies."
+        "title": "6. HẠN CHẾ",
+        "content1": "6.1 Bạn không được sử dụng Thẻ UpFinance cho:",
+        "restriction1": "Giao dịch bị cấm theo pháp luật hiện hành (ví dụ: cờ bạc, thực thể bị trừng phạt);",
+        "restriction2": "Hoạt động gian lận hoặc lừa dối;",
+        "restriction3": "Giao dịch không phù hợp với nghĩa vụ AML/CTF.",
+        "content2": "6.2 Chúng tôi bảo lưu quyền hủy, tạm ngừng hoặc hạn chế Thẻ, có hoặc không có thông báo trước, để tuân thủ nghĩa vụ pháp lý hoặc chính sách rủi ro của chúng tôi."
       },
       "section7": {
-        "title": "7. TERMINATION AND EXPIRATION",
-        "content1": "7.1 Your Card will be valid until its stated expiration date unless earlier terminated. We may issue a replacement card prior to expiration at our discretion.",
-        "content2": "7.2 Upon closure of your Account, expiration of the Card, or termination for breach, you must:",
-        "requirement1": "Cease use of the Card immediately;",
-        "requirement2": "Destroy the physical card (if applicable);",
-        "requirement3": "Ensure outstanding transactions and fees are settled.",
-        "content3": "7.3 Remaining funds (if any) will be returned in accordance with the Custodian Account terms and subject to audit and regulatory clearance."
+        "title": "7. CHẤM DỨT VÀ HẾT HẠN",
+        "content1": "7.1 Thẻ của bạn có hiệu lực đến ngày hết hạn ghi trên thẻ, trừ khi bị chấm dứt sớm hơn. Chúng tôi có thể phát hành thẻ thay thế trước khi hết hạn theo quyết định của mình.",
+        "content2": "7.2 Khi Tài khoản của bạn bị đóng, Thẻ hết hạn, hoặc bị chấm dứt do vi phạm, bạn phải:",
+        "requirement1": "Ngừng sử dụng Thẻ ngay lập tức;",
+        "requirement2": "Tiêu hủy thẻ vật lý (nếu có);",
+        "requirement3": "Bảo đảm các giao dịch và khoản phí còn tồn đọng được thanh toán đầy đủ.",
+        "content3": "7.3 Số tiền còn lại (nếu có) sẽ được hoàn trả theo điều khoản Tài khoản Lưu ký và phụ thuộc vào hoàn tất kiểm toán cũng như phê duyệt quản lý."
       }
     },
     "partC": {
-      "title": "PART C: SWAP TRANSACTIONS",
+      "title": "PHẦN C: GIAO DỊCH HOÁN ĐỔI",
       "section1": {
-        "title": "1. SCOPE",
-        "content1": "1.1 This Part C sets forth the terms and conditions governing the use of UpFinance's swap services, which enable Users to convert one supported digital asset or fiat currency into another (\"Swap Transactions\").",
-        "content2": "1.2 Swap Transactions may be facilitated by UpFinance directly or through third-party liquidity providers (\"Liquidity Providers\") and may be executed via centralized or decentralized exchange protocols."
+        "title": "1. PHẠM VI",
+        "content1": "1.1 Phần C này quy định các điều khoản và điều kiện điều chỉnh việc sử dụng dịch vụ hoán đổi của UpFinance, cho phép Người dùng chuyển đổi một tài sản số hoặc tiền pháp định được hỗ trợ sang tài sản/tiền tệ khác (\"Giao dịch Hoán đổi\").",
+        "content2": "1.2 Giao dịch Hoán đổi có thể do UpFinance trực tiếp hỗ trợ hoặc thông qua các nhà cung cấp thanh khoản bên thứ ba (\"Nhà cung cấp Thanh khoản\"), và có thể được thực hiện qua giao thức sàn giao dịch tập trung hoặc phi tập trung."
       },
       "section2": {
-        "title": "2. ELIGIBILITY AND CONDITIONS",
-        "content1": "2.1 You must:",
-        "requirement1": "Hold an active Custodian Account with sufficient eligible balance;",
-        "requirement2": "Have completed all required identity and compliance verification steps;",
-        "requirement3": "Accept the Swap Transaction terms and any associated pricing, slippage, or fees at the time of execution.",
-        "content2": "2.2 UpFinance may limit the types of assets available for swap, minimum or maximum swap thresholds, and eligible counterparties.",
-        "content3": "2.3 Swap functionality may be suspended at any time without prior notice for reasons including market volatility, risk controls, or service maintenance."
+        "title": "2. ĐIỀU KIỆN ĐỦ TƯ CÁCH VÀ ÁP DỤNG",
+        "content1": "2.1 Bạn phải:",
+        "requirement1": "Duy trì Tài khoản Lưu ký đang hoạt động với số dư đủ điều kiện;",
+        "requirement2": "Hoàn tất toàn bộ các bước xác minh danh tính và tuân thủ bắt buộc;",
+        "requirement3": "Chấp nhận điều khoản Giao dịch Hoán đổi cùng mức giá, trượt giá hoặc phí liên quan tại thời điểm thực hiện.",
+        "content2": "2.2 UpFinance có thể giới hạn loại tài sản được phép hoán đổi, ngưỡng hoán đổi tối thiểu/tối đa và đối tác giao dịch đủ điều kiện.",
+        "content3": "2.3 Chức năng hoán đổi có thể bị tạm ngừng vào bất kỳ lúc nào mà không cần thông báo trước vì các lý do gồm biến động thị trường, kiểm soát rủi ro hoặc bảo trì dịch vụ."
       },
       "section3": {
-        "title": "3. EXECUTION AND PRICING",
-        "content1": "3.1 When initiating a Swap Transaction, you will be shown an indicative quote reflecting:",
-        "item1": "The input and output asset type and amount;",
-        "item2": "The applicable exchange rate or conversion formula;",
-        "item3": "Estimated network and service fees;",
-        "item4": "Any slippage tolerance limits.",
-        "content2": "3.2 You acknowledge that:",
-        "acknowledgment1": "Swap rates may change between quote and execution due to market movement;",
-        "acknowledgment2": "Network delays may result in execution outside your desired parameters;",
-        "acknowledgment3": "Transactions may be irreversible once executed.",
-        "content3": "3.3 You are solely responsible for verifying all swap parameters before confirmation. You waive any claim arising from adverse price movements occurring prior to execution."
+        "title": "3. THỰC THI VÀ ĐỊNH GIÁ",
+        "content1": "3.1 Khi khởi tạo Giao dịch Hoán đổi, bạn sẽ được hiển thị báo giá tham chiếu bao gồm:",
+        "item1": "Loại tài sản đầu vào/đầu ra và số lượng;",
+        "item2": "Tỷ giá hoặc công thức chuyển đổi áp dụng;",
+        "item3": "Ước tính phí mạng lưới và phí dịch vụ;",
+        "item4": "Mức giới hạn dung sai trượt giá (nếu có).",
+        "content2": "3.2 Bạn xác nhận rằng:",
+        "acknowledgment1": "Tỷ giá hoán đổi có thể thay đổi từ lúc báo giá đến khi thực thi do biến động thị trường;",
+        "acknowledgment2": "Độ trễ mạng có thể khiến giao dịch được thực hiện ngoài các tham số bạn mong muốn;",
+        "acknowledgment3": "Giao dịch có thể không thể đảo ngược sau khi đã thực hiện.",
+        "content3": "3.3 Bạn tự chịu trách nhiệm xác minh toàn bộ tham số hoán đổi trước khi xác nhận. Bạn từ bỏ mọi yêu cầu phát sinh từ biến động giá bất lợi xảy ra trước khi thực thi."
       },
       "section4": {
-        "title": "4. SETTLEMENT AND CONFIRMATION",
-        "content1": "4.1 Upon execution, the corresponding balances in your Custodian Account will be debited and credited accordingly.",
-        "content2": "4.2 A transaction record will be generated and made available through your Account interface. This shall serve as conclusive evidence of execution, unless manifest error is proven.",
-        "content3": "4.3 Swap Transactions may take time to settle depending on the blockchain or external service provider involved. UpFinance is not liable for settlement delays beyond its control."
+        "title": "4. THANH TOÁN VÀ XÁC NHẬN",
+        "content1": "4.1 Khi giao dịch được thực hiện, số dư tương ứng trong Tài khoản Lưu ký của bạn sẽ được ghi nợ và ghi có phù hợp.",
+        "content2": "4.2 Một bản ghi giao dịch sẽ được tạo và cung cấp qua giao diện Tài khoản của bạn. Bản ghi này là bằng chứng kết luận về việc thực thi, trừ khi chứng minh được sai sót hiển nhiên.",
+        "content3": "4.3 Giao dịch Hoán đổi có thể cần thời gian để hoàn tất thanh toán tùy thuộc blockchain hoặc nhà cung cấp dịch vụ bên ngoài liên quan. UpFinance không chịu trách nhiệm cho việc chậm thanh toán nằm ngoài kiểm soát của mình."
       },
       "section5": {
-        "title": "5. FEES AND SPREADS",
-        "content1": "5.1 All Swap Transactions are subject to:",
-        "fee1": "A platform fee as disclosed in the Fee Schedule;",
-        "fee2": "A spread applied to the prevailing market rate;",
-        "fee3": "Any third-party gas or transaction fees, as applicable.",
-        "content2": "5.2 Fees are deducted at the time of execution and are non-refundable once the transaction has been confirmed on-chain or by our systems."
+        "title": "5. PHÍ VÀ BIÊN ĐỘ CHÊNH LỆCH",
+        "content1": "5.1 Mọi Giao dịch Hoán đổi đều chịu:",
+        "fee1": "Phí nền tảng theo Biểu Phí đã công bố;",
+        "fee2": "Biên độ chênh lệch áp dụng trên tỷ giá thị trường hiện hành;",
+        "fee3": "Phí gas hoặc phí giao dịch của bên thứ ba (nếu có).",
+        "content2": "5.2 Phí được khấu trừ tại thời điểm thực thi và không hoàn lại khi giao dịch đã được xác nhận trên chuỗi hoặc bởi hệ thống của chúng tôi."
       },
       "section6": {
-        "title": "6. RISK DISCLOSURE",
-        "content1": "6.1 You acknowledge and accept the following risks:",
-        "risk1": "Price slippage or unfavorable execution during volatile markets;",
-        "risk2": "Impermanent loss or depegging of stablecoins;",
-        "risk3": "Protocol errors or smart contract vulnerabilities (if using DEX routes);",
-        "risk4": "Liquidity shortfalls preventing transaction completion.",
-        "content2": "6.2 You bear full responsibility for the outcome of each Swap Transaction, including tax consequences or unrealized gains/losses."
+        "title": "6. CÔNG BỐ RỦI RO",
+        "content1": "6.1 Bạn xác nhận và chấp nhận các rủi ro sau:",
+        "risk1": "Trượt giá hoặc thực thi bất lợi trong thị trường biến động mạnh;",
+        "risk2": "Tổn thất tạm thời (impermanent loss) hoặc mất neo giá của stablecoin;",
+        "risk3": "Lỗi giao thức hoặc lỗ hổng hợp đồng thông minh (nếu dùng tuyến DEX);",
+        "risk4": "Thiếu thanh khoản khiến giao dịch không thể hoàn tất.",
+        "content2": "6.2 Bạn chịu hoàn toàn trách nhiệm cho kết quả của từng Giao dịch Hoán đổi, bao gồm hệ quả thuế hoặc lãi/lỗ chưa thực hiện."
       },
       "section7": {
-        "title": "7. RIGHT TO REFUSE OR CANCEL",
-        "content1": "7.1 UpFinance reserves the right to:",
-        "right1": "Cancel or reverse any Swap Transaction in the event of technical malfunction, pricing error, or regulatory instruction;",
-        "right2": "Limit swap frequency, volume, or access based on compliance or risk triggers;",
-        "right3": "Delay settlement pending manual review where suspicious activity is detected.",
-        "content2": "7.2 In the event of suspected abuse or policy violation, your Account may be suspended and all pending transactions frozen without notice."
+        "title": "7. QUYỀN TỪ CHỐI HOẶC HỦY",
+        "content1": "7.1 UpFinance bảo lưu quyền:",
+        "right1": "Hủy hoặc đảo ngược bất kỳ Giao dịch Hoán đổi nào khi có sự cố kỹ thuật, lỗi định giá hoặc chỉ đạo quản lý;",
+        "right2": "Giới hạn tần suất, khối lượng hoặc quyền truy cập hoán đổi dựa trên tín hiệu tuân thủ hoặc rủi ro;",
+        "right3": "Trì hoãn thanh toán để chờ rà soát thủ công khi phát hiện hoạt động đáng ngờ.",
+        "content2": "7.2 Khi có nghi ngờ lạm dụng hoặc vi phạm chính sách, Tài khoản của bạn có thể bị tạm ngừng và toàn bộ giao dịch chờ xử lý có thể bị đóng băng mà không cần thông báo."
       }
     },
     "partD": {
-      "title": "PART D: WALLETS AND VAULTS",
+      "title": "PHẦN D: VÍ VÀ KHO LƯU TRỮ",
       "section1": {
-        "title": "1. SCOPE",
-        "content1": "1.1 This Part D governs the use of wallet services and digital asset vaults made available through UpFinance, including:",
-        "type1": "Non-custodial wallets generated or connected by the User;",
-        "type2": "Smart contract-based vaults offered or operated by UpFinance;",
-        "type3": "Hybrid storage systems integrating custodial and self-custodial features.",
-        "content2": "1.2 Wallet and Vault Services are subject to applicable compliance, technical, and security protocols, and may be disabled, suspended, or modified at any time without prior notice."
+        "title": "1. PHẠM VI",
+        "content1": "1.1 Phần D này điều chỉnh việc sử dụng các dịch vụ ví và kho lưu trữ tài sản số được cung cấp thông qua UpFinance, bao gồm:",
+        "type1": "Ví không lưu ký do Người dùng tạo hoặc kết nối;",
+        "type2": "Kho (vault) dựa trên hợp đồng thông minh do UpFinance cung cấp hoặc vận hành;",
+        "type3": "Hệ thống lưu trữ lai tích hợp tính năng lưu ký và tự lưu ký.",
+        "content2": "1.2 Dịch vụ Ví và Vault chịu sự điều chỉnh của các giao thức tuân thủ, kỹ thuật và bảo mật áp dụng, và có thể bị vô hiệu hóa, tạm ngừng hoặc điều chỉnh vào bất kỳ lúc nào mà không cần thông báo trước."
       },
       "section2": {
-        "title": "2. WALLET TYPES AND FUNCTIONALITY",
-        "content1": "2.1 UpFinance may support the following wallet types:",
-        "walletType1": "External Wallets: Non-custodial wallets connected by the User (e.g., MetaMask, WalletConnect);",
-        "walletType2": "Smart Vaults: On-chain programmable vaults with predefined rules for storage, access, or delegation;",
-        "walletType3": "Recovery Wallets: Multisig or social recovery-enabled wallets managed through UpFinance interfaces.",
-        "content2": "2.2 Vaults may include advanced features such as:",
-        "feature1": "Time-locked asset release;",
-        "feature2": "Delegation or inheritance rules;",
-        "feature3": "Automated task execution;",
-        "feature4": "Multi-party approvals.",
-        "content3": "2.3 The functionality, visibility, and accessibility of each wallet or vault may depend on blockchain network conditions, third-party integrations, or gas availability."
+        "title": "2. LOẠI VÍ VÀ CHỨC NĂNG",
+        "content1": "2.1 UpFinance có thể hỗ trợ các loại ví sau:",
+        "walletType1": "Ví Bên ngoài: Ví không lưu ký do Người dùng kết nối (ví dụ: MetaMask, WalletConnect);",
+        "walletType2": "Smart Vault: Kho lưu trữ lập trình trên chuỗi với các quy tắc định sẵn về lưu trữ, truy cập hoặc ủy quyền;",
+        "walletType3": "Ví Khôi phục: Ví multisig hoặc ví có tính năng khôi phục xã hội, được quản lý qua giao diện UpFinance.",
+        "content2": "2.2 Vault có thể bao gồm các tính năng nâng cao như:",
+        "feature1": "Mở khóa tài sản theo thời gian;",
+        "feature2": "Quy tắc ủy quyền hoặc thừa kế;",
+        "feature3": "Tự động thực thi tác vụ;",
+        "feature4": "Phê duyệt nhiều bên.",
+        "content3": "2.3 Chức năng, khả năng hiển thị và khả năng truy cập của từng ví hoặc vault có thể phụ thuộc vào điều kiện mạng blockchain, tích hợp bên thứ ba hoặc mức độ khả dụng của gas."
       },
       "section3": {
-        "title": "3. USER CONTROL AND RESPONSIBILITY",
-        "content1": "3.1 For all non-custodial or smart contract wallets:",
-        "responsibility1": "You retain sole control over the private keys, seed phrases, or recovery credentials;",
-        "responsibility2": "UpFinance does not store, manage, or retrieve any User keys or access codes;",
-        "responsibility3": "Loss or compromise of your keys may result in irreversible loss of assets.",
-        "content2": "3.2 You are solely responsible for the use of dApps, signing of transactions, and exposure to smart contract risks when interacting with Vault Services.",
-        "content3": "3.3 By using Wallet or Vault Services, you acknowledge that:",
-        "acknowledgment1": "Smart contracts may contain errors or bugs;",
-        "acknowledgment2": "You have conducted your own due diligence;",
-        "acknowledgment3": "You assume all risk related to such technologies."
+        "title": "3. KIỂM SOÁT VÀ TRÁCH NHIỆM CỦA NGƯỜI DÙNG",
+        "content1": "3.1 Đối với mọi ví không lưu ký hoặc ví hợp đồng thông minh:",
+        "responsibility1": "Bạn giữ toàn quyền kiểm soát khóa riêng, cụm từ hạt giống hoặc thông tin khôi phục;",
+        "responsibility2": "UpFinance không lưu trữ, quản lý hoặc truy xuất bất kỳ khóa hay mã truy cập nào của Người dùng;",
+        "responsibility3": "Việc mất hoặc lộ khóa của bạn có thể dẫn đến mất tài sản không thể đảo ngược.",
+        "content2": "3.2 Bạn hoàn toàn chịu trách nhiệm cho việc sử dụng dApp, ký giao dịch và rủi ro hợp đồng thông minh khi tương tác với Dịch vụ Vault.",
+        "content3": "3.3 Khi sử dụng Dịch vụ Ví hoặc Vault, bạn xác nhận rằng:",
+        "acknowledgment1": "Hợp đồng thông minh có thể tồn tại lỗi hoặc bug;",
+        "acknowledgment2": "Bạn đã tự thực hiện thẩm định cần thiết;",
+        "acknowledgment3": "Bạn tự chịu mọi rủi ro liên quan đến các công nghệ này."
       },
       "section4": {
-        "title": "4. INTERACTIONS WITH CUSTODIAL SERVICES",
-        "content1": "4.1 You may transfer assets between your Custodian Account and Vaults or Wallets at any time, subject to applicable fees, gas costs, and platform policies.",
-        "content2": "4.2 Vaults may be subject to lock-up periods, cooldown timers, or programmable access conditions which may delay or restrict withdrawals.",
-        "content3": "4.3 Interoperability with external custody solutions (e.g., Ledger, MPC providers) is not guaranteed and may be limited by third-party software or hardware constraints."
+        "title": "4. TƯƠNG TÁC VỚI DỊCH VỤ LƯU KÝ",
+        "content1": "4.1 Bạn có thể chuyển tài sản giữa Tài khoản Lưu ký và Vault hoặc Ví của mình bất kỳ lúc nào, tùy theo phí áp dụng, chi phí gas và chính sách nền tảng.",
+        "content2": "4.2 Vault có thể áp dụng thời gian khóa, bộ đếm thời gian chờ hoặc điều kiện truy cập lập trình, có thể làm chậm hoặc hạn chế việc rút.",
+        "content3": "4.3 Khả năng tương thích với các giải pháp lưu ký bên ngoài (ví dụ: Ledger, nhà cung cấp MPC) không được bảo đảm và có thể bị giới hạn bởi ràng buộc phần mềm hoặc phần cứng của bên thứ ba."
       },
       "section5": {
-        "title": "5. FEES AND LIMITATIONS",
-        "content1": "5.1 Usage of Wallet or Vault Services may incur:",
-        "fee1": "Blockchain gas fees;",
-        "fee2": "Smart contract interaction charges;",
-        "fee3": "Vault creation or maintenance fees (where applicable).",
-        "content2": "5.2 UpFinance reserves the right to implement usage-based pricing, transaction throttling, or minimum/maximum transfer amounts."
+        "title": "5. PHÍ VÀ GIỚI HẠN",
+        "content1": "5.1 Việc sử dụng Dịch vụ Ví hoặc Vault có thể phát sinh:",
+        "fee1": "Phí gas blockchain;",
+        "fee2": "Phí tương tác hợp đồng thông minh;",
+        "fee3": "Phí tạo hoặc duy trì Vault (nếu áp dụng).",
+        "content2": "5.2 UpFinance bảo lưu quyền áp dụng định giá theo mức sử dụng, điều tiết lưu lượng giao dịch, hoặc giới hạn số tiền chuyển tối thiểu/tối đa."
       },
       "section6": {
-        "title": "6. TERMINATION AND DATA RETENTION",
-        "content1": "6.1 Upon termination of your Account:",
-        "termination1": "Vaults may be deactivated, and any automated processes halted;",
-        "termination2": "You will retain access to your external wallets, but Vault interfaces may be disabled.",
-        "content2": "6.2 UpFinance shall not be responsible for preserving metadata, transaction history, or user-configured vault logic after Account termination.",
-        "content3": "6.3 You are advised to export or back up any relevant information before initiating Account closure."
+        "title": "6. CHẤM DỨT VÀ LƯU GIỮ DỮ LIỆU",
+        "content1": "6.1 Khi Tài khoản của bạn bị chấm dứt:",
+        "termination1": "Vault có thể bị vô hiệu hóa và mọi tiến trình tự động có thể bị dừng;",
+        "termination2": "Bạn vẫn giữ quyền truy cập ví bên ngoài của mình, nhưng giao diện Vault có thể bị tắt.",
+        "content2": "6.2 UpFinance không chịu trách nhiệm lưu giữ metadata, lịch sử giao dịch hoặc logic vault do người dùng cấu hình sau khi Tài khoản chấm dứt.",
+        "content3": "6.3 Bạn nên xuất hoặc sao lưu mọi thông tin liên quan trước khi bắt đầu đóng Tài khoản."
       }
     },
     "partE": {
-      "title": "PART E: VIRTUAL ACCOUNTS",
+      "title": "PHẦN E: TÀI KHOẢN ẢO",
       "section1": {
-        "title": "1. SCOPE",
-        "content1": "1.1 This Part E sets forth the terms and conditions applicable to the provision and use of virtual account services offered through UpFinance (\"Virtual Accounts\").",
-        "content2": "1.2 Virtual Accounts refer to unique identifiers and associated payment rails (e.g., dedicated IBANs, SWIFT codes, FPS identifiers, or proxy-linked accounts) that enable Users to receive or send fiat currency deposits and withdrawals through partnered banking and payment institutions."
+        "title": "1. PHẠM VI",
+        "content1": "1.1 Phần E này quy định các điều khoản và điều kiện áp dụng cho việc cung cấp và sử dụng dịch vụ tài khoản ảo do UpFinance cung cấp (\"Tài khoản Ảo\").",
+        "content2": "1.2 Tài khoản Ảo là các định danh riêng biệt cùng hạ tầng thanh toán liên quan (ví dụ: IBAN chuyên biệt, mã SWIFT, định danh FPS, hoặc tài khoản liên kết proxy) cho phép Người dùng nhận hoặc gửi tiền pháp định thông qua các tổ chức ngân hàng và thanh toán đối tác."
       },
       "section2": {
-        "title": "2. ACCOUNT ISSUANCE AND ELIGIBILITY",
-        "content1": "2.1 Virtual Accounts are provided through licensed financial partners and are subject to their onboarding and compliance requirements. UpFinance does not independently issue or manage Virtual Accounts.",
-        "content2": "2.2 You must:",
-        "requirement1": "Maintain an active Custodian Account with UpFinance;",
-        "requirement2": "Successfully complete all required KYC/AML procedures;",
-        "requirement3": "Acknowledge and agree to any additional partner-specific terms and disclosures.",
-        "content3": "2.3 UpFinance reserves the right to reject, suspend, or revoke access to Virtual Accounts at any time for risk, compliance, or technical reasons."
+        "title": "2. PHÁT HÀNH TÀI KHOẢN VÀ ĐIỀU KIỆN ĐỦ TƯ CÁCH",
+        "content1": "2.1 Tài khoản Ảo được cung cấp thông qua các đối tác tài chính được cấp phép và phụ thuộc vào yêu cầu khởi tạo cũng như tuân thủ của họ. UpFinance không tự phát hành hoặc tự quản lý Tài khoản Ảo một cách độc lập.",
+        "content2": "2.2 Bạn phải:",
+        "requirement1": "Duy trì Tài khoản Lưu ký đang hoạt động tại UpFinance;",
+        "requirement2": "Hoàn tất thành công toàn bộ quy trình KYC/AML bắt buộc;",
+        "requirement3": "Xác nhận và đồng ý với mọi điều khoản/công bố bổ sung riêng của đối tác.",
+        "content3": "2.3 UpFinance bảo lưu quyền từ chối, tạm ngừng hoặc thu hồi quyền truy cập Tài khoản Ảo vào bất kỳ lúc nào vì lý do rủi ro, tuân thủ hoặc kỹ thuật."
       },
       "section3": {
-        "title": "3. DEPOSITS AND FUNDING",
-        "content1": "3.1 Fiat deposits may be made to your Virtual Account via bank transfer or other supported payment methods.",
-        "content2": "3.2 Funds received into your Virtual Account will be credited to your Custodian Account once cleared by the underlying financial institution. Delays may occur due to:",
-        "delay1": "Bank processing times;",
-        "delay2": "Incorrect reference details;",
-        "delay3": "Network or correspondent banking issues.",
-        "content3": "3.3 You are responsible for ensuring accurate transfer details. Misrouted or improperly referenced transfers may be delayed or forfeited."
+        "title": "3. NẠP TIỀN VÀ CẤP VỐN",
+        "content1": "3.1 Bạn có thể nạp tiền pháp định vào Tài khoản Ảo thông qua chuyển khoản ngân hàng hoặc các phương thức thanh toán được hỗ trợ khác.",
+        "content2": "3.2 Khoản tiền nhận vào Tài khoản Ảo sẽ được ghi có vào Tài khoản Lưu ký của bạn sau khi tổ chức tài chính nền tảng xác nhận thanh toán. Có thể xảy ra chậm trễ do:",
+        "delay1": "Thời gian xử lý của ngân hàng;",
+        "delay2": "Thông tin tham chiếu không chính xác;",
+        "delay3": "Sự cố mạng lưới hoặc ngân hàng đại lý.",
+        "content3": "3.3 Bạn có trách nhiệm bảo đảm thông tin chuyển khoản chính xác. Chuyển khoản sai đích hoặc ghi tham chiếu không đúng có thể bị chậm hoặc bị mất quyền nhận."
       },
       "section4": {
-        "title": "4. OUTBOUND PAYMENTS",
-        "content1": "4.1 You may initiate outbound payments from your Custodian Account to external bank accounts via the Virtual Account system, subject to applicable fees, cut-off times, and anti-fraud checks.",
-        "content2": "4.2 Transfers may be rejected or delayed due to:",
-        "reason1": "Compliance flags;",
-        "reason2": "Sanction screening;",
-        "reason3": "Insufficient documentation or transaction justification.",
-        "content3": "4.3 All outbound instructions are deemed final once submitted. You acknowledge that fiat payment networks are not reversible and UpFinance cannot guarantee recovery of misdirected funds."
+        "title": "4. THANH TOÁN CHUYỂN ĐI",
+        "content1": "4.1 Bạn có thể khởi tạo thanh toán chuyển đi từ Tài khoản Lưu ký sang tài khoản ngân hàng bên ngoài thông qua hệ thống Tài khoản Ảo, tùy theo phí áp dụng, thời hạn cắt lệnh và kiểm tra chống gian lận.",
+        "content2": "4.2 Chuyển khoản có thể bị từ chối hoặc trì hoãn do:",
+        "reason1": "Cảnh báo tuân thủ;",
+        "reason2": "Rà soát trừng phạt;",
+        "reason3": "Thiếu tài liệu hoặc thiếu căn cứ giải trình giao dịch.",
+        "content3": "4.3 Mọi chỉ thị chuyển đi được xem là cuối cùng sau khi gửi. Bạn xác nhận rằng mạng thanh toán tiền pháp định không thể đảo ngược và UpFinance không bảo đảm thu hồi tiền gửi sai."
       },
       "section5": {
-        "title": "5. FEES AND CONVERSIONS",
-        "content1": "5.1 Virtual Account usage may be subject to:",
-        "fee1": "Deposit and withdrawal fees;",
-        "fee2": "FX conversion margins (if applicable);",
-        "fee3": "Third-party banking and processing charges.",
-        "content2": "5.2 Fees are disclosed in the current Fee Schedule and may be amended from time to time. You agree to pay all applicable fees in full and authorize UpFinance to deduct such fees from your Custodian Account."
+        "title": "5. PHÍ VÀ CHUYỂN ĐỔI",
+        "content1": "5.1 Việc sử dụng Tài khoản Ảo có thể chịu:",
+        "fee1": "Phí nạp và rút tiền;",
+        "fee2": "Biên độ chuyển đổi ngoại hối FX (nếu áp dụng);",
+        "fee3": "Phí xử lý và ngân hàng của bên thứ ba.",
+        "content2": "5.2 Phí được công bố trong Biểu Phí hiện hành và có thể được sửa đổi theo từng thời điểm. Bạn đồng ý thanh toán đầy đủ mọi khoản phí áp dụng và ủy quyền cho UpFinance khấu trừ các khoản phí này từ Tài khoản Lưu ký của bạn."
       },
       "section6": {
-        "title": "6. ACCOUNT LIMITATIONS AND MONITORING",
-        "content1": "6.1 Virtual Accounts are provided on a best-effort basis. Service may be disrupted due to partner outages, regulatory directives, or banking policy changes.",
-        "content2": "6.2 We reserve the right to:",
-        "right1": "Impose transaction limits or velocity controls;",
-        "right2": "Require justification for high-value or unusual transactions;",
-        "right3": "Freeze or reverse specific entries pending review.",
-        "content3": "6.3 You agree to provide full cooperation in any inquiry or investigation related to Virtual Account activity."
+        "title": "6. GIỚI HẠN TÀI KHOẢN VÀ GIÁM SÁT",
+        "content1": "6.1 Tài khoản Ảo được cung cấp trên cơ sở nỗ lực tối đa. Dịch vụ có thể bị gián đoạn do đối tác ngừng hệ thống, chỉ thị quản lý hoặc thay đổi chính sách ngân hàng.",
+        "content2": "6.2 Chúng tôi bảo lưu quyền:",
+        "right1": "Áp dụng hạn mức giao dịch hoặc kiểm soát tốc độ giao dịch;",
+        "right2": "Yêu cầu giải trình cho giao dịch giá trị lớn hoặc bất thường;",
+        "right3": "Đóng băng hoặc đảo ngược các bút toán cụ thể trong thời gian chờ rà soát.",
+        "content3": "6.3 Bạn đồng ý hợp tác đầy đủ trong mọi yêu cầu hỏi đáp hoặc điều tra liên quan đến hoạt động Tài khoản Ảo."
       },
       "section7": {
-        "title": "7. TERMINATION",
-        "content1": "7.1 Your access to a Virtual Account may be terminated:",
-        "reason1": "Upon closure of your Custodian Account;",
-        "reason2": "If you fail to comply with onboarding or ongoing verification;",
-        "reason3": "At the instruction of the issuing financial institution.",
-        "content2": "7.2 Upon termination, any residual balances will be reconciled and returned in accordance with our standard offboarding and compliance protocols."
+        "title": "7. CHẤM DỨT",
+        "content1": "7.1 Quyền truy cập Tài khoản Ảo của bạn có thể bị chấm dứt:",
+        "reason1": "Khi Tài khoản Lưu ký của bạn bị đóng;",
+        "reason2": "Khi bạn không tuân thủ yêu cầu khởi tạo hoặc xác minh duy trì;",
+        "reason3": "Theo chỉ đạo của tổ chức tài chính phát hành.",
+        "content2": "7.2 Khi chấm dứt, mọi số dư còn lại sẽ được đối soát và hoàn trả theo quy trình rời nền tảng và quy trình tuân thủ tiêu chuẩn của chúng tôi."
       }
     },
     "partF": {
-      "title": "PART F: THIRD-PARTY SERVICES",
+      "title": "PHẦN F: DỊCH VỤ BÊN THỨ BA",
       "section1": {
-        "title": "1. SCOPE",
-        "content1": "1.1 This Part F governs your access to and use of any third-party services, platforms, applications, or tools (\"Third-Party Services\") that are made available through or integrated with the UpFinance ecosystem.",
-        "content2": "1.2 By interacting with any Third-Party Services through UpFinance, you acknowledge that:",
-        "acknowledgment1": "Such services are operated by independent third-party providers;",
-        "acknowledgment2": "UpFinance does not control, endorse, or assume liability for these services;",
-        "acknowledgment3": "You are solely responsible for reviewing and agreeing to the third party's terms and policies."
+        "title": "1. PHẠM VI",
+        "content1": "1.1 Phần F này điều chỉnh việc bạn truy cập và sử dụng mọi dịch vụ, nền tảng, ứng dụng hoặc công cụ bên thứ ba (\"Dịch vụ Bên thứ ba\") được cung cấp thông qua hoặc tích hợp với hệ sinh thái UpFinance.",
+        "content2": "1.2 Khi tương tác với bất kỳ Dịch vụ Bên thứ ba nào qua UpFinance, bạn xác nhận rằng:",
+        "acknowledgment1": "Các dịch vụ đó do nhà cung cấp bên thứ ba độc lập vận hành;",
+        "acknowledgment2": "UpFinance không kiểm soát, không bảo chứng và không nhận trách nhiệm pháp lý cho các dịch vụ đó;",
+        "acknowledgment3": "Bạn tự chịu trách nhiệm rà soát và đồng ý với điều khoản/chính sách của bên thứ ba."
       },
       "section2": {
-        "title": "2. ACCESS AND INTEGRATION",
-        "content1": "2.1 Third-Party Services may be accessed via APIs, embedded interfaces, deep links, wallet connectors, or data-sharing protocols provided through UpFinance's platform.",
-        "content2": "2.2 These may include, without limitation:",
-        "service1": "Trading platforms or DEX aggregators;",
-        "service2": "Lending or staking applications;",
-        "service3": "Decentralized identity or KYC providers;",
-        "service4": "Tax reporting or accounting software;",
-        "service5": "Payment processors or fiat gateways.",
-        "content3": "2.3 UpFinance reserves the right to enable, restrict, or discontinue any Third-Party Service integration at its sole discretion."
+        "title": "2. TRUY CẬP VÀ TÍCH HỢP",
+        "content1": "2.1 Dịch vụ Bên thứ ba có thể được truy cập thông qua API, giao diện nhúng, deep link, trình kết nối ví hoặc giao thức chia sẻ dữ liệu do nền tảng UpFinance cung cấp.",
+        "content2": "2.2 Các dịch vụ này có thể bao gồm nhưng không giới hạn:",
+        "service1": "Nền tảng giao dịch hoặc bộ tổng hợp DEX;",
+        "service2": "Ứng dụng cho vay hoặc staking;",
+        "service3": "Nhà cung cấp danh tính phi tập trung hoặc KYC;",
+        "service4": "Phần mềm báo cáo thuế hoặc kế toán;",
+        "service5": "Đơn vị xử lý thanh toán hoặc cổng tiền pháp định.",
+        "content3": "2.3 UpFinance bảo lưu quyền kích hoạt, hạn chế hoặc ngừng bất kỳ tích hợp Dịch vụ Bên thứ ba nào theo toàn quyền quyết định của mình."
       },
       "section3": {
-        "title": "3. RISK AND DUE DILIGENCE",
-        "content1": "3.1 You acknowledge that Third-Party Services may:",
-        "risk1": "Be subject to different laws, regulations, or compliance standards;",
-        "risk2": "Present operational, financial, technological, or reputational risks;",
-        "risk3": "Interact with your wallet or Custodian Account with elevated permissions.",
-        "content2": "3.2 You agree to perform your own due diligence before using any Third-Party Service and to assume full responsibility for any resulting loss or liability.",
-        "content3": "3.3 UpFinance makes no warranties or guarantees regarding:",
-        "warranty1": "The performance, reliability, or accuracy of third-party tools;",
-        "warranty2": "The safety or legality of smart contracts operated by third parties;",
-        "warranty3": "The data handling practices of such providers."
+        "title": "3. RỦI RO VÀ THẨM ĐỊNH",
+        "content1": "3.1 Bạn xác nhận rằng Dịch vụ Bên thứ ba có thể:",
+        "risk1": "Chịu sự điều chỉnh của pháp luật, quy định hoặc chuẩn tuân thủ khác nhau;",
+        "risk2": "Phát sinh rủi ro vận hành, tài chính, công nghệ hoặc danh tiếng;",
+        "risk3": "Tương tác với ví hoặc Tài khoản Lưu ký của bạn với quyền hạn cao hơn.",
+        "content2": "3.2 Bạn đồng ý tự thực hiện thẩm định trước khi sử dụng bất kỳ Dịch vụ Bên thứ ba nào và tự chịu toàn bộ trách nhiệm cho mọi tổn thất hoặc nghĩa vụ phát sinh.",
+        "content3": "3.3 UpFinance không đưa ra bảo đảm hoặc cam kết nào liên quan đến:",
+        "warranty1": "Hiệu năng, độ tin cậy hoặc độ chính xác của công cụ bên thứ ba;",
+        "warranty2": "Tính an toàn hoặc hợp pháp của hợp đồng thông minh do bên thứ ba vận hành;",
+        "warranty3": "Thông lệ xử lý dữ liệu của các nhà cung cấp đó."
       },
       "section4": {
-        "title": "4. DATA SHARING AND CONSENTS",
-        "content1": "4.1 You authorize UpFinance to share certain personal, transactional, or compliance data with third-party providers as required to enable or support the requested service.",
-        "content2": "4.2 Such data sharing will be governed by:",
-        "governance1": "The specific consent you provide at the time of activation;",
-        "governance2": "Our Privacy Policy;",
-        "governance3": "Applicable data protection regulations.",
-        "content3": "4.3 You may revoke access or unlink a Third-Party Service at any time via the settings or integrations dashboard."
+        "title": "4. CHIA SẺ DỮ LIỆU VÀ CHẤP THUẬN",
+        "content1": "4.1 Bạn ủy quyền cho UpFinance chia sẻ một số dữ liệu cá nhân, dữ liệu giao dịch hoặc dữ liệu tuân thủ với nhà cung cấp bên thứ ba khi cần để kích hoạt hoặc hỗ trợ dịch vụ bạn yêu cầu.",
+        "content2": "4.2 Việc chia sẻ dữ liệu này sẽ được điều chỉnh bởi:",
+        "governance1": "Sự đồng ý cụ thể mà bạn cung cấp tại thời điểm kích hoạt;",
+        "governance2": "Chính sách Quyền riêng tư của chúng tôi;",
+        "governance3": "Quy định bảo vệ dữ liệu hiện hành.",
+        "content3": "4.3 Bạn có thể thu hồi quyền truy cập hoặc ngắt liên kết Dịch vụ Bên thứ ba bất cứ lúc nào thông qua phần cài đặt hoặc bảng điều khiển tích hợp."
       },
       "section5": {
-        "title": "5. FEES AND COMMISSIONS",
-        "content1": "5.1 Use of Third-Party Services may incur additional fees, including but not limited to:",
-        "fee1": "API access or usage fees;",
-        "fee2": "Platform commissions or referral markups;",
-        "fee3": "Subscription or service charges by the provider.",
-        "content2": "5.2 Where applicable, UpFinance may earn referral income or share in fees collected by third parties, as disclosed from time to time.",
-        "content3": "5.3 You acknowledge that fee structures and billing mechanisms are governed by the third-party provider and are beyond UpFinance's control."
+        "title": "5. PHÍ VÀ HOA HỒNG",
+        "content1": "5.1 Việc sử dụng Dịch vụ Bên thứ ba có thể phát sinh thêm phí, bao gồm nhưng không giới hạn:",
+        "fee1": "Phí truy cập hoặc sử dụng API;",
+        "fee2": "Hoa hồng nền tảng hoặc phần tăng giá giới thiệu;",
+        "fee3": "Phí thuê bao hoặc phí dịch vụ do nhà cung cấp thu.",
+        "content2": "5.2 Khi phù hợp, UpFinance có thể nhận thu nhập giới thiệu hoặc chia sẻ một phần phí do bên thứ ba thu, theo công bố tại từng thời điểm.",
+        "content3": "5.3 Bạn xác nhận rằng cấu trúc phí và cơ chế tính phí do nhà cung cấp bên thứ ba quyết định và nằm ngoài khả năng kiểm soát của UpFinance."
       },
       "section6": {
-        "title": "6. LIABILITY AND DISCLAIMERS",
-        "content1": "6.1 UpFinance shall not be liable for:",
-        "liability1": "Any direct or indirect loss arising from your use of Third-Party Services;",
-        "liability2": "Contractual breaches, fraud, or misconduct by the third-party provider;",
-        "liability3": "Unauthorized access, data breaches, or downtime associated with the service.",
-        "content2": "6.2 All Third-Party Services are provided on an \"AS IS\" and \"AS AVAILABLE\" basis without warranties of any kind, express or implied."
+        "title": "6. TRÁCH NHIỆM VÀ TUYÊN BỐ MIỄN TRỪ",
+        "content1": "6.1 UpFinance không chịu trách nhiệm đối với:",
+        "liability1": "Mọi tổn thất trực tiếp hoặc gián tiếp phát sinh từ việc bạn sử dụng Dịch vụ Bên thứ ba;",
+        "liability2": "Vi phạm hợp đồng, gian lận hoặc hành vi sai trái của nhà cung cấp bên thứ ba;",
+        "liability3": "Truy cập trái phép, rò rỉ dữ liệu hoặc thời gian gián đoạn liên quan đến dịch vụ.",
+        "content2": "6.2 Tất cả Dịch vụ Bên thứ ba được cung cấp theo nguyên trạng (\"AS IS\") và theo mức độ sẵn có (\"AS AVAILABLE\"), không có bất kỳ bảo đảm nào, dù rõ ràng hay ngụ ý."
       },
       "section7": {
-        "title": "7. TERMINATION",
-        "content1": "7.1 We may suspend or terminate access to a Third-Party Service if:",
-        "reason1": "Required by law or regulatory directive;",
-        "reason2": "The provider ceases operations or fails to meet our technical/integrity standards;",
-        "reason3": "You violate any term of this Part F.",
-        "content2": "7.2 Upon disconnection or termination:",
-        "consequence1": "All access rights to the affected Third-Party Service shall immediately cease;",
-        "consequence2": "You remain liable for any pending transactions, fees, or obligations."
+        "title": "7. CHẤM DỨT",
+        "content1": "7.1 Chúng tôi có thể tạm ngừng hoặc chấm dứt quyền truy cập vào Dịch vụ Bên thứ ba nếu:",
+        "reason1": "Pháp luật hoặc chỉ đạo quản lý yêu cầu;",
+        "reason2": "Nhà cung cấp ngừng hoạt động hoặc không đáp ứng tiêu chuẩn kỹ thuật/toàn vẹn của chúng tôi;",
+        "reason3": "Bạn vi phạm bất kỳ điều khoản nào của Phần F này.",
+        "content2": "7.2 Khi ngắt kết nối hoặc chấm dứt:",
+        "consequence1": "Mọi quyền truy cập vào Dịch vụ Bên thứ ba bị ảnh hưởng sẽ chấm dứt ngay lập tức;",
+        "consequence2": "Bạn vẫn chịu trách nhiệm đối với các giao dịch, khoản phí hoặc nghĩa vụ còn tồn đọng."
       }
     },
     "endOfTerms": {
-      "title": "END OF SERVICE-SPECIFIC TERMS",
-      "content": "The remaining provisions of these Terms, including the Definitions Section and Dispute Resolution Clause, continue to apply."
+      "title": "KẾT THÚC CÁC ĐIỀU KHOẢN RIÊNG THEO DỊCH VỤ",
+      "content": "Các điều khoản còn lại của Điều khoản này, bao gồm Mục Định nghĩa và Điều khoản Giải quyết Tranh chấp, vẫn tiếp tục có hiệu lực."
     },
-    "copyright": "© 2025 UpGlobal Inc. All rights reserved. FinCEN MSB Reg. No. 31000308751680."
+    "copyright": "© 2025 UpGlobal Inc. Bảo lưu mọi quyền. FinCEN MSB Reg. No. 31000308751680."
   },
   "kyc_aml_content": {
-    "title": "UpFinance ANTI-MONEY LAUNDERING (AML) AND KNOW-YOUR-CUSTOMER (KYC) POLICY",
-    "lastUpdated": "Oct 8, 2025",
-    "intro1": "This Anti-Money Laundering (\"AML\") and Know-Your-Customer (\"KYC\") Policy (\"Policy\") is issued by UpGlobal Inc., a corporation incorporated under the laws of the State of Delaware with its registered office at 8 The Green, Ste A, Dover, DE 19901, USA, doing business as UpFinance (\"we,\" \"us,\" or \"our\").",
-    "intro2": "The purpose of this Policy is to establish comprehensive governance, controls, and procedures to prevent money laundering, terrorist financing, proliferation financing, sanctions evasion, and related illicit financial activity.",
-    "intro3": "This Policy applies to all users, counterparties, employees, and partners of UpFinance and forms an integral part of our Terms of Use.",
+    "title": "CHÍNH SÁCH CHỐNG RỬA TIỀN (AML) VÀ NHẬN BIẾT KHÁCH HÀNG (KYC) CỦA UPFINANCE",
+    "lastUpdated": "08 tháng 10, 2025",
+    "intro1": "Chính sách Chống rửa tiền (\"AML\") và Nhận biết khách hàng (\"KYC\") này (\"Chính sách\") do UpGlobal Inc. ban hành, là công ty thành lập theo pháp luật bang Delaware, có địa chỉ đăng ký tại 8 The Green, Ste A, Dover, DE 19901, Hoa Kỳ, hoạt động dưới thương hiệu UpFinance (\"chúng tôi\").",
+    "intro2": "Mục đích của Chính sách này là thiết lập cơ chế quản trị, kiểm soát và quy trình toàn diện nhằm ngăn chặn rửa tiền, tài trợ khủng bố, tài trợ phổ biến vũ khí, lách trừng phạt và các hoạt động tài chính bất hợp pháp liên quan.",
+    "intro3": "Chính sách này áp dụng cho mọi người dùng, đối tác giao dịch, nhân sự và đối tác của UpFinance, đồng thời là một phần không tách rời của Điều khoản Sử dụng.",
     "section1": {
-      "title": "1. Legal and Regulatory Framework",
-      "content1": "UpFinance complies with all applicable U.S. laws and regulations, including the Bank Secrecy Act (BSA), USA PATRIOT Act, and related FinCEN rules (31 CFR §§ 1010-1023), as well as the Financial Action Task Force (FATF) Recommendations.",
-      "content2": "UpGlobal Inc. is registered with the U.S. Financial Crimes Enforcement Network (FinCEN) as a Money Services Business (MSB Reg. No. 31000308751680).",
-      "content3": "Where applicable, we coordinate with licensed custodial partners, including Merits Bank & Trust Limited (Hong Kong — TCSP Licence No. TC008817), which operate under their respective regulatory regimes."
+      "title": "1. Khung pháp lý và quản lý",
+      "content1": "UpFinance tuân thủ mọi luật và quy định hiện hành của Hoa Kỳ, bao gồm Đạo luật Bảo mật Ngân hàng (BSA), Đạo luật USA PATRIOT, các quy tắc liên quan của FinCEN (31 CFR §§ 1010-1023), và các Khuyến nghị của Lực lượng Đặc nhiệm Hành động Tài chính (FATF).",
+      "content2": "UpGlobal Inc. đã đăng ký với FinCEN Hoa Kỳ với tư cách Doanh nghiệp Dịch vụ Tiền tệ (MSB Reg. No. 31000308751680).",
+      "content3": "Khi áp dụng, chúng tôi phối hợp với các đối tác lưu ký được cấp phép, bao gồm Merits Bank & Trust Limited (Hồng Kông — TCSP Licence No. TC008817), hoạt động theo cơ chế quản lý tương ứng của họ."
     },
     "section2": {
-      "title": "2. Risk-Based Approach (RBA)",
-      "content1": "We employ a risk-based approach consistent with FATF guidance and FinCEN expectations. Customers are risk-classified based on geographic origin, business nature, transaction patterns, source of funds, and PEP/sanctions status. ",
-      "content2": "Enhanced Due Diligence (EDD) is applied to high-risk profiles, including those from higher-risk jurisdictions or with complex structures or unusual behavior."
+      "title": "2. Phương pháp tiếp cận dựa trên rủi ro (RBA)",
+      "content1": "Chúng tôi áp dụng phương pháp tiếp cận dựa trên rủi ro phù hợp với hướng dẫn của FATF và kỳ vọng của FinCEN. Khách hàng được phân loại rủi ro dựa trên nguồn gốc địa lý, tính chất kinh doanh, mẫu hình giao dịch, nguồn tiền và tình trạng PEP/trừng phạt.",
+      "content2": "Thẩm định nâng cao (EDD) được áp dụng cho hồ sơ rủi ro cao, bao gồm khách hàng đến từ khu vực pháp lý rủi ro cao hơn hoặc có cấu trúc phức tạp hay hành vi bất thường."
     },
     "section3": {
-      "title": "3. Customer Due Diligence (CDD)",
-      "intro": "CDD is mandatory before establishing any relationship or enabling transactions. It includes:",
-      "requirement1": "Verification of identity via government ID and, where permitted, biometric checks;",
-      "requirement2": "Collection of residential address, nationality, date of birth, and contact details;",
-      "requirement3": "Verification of source of funds and source of wealth;",
-      "requirement4": "Sanctions screening against OFAC, UN, EU, and other lists;",
-      "requirement5": "Determination of Ultimate Beneficial Ownership (UBO) for entities.",
-      "content": "No services are provided to individuals or entities failing to meet CDD standards. All data is handled in accordance with our Privacy Policy and applicable data-protection laws."
+      "title": "3. Thẩm định khách hàng (CDD)",
+      "intro": "CDD là bắt buộc trước khi thiết lập quan hệ hoặc cho phép giao dịch. Bao gồm:",
+      "requirement1": "Xác minh danh tính bằng giấy tờ do cơ quan nhà nước cấp và, khi pháp luật cho phép, kiểm tra sinh trắc học;",
+      "requirement2": "Thu thập địa chỉ cư trú, quốc tịch, ngày sinh và thông tin liên hệ;",
+      "requirement3": "Xác minh nguồn tiền và nguồn hình thành tài sản;",
+      "requirement4": "Sàng lọc trừng phạt đối chiếu danh sách OFAC, Liên Hợp Quốc, EU và danh sách khác;",
+      "requirement5": "Xác định Chủ sở hữu hưởng lợi cuối cùng (UBO) đối với tổ chức.",
+      "content": "Không cung cấp dịch vụ cho cá nhân/tổ chức không đáp ứng tiêu chuẩn CDD. Mọi dữ liệu được xử lý theo Chính sách Quyền riêng tư và luật bảo vệ dữ liệu hiện hành."
     },
     "section4": {
-      "title": "4. Ongoing Monitoring",
-      "intro": "UpFinance uses automated and manual controls to monitor transactions and behavior continuously, including:",
-      "item1": "Screening against updated sanctions and PEP lists;",
-      "item2": "Review of activity against typologies of fraud and money laundering;",
-      "item3": "Triggering alerts on threshold breaches or anomalies;",
-      "item4": "Periodic re-verification of customer information.",
-      "content": "Suspicious activity is documented, escalated internally, and may be reported to FinCEN or other competent authorities as required by law."
+      "title": "4. Giám sát liên tục",
+      "intro": "UpFinance sử dụng kiểm soát tự động và thủ công để giám sát liên tục giao dịch và hành vi, bao gồm:",
+      "item1": "Sàng lọc theo danh sách trừng phạt và PEP cập nhật;",
+      "item2": "Rà soát hoạt động theo các mô hình gian lận và rửa tiền;",
+      "item3": "Kích hoạt cảnh báo khi vượt ngưỡng hoặc có bất thường;",
+      "item4": "Tái xác minh định kỳ thông tin khách hàng.",
+      "content": "Hoạt động đáng ngờ được ghi nhận, báo cáo nội bộ theo cấp và có thể được báo cáo cho FinCEN hoặc cơ quan có thẩm quyền khác theo yêu cầu pháp luật."
     },
     "section5": {
-      "title": "5. Recordkeeping and Reporting",
-      "content": "All records related to CDD, transactions, communications, and internal reviews are retained for a minimum of seven (7) years after account closure or final activity, consistent with 31 CFR § 1010.430. UpFinance files Suspicious Activity Reports (SARs) or Currency Transaction Reports (CTRs) when required and cooperates fully with law-enforcement and regulatory requests."
+      "title": "5. Lưu trữ hồ sơ và báo cáo",
+      "content": "Mọi hồ sơ liên quan đến CDD, giao dịch, trao đổi và rà soát nội bộ được lưu giữ tối thiểu bảy (7) năm kể từ khi đóng tài khoản hoặc hoạt động cuối cùng, phù hợp với 31 CFR § 1010.430. UpFinance nộp Báo cáo Hoạt động Đáng ngờ (SAR) hoặc Báo cáo Giao dịch Tiền tệ (CTR) khi được yêu cầu và hợp tác đầy đủ với cơ quan thực thi pháp luật và cơ quan quản lý."
     },
     "section6": {
-      "title": "6. Training and Governance",
-      "content1": "All personnel receive annual AML/KYC training covering red flags, typologies, and reporting obligations.",
-      "content2": "A designated Compliance Officer oversees program implementation, monitors effectiveness, and reports directly to the Board of Directors.",
-      "content3": "This Policy is reviewed at least annually and updated to reflect new regulations and emerging risks."
+      "title": "6. Đào tạo và quản trị",
+      "content1": "Toàn bộ nhân sự được đào tạo AML/KYC hằng năm, bao gồm dấu hiệu cảnh báo, mô hình rủi ro và nghĩa vụ báo cáo.",
+      "content2": "Một Cán bộ Tuân thủ được chỉ định giám sát việc triển khai chương trình, theo dõi hiệu quả và báo cáo trực tiếp cho Hội đồng Quản trị.",
+      "content3": "Chính sách này được rà soát ít nhất hằng năm và cập nhật để phản ánh quy định mới và rủi ro mới nổi."
     },
     "section7": {
-      "title": "7. Prohibited Clients and Activities",
-      "intro": "UpFinance does not onboard clients who:",
-      "prohibition1": "Reside in or are nationals of jurisdictions under comprehensive U.S. OFAC or UN sanctions;",
-      "prohibition2": "Appear on OFAC SDN, EU Consolidated, or UN lists;",
-      "prohibition3": "Refuse to provide required information or submit false documents; or",
-      "prohibition4": "Are suspected of laundering, fraud, terrorist financing, or sanctions evasion.",
-      "intro2": "We also prohibit use of the Services for:",
-      "prohibition5": "Mixing or tumbling transactions without legitimate purpose;",
-      "prohibition6": "Facilitating ransomware payments; or",
-      "prohibition7": "Anonymous or synthetic-identity usage."
+      "title": "7. Khách hàng và hoạt động bị cấm",
+      "intro": "UpFinance không tiếp nhận khách hàng:",
+      "prohibition1": "Cư trú tại hoặc là công dân của khu vực pháp lý chịu trừng phạt toàn diện của OFAC Hoa Kỳ hoặc Liên Hợp Quốc;",
+      "prohibition2": "Có tên trong danh sách OFAC SDN, danh sách hợp nhất EU hoặc danh sách Liên Hợp Quốc;",
+      "prohibition3": "Từ chối cung cấp thông tin bắt buộc hoặc nộp tài liệu giả; hoặc",
+      "prohibition4": "Bị nghi ngờ rửa tiền, gian lận, tài trợ khủng bố hoặc lách trừng phạt.",
+      "intro2": "Chúng tôi cũng cấm sử dụng Dịch vụ để:",
+      "prohibition5": "Thực hiện giao dịch mixing/tumbling không có mục đích hợp pháp;",
+      "prohibition6": "Hỗ trợ thanh toán ransomware; hoặc",
+      "prohibition7": "Sử dụng danh tính ẩn danh hoặc danh tính tổng hợp."
     },
     "section8": {
-      "title": "8. Cooperation and Audit",
-      "content1": "UpFinance cooperates with regulators, auditors, and licensed partners (including Merits Bank & Trust) to ensure audit readiness and transparency.",
-      "content2": " Authorized auditors and regulators may inspect our AML controls under confidentiality obligations."
+      "title": "8. Hợp tác và kiểm toán",
+      "content1": "UpFinance hợp tác với cơ quan quản lý, kiểm toán viên và đối tác được cấp phép (bao gồm Merits Bank & Trust) để bảo đảm sẵn sàng kiểm toán và tính minh bạch.",
+      "content2": "Kiểm toán viên và cơ quan quản lý có thẩm quyền có thể kiểm tra các biện pháp kiểm soát AML của chúng tôi theo nghĩa vụ bảo mật."
     },
     "footer": {
-      "copyright": "© 2025 UpGlobal Inc. All rights reserved.",
-      "registration": "Registered with FinCEN as a Money Services Business (MSB Reg. No. 31000308751680)."
+      "copyright": "© 2025 UpGlobal Inc. Bảo lưu mọi quyền.",
+      "registration": "Đã đăng ký với FinCEN với tư cách Doanh nghiệp Dịch vụ Tiền tệ (MSB Reg. No. 31000308751680)."
     }
   },
   "privacy_content": {
-    "title": "UpFinance PRIVACY POLICY",
-    "intro": "This Privacy Policy explains how UpGlobal Inc., a corporation incorporated under the laws of the State of Delaware, U.S.A., with its registered office at 8 The Green, Ste A, Dover, DE 19901 (doing business as UpFinance, \"we,\" \"us,\" or \"our\"), collects, uses, stores, transfers, and safeguards personal data in connection with our services.\n It applies to individuals who access or use any part of the UpFinance ecosystem, including our websites, mobile applications, APIs, custodial and non-custodial wallets, card services, and virtual accounts (collectively, the \"Services\").",
+    "title": "CHÍNH SÁCH QUYỀN RIÊNG TƯ CỦA UPFINANCE",
+    "intro": "Chính sách Quyền riêng tư này giải thích cách UpGlobal Inc., công ty được thành lập theo pháp luật bang Delaware, Hoa Kỳ, có địa chỉ đăng ký tại 8 The Green, Ste A, Dover, DE 19901 (hoạt động dưới thương hiệu UpFinance, \"chúng tôi\"), thu thập, sử dụng, lưu trữ, chuyển giao và bảo vệ dữ liệu cá nhân liên quan đến dịch vụ của chúng tôi.\nChính sách áp dụng cho cá nhân truy cập hoặc sử dụng bất kỳ phần nào trong hệ sinh thái UpFinance, bao gồm website, ứng dụng di động, API, ví lưu ký và không lưu ký, dịch vụ thẻ và tài khoản ảo (gọi chung là \"Dịch vụ\").",
     "section1": {
-      "title": "1. Data Controller",
-      "content": "UpGlobal Inc. acts as the data controller for processing activities described in this Policy. \n For custodial and settlement functions provided by Merits Bank & Trust Limited (Hong Kong — TCSP Licence No. TC008817), that institution acts as an independent or joint data controller for its respective regulated obligations. \n All privacy inquiries may be directed to our Data Protection Officer at legal@upfinance.ai."
+      "title": "1. Bên kiểm soát dữ liệu",
+      "content": "UpGlobal Inc. là bên kiểm soát dữ liệu đối với các hoạt động xử lý được mô tả trong Chính sách này.\nĐối với chức năng lưu ký và thanh toán bù trừ do Merits Bank & Trust Limited (Hồng Kông — TCSP Licence No. TC008817) cung cấp, tổ chức đó là bên kiểm soát dữ liệu độc lập hoặc đồng kiểm soát dữ liệu cho các nghĩa vụ quản lý tương ứng.\nMọi yêu cầu về quyền riêng tư có thể gửi tới Cán bộ Bảo vệ Dữ liệu của chúng tôi tại legal@upfinance.ai."
     },
     "section2": {
-      "title": "2. Categories of Personal Data Collected",
-      "intro": "We collect and process the following categories of personal data:",
-      "identityInfo": "Identity Information: name, date of birth, nationality, identification documents (e.g., passport or ID), and biometric identifiers (where permitted by law);",
-      "contactInfo": "Contact Information: address, email, telephone number;",
-      "financialData": "Financial and Transactional Data: wallet addresses, payment-card details (masked or tokenized), bank account numbers, and records of fiat and digital-asset transactions;",
-      "deviceData": "Device and Technical Data: IP address, browser type, device IDs, session logs, and metadata about usage;",
-      "behavioralData": "Behavioral and Analytics Data: user interactions, clickstream activity, support transcripts, and session recordings;",
-      "marketingData": "Marketing and Communication Data: subscription status and preferences;",
-      "complianceData": "Compliance Data: employment background, source of funds, sanctions and PEP screening results.",
-      "ageNotice": "We do not knowingly collect personal data from anyone under 18. If such data is discovered, it will be deleted promptly."
+      "title": "2. Các loại dữ liệu cá nhân được thu thập",
+      "intro": "Chúng tôi thu thập và xử lý các loại dữ liệu cá nhân sau:",
+      "identityInfo": "Thông tin định danh: họ tên, ngày sinh, quốc tịch, giấy tờ định danh (ví dụ: hộ chiếu hoặc CMND/CCCD), và dữ liệu sinh trắc học (khi pháp luật cho phép);",
+      "contactInfo": "Thông tin liên hệ: địa chỉ, email, số điện thoại;",
+      "financialData": "Dữ liệu tài chính và giao dịch: địa chỉ ví, thông tin thẻ thanh toán (đã che hoặc mã hóa), số tài khoản ngân hàng, và lịch sử giao dịch tiền pháp định và tài sản số;",
+      "deviceData": "Dữ liệu thiết bị và kỹ thuật: địa chỉ IP, loại trình duyệt, ID thiết bị, nhật ký phiên và siêu dữ liệu sử dụng;",
+      "behavioralData": "Dữ liệu hành vi và phân tích: tương tác người dùng, luồng nhấp chuột, bản ghi hỗ trợ và bản ghi phiên;",
+      "marketingData": "Dữ liệu tiếp thị và truyền thông: trạng thái đăng ký và tùy chọn;",
+      "complianceData": "Dữ liệu tuân thủ: thông tin nghề nghiệp, nguồn tiền, kết quả sàng lọc trừng phạt và PEP.",
+      "ageNotice": "Chúng tôi không cố ý thu thập dữ liệu cá nhân của người dưới 18 tuổi. Nếu phát hiện dữ liệu này, chúng tôi sẽ xóa kịp thời."
     },
     "section3": {
-      "title": "3. Purposes for Processing",
-      "intro": "We process personal data only where lawful and necessary, including:",
-      "purpose1": "Verifying identity and performing AML/CFT screening as required by law;",
-      "purpose2": "Registering and providing access to the Services (wallets, cards, swaps, accounts);",
-      "purpose3": "Detecting and investigating fraudulent or suspicious activity;",
-      "purpose4": "Maintaining and optimizing system performance;",
-      "purpose5": "Sending administrative and transactional communications;",
-      "purpose6": "Meeting statutory record-keeping and reporting obligations;",
-      "purpose7": "Conducting automated risk assessments and eligibility checks."
+      "title": "3. Mục đích xử lý",
+      "intro": "Chúng tôi chỉ xử lý dữ liệu cá nhân khi hợp pháp và cần thiết, bao gồm:",
+      "purpose1": "Xác minh danh tính và thực hiện sàng lọc AML/CFT theo yêu cầu pháp luật;",
+      "purpose2": "Đăng ký và cung cấp quyền truy cập Dịch vụ (ví, thẻ, hoán đổi, tài khoản);",
+      "purpose3": "Phát hiện và điều tra hoạt động gian lận hoặc đáng ngờ;",
+      "purpose4": "Duy trì và tối ưu hiệu năng hệ thống;",
+      "purpose5": "Gửi thông báo quản trị và thông báo giao dịch;",
+      "purpose6": "Đáp ứng nghĩa vụ lưu trữ hồ sơ và báo cáo theo luật định;",
+      "purpose7": "Thực hiện đánh giá rủi ro tự động và kiểm tra điều kiện đủ."
     },
     "section4": {
-      "title": "4. Legal Basis for Processing",
-      "intro": "Processing is carried out on the following grounds:",
-      "basis1": "Your explicit consent (for example, marketing or biometric processing);",
-      "basis2": "Performance of a contract (the Terms of Use and related services);",
-      "basis3": "Compliance with legal obligations (e.g., AML laws and FinCEN rules);",
-      "basis4": "Protection of vital interests;",
-      "basis5": "Our legitimate business interests, balanced against your rights."
+      "title": "4. Căn cứ pháp lý cho xử lý",
+      "intro": "Việc xử lý được thực hiện trên các căn cứ sau:",
+      "basis1": "Sự đồng ý rõ ràng của bạn (ví dụ: tiếp thị hoặc xử lý sinh trắc học);",
+      "basis2": "Thực hiện hợp đồng (Điều khoản sử dụng và các dịch vụ liên quan);",
+      "basis3": "Tuân thủ nghĩa vụ pháp lý (ví dụ: luật AML và quy định FinCEN);",
+      "basis4": "Bảo vệ lợi ích sống còn;",
+      "basis5": "Lợi ích kinh doanh hợp pháp của chúng tôi, được cân bằng với quyền của bạn."
     },
     "section5": {
-      "title": "5. Data Retention",
-      "intro": "We retain personal data only as long as necessary for its purpose or to meet legal requirements. Typical periods include:",
-      "retention1": "KYC/AML data: minimum 7 years after account closure;",
-      "retention2": "Technical logs: 30–180 days;",
-      "retention3": "Marketing opt-out records: indefinitely (to honor preferences);",
-      "retention4": "Support records: up to 3 years after resolution, unless longer needed for legal reasons."
+      "title": "5. Lưu trữ dữ liệu",
+      "intro": "Chúng tôi chỉ lưu trữ dữ liệu cá nhân trong thời gian cần thiết cho mục đích sử dụng hoặc để đáp ứng yêu cầu pháp lý. Thời hạn điển hình gồm:",
+      "retention1": "Dữ liệu KYC/AML: tối thiểu 7 năm sau khi đóng tài khoản;",
+      "retention2": "Nhật ký kỹ thuật: 30–180 ngày;",
+      "retention3": "Hồ sơ từ chối tiếp thị: vô thời hạn (để tôn trọng tùy chọn);",
+      "retention4": "Hồ sơ hỗ trợ: tối đa 3 năm sau khi xử lý xong, trừ khi pháp lý yêu cầu lâu hơn."
     },
     "section6": {
-      "title": "6. Disclosure of Personal Data to Third Parties",
-      "intro": "We share personal data only on a need-to-know basis with:",
-      "recipient1": "Licensed custodial partners (e.g., Merits Bank & Trust Limited) for safeguarding and settlement;",
-      "recipient2": "Service providers for KYC/AML screening, cloud hosting, analytics, and communications;",
-      "recipient3": "Regulatory and law-enforcement authorities when required by law or court order;",
-      "recipient4": "Professional advisors (audit, tax, legal) under confidentiality duties.",
-      "disclosureNote": "All transfers are governed by contractual data-protection clauses and confidentiality obligations."
+      "title": "6. Chia sẻ dữ liệu cá nhân với bên thứ ba",
+      "intro": "Chúng tôi chỉ chia sẻ dữ liệu cá nhân theo nguyên tắc cần biết với:",
+      "recipient1": "Đối tác lưu ký được cấp phép (ví dụ: Merits Bank & Trust Limited) cho mục đích bảo toàn và thanh toán;",
+      "recipient2": "Nhà cung cấp dịch vụ cho sàng lọc KYC/AML, lưu trữ đám mây, phân tích và truyền thông;",
+      "recipient3": "Cơ quan quản lý và cơ quan thực thi pháp luật khi luật hoặc lệnh tòa yêu cầu;",
+      "recipient4": "Cố vấn chuyên môn (kiểm toán, thuế, pháp lý) theo nghĩa vụ bảo mật.",
+      "disclosureNote": "Mọi hoạt động chuyển giao đều chịu điều chỉnh bởi điều khoản hợp đồng về bảo vệ dữ liệu và nghĩa vụ bảo mật."
     },
     "section7": {
-      "title": "7. International Transfers of Data",
-      "intro": "Your personal data may be transferred to and processed in countries that may not offer the same level of protection. We apply appropriate safeguards, including:",
-      "safeguard1": "Standard Contractual Clauses or other approved transfer mechanisms;",
-      "safeguard2": "Transfers to jurisdictions recognized as adequate;",
-      "safeguard3": "Your explicit consent where required.",
-      "complianceNote": "All cross-border transfers comply with applicable data-protection law."
+      "title": "7. Chuyển dữ liệu quốc tế",
+      "intro": "Dữ liệu cá nhân của bạn có thể được chuyển đến và xử lý tại các quốc gia có thể không cung cấp mức bảo vệ tương đương. Chúng tôi áp dụng biện pháp bảo vệ phù hợp, bao gồm:",
+      "safeguard1": "Điều khoản Hợp đồng Mẫu hoặc cơ chế chuyển giao được phê duyệt khác;",
+      "safeguard2": "Chuyển dữ liệu đến khu vực pháp lý được công nhận là đầy đủ bảo vệ;",
+      "safeguard3": "Sự đồng ý rõ ràng của bạn khi cần thiết.",
+      "complianceNote": "Mọi hoạt động chuyển dữ liệu xuyên biên giới đều tuân thủ luật bảo vệ dữ liệu hiện hành."
     },
     "section8": {
-      "title": "8. Rights of Data Subjects",
-      "intro": "You may have the right to:",
-      "right1": "Access and obtain a copy of your personal data;",
-      "right2": "Request correction or deletion;",
-      "right3": "Restrict or object to processing;",
-      "right4": "Request data portability (where technically feasible);",
-      "right5": "Withdraw consent at any time without affecting prior processing.",
-      "contactInfo": "To exercise these rights, contact legal@upfinance.ai. We may require identity verification before acting on requests."
+      "title": "8. Quyền của chủ thể dữ liệu",
+      "intro": "Bạn có thể có các quyền sau:",
+      "right1": "Truy cập và nhận bản sao dữ liệu cá nhân của bạn;",
+      "right2": "Yêu cầu chỉnh sửa hoặc xóa;",
+      "right3": "Hạn chế hoặc phản đối xử lý;",
+      "right4": "Yêu cầu chuyển dữ liệu (khi khả thi về mặt kỹ thuật);",
+      "right5": "Rút lại sự đồng ý bất kỳ lúc nào mà không ảnh hưởng đến xử lý trước đó.",
+      "contactInfo": "Để thực hiện các quyền này, liên hệ legal@upfinance.ai. Chúng tôi có thể yêu cầu xác minh danh tính trước khi xử lý yêu cầu."
     },
     "section9": {
-      "title": "9. Cookies and Tracking Technologies",
-      "content": "We use cookies and similar technologies to enable site functionality, analyze usage, and prevent fraud. You can manage non-essential cookies through browser settings. Disabling certain cookies may limit service features."
+      "title": "9. Cookie và công nghệ theo dõi",
+      "content": "Chúng tôi sử dụng cookie và công nghệ tương tự để vận hành chức năng trang, phân tích mức độ sử dụng và ngăn ngừa gian lận. Bạn có thể quản lý cookie không thiết yếu trong cài đặt trình duyệt. Việc tắt một số cookie có thể làm hạn chế tính năng dịch vụ."
     },
     "section10": {
-      "title": "10. Security of Personal Data",
-      "intro": "We employ industry-standard technical and organizational measures, including:",
-      "measure1": "Encryption in transit and at rest;",
-      "measure2": "Role-based access controls and multi-factor authentication;",
-      "measure3": "Regular security audits and penetration tests; and",
-      "measure4": "Documented incident-response procedures.",
-      "securityNote": "No system is completely secure. Users should safeguard their credentials and notify us promptly of suspected breaches."
+      "title": "10. Bảo mật dữ liệu cá nhân",
+      "intro": "Chúng tôi áp dụng biện pháp kỹ thuật và tổ chức theo tiêu chuẩn ngành, bao gồm:",
+      "measure1": "Mã hóa khi truyền và khi lưu trữ;",
+      "measure2": "Kiểm soát truy cập theo vai trò và xác thực đa yếu tố;",
+      "measure3": "Kiểm toán bảo mật định kỳ và kiểm thử xâm nhập; và",
+      "measure4": "Quy trình ứng phó sự cố được lập thành văn bản.",
+      "securityNote": "Không hệ thống nào an toàn tuyệt đối. Người dùng cần bảo vệ thông tin xác thực và thông báo cho chúng tôi ngay khi nghi ngờ có vi phạm."
     },
     "section11": {
-      "title": "11. Breach Notification",
-      "content": "If a data breach is likely to pose a high risk to individual rights or freedoms, we will notify affected users and relevant authorities without undue delay as required by law."
+      "title": "11. Thông báo vi phạm dữ liệu",
+      "content": "Nếu vi phạm dữ liệu có khả năng gây rủi ro cao đối với quyền hoặc tự do của cá nhân, chúng tôi sẽ thông báo cho người dùng bị ảnh hưởng và cơ quan có thẩm quyền mà không chậm trễ bất hợp lý theo yêu cầu pháp luật."
     },
     "section12": {
-      "title": "12. Updates to This Policy",
-      "content": "We may update this Privacy Policy to reflect changes in law or operations. Material changes will be communicated via official channels and take effect upon publication. Continued use of the Services constitutes acceptance of the revised Policy."
+      "title": "12. Cập nhật chính sách này",
+      "content": "Chúng tôi có thể cập nhật Chính sách Quyền riêng tư này để phản ánh thay đổi pháp luật hoặc vận hành. Thay đổi trọng yếu sẽ được thông báo qua kênh chính thức và có hiệu lực khi công bố. Việc tiếp tục sử dụng Dịch vụ được xem là bạn chấp nhận Chính sách đã sửa đổi."
     },
     "section13": {
-      "title": "13. Regulatory Reference and Contact",
-      "content1": "UpFinance operates under the brand of UpGlobal Inc., registered with the U.S. Financial Crimes Enforcement Network (FinCEN) as a Money Services Business (MSB Reg. No. 31000308751680).",
-      "content2": "For questions about this Policy or your data rights, please email legal@upfinance.ai."
+      "title": "13. Tham chiếu quản lý và liên hệ",
+      "content1": "UpFinance hoạt động dưới thương hiệu của UpGlobal Inc., đã đăng ký với FinCEN Hoa Kỳ là Doanh nghiệp Dịch vụ Tiền tệ (MSB Reg. No. 31000308751680).",
+      "content2": "Nếu có câu hỏi về Chính sách này hoặc quyền dữ liệu của bạn, vui lòng email legal@upfinance.ai."
     }
   }
 }

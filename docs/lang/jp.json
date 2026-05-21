@@ -259,691 +259,691 @@
     "submit_success": "送信が完了しました。追ってご連絡いたします。"
   },
   "terms_content": {
-    "title": "UpFinance SERVICES TERMS & CONDITIONS",
-    "legalNotice": "THIS IS A LEGALLY BINDING DOCUMENT. PLEASE READ IT CAREFULLY.",
-    "intro1": "These Terms and Conditions (\"Terms\") constitute a legally binding agreement between you (the \"User\" or \"you\") and UpGlobal Inc., a corporation incorporated in Delaware, having its registered office at 8 The Green Ste A Dover, DE 19901, in the City of Dover, County of Kent, Zip Code 19901. \"UpFinance\" is a registered trademark and the primary commercial brand operated by UpGlobal Inc. for the delivery of its digital financial services. References in these Terms to \"UpFinance\", \"we\", \"us\", or \"our\" shall be construed as references to UpGlobal Inc. in its capacity as the legal entity behind the UpFinance platform.",
-    "intro2": "These Terms govern your access to and use of our Services (as defined herein), including but not limited to any website, mobile application, and associated financial products and tools operated under the UpFinance brand.",
-    "intro3": "By accessing, registering for, or using any part of the Services, you acknowledge that you have read, understood, and agreed to be bound by these Terms, together with any policies, disclosures, schedules, and notices incorporated by reference. If you do not agree with these Terms, you must not use or access any of the Services.",
+    "title": "UpFinance サービス利用規約",
+    "legalNotice": "本書は法的拘束力を有します。必ずご確認ください。",
+    "intro1": "本サービス利用規約（以下「本規約」）は、あなた（以下「ユーザー」）と UpGlobal Inc.（米国デラウェア州法に基づき設立され、登録住所を 8 The Green Ste A Dover, DE 19901, City of Dover, County of Kent, Zip Code 19901 に有する法人）との間で締結される法的拘束力のある契約です。「UpFinance」は UpGlobal Inc. の登録商標であり、同社がデジタル金融サービス提供に用いる主要商業ブランドです。本規約における「UpFinance」「当社」「当方」は、UpFinance プラットフォームの法的主体としての UpGlobal Inc. を指します。",
+    "intro2": "本規約は、UpFinance ブランドの下で運営されるウェブサイト、モバイルアプリケーション、関連金融商品およびツールを含む当社サービス（本規約で定義）へのアクセスおよび利用に適用されます。",
+    "intro3": "本サービスの全部または一部にアクセス、登録、または利用することにより、あなたは本規約、ならびに参照により組み込まれる各種ポリシー、開示、料金表および通知を読み、理解し、拘束されることに同意したものとみなされます。本規約に同意しない場合、本サービスを利用またはアクセスしてはなりません。",
     "part1": {
-      "title": "PART I: GENERAL TERMS AND CONDITIONS"
+      "title": "第I部：一般条項"
     },
     "section1": {
-      "title": "1. DEFINITIONS",
-      "content": "Unless the context otherwise requires, capitalized terms used in these Terms shall have the meanings assigned to them in the Definitions Section at the end of this document."
+      "title": "1. 定義",
+      "content": "文脈上別段の定めがない限り、本規約で使用される頭文字大文字の用語は、本書末尾の定義条項に定める意味を有します。"
     },
     "section2": {
-      "title": "2. SCOPE AND APPLICATION",
-      "content1": "2.1 These Terms apply to your Account and your use of the Services, including but not limited to: (a) the Custodian Account; (b) UpFinance Card Services; (c) Swap Transactions; (d) Wallet Services; (e) Virtual Accounts; and (f) access to or use of any Third-Party Services provided in conjunction with UpFinance.",
-      "content2": "2.2 These Terms are supplemented by any specific terms and conditions applicable to each Service module, as set out in Parts A–F. To the extent of any conflict between the General Terms and the terms of a Service-specific Part, the Service-specific terms shall prevail.",
-      "content3": "2.3 These Terms are governed by the laws of Delaware. Any disputes shall be subject to the exclusive jurisdiction of the courts or arbitral bodies of Delaware, unless otherwise provided in the Dispute Resolution Clause."
+      "title": "2. 適用範囲",
+      "content1": "2.1 本規約は、あなたのアカウントおよび本サービス利用に適用されます。これには以下が含まれますが、これらに限定されません：(a) カストディアカウント、(b) UpFinance カードサービス、(c) スワップ取引、(d) ウォレットサービス、(e) バーチャルアカウント、(f) UpFinance と連携して提供される第三者サービスへのアクセスまたは利用。",
+      "content2": "2.2 本規約は、A〜F 各部に定めるサービス別条項により補完されます。一般条項とサービス別条項の間に抵触がある場合は、当該サービス別条項が優先します。",
+      "content3": "2.3 本規約はデラウェア州法に準拠します。紛争解決条項に別段の定めがある場合を除き、あらゆる紛争はデラウェア州の裁判所または仲裁機関の専属管轄に服します。"
     },
     "section3": {
-      "title": "3. LICENSING AND REGULATORY FRAMEWORK",
-      "content1": "3.1 U.S. FinCEN Registration. UpGlobal Inc is registered with the U.S. Financial Crimes Enforcement Network (FinCEN) as a Money Services Business under Registration No. 31000308751680 (Date on MSB transcript: Aug 28, 2025; Received date: Aug 25, 2025), with the registered business address 8 The Green, Ste A, Dover, DE 19901. FinCEN registration is a federal registration under the Bank Secrecy Act and does not constitute an approval or endorsement by FinCEN.",
-      "content2": "3.2 State Licensing: Certain money transmission or payment services may require state money transmitter licenses (MTLs). Availability of specific services can vary by state or territory and may be restricted, delayed, or provided via licensed partners until applicable licenses are obtained. Nothing in these Terms shall be construed as representing that UpGlobal Inc holds all state MTLs.",
-      "content3": "3.3 Intermediary & Partner Licensing: UpFinance may deliver regulated components of the Services through licensed third-party institutions. Custodial and settlement services may be facilitated through Merits Bank & Trust Limited, a Hong Kong licensed trust or company service provider (TCSP Licence No. TC008817). UpGlobal Inc does not itself conduct trust, custodial, or banking business.",
-      "content4": "3.4 Disclosure Obligation: The User acknowledges that UpFinance does not independently hold a financial license in the initial stage of operations. All Services are offered through Merits' regulated license under full disclosure.",
-      "content5": "3.5 Future Licensing: UpFinance reserves the right to acquire additional regulatory approvals or licenses in other jurisdictions and to migrate certain services to be conducted under its own license in due course."
+      "title": "3. ライセンスおよび規制枠組み",
+      "content1": "3.1 米国 FinCEN 登録。UpGlobal Inc は、米国金融犯罪取締ネットワーク（FinCEN）に Money Services Business として登録されています（登録番号 31000308751680、MSB transcript 日付：2025年8月28日、受領日：2025年8月25日）。登録事業住所は 8 The Green, Ste A, Dover, DE 19901 です。FinCEN 登録は銀行秘密法に基づく連邦登録であり、FinCEN による承認または推奨を意味するものではありません。",
+      "content2": "3.2 州ライセンス：一部の送金・決済サービスには州送金ライセンス（MTL）が必要となる場合があります。特定サービスの提供可否は州・地域により異なり、必要ライセンス取得まで制限、遅延、またはライセンス保有パートナー経由で提供される場合があります。本規約のいかなる記載も、UpGlobal Inc が全州 MTL を保有することを表明するものではありません。",
+      "content3": "3.3 仲介・提携先ライセンス：UpFinance は、ライセンス保有第三者機関を通じて規制対象サービスを提供する場合があります。カストディおよび決済サービスは、香港のライセンス保有信託・会社サービス提供者である Merits Bank & Trust Limited（TCSP Licence No. TC008817）を通じて提供される場合があります。UpGlobal Inc 自身は信託、カストディ、銀行業務を行いません。",
+      "content4": "3.4 開示義務：ユーザーは、UpFinance が事業初期段階において独自の金融ライセンスを保有していないことを認識し同意します。すべてのサービスは、十分な開示のもと Merits の規制ライセンスを通じて提供されます。",
+      "content5": "3.5 将来ライセンス：UpFinance は、他法域で追加の規制承認またはライセンスを取得し、適宜、一部サービスを自社ライセンスの下で実施するよう移行する権利を留保します。"
     },
     "section4": {
-      "title": "4. ACCOUNT OPENING AND ELIGIBILITY",
-      "intro": "4.1 To access and use the Services, you must:",
-      "requirement1": "Be at least eighteen (18) years of age;",
-      "requirement2": "Not be a citizen or resident of a jurisdiction where the use of the Services is prohibited by applicable laws or regulations;",
-      "requirement3": "Provide all required documentation and complete KYC/AML checks to the satisfaction of UpFinance or its designated compliance providers;",
-      "requirement4": "Have full legal capacity to enter into binding contracts.",
-      "content2": "4.2 We reserve the right to approve or reject any application at our sole discretion. We may suspend or terminate access to the Services in case of suspected breach of these Terms or violation of any applicable laws.",
-      "content3": "4.3 You agree that your Account is non-transferable, and you will not allow third parties to access or operate your Account.",
-      "content4": "4.4 You represent you are not located in, organized under the laws of, or ordinarily resident in any sanctioned jurisdiction, and you are not a sanctioned person (e.g., on any U.S. OFAC list). You will not use the Services for any activities prohibited by U.S. sanctions or export-control laws.",
-      "content5": "4.5 Prohibited/Restricted Jurisdictions may apply and can change."
+      "title": "4. 口座開設と利用資格",
+      "intro": "4.1 本サービスへのアクセスおよび利用には、以下の条件を満たす必要があります：",
+      "requirement1": "18歳以上であること；",
+      "requirement2": "適用法令により本サービス利用が禁止される法域の市民または居住者でないこと；",
+      "requirement3": "必要書類を提出し、UpFinance または指定コンプライアンス提供者が求める KYC/AML 審査を完了すること；",
+      "requirement4": "拘束力ある契約を締結できる完全な法的能力を有すること。",
+      "content2": "4.2 当社は、申請の承認または拒否を単独の裁量で行う権利を有します。本規約違反または適用法令違反の疑いがある場合、当社は本サービスへのアクセスを停止または終了できます。",
+      "content3": "4.3 あなたのアカウントは譲渡不可であり、第三者によるアクセスまたは操作を許可してはなりません。",
+      "content4": "4.4 あなたは、制裁対象法域に所在せず、当該法域の法律に基づき設立されておらず、通常居住者でもなく、かつ制裁対象者（例：米国 OFAC リスト掲載者）でもないことを表明します。あなたは、米国制裁法または輸出管理法で禁止される活動に本サービスを利用してはなりません。",
+      "content5": "4.5 禁止／制限法域は適用される場合があり、変更されることがあります。"
     },
     "section5": {
-      "title": "5. SERVICE AVAILABILITY AND MODIFICATIONS",
-      "intro": "5.1 We reserve the right to:",
-      "right1": "Modify, suspend, or discontinue any part of the Services at any time;",
-      "right2": "Impose or change service limits;",
-      "right3": "Update our policies and features without prior notice unless otherwise required by law.",
-      "content2": "5.2 Your continued use of the Services constitutes acceptance of any changes made pursuant to this Section."
+      "title": "5. サービス提供状況および変更",
+      "intro": "5.1 当社は以下の権利を留保します：",
+      "right1": "本サービスの一部をいつでも変更、停止、または終了すること；",
+      "right2": "サービス上限を設定または変更すること；",
+      "right3": "法令で求められる場合を除き、事前通知なくポリシーおよび機能を更新すること。",
+      "content2": "5.2 本条に基づく変更後も本サービスを継続利用した場合、当該変更を承諾したものとみなされます。"
     },
     "section6": {
-      "title": "6. FEES AND TAXATION",
-      "content1": "6.1 All applicable fees, charges, and commissions are disclosed in the Fee Schedule, which forms part of these Terms.",
-      "content2": "6.2 Fees may include (without limitation):",
-      "fee1": "Card issuance and annual maintenance fees;",
-      "fee2": "FX or swap spreads;",
-      "fee3": "Withdrawal, deposit, or top-up fees;",
-      "fee4": "Network and blockchain transaction costs;",
-      "content3": "6.3 Fees are exclusive of any applicable tax or withholding obligation. You are solely responsible for determining and fulfilling your tax liabilities in your jurisdiction of residence."
+      "title": "6. 手数料および税務",
+      "content1": "6.1 適用されるすべての手数料、料金およびコミッションは料金表に開示され、本規約の一部を構成します。",
+      "content2": "6.2 手数料には以下が含まれる場合があります（これらに限りません）：",
+      "fee1": "カード発行手数料および年次維持手数料；",
+      "fee2": "FX またはスワップスプレッド；",
+      "fee3": "出金、入金、チャージ手数料；",
+      "fee4": "ネットワークおよびブロックチェーン取引コスト；",
+      "content3": "6.3 手数料には適用される税金または源泉徴収義務は含まれません。あなたの居住法域における税務義務の判断および履行は、あなた単独の責任です。"
     },
     "section7": {
-      "title": "7. RISK DISCLOSURE",
-      "intro": "7.1 You acknowledge and accept that:",
-      "risk1": "Digital assets are highly volatile and speculative in nature;",
-      "risk2": "There is a risk of partial or total loss of your holdings;",
-      "risk3": "Blockchain transactions may be irreversible;",
-      "risk4": "Custodial or self-custody solutions may be subject to technological and cybersecurity risks;",
-      "content2": "7.2 You understand that UpFinance does not act as your financial advisor. All decisions made using the Services are undertaken at your sole discretion and risk.",
-      "content3": "7.3 UpGlobal Inc is not a bank, and Accounts are not FDIC-insured, unless expressly stated for a specific product."
+      "title": "7. リスク開示",
+      "intro": "7.1 あなたは以下を認識し同意します：",
+      "risk1": "デジタル資産は高いボラティリティと投機性を有すること；",
+      "risk2": "保有資産の一部または全部を失うリスクがあること；",
+      "risk3": "ブロックチェーン取引は不可逆となる場合があること；",
+      "risk4": "カストディまたはセルフカストディ手段は技術的・サイバーセキュリティ上のリスクにさらされる可能性があること；",
+      "content2": "7.2 UpFinance はあなたの金融アドバイザーとして行動しません。本サービス利用に基づく意思決定はすべて、あなたの単独の裁量とリスクで行われます。",
+      "content3": "7.3 UpGlobal Inc は銀行ではなく、特定商品で明示される場合を除き、アカウントは FDIC 保険の対象ではありません。"
     },
     "section8": {
-      "title": "8. LIMITATION OF LIABILITY",
-      "content1": "8.1 To the fullest extent permitted by applicable law, the total aggregate liability of UpGlobal Inc and its respective affiliates, directors, officers, employees, agents, service providers, and licensors (collectively, the \"UpFinance Parties\") arising out of or in connection with these Terms or the Services shall not exceed the lesser of (a) the total amount of direct fees paid by the User to UpFinance in the six (6) months preceding the event giving rise to the claim, or (b) USD 100,000.",
-      "content2": "8.2 In no event shall any UpFinance Party be liable for any indirect, incidental, special, exemplary, punitive, or consequential damages, or for any loss of profits, revenue, goodwill, data, business opportunity, or anticipated savings, whether arising in contract, tort (including negligence), equity, strict liability, or otherwise, even if advised of the possibility of such damages.",
-      "content3": "8.3 UpFinance disclaims liability for any loss, delay, or damage arising from or related to the actions or omissions of any third-party service provider, including custodians, banks, payment processors, settlement agents, or blockchain networks, except to the extent such loss is caused solely by the gross negligence or willful misconduct of UpFinance as determined by a final, non-appealable judgment.",
-      "content4": "8.4 UpFinance shall not be liable for any failure or delay in performance resulting from events beyond its reasonable control, including acts of God, acts of civil or military authorities, war, terrorism, labor disputes, cyberattacks, technical failures, regulatory actions, or any interruption of third-party services or infrastructure.",
-      "content5": "8.5 Notwithstanding anything to the contrary in these Terms, the exclusions and limitations of liability set forth in this Clause shall not apply where the claim results directly from gross negligence or willful misconduct by UpFinance, as established in a final judgment by a court of competent jurisdiction that is not subject to further appeal.",
-      "content6": "8.6 Any claim or cause of action arising out of or related to the Services must be initiated within twelve (12) months after the date on which the facts giving rise to such claim first occurred. Claims not brought within this period shall be deemed irrevocably waived.",
-      "content7": "8.6 You agree to indemnify, defend, and hold harmless UpGlobal Inc and its respective affiliates, directors, officers, employees, agents, service providers, licensors, and representatives from and against any and all claims, demands, actions, proceedings, losses, liabilities, damages, judgments, settlements, fines, penalties, costs, and expenses (including reasonable legal and accounting fees), whether direct or indirect, arising out of or relating to: (a) your access to or use of the Services; (b) your violation of these Terms or any incorporated policy; (c) your breach of any representation, warranty, or obligation under these Terms; (d) your violation of any applicable law, regulation, or third-party rights; (e) any act of fraud, misrepresentation, or willful misconduct on your part; or (f) any claim brought against UpFinance in connection with your data, activity, conduct, or transactions carried out through the Services. This indemnification obligation shall survive the termination or expiration of these Terms and your use of the Services."
+      "title": "8. 責任の制限",
+      "content1": "8.1 適用法令で許容される最大限の範囲で、本規約または本サービスに起因または関連して発生する UpGlobal Inc およびその関係会社、取締役、役員、従業員、代理人、サービス提供者、ライセンサー（総称して「UpFinance 当事者」）の総責任額は、(a) 請求原因事実発生前 6 か月間にユーザーが UpFinance に支払った直接手数料総額、または (b) 100,000 米ドルのいずれか低い額を上限とします。",
+      "content2": "8.2 いかなる場合も、UpFinance 当事者は、間接損害、付随損害、特別損害、懲罰的損害、結果的損害、ならびに逸失利益、収益、営業権、データ、事業機会または期待利益の喪失について、契約、不法行為（過失を含む）、衡平法、厳格責任その他法的構成を問わず、かつ当該損害の可能性を知らされていた場合でも責任を負いません。",
+      "content3": "8.3 カストディ機関、銀行、決済処理業者、清算代理人、ブロックチェーンネットワークを含む第三者サービス提供者の作為または不作為に起因または関連する損失、遅延または損害について、UpFinance は責任を負いません。ただし、最終かつ上訴不能の判決により、UpFinance の重大な過失または故意の不正行為のみに起因すると認定された範囲は除きます。",
+      "content4": "8.4 天災、公権力行為、戦争、テロ、労働争議、サイバー攻撃、技術障害、規制措置、第三者サービスまたはインフラ中断など、合理的支配を超える事由により履行不能または履行遅延が生じた場合、UpFinance は責任を負いません。",
+      "content5": "8.5 本規約の他の定めにかかわらず、最終かつ上訴不能の有効判決により UpFinance の重大な過失または故意の不正行為に直接起因すると認定される請求には、本条の責任排除・制限は適用されません。",
+      "content6": "8.6 本サービスに起因または関連するいかなる請求または訴因も、請求原因事実が最初に発生した日から 12 か月以内に提起しなければなりません。期間内に提起されない請求は、取消不能に放棄されたものとみなされます。",
+      "content7": "8.6 あなたは、(a) 本サービスへのアクセスまたは利用、(b) 本規約または組込ポリシーへの違反、(c) 本規約上の表明・保証・義務への違反、(d) 適用法令または第三者権利への違反、(e) あなたによる詐欺・不実表示・故意不正行為、(f) 本サービスを通じたあなたのデータ・活動・行為・取引に関連して UpFinance に提起される請求に起因または関連する一切の請求、要求、訴訟、手続、損失、責任、損害、判決、和解、罰金、制裁、費用（合理的な弁護士費用および会計費用を含む）について、UpGlobal Inc およびその関係会社、取締役、役員、従業員、代理人、サービス提供者、ライセンサー、代表者を補償し、防御し、免責することに同意します。この補償義務は、本規約の終了・満了後および本サービス利用終了後も存続します。"
     },
     "section9": {
-      "title": "9. TERMINATION AND SUSPENSION",
-      "content1": "9.1 We may suspend, restrict, or terminate your access to the Services at our sole and absolute discretion, with or without prior notice, including but not limited to circumstances where we reasonably suspect fraud, money laundering, breach of law or regulation, violation of these Terms, material reputational risk, or if required to comply with any legal, regulatory, or governmental order, inquiry, investigation, or directive.",
-      "content2": "9.2 We reserve the right to retain, freeze, or withhold funds or assets held in your Account if we determine, in our sole discretion, that such action is necessary to comply with applicable laws, support ongoing investigations, or mitigate potential harm or liability. Such retention shall be without prejudice to our other rights under these Terms or at law.",
-      "content3": "9.3 You may terminate your Account at any time by providing written notice and fulfilling all outstanding obligations. Termination shall not affect any accrued rights or liabilities.",
-      "content4": "9.4 Upon termination, all rights granted to you under these Terms shall immediately cease. Subject to applicable laws, we shall return any remaining eligible funds to a verified destination provided by you after completion of compliance and audit checks. We may impose offboarding fees or deduct any applicable charges, and we may retain data and transaction records for legal, compliance, or audit purposes.",
-      "content5": "9.5 The provisions of these Terms relating to liability, indemnity, governing law, dispute resolution, and any other clauses that by their nature should survive termination shall continue to apply after your Account is closed or these Terms expire."
+      "title": "9. 終了および停止",
+      "content1": "9.1 当社は、詐欺、マネー・ローンダリング、法令違反、本規約違反、重大なレピュテーションリスクの疑いが合理的にある場合、または法令・規制・政府命令・照会・調査・指示への対応が必要な場合を含め、事前通知の有無を問わず、単独かつ絶対的裁量で本サービスへのアクセスを停止、制限または終了できます。",
+      "content2": "9.2 適用法令遵守、継続中調査への協力、潜在的損害または責任の軽減のため必要と当社が単独裁量で判断した場合、当社はあなたのアカウント内の資金または資産を留保、凍結または保留する権利を有します。かかる留保は、本規約または法令上の当社の他の権利を害しません。",
+      "content3": "9.3 あなたは、書面通知を行い、未履行義務をすべて履行することで、いつでもアカウントを終了できます。終了は、既に発生した権利または責任に影響しません。",
+      "content4": "9.4 終了時には、本規約に基づきあなたに付与されたすべての権利は直ちに失効します。適用法令に従い、コンプライアンスおよび監査確認完了後、当社は残存する返還可能資金を、あなたが提示した検証済み宛先へ返還します。当社はオフボーディング手数料を課すか適用料金を控除でき、また法務・コンプライアンス・監査目的でデータおよび取引記録を保持できます。",
+      "content5": "9.5 責任、補償、準拠法、紛争解決、その他その性質上終了後も存続すべき条項は、アカウント閉鎖後または本規約満了後も引き続き適用されます。"
     },
     "section10": {
-      "title": "10. NOTICES AND COMMUNICATIONS",
-      "content1": "All legal notices shall be deemed delivered when sent via email to support@upfinance.ai or mailed to UpGlobal Inc, 8 The Green, Ste A, Dover, DE 19901, USA. You agree to receive communications electronically and waive any right to physical delivery.",
-      "content2": "By using the Services, you consent to receive notices and disclosures electronically in accordance with the U.S. E-SIGN Act (15 U.S.C. § 7001 et seq.)."
+      "title": "10. 通知および連絡",
+      "content1": "すべての法的通知は、support@upfinance.ai への電子メール送信、または UpGlobal Inc, 8 The Green, Ste A, Dover, DE 19901, USA 宛て郵送がなされた時点で到達したものとみなされます。あなたは電子的連絡の受領に同意し、書面交付を受ける権利を放棄します。",
+      "content2": "本サービスを利用することにより、あなたは米国 E-SIGN 法（15 U.S.C. § 7001 以降）に従った電子通知および開示の受領に同意します。"
     },
     "section11": {
-      "title": "11. DEFINITIONS",
-      "intro": "In these Terms, unless the context requires otherwise, the following expressions shall have the following meanings:",
-      "account": "\"Account\" means the registered user account created with UpFinance through which Services are accessed and managed.",
-      "affiliate": "\"Affiliate\" means any entity that directly or indirectly controls, is controlled by, or is under common control with a party.",
-      "custodianAccount": "\"Custodian Account\" means the account established for the User under Part A for the custody and management of fiat or digital assets, held through licensed trust or custodial partners.",
-      "digitalAssets": "\"Digital Assets\" means any cryptographic tokens, virtual currencies, digital coins, or other blockchain-based representations of value supported by the Services.",
-      "fees": "\"Fees\" means any charges, costs, spreads, or commissions applicable to the Services, as disclosed in the Fee Schedule or at the time of the transaction.",
-      "merits": "\"Merits\" or \"Merits Bank & Trust\" means Merits Bank & Trust Limited, a Hong Kong licensed trust or company service provider (TCSP Licence No. TC008817), which may be used as a custodial and settlement partner.",
-      "partyA": "\"Party A\" refers to Osmosis Limited, operating under the commercial name \"UpFinance,\" including any of its successors or assigns.",
-      "platform": "\"Platform\" means all websites, mobile applications, APIs, interfaces, and other systems operated under the UpFinance brand.",
-      "services": "\"Services\" means all products, functionalities, and features made available to Users through the UpFinance Platform, including but not limited to Custodian Accounts, Card Services, Wallets, Swap Transactions, Virtual Accounts, and Third-Party Services.",
-      "terms": "\"Terms\" refers to these UpFinance Services Terms and Conditions, including any policies, schedules, annexes, and service-specific terms incorporated by reference.",
-      "thirdPartyServices": "\"Third-Party Services\" means any external platforms, software, providers, or services integrated into or made available through UpFinance, over which UpGlobal Inc has no operational control.",
-      "user": "\"User,\" \"you,\" or \"your\" means the individual or legal entity that registers for, accesses, or uses any part of the Services."
+      "title": "11. 定義",
+      "intro": "本規約において、文脈上別段の定めがない限り、以下の用語は次の意味を有します：",
+      "account": "\"Account\" とは、UpFinance に作成され、本サービスへのアクセスおよび管理に使用される登録ユーザー口座をいいます。",
+      "affiliate": "\"Affiliate\" とは、当事者を直接または間接に支配する、当事者により支配される、または当事者と共通支配下にある任意の法人をいいます。",
+      "custodianAccount": "\"Custodian Account\" とは、A部に基づきユーザーのために開設され、ライセンス保有信託またはカストディパートナーを通じて保持される、法定通貨またはデジタル資産の保管・管理用口座をいいます。",
+      "digitalAssets": "\"Digital Assets\" とは、本サービスでサポートされる暗号トークン、仮想通貨、デジタルコイン、その他ブロックチェーンベースの価値表象をいいます。",
+      "fees": "\"Fees\" とは、料金表または取引時に開示される、本サービスに適用される手数料、費用、スプレッドまたはコミッションをいいます。",
+      "merits": "\"Merits\" または \"Merits Bank & Trust\" とは、Merits Bank & Trust Limited（香港のライセンス保有信託または会社サービス提供者、TCSP Licence No. TC008817）をいい、カストディおよび決済パートナーとして利用される場合があります。",
+      "partyA": "\"Party A\" とは、\"UpFinance\" の商号で運営する Osmosis Limited およびその承継人・譲受人をいいます。",
+      "platform": "\"Platform\" とは、UpFinance ブランド下で運営されるすべてのウェブサイト、モバイルアプリケーション、API、インターフェースその他システムをいいます。",
+      "services": "\"Services\" とは、UpFinance プラットフォームを通じユーザーへ提供される全製品、機能、特性をいい、カストディアカウント、カードサービス、ウォレット、スワップ取引、バーチャルアカウント、第三者サービスを含みますがこれらに限定されません。",
+      "terms": "\"Terms\" とは、本 UpFinance サービス利用規約、ならびに参照により組み込まれる各種ポリシー、料金表、付属文書およびサービス別条項をいいます。",
+      "thirdPartyServices": "\"Third-Party Services\" とは、UpFinance に統合される、または UpFinance を通じ提供される外部プラットフォーム、ソフトウェア、提供者またはサービスであり、UpGlobal Inc が運用管理権限を有しないものをいいます。",
+      "user": "\"User\"、\"you\" または \"your\" とは、本サービスの全部または一部に登録、アクセスまたは利用する個人または法人をいいます。"
     },
     "section12": {
-      "title": "12. DISPUTE RESOLUTION",
-      "content1": "12.1 To the fullest extent permitted by applicable law, any dispute, controversy, difference, or claim arising out of or relating to these Terms or the Services, including the existence, validity, interpretation, performance, breach, or termination thereof, shall be resolved through final and binding arbitration.",
-      "content2": "12.2 The arbitration shall be conducted in accordance with the American Arbitration Association (AAA) Commercial Arbitration Rules in force at the time of the commencement of the arbitration. The seat of arbitration shall be Delaware, and the language of the proceedings shall be English. The number of arbitrators shall be one, appointed in accordance with the AAA Rules. Judgment upon the arbitral award may be entered in any court of competent jurisdiction.",
-      "content3": "12.3 The parties expressly waive, to the maximum extent permitted by law, any right to a trial by jury or to participate in any class action, mass action, or collective proceeding against the other party. Each party agrees to resolve disputes on an individual basis only and not as a plaintiff or class member in any purported class or representative proceeding.",
-      "content4": "12.4 Notwithstanding the above, either party may seek interim, emergency, or injunctive relief from any court of competent jurisdiction where such relief is necessary to prevent imminent and irreparable harm, preserve assets, or protect confidential information or intellectual property rights, and such application shall not be deemed incompatible with this arbitration clause.",
-      "content5": "12.5 All arbitration proceedings, filings, submissions, awards, and related materials shall be kept strictly confidential by all parties, and shall not be disclosed to any third party without the prior written consent of the other party, unless such disclosure is required by law or regulatory authority."
+      "title": "12. 紛争解決",
+      "content1": "12.1 適用法令で許容される最大限の範囲で、本規約または本サービスに起因または関連するあらゆる紛争、論争、意見相違または請求（その存在、有効性、解釈、履行、違反、終了を含む）は、最終的かつ拘束力ある仲裁により解決されます。",
+      "content2": "12.2 仲裁は、仲裁開始時点で有効な American Arbitration Association（AAA）商事仲裁規則に従って実施されます。仲裁地はデラウェア州、手続言語は英語とし、仲裁人は AAA 規則に従い 1 名選任されます。仲裁判断は、有管轄裁判所において判決化される場合があります。",
+      "content3": "12.3 各当事者は、法令上許容される最大限の範囲で、陪審審理を受ける権利、および相手方に対するクラスアクション、マスアクションまたは集団訴訟への参加権を明示的に放棄します。各当事者は、紛争を個別ベースでのみ解決し、クラスまたは代表訴訟の原告・構成員として提起しないことに同意します。",
+      "content4": "12.4 前各項にかかわらず、差し迫った回復不能な損害の防止、資産保全、機密情報または知的財産権の保護のため必要な場合、各当事者は有管轄裁判所に暫定的・緊急的・差止的救済を求めることができ、当該申立ては本仲裁条項と矛盾しないものとみなされます。",
+      "content5": "12.5 すべての仲裁手続、申立書、提出資料、判断および関連資料は厳格に機密として扱われ、法令または規制当局により開示が要求される場合を除き、相手方の事前書面同意なく第三者へ開示してはなりません。"
     },
     "section13": {
-      "title": "13. GENERAL TERMS",
-      "content1": "13.1 These Terms, together with all policies, disclosures, and documents incorporated herein by reference, constitute the entire agreement between you and Party A and supersede all prior agreements, understandings, negotiations, representations, and communications, whether oral or written, with respect to the subject matter hereof.",
-      "content2": "13.2 No failure or delay by UpGlobal Inc in exercising any right, power, or remedy under these Terms shall operate as a waiver thereof, nor shall any single or partial exercise preclude any other or further exercise thereof. Any waiver must be in writing to be effective.",
-      "content3": "13.3 You may not assign, transfer, or novate your rights or obligations under these Terms without our prior written consent. We may assign or transfer these Terms, in whole or in part, without notice or consent, to any affiliate, successor entity, or in connection with a corporate reorganization, merger, acquisition, or sale of assets.",
-      "content4": "13.4 UpGlobal Inc shall not be liable for any failure or delay in performance or availability of the Services to the extent such failure or delay results from events or circumstances beyond its reasonable control, including but not limited to acts of God, natural disasters, epidemic or pandemic outbreaks, war, terrorism, cyberattacks, communication failures, utility or network downtime, labor disputes, government restrictions or regulatory actions, custodial or service provider failures, and other unforeseeable operational disruptions.",
-      "content5": "13.5 UpGlobal Inc reserves the right to amend, update, or modify these Terms or any of the incorporated documents at any time by publishing the revised version on the Platform or otherwise providing notice to you. Your continued use of the Services following such publication or notice constitutes your acceptance of the updated Terms.",
-      "content6": "13.6 If any provision of these Terms is held by a court of competent jurisdiction to be invalid, illegal, or unenforceable, such provision shall be modified to the minimum extent necessary to render it valid and enforceable, and the remaining provisions shall remain in full force and effect.",
-      "content7": "13.7 These Terms shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to conflict of law principles. You agree that Delaware shall be the exclusive forum for any disputes not otherwise subject to arbitration under these Terms.",
-      "content8": "13.8 To the fullest extent permitted by law, any claim or cause of action arising out of or related to these Terms or the Services must be filed within twelve (12) months from the date the claim first arose. Any claims not filed within such time shall be permanently barred."
+      "title": "13. 一般条項",
+      "content1": "13.1 本規約は、参照により組み込まれるすべてのポリシー、開示および文書とともに、あなたと Party A との間の完全合意を構成し、本件に関する口頭・書面を問わない従前の合意、了解、交渉、表明および連絡に優先します。",
+      "content2": "13.2 UpGlobal Inc が本規約上の権利・権限・救済を行使しないこと、または行使が遅延することは、当該権利放棄を意味しません。また、単独または部分的行使は他のまたは追加の行使を妨げません。権利放棄は書面でなされる場合に限り有効です。",
+      "content3": "13.3 あなたは、当社の事前書面同意なく、本規約上の権利義務を譲渡、移転または更改できません。当社は、通知または同意なく、本規約の全部または一部を、関係会社、承継主体、または企業再編、合併、買収、資産譲渡に関連して譲渡または移転できます。",
+      "content4": "13.4 天災、自然災害、感染症流行、戦争、テロ、サイバー攻撃、通信障害、公共インフラまたはネットワーク停止、労働争議、政府制限・規制措置、カストディ機関またはサービス提供者の障害、その他予見困難な運用障害を含む（ただしこれらに限られない）合理的支配を超える事象により本サービスの履行または可用性に失敗・遅延が生じた場合、UpGlobal Inc は責任を負いません。",
+      "content5": "13.5 UpGlobal Inc は、改訂版をプラットフォーム上に公表するか、その他の方法で通知することにより、本規約および組込文書をいつでも修正、更新、変更する権利を留保します。公表または通知後に本サービスを継続利用した場合、更新後規約に同意したものとみなされます。",
+      "content6": "13.6 本規約のいずれかの条項が有管轄裁判所により無効、違法、執行不能と判断された場合、当該条項は有効かつ執行可能とするため必要最小限の範囲で修正され、残余条項は引き続き完全に有効とします。",
+      "content7": "13.7 本規約は法の抵触原則にかかわらずデラウェア州法に準拠し、同法に従って解釈されます。本規約上仲裁に付されない紛争について、デラウェア州を専属的紛争解決地とすることに同意します。",
+      "content8": "13.8 法令で許容される最大限の範囲で、本規約または本サービスに起因または関連する請求または訴因は、当該請求発生日から 12 か月以内に提起しなければなりません。期間内に提起されない請求は永久に排除されます。"
     },
     "section14": {
-      "title": "14. OPERATIONAL AND LEGAL SAFEGUARDS",
-      "content1": "14.1 You agree to indemnify and hold harmless UpFinance, its affiliates, directors, officers, employees, agents, and service providers from and against any and all losses, damages, liabilities, claims, demands, costs, and expenses (including legal fees) arising from your breach of these Terms, your violation of applicable laws or regulations, your use of the Services, or any unauthorized, fraudulent, or negligent acts or omissions on your part.",
-      "content2": "14.2 We shall not be liable for any failure or delay in performance caused by events or circumstances beyond our reasonable control, including but not limited to acts of God, cyber incidents, regulatory changes, custodial or banking failures, internet outages, war, civil unrest, or third-party service interruptions."
+      "title": "14. 運用上および法的保護",
+      "content1": "14.1 あなたは、本規約違反、適用法令違反、本サービス利用、またはあなたによる無権限行為、詐欺行為、過失行為（不作為を含む）に起因する一切の損失、損害、責任、請求、要求、費用（弁護士費用を含む）について、UpFinance、その関係会社、取締役、役員、従業員、代理人およびサービス提供者を補償し、免責することに同意します。",
+      "content2": "14.2 当社は、天災、サイバーインシデント、規制変更、カストディまたは銀行障害、インターネット障害、戦争、社会不安、第三者サービス中断など、合理的支配を超える事由により生じた履行不能または履行遅延について責任を負いません。"
     },
     "partA": {
-      "title": "PART A: CUSTODIAN ACCOUNT",
+      "title": "A部：カストディアカウント",
       "section1": {
-        "title": "1. SCOPE",
-        "content1": "1.1 This Part A sets out the terms and conditions applicable to the Custodian Account provided through UpFinance via its regulated partner, Merits Bank & Trust (“Merits”), a licensed trust company incorporated in Hong Kong.",
-        "content2": "1.2 By accessing or using the Custodian Account, you agree to be bound by this Part A in addition to the General Terms and Conditions."
+        "title": "1. 適用範囲",
+        "content1": "1.1 本A部は、香港で設立されたライセンス保有信託会社 Merits Bank & Trust（「Merits」）を規制提携先として、UpFinance を通じ提供されるカストディアカウントに適用される条項を定めます。",
+        "content2": "1.2 カストディアカウントにアクセスまたは利用することにより、あなたは一般条項に加えて本A部にも拘束されることに同意します。"
       },
       "section2": {
-        "title": "2. CUSTODIAN ACCOUNT STRUCTURE",
-        "content1": "2.1 The Custodian Account enables Users to hold and manage digital assets and fiat currencies in a segregated trust environment. All Custodian Accounts are operated under the regulatory license and control framework of Merits.",
-        "content2": "2.2 Funds held within Custodian Accounts are not mixed with UpFinance's corporate assets. They are maintained in accordance with fiduciary trust standards and are not subject to the claims of UpFinance's creditors.",
-        "content3": "2.3 Custodian Accounts may include sub-accounts or wallets designated for specific asset types (e.g., BTC, ETH, USDT, USD) and functionalities (e.g., debit account, virtual account, or collateral wallet).",
-        "content4": "2.4 The User acknowledges and accepts that funds or assets transferred to, held with, or managed by Merits Bank & Trust or any designated sub-custodian are subject to the operational, insolvency, and legal risks associated with such third-party custodians. UpFinance disclaims all liability for losses, delays, unavailability of funds, or regulatory interventions involving such third-party institutions, except where caused by its own gross negligence or willful misconduct as established by final, non-appealable judgment.",
-        "content5": "2.5 Unless otherwise required by applicable law, UpFinance acts solely as a facilitator and administrative coordinator with respect to custodial and trust arrangements. No fiduciary, trustee, or similar legal relationship is created between the User and UpFinance as a result of these arrangements."
+        "title": "2. カストディアカウントの構成",
+        "content1": "2.1 カストディアカウントは、ユーザーが分別信託環境でデジタル資産および法定通貨を保有・管理することを可能にします。すべてのカストディアカウントは Merits の規制ライセンスおよび管理枠組みの下で運用されます。",
+        "content2": "2.2 カストディアカウント内資金は UpFinance の企業資産と混同されません。受託者基準に従って管理され、UpFinance の債権者による請求対象にはなりません。",
+        "content3": "2.3 カストディアカウントには、特定資産（例：BTC、ETH、USDT、USD）や機能（例：デビット口座、バーチャル口座、担保ウォレット）向けのサブアカウントまたはウォレットが含まれる場合があります。",
+        "content4": "2.4 ユーザーは、Merits Bank & Trust または指定サブカストディ機関に移転・保管・管理される資金または資産が、当該第三者カストディ機関に伴う運用、破綻および法的リスクの対象となることを認識し同意します。最終かつ上訴不能判決により UpFinance の重大過失または故意不正行為にのみ起因すると認定される場合を除き、UpFinance は当該第三者機関に関する損失、遅延、資金利用不能、規制介入について責任を負いません。",
+        "content5": "2.5 適用法令で別段の要求がない限り、UpFinance はカストディおよび信託手配に関して促進者および事務調整者としてのみ行動します。これらの手配により、ユーザーと UpFinance の間に受託者その他類似の法的関係は成立しません。"
       },
       "section3": {
-        "title": "3. ACCOUNT OPENING AND ACCESS",
-        "intro": "3.1 To open a Custodian Account, Users must complete all required onboarding steps, including:",
-        "requirement1": "Identity verification;",
-        "requirement2": "Source of funds and wealth declarations;",
-        "requirement3": "Compliance with anti-money laundering (AML) and counter-terrorism financing (CTF) requirements;",
-        "requirement4": "Agreement to applicable custodial and user policies.",
-        "content2": "3.2 We reserve the right to deny, suspend, or terminate access to Custodian Accounts in the event of:",
-        "reason1": "Incomplete or unsatisfactory documentation;",
-        "reason2": "Regulatory restrictions;",
-        "reason3": "Breach of any part of these Terms."
+        "title": "3. 口座開設およびアクセス",
+        "intro": "3.1 カストディアカウントを開設するには、ユーザーは以下を含む必要なオンボーディング手順を完了する必要があります：",
+        "requirement1": "本人確認；",
+        "requirement2": "資金源および財産形成源泉に関する申告；",
+        "requirement3": "AML（反マネー・ローンダリング）および CTF（テロ資金供与対策）要件の遵守；",
+        "requirement4": "適用されるカストディおよびユーザーポリシーへの同意。",
+        "content2": "3.2 当社は、以下の場合にカストディアカウントへのアクセスを拒否、停止、または終了する権利を留保します：",
+        "reason1": "提出書類が不完全または不十分な場合；",
+        "reason2": "規制上の制限；",
+        "reason3": "本規約のいずれかの条項への違反。"
       },
       "section4": {
-        "title": "4. DEPOSITS AND WITHDRAWALS",
-        "content1": "4.1 Deposits into the Custodian Account may be made in approved fiat currencies or supported digital assets.",
-        "content2": "4.2 You are solely responsible for ensuring that you send only supported tokens to the appropriate address provided by UpFinance. Sending unsupported tokens or using incorrect deposit protocols may result in permanent loss.",
-        "content3": "4.3 Withdrawals from the Custodian Account are subject to:",
-        "requirement1": "Successful KYC/AML status;",
-        "requirement2": "Minimum withdrawal thresholds;",
-        "requirement3": "Internal risk and security checks;",
-        "requirement4": "Blockchain network availability and third-party settlement constraints.",
-        "content4": "4.4 We reserve the right to implement withdrawal cooldown periods, compliance holds, or transaction reviews as reasonably necessary to fulfill our legal obligations."
+        "title": "4. 入金および出金",
+        "content1": "4.1 カストディアカウントへの入金は、承認済み法定通貨または対応デジタル資産で行えます。",
+        "content2": "4.2 UpFinance が指定する適切なアドレスへ対応トークンのみを送付する責任は、あなたにあります。非対応トークンの送付または誤った入金プロトコルの使用は、恒久的損失につながる可能性があります。",
+        "content3": "4.3 カストディアカウントからの出金には以下が適用されます：",
+        "requirement1": "KYC/AML ステータスが有効であること；",
+        "requirement2": "最低出金金額の要件を満たすこと；",
+        "requirement3": "内部リスク・セキュリティ審査；",
+        "requirement4": "ブロックチェーンネットワーク可用性および第三者清算上の制約。",
+        "content4": "4.4 当社は、法的義務を履行するため合理的に必要な範囲で、出金クールダウン期間、コンプライアンス保留、取引審査を実施する権利を留保します。"
       },
       "section5": {
-        "title": "5. CUSTODY, SECURITY AND SEGREGATION",
-        "content1": "5.1 All digital assets in the Custodian Account are held in wallets secured and operated by Merits Bank & Trust or its appointed sub-custodians, using institutional-grade infrastructure and security controls.",
-        "content2": "5.2 Fiat balances are held in segregated client accounts under the name of Merits Bank & Trust for the benefit of Users. These accounts are not co-mingled with proprietary funds of UpFinance or Merits, except where required for operational purposes in accordance with applicable regulatory frameworks, and are subject to statutory protections.",
-        "content3": "5.3 UpFinance exercises reasonable care and skill in coordinating custodial arrangements but disclaims liability for any acts, omissions, insolvency, or delays of custodians, sub-custodians, banks, or other financial institutions once funds have been credited to such accounts, except in cases of UpFinance's own gross negligence or willful misconduct as determined by a final, non-appealable judgment.",
-        "content4": "5.4 Legal title to digital or fiat assets held in the Custodian Account remains with the User unless otherwise specified in a separate written agreement governing specific use cases such as staking, lending, or collateral arrangements.",
-        "content5": "5.5 The User agrees to indemnify and hold harmless UpFinance and its affiliates against all claims, losses, costs, and liabilities arising from custodial loss, seizure, or delay, except where such losses result directly from the gross negligence or willful misconduct of UpFinance."
+        "title": "5. 保管・セキュリティ・分別管理",
+        "content1": "5.1 カストディアカウント内のすべてのデジタル資産は、Merits Bank & Trust またはその指定サブカストディ機関が、機関投資家水準の基盤とセキュリティ統制を用いて保護・運用するウォレットで保管されます。",
+        "content2": "5.2 法定通貨残高は、ユーザー利益のため Merits Bank & Trust 名義の分別顧客口座で管理されます。適用規制枠組みに基づく運用上必要な場合を除き、これら口座は UpFinance または Merits の自己資金と混同されず、法令上の保護対象となります。",
+        "content3": "5.3 UpFinance はカストディ手配の調整において合理的注意と技能を尽くしますが、資金が当該口座に計上された後のカストディ機関、サブカストディ機関、銀行または他金融機関の行為、不作為、破綻、遅延については、最終かつ上訴不能判決で UpFinance 自身の重大過失または故意不正行為と認定される場合を除き、責任を負いません。",
+        "content4": "5.4 ステーキング、貸付、担保手配など特定用途を定める別途書面合意で明示される場合を除き、カストディアカウント内のデジタル資産または法定通貨の法的権原はユーザーに帰属します。",
+        "content5": "5.5 ユーザーは、カストディ上の損失、差押え、遅延に起因するあらゆる請求、損失、費用、責任について、UpFinance の重大過失または故意不正行為に直接起因する場合を除き、UpFinance および関係会社を補償し免責することに同意します。"
       },
       "section6": {
-        "title": "6. LIMITATIONS AND RISKS",
-        "content1": "6.1 Custodian Accounts are not deposit accounts and do not accrue interest unless otherwise agreed in writing.",
-        "content2": "6.2 You acknowledge that UpFinance is not a licensed bank and that your Custodian Account is not protected by any deposit insurance scheme.",
-        "content3": "6.3 Digital assets may lose value and are subject to technical, legal, and regulatory risks. You accept these risks fully and unconditionally.",
-        "content4": "6.4 We may suspend access to specific assets, networks, or services without prior notice if required for risk control, maintenance, or compliance."
+        "title": "6. 制限およびリスク",
+        "content1": "6.1 カストディアカウントは預金口座ではなく、書面による別段合意がない限り利息は発生しません。",
+        "content2": "6.2 あなたは、UpFinance がライセンス保有銀行ではなく、あなたのカストディアカウントがいかなる預金保険制度でも保護されないことを認識します。",
+        "content3": "6.3 デジタル資産は価値下落の可能性があり、技術的、法的、規制上のリスクにさらされます。あなたはこれらリスクを全面的かつ無条件に受け入れます。",
+        "content4": "6.4 当社は、リスク管理、保守、コンプライアンス上必要な場合、特定資産・ネットワーク・サービスへのアクセスを事前通知なく停止できるものとします。"
       },
       "section7": {
-        "title": "7. TERMINATION",
-        "content1": "7.1 Upon termination of your Account or closure of the Custodian Account, we will:",
-        "item1": "Verify your identity and ensure compliance clearance;",
-        "item2": "Facilitate the transfer of eligible balances to a verified destination provided by you;",
-        "item3": "Apply any applicable fees and deduct outstanding obligations.",
-        "content2": "7.2 We may retain records of your Custodian Account for legal and audit purposes, even after termination."
+        "title": "7. 終了",
+        "content1": "7.1 あなたのアカウント終了またはカストディアカウント閉鎖時、当社は以下を実施します：",
+        "item1": "本人確認およびコンプライアンス確認の完了；",
+        "item2": "適格残高を、あなたが指定した検証済み送金先へ移転支援すること；",
+        "item3": "適用手数料の計上および未払義務の控除。",
+        "content2": "7.2 終了後であっても、当社は法務および監査目的であなたのカストディアカウント記録を保持できるものとします。"
       }
     },
     "partB": {
-      "title": "PART B: CARD SERVICES",
+      "title": "B部：カードサービス",
       "section1": {
-        "title": "1. SCOPE",
-        "content1": "1.1 This Part B governs the terms and conditions under which UpFinance offers its Users access to one or more physical or virtual payment cards (the \"UpFinance Card\"), issued in cooperation with one or more licensed BIN sponsors or electronic money institutions (the \"Card Issuer\").",
-        "content2": "1.2 By applying for or using an UpFinance Card, you agree to be bound by this Part B in addition to the General Terms and any issuer-specific cardholder agreements, where applicable."
+        "title": "1. 適用範囲",
+        "content1": "1.1 本B部は、UpFinance が 1 社または複数の認可 BIN スポンサーまたは電子マネー機関（以下「カード発行体」）と提携して発行する、1 枚または複数の物理カードまたはバーチャル決済カード（以下「UpFinance カード」）へのアクセスをユーザーに提供する際の条件を定めるものです。",
+        "content2": "1.2 UpFinance カードを申請または利用することにより、あなたは本B部に加えて、一般条件および該当する発行体固有のカード会員規約に拘束されることに同意するものとします。"
       },
       "section2": {
-        "title": "2. CARD ISSUANCE",
-        "content1": "2.1 Subject to successful completion of all KYC, AML, and due diligence requirements, and any applicable issuer policies, UpFinance may issue to you:",
-        "item1": "A physical card with EMV chip, PIN, and magnetic stripe;",
-        "item2": "A virtual card for online use and contactless payments;",
-        "item3": "Optional co-branded cards in partnership with merchants or business entities.",
-        "content2": "2.2 Cards are issued and activated only upon approval by the designated Card Issuer. Activation procedures will be communicated to the User and may include biometric verification or other secure processes.",
-        "content3": "2.3 The Card remains the property of the Card Issuer at all times and must be returned or destroyed upon request."
+        "title": "2. カード発行",
+        "content1": "2.1 すべての KYC、AML、およびデューデリジェンス要件、ならびに適用される発行体ポリシーの充足を条件として、UpFinance は以下を発行する場合があります：",
+        "item1": "EMV チップ、PIN、磁気ストライプ付きの物理カード；",
+        "item2": "オンライン利用およびタッチ決済向けのバーチャルカード；",
+        "item3": "加盟店または事業者との提携による任意のブランド提携カード。",
+        "content2": "2.2 カードは、指定されたカード発行体の承認後にのみ発行・有効化されます。有効化手順はユーザーに通知され、生体認証その他の安全な手続を含む場合があります。",
+        "content3": "2.3 カードの所有権は常にカード発行体に帰属し、要請があった場合は返却または破棄しなければなりません。"
       },
       "section3": {
-        "title": "3. CARD USAGE",
-        "content1": "3.1 The UpFinance Card may be used for:",
-        "usage1": "Point-of-sale (POS) transactions with merchants;",
-        "usage2": "Online payments;",
-        "usage3": "ATM cash withdrawals (where permitted);",
-        "usage4": "In-app transactions and subscriptions.",
-        "content2": "3.2 The Card may be linked to balances in your Custodian Account and is subject to automatic liquidation of assets to settle fiat transactions in accordance with Part A and internal FX policies.",
-        "content3": "3.3 You are responsible for maintaining sufficient balance to authorize transactions. If insufficient funds are available, the transaction may be declined.",
-        "content4": "3.4 Card use is subject to geographic, merchant category, and daily/monthly limits imposed by UpFinance and/or the Card Issuer."
+        "title": "3. カード利用",
+        "content1": "3.1 UpFinance カードは、以下の目的で利用できます：",
+        "usage1": "加盟店での POS 決済；",
+        "usage2": "オンライン決済；",
+        "usage3": "ATM 現金引出し（許可される場合）；",
+        "usage4": "アプリ内決済およびサブスクリプション。",
+        "content2": "3.2 カードはあなたのカストディアカウント残高に連携される場合があり、A部および社内為替ポリシーに従って法定通貨取引を決済するため、資産の自動換金が行われることがあります。",
+        "content3": "3.3 あなたは取引承認に十分な残高を維持する責任を負います。資金が不足している場合、取引は拒否されることがあります。",
+        "content4": "3.4 カード利用には、UpFinance および／またはカード発行体が定める地域、加盟店カテゴリ、日次・月次の各種制限が適用されます。"
       },
       "section4": {
-        "title": "4. SECURITY AND RESPONSIBILITIES",
-        "content1": "4.1 You must:",
-        "responsibility1": "Protect the card number, CVV, PIN, and any other authentication credentials;",
-        "responsibility2": "Not share card credentials with any unauthorized third party;",
-        "responsibility3": "Promptly report any loss, theft, or suspected unauthorized access.",
-        "content2": "4.2 You shall be liable for any transactions initiated with your credentials unless:",
-        "exception1": "You have notified UpFinance of loss/theft;",
-        "exception2": "The Card has been blocked or suspended;",
-        "exception3": "The transaction occurred due to gross negligence or willful misconduct by UpFinance or the Card Issuer.",
-        "content3": "4.3 UpFinance reserves the right to suspend or block the Card at any time:",
-        "reason1": "Upon suspected fraud or compromise;",
-        "reason2": "At the instruction of regulatory authorities;",
-        "reason3": "Upon violation of these Terms."
+        "title": "4. セキュリティと責任",
+        "content1": "4.1 あなたは次を遵守しなければなりません：",
+        "responsibility1": "カード番号、CVV、PIN その他認証情報を適切に保護すること；",
+        "responsibility2": "カード認証情報を未承認の第三者と共有しないこと；",
+        "responsibility3": "紛失・盗難・不正アクセス疑いを速やかに報告すること。",
+        "content2": "4.2 次の場合を除き、あなたの認証情報で開始された取引についてはあなたが責任を負います：",
+        "exception1": "あなたが紛失／盗難を UpFinance に通知済みである場合；",
+        "exception2": "カードがブロックまたは停止済みである場合；",
+        "exception3": "取引が UpFinance または発行体の重大過失または故意不正行為により生じた場合。",
+        "content3": "4.3 UpFinance は、以下の場合を含め、いつでもカードを停止またはブロックする権利を留保します：",
+        "reason1": "不正または漏えいが疑われる場合；",
+        "reason2": "監督当局の指示がある場合；",
+        "reason3": "本規約違反がある場合。"
       },
       "section5": {
-        "title": "5. FEES, LIMITS AND EXCHANGE",
-        "content1": "5.1 All applicable fees, including but not limited to:",
-        "fee1": "Card issuance fee;",
-        "fee2": "Monthly or annual maintenance fee;",
-        "fee3": "FX spread or conversion margin;",
-        "fee4": "ATM withdrawal fees;",
-        "fee5": "Reissuance or replacement fees are disclosed in the applicable Fee Schedule.",
-        "feesDisclosure": "are disclosed in the applicable Fee Schedule.",
-        "content2": "5.2 All non-USD transactions are converted using rates set by UpFinance or the Card Issuer, which include a spread over benchmark interbank rates. The applicable rate will be disclosed or made available at the time of transaction.",
-        "content3": "5.3 Fees may be charged in crypto or fiat and may be auto-deducted from your Custodian Account or invoiced in arrears."
+        "title": "5. 手数料・限度額・為替",
+        "content1": "5.1 以下を含むすべての適用手数料（ただしこれらに限られません）：",
+        "fee1": "カード発行手数料；",
+        "fee2": "月次または年次維持手数料；",
+        "fee3": "為替スプレッドまたは換算マージン；",
+        "fee4": "ATM 出金手数料；",
+        "fee5": "再発行または交換手数料（適用料金表に開示）。",
+        "feesDisclosure": "これらは適用料金表に開示されます。",
+        "content2": "5.2 すべての非 USD 取引は、UpFinance またはカード発行体が定める換算レートで換算され、当該レートには基準となる銀行間レートに対するスプレッドが含まれます。適用レートは取引時に開示または提示されます。",
+        "content3": "5.3 手数料は暗号資産または法定通貨で請求される場合があり、カストディアカウントから自動控除されるか、後払いで請求される場合があります。"
       },
       "section6": {
-        "title": "6. RESTRICTIONS",
-        "content1": "6.1 You may not use the UpFinance Card for:",
-        "restriction1": "Prohibited transactions under applicable law (e.g., gambling, sanctioned entities);",
-        "restriction2": "Fraudulent or deceptive activities;",
-        "restriction3": "Transactions inconsistent with AML/CTF obligations.",
-        "content2": "6.2 We reserve the right to cancel, suspend, or restrict the Card with or without notice to comply with our legal obligations or risk policies."
+        "title": "6. 利用制限",
+        "content1": "6.1 あなたは UpFinance カードを以下の目的で利用してはなりません：",
+        "restriction1": "適用法令で禁止される取引（例：賭博、制裁対象者との取引）；",
+        "restriction2": "詐欺的または欺罔的活動；",
+        "restriction3": "AML/CTF 義務に反する取引。",
+        "content2": "6.2 当社は、法的義務またはリスクポリシーを遵守するため、事前通知の有無を問わずカードを取消し、停止、または制限する権利を留保します。"
       },
       "section7": {
-        "title": "7. TERMINATION AND EXPIRATION",
-        "content1": "7.1 Your Card will be valid until its stated expiration date unless earlier terminated. We may issue a replacement card prior to expiration at our discretion.",
-        "content2": "7.2 Upon closure of your Account, expiration of the Card, or termination for breach, you must:",
-        "requirement1": "Cease use of the Card immediately;",
-        "requirement2": "Destroy the physical card (if applicable);",
-        "requirement3": "Ensure outstanding transactions and fees are settled.",
-        "content3": "7.3 Remaining funds (if any) will be returned in accordance with the Custodian Account terms and subject to audit and regulatory clearance."
+        "title": "7. 終了および失効",
+        "content1": "7.1 あなたのカードは、早期終了されない限り、記載された有効期限まで有効です。当社はその裁量により、有効期限前に代替カードを発行する場合があります。",
+        "content2": "7.2 あなたのアカウント閉鎖、カード有効期限到来、または違反による終了時には、あなたは次を行わなければなりません：",
+        "requirement1": "カード利用を直ちに停止すること；",
+        "requirement2": "物理カードを破棄すること（該当する場合）；",
+        "requirement3": "未決済取引および手数料を精算すること。",
+        "content3": "7.3 残存資金（ある場合）は、カストディアカウント条件に従い、監査および規制上の確認を条件として返還されます。"
       }
     },
     "partC": {
-      "title": "PART C: SWAP TRANSACTIONS",
+      "title": "C部：スワップ取引",
       "section1": {
-        "title": "1. SCOPE",
-        "content1": "1.1 This Part C sets forth the terms and conditions governing the use of UpFinance's swap services, which enable Users to convert one supported digital asset or fiat currency into another (\"Swap Transactions\").",
-        "content2": "1.2 Swap Transactions may be facilitated by UpFinance directly or through third-party liquidity providers (\"Liquidity Providers\") and may be executed via centralized or decentralized exchange protocols."
+        "title": "1. 適用範囲",
+        "content1": "1.1 本C部は、ユーザーが対応するデジタル資産または法定通貨を別の資産・通貨へ交換できる UpFinance のスワップサービス（以下「スワップ取引」）の利用条件を定めるものです。",
+        "content2": "1.2 スワップ取引は、UpFinance が直接提供する場合、または第三者流動性提供者（以下「流動性提供者」）を通じて提供される場合があり、中央集権型または分散型取引プロトコルにより執行されることがあります。"
       },
       "section2": {
-        "title": "2. ELIGIBILITY AND CONDITIONS",
-        "content1": "2.1 You must:",
-        "requirement1": "Hold an active Custodian Account with sufficient eligible balance;",
-        "requirement2": "Have completed all required identity and compliance verification steps;",
-        "requirement3": "Accept the Swap Transaction terms and any associated pricing, slippage, or fees at the time of execution.",
-        "content2": "2.2 UpFinance may limit the types of assets available for swap, minimum or maximum swap thresholds, and eligible counterparties.",
-        "content3": "2.3 Swap functionality may be suspended at any time without prior notice for reasons including market volatility, risk controls, or service maintenance."
+        "title": "2. 利用資格および条件",
+        "content1": "2.1 あなたは次の要件を満たす必要があります：",
+        "requirement1": "十分な適格残高を有する有効なカストディアカウントを保有すること；",
+        "requirement2": "必要な本人確認およびコンプライアンス確認を完了していること；",
+        "requirement3": "執行時点でスワップ取引条件、関連価格、スリッページ、手数料に同意すること。",
+        "content2": "2.2 UpFinance は、スワップ対象資産の種類、最小・最大スワップ閾値、および利用可能な相手方を制限する場合があります。",
+        "content3": "2.3 スワップ機能は、市場変動、リスク管理、またはサービス保守等の理由により、事前通知なくいつでも停止される場合があります。"
       },
       "section3": {
-        "title": "3. EXECUTION AND PRICING",
-        "content1": "3.1 When initiating a Swap Transaction, you will be shown an indicative quote reflecting:",
-        "item1": "The input and output asset type and amount;",
-        "item2": "The applicable exchange rate or conversion formula;",
-        "item3": "Estimated network and service fees;",
-        "item4": "Any slippage tolerance limits.",
-        "content2": "3.2 You acknowledge that:",
-        "acknowledgment1": "Swap rates may change between quote and execution due to market movement;",
-        "acknowledgment2": "Network delays may result in execution outside your desired parameters;",
-        "acknowledgment3": "Transactions may be irreversible once executed.",
-        "content3": "3.3 You are solely responsible for verifying all swap parameters before confirmation. You waive any claim arising from adverse price movements occurring prior to execution."
+        "title": "3. 執行および価格",
+        "content1": "3.1 スワップ取引を開始する際、あなたには次を反映した参考見積が表示されます：",
+        "item1": "入力資産・出力資産の種類と数量；",
+        "item2": "適用為替レートまたは換算式；",
+        "item3": "見積ネットワーク手数料およびサービス手数料；",
+        "item4": "スリッページ許容範囲（設定時）。",
+        "content2": "3.2 あなたは次の事項を認識し同意します：",
+        "acknowledgment1": "市場変動により提示レートと執行レートが変動する可能性があること；",
+        "acknowledgment2": "ネットワーク遅延により希望パラメータ外で執行される可能性があること；",
+        "acknowledgment3": "執行後の取引は取消不能となる場合があること。",
+        "content3": "3.3 あなたは確認前にすべてのスワップ条件を検証する単独の責任を負います。執行前に発生した不利な価格変動に起因する請求権を放棄するものとします。"
       },
       "section4": {
-        "title": "4. SETTLEMENT AND CONFIRMATION",
-        "content1": "4.1 Upon execution, the corresponding balances in your Custodian Account will be debited and credited accordingly.",
-        "content2": "4.2 A transaction record will be generated and made available through your Account interface. This shall serve as conclusive evidence of execution, unless manifest error is proven.",
-        "content3": "4.3 Swap Transactions may take time to settle depending on the blockchain or external service provider involved. UpFinance is not liable for settlement delays beyond its control."
+        "title": "4. 清算および確認",
+        "content1": "4.1 執行後、あなたのカストディアカウント内の対応残高は、取引内容に応じて引落し・入金されます。",
+        "content2": "4.2 取引記録は生成され、あなたのアカウント画面で閲覧可能となります。明白な誤りが立証されない限り、当該記録は執行の確定的証拠となります。",
+        "content3": "4.3 スワップ取引の清算には、関与するブロックチェーンまたは外部サービス提供者により時間を要する場合があります。UpFinance は、その支配を超える清算遅延について責任を負いません。"
       },
       "section5": {
-        "title": "5. FEES AND SPREADS",
-        "content1": "5.1 All Swap Transactions are subject to:",
-        "fee1": "A platform fee as disclosed in the Fee Schedule;",
-        "fee2": "A spread applied to the prevailing market rate;",
-        "fee3": "Any third-party gas or transaction fees, as applicable.",
-        "content2": "5.2 Fees are deducted at the time of execution and are non-refundable once the transaction has been confirmed on-chain or by our systems."
+        "title": "5. 手数料およびスプレッド",
+        "content1": "5.1 すべてのスワップ取引には、以下が適用されます：",
+        "fee1": "料金表に開示されたプラットフォーム手数料；",
+        "fee2": "市場レートに対して適用されるスプレッド；",
+        "fee3": "該当する第三者ガス代または取引手数料。",
+        "content2": "5.2 手数料は執行時に控除され、取引がオンチェーンまたは当社システムで確定した後は返金されません。"
       },
       "section6": {
-        "title": "6. RISK DISCLOSURE",
-        "content1": "6.1 You acknowledge and accept the following risks:",
-        "risk1": "Price slippage or unfavorable execution during volatile markets;",
-        "risk2": "Impermanent loss or depegging of stablecoins;",
-        "risk3": "Protocol errors or smart contract vulnerabilities (if using DEX routes);",
-        "risk4": "Liquidity shortfalls preventing transaction completion.",
-        "content2": "6.2 You bear full responsibility for the outcome of each Swap Transaction, including tax consequences or unrealized gains/losses."
+        "title": "6. リスク開示",
+        "content1": "6.1 あなたは以下のリスクを認識し、受容するものとします：",
+        "risk1": "高ボラティリティ時の価格スリッページまたは不利約定；",
+        "risk2": "インパーマネントロスまたはステーブルコインのペッグ乖離；",
+        "risk3": "プロトコルエラーまたはスマートコントラクト脆弱性（DEX ルート利用時）；",
+        "risk4": "流動性不足による取引未成立。",
+        "content2": "6.2 あなたは、税務上の影響や未実現損益を含む各スワップ取引の結果について、全面的な責任を負います。"
       },
       "section7": {
-        "title": "7. RIGHT TO REFUSE OR CANCEL",
-        "content1": "7.1 UpFinance reserves the right to:",
-        "right1": "Cancel or reverse any Swap Transaction in the event of technical malfunction, pricing error, or regulatory instruction;",
-        "right2": "Limit swap frequency, volume, or access based on compliance or risk triggers;",
-        "right3": "Delay settlement pending manual review where suspicious activity is detected.",
-        "content2": "7.2 In the event of suspected abuse or policy violation, your Account may be suspended and all pending transactions frozen without notice."
+        "title": "7. 拒否・取消権",
+        "content1": "7.1 UpFinance は以下の権利を留保します：",
+        "right1": "技術障害、価格誤り、規制指示時にスワップ取引を取消・反転すること；",
+        "right2": "コンプライアンスまたはリスクトリガーに基づき頻度・数量・アクセスを制限すること；",
+        "right3": "疑わしい活動検知時に手動審査完了まで清算を遅延させること。",
+        "content2": "7.2 不正利用またはポリシー違反の疑いがある場合、あなたのアカウントは通知なく停止され、未処理取引はすべて凍結されることがあります。"
       }
     },
     "partD": {
-      "title": "PART D: WALLETS AND VAULTS",
+      "title": "D部：ウォレットおよびボールト",
       "section1": {
-        "title": "1. SCOPE",
-        "content1": "1.1 This Part D governs the use of wallet services and digital asset vaults made available through UpFinance, including:",
-        "type1": "Non-custodial wallets generated or connected by the User;",
-        "type2": "Smart contract-based vaults offered or operated by UpFinance;",
-        "type3": "Hybrid storage systems integrating custodial and self-custodial features.",
-        "content2": "1.2 Wallet and Vault Services are subject to applicable compliance, technical, and security protocols, and may be disabled, suspended, or modified at any time without prior notice."
+        "title": "1. 適用範囲",
+        "content1": "1.1 本D部は、UpFinance を通じて提供されるウォレットサービスおよびデジタル資産ボールトの利用を定めるもので、以下を含みます：",
+        "type1": "ユーザーが生成または接続するノンカストディ型ウォレット；",
+        "type2": "UpFinance が提供または運用するスマートコントラクト型ボールト；",
+        "type3": "カストディ機能とセルフカストディ機能を統合したハイブリッド保管システム。",
+        "content2": "1.2 ウォレットおよびボールトサービスには、適用されるコンプライアンス、技術、およびセキュリティ要件が適用され、事前通知なく無効化、停止、または変更される場合があります。"
       },
       "section2": {
-        "title": "2. WALLET TYPES AND FUNCTIONALITY",
-        "content1": "2.1 UpFinance may support the following wallet types:",
-        "walletType1": "External Wallets: Non-custodial wallets connected by the User (e.g., MetaMask, WalletConnect);",
-        "walletType2": "Smart Vaults: On-chain programmable vaults with predefined rules for storage, access, or delegation;",
-        "walletType3": "Recovery Wallets: Multisig or social recovery-enabled wallets managed through UpFinance interfaces.",
-        "content2": "2.2 Vaults may include advanced features such as:",
-        "feature1": "Time-locked asset release;",
-        "feature2": "Delegation or inheritance rules;",
-        "feature3": "Automated task execution;",
-        "feature4": "Multi-party approvals.",
-        "content3": "2.3 The functionality, visibility, and accessibility of each wallet or vault may depend on blockchain network conditions, third-party integrations, or gas availability."
+        "title": "2. ウォレット種別と機能",
+        "content1": "2.1 UpFinance は以下のウォレット種別をサポートする場合があります：",
+        "walletType1": "外部ウォレット：ユーザー接続のノンカストディ型ウォレット（例：MetaMask、WalletConnect）；",
+        "walletType2": "スマートボールト：保管・アクセス・委任に関する事前ルールを持つオンチェーン可変ボールト；",
+        "walletType3": "リカバリーウォレット：UpFinance インターフェース経由で管理されるマルチシグまたはソーシャルリカバリー対応ウォレット。",
+        "content2": "2.2 ボールトには、以下のような高度機能が含まれる場合があります：",
+        "feature1": "タイムロック付き資産解放；",
+        "feature2": "委任または相続ルール；",
+        "feature3": "タスク自動実行；",
+        "feature4": "複数当事者承認。",
+        "content3": "2.3 各ウォレットまたはボールトの機能、表示性、およびアクセス可能性は、ブロックチェーンネットワークの状況、第三者連携、またはガス供給状況に依存する場合があります。"
       },
       "section3": {
-        "title": "3. USER CONTROL AND RESPONSIBILITY",
-        "content1": "3.1 For all non-custodial or smart contract wallets:",
-        "responsibility1": "You retain sole control over the private keys, seed phrases, or recovery credentials;",
-        "responsibility2": "UpFinance does not store, manage, or retrieve any User keys or access codes;",
-        "responsibility3": "Loss or compromise of your keys may result in irreversible loss of assets.",
-        "content2": "3.2 You are solely responsible for the use of dApps, signing of transactions, and exposure to smart contract risks when interacting with Vault Services.",
-        "content3": "3.3 By using Wallet or Vault Services, you acknowledge that:",
-        "acknowledgment1": "Smart contracts may contain errors or bugs;",
-        "acknowledgment2": "You have conducted your own due diligence;",
-        "acknowledgment3": "You assume all risk related to such technologies."
+        "title": "3. ユーザー管理と責任",
+        "content1": "3.1 すべてのノンカストディ型またはスマートコントラクト型ウォレットについて：",
+        "responsibility1": "秘密鍵、シードフレーズ、復旧認証情報の管理責任はユーザー単独にあること；",
+        "responsibility2": "UpFinance はユーザー鍵またはアクセスコードを保存・管理・復旧しないこと；",
+        "responsibility3": "鍵の紛失または漏えいにより資産が不可逆に失われる可能性があること。",
+        "content2": "3.2 ボールトサービス利用時における dApps の使用、取引署名、およびスマートコントラクトリスクへの曝露については、あなたが単独で責任を負います。",
+        "content3": "3.3 ウォレットまたはボールトサービスを利用することにより、あなたは以下を認めるものとします：",
+        "acknowledgment1": "スマートコントラクトには不具合やバグが含まれる可能性があること；",
+        "acknowledgment2": "あなた自身でデューデリジェンスを実施していること；",
+        "acknowledgment3": "当該技術に関連するすべてのリスクをあなたが負担すること。"
       },
       "section4": {
-        "title": "4. INTERACTIONS WITH CUSTODIAL SERVICES",
-        "content1": "4.1 You may transfer assets between your Custodian Account and Vaults or Wallets at any time, subject to applicable fees, gas costs, and platform policies.",
-        "content2": "4.2 Vaults may be subject to lock-up periods, cooldown timers, or programmable access conditions which may delay or restrict withdrawals.",
-        "content3": "4.3 Interoperability with external custody solutions (e.g., Ledger, MPC providers) is not guaranteed and may be limited by third-party software or hardware constraints."
+        "title": "4. カストディサービスとの連携",
+        "content1": "4.1 あなたは、適用手数料、ガスコスト、およびプラットフォームポリシーに従い、カストディアカウントとボールト／ウォレット間でいつでも資産移転を行うことができます。",
+        "content2": "4.2 ボールトには、ロックアップ期間、クールダウンタイマー、またはプログラム可能なアクセス条件が設定される場合があり、これにより出金が遅延または制限されることがあります。",
+        "content3": "4.3 外部カストディソリューション（例：Ledger、MPC 提供者）との相互運用性は保証されず、第三者ソフトウェアまたはハードウェアの制約により制限される場合があります。"
       },
       "section5": {
-        "title": "5. FEES AND LIMITATIONS",
-        "content1": "5.1 Usage of Wallet or Vault Services may incur:",
-        "fee1": "Blockchain gas fees;",
-        "fee2": "Smart contract interaction charges;",
-        "fee3": "Vault creation or maintenance fees (where applicable).",
-        "content2": "5.2 UpFinance reserves the right to implement usage-based pricing, transaction throttling, or minimum/maximum transfer amounts."
+        "title": "5. 手数料および制限",
+        "content1": "5.1 ウォレットまたはボールトサービスの利用には、以下の費用が発生する場合があります：",
+        "fee1": "ブロックチェーンのガス手数料；",
+        "fee2": "スマートコントラクト実行手数料；",
+        "fee3": "ボールト作成または維持手数料（該当する場合）。",
+        "content2": "5.2 UpFinance は、利用量ベース課金、取引スロットリング、または送金額の最小・最大制限を導入する権利を留保します。"
       },
       "section6": {
-        "title": "6. TERMINATION AND DATA RETENTION",
-        "content1": "6.1 Upon termination of your Account:",
-        "termination1": "Vaults may be deactivated, and any automated processes halted;",
-        "termination2": "You will retain access to your external wallets, but Vault interfaces may be disabled.",
-        "content2": "6.2 UpFinance shall not be responsible for preserving metadata, transaction history, or user-configured vault logic after Account termination.",
-        "content3": "6.3 You are advised to export or back up any relevant information before initiating Account closure."
+        "title": "6. 終了およびデータ保持",
+        "content1": "6.1 あなたのアカウント終了時：",
+        "termination1": "ボールトが無効化され、自動処理が停止される場合があること；",
+        "termination2": "外部ウォレットへのアクセスは保持される一方、ボールト画面は無効化され得ること。",
+        "content2": "6.2 UpFinance は、アカウント終了後のメタデータ、取引履歴、またはユーザー設定済みボールトロジックの保存責任を負いません。",
+        "content3": "6.3 アカウント閉鎖手続を開始する前に、関連情報をエクスポートまたはバックアップすることを推奨します。"
       }
     },
     "partE": {
-      "title": "PART E: VIRTUAL ACCOUNTS",
+      "title": "E部：バーチャルアカウント",
       "section1": {
-        "title": "1. SCOPE",
-        "content1": "1.1 This Part E sets forth the terms and conditions applicable to the provision and use of virtual account services offered through UpFinance (\"Virtual Accounts\").",
-        "content2": "1.2 Virtual Accounts refer to unique identifiers and associated payment rails (e.g., dedicated IBANs, SWIFT codes, FPS identifiers, or proxy-linked accounts) that enable Users to receive or send fiat currency deposits and withdrawals through partnered banking and payment institutions."
+        "title": "1. 適用範囲",
+        "content1": "1.1 本E部は、UpFinance を通じて提供されるバーチャルアカウントサービス（以下「バーチャルアカウント」）の提供および利用に適用される条件を定めます。",
+        "content2": "1.2 バーチャルアカウントとは、提携銀行・決済機関を通じてユーザーが法定通貨の入出金を受け取りまたは送金できるようにする、固有識別子および関連決済レール（例：専用 IBAN、SWIFT コード、FPS 識別子、またはプロキシ連携アカウント）を指します。"
       },
       "section2": {
-        "title": "2. ACCOUNT ISSUANCE AND ELIGIBILITY",
-        "content1": "2.1 Virtual Accounts are provided through licensed financial partners and are subject to their onboarding and compliance requirements. UpFinance does not independently issue or manage Virtual Accounts.",
-        "content2": "2.2 You must:",
-        "requirement1": "Maintain an active Custodian Account with UpFinance;",
-        "requirement2": "Successfully complete all required KYC/AML procedures;",
-        "requirement3": "Acknowledge and agree to any additional partner-specific terms and disclosures.",
-        "content3": "2.3 UpFinance reserves the right to reject, suspend, or revoke access to Virtual Accounts at any time for risk, compliance, or technical reasons."
+        "title": "2. アカウント発行および利用資格",
+        "content1": "2.1 バーチャルアカウントは認可金融パートナーを通じて提供され、当該パートナーのオンボーディングおよびコンプライアンス要件に従います。UpFinance はバーチャルアカウントを独自に発行または管理しません。",
+        "content2": "2.2 あなたは次を満たす必要があります：",
+        "requirement1": "UpFinance 上で有効なカストディアカウントを維持すること；",
+        "requirement2": "必要な KYC/AML 手続きをすべて完了すること；",
+        "requirement3": "提携先固有の追加条件および開示に同意すること。",
+        "content3": "2.3 UpFinance は、リスク、コンプライアンス、または技術上の理由により、いつでもバーチャルアカウントへのアクセスを拒否、停止、または取消す権利を留保します。"
       },
       "section3": {
-        "title": "3. DEPOSITS AND FUNDING",
-        "content1": "3.1 Fiat deposits may be made to your Virtual Account via bank transfer or other supported payment methods.",
-        "content2": "3.2 Funds received into your Virtual Account will be credited to your Custodian Account once cleared by the underlying financial institution. Delays may occur due to:",
-        "delay1": "Bank processing times;",
-        "delay2": "Incorrect reference details;",
-        "delay3": "Network or correspondent banking issues.",
-        "content3": "3.3 You are responsible for ensuring accurate transfer details. Misrouted or improperly referenced transfers may be delayed or forfeited."
+        "title": "3. 入金および資金反映",
+        "content1": "3.1 法定通貨の入金は、銀行振込またはその他対応する決済手段によりあなたのバーチャルアカウントへ行うことができます。",
+        "content2": "3.2 あなたのバーチャルアカウントで受領した資金は、基盤金融機関での決済完了後にカストディアカウントへ反映されます。以下の理由により遅延が生じる場合があります：",
+        "delay1": "銀行処理時間；",
+        "delay2": "参照情報の誤記；",
+        "delay3": "ネットワークまたはコルレス銀行の問題。",
+        "content3": "3.3 振込情報の正確性確保はあなたの責任です。誤送金または参照情報不備の送金は、遅延または失効となる場合があります。"
       },
       "section4": {
-        "title": "4. OUTBOUND PAYMENTS",
-        "content1": "4.1 You may initiate outbound payments from your Custodian Account to external bank accounts via the Virtual Account system, subject to applicable fees, cut-off times, and anti-fraud checks.",
-        "content2": "4.2 Transfers may be rejected or delayed due to:",
-        "reason1": "Compliance flags;",
-        "reason2": "Sanction screening;",
-        "reason3": "Insufficient documentation or transaction justification.",
-        "content3": "4.3 All outbound instructions are deemed final once submitted. You acknowledge that fiat payment networks are not reversible and UpFinance cannot guarantee recovery of misdirected funds."
+        "title": "4. 外部送金",
+        "content1": "4.1 あなたは、適用手数料、締切時刻、および不正防止審査を条件として、バーチャルアカウントシステム経由でカストディアカウントから外部銀行口座へ送金指示を行うことができます。",
+        "content2": "4.2 送金は次の理由で拒否または遅延される場合があります：",
+        "reason1": "コンプライアンス警告；",
+        "reason2": "制裁スクリーニング；",
+        "reason3": "書類不足または取引理由の不十分性。",
+        "content3": "4.3 すべての出金指示は、提出時点で最終的なものとみなされます。法定通貨決済ネットワークは原則として取消不能であり、誤送金資金の回収を UpFinance が保証できないことをあなたは認めます。"
       },
       "section5": {
-        "title": "5. FEES AND CONVERSIONS",
-        "content1": "5.1 Virtual Account usage may be subject to:",
-        "fee1": "Deposit and withdrawal fees;",
-        "fee2": "FX conversion margins (if applicable);",
-        "fee3": "Third-party banking and processing charges.",
-        "content2": "5.2 Fees are disclosed in the current Fee Schedule and may be amended from time to time. You agree to pay all applicable fees in full and authorize UpFinance to deduct such fees from your Custodian Account."
+        "title": "5. 手数料および換算",
+        "content1": "5.1 バーチャルアカウントの利用には以下が適用される場合があります：",
+        "fee1": "入出金手数料；",
+        "fee2": "為替換算マージン（該当時）；",
+        "fee3": "第三者銀行・処理手数料。",
+        "content2": "5.2 手数料は最新の料金表に開示され、随時改定される場合があります。あなたは適用手数料を全額支払うことに同意し、UpFinance が当該手数料をカストディアカウントから控除することを承認します。"
       },
       "section6": {
-        "title": "6. ACCOUNT LIMITATIONS AND MONITORING",
-        "content1": "6.1 Virtual Accounts are provided on a best-effort basis. Service may be disrupted due to partner outages, regulatory directives, or banking policy changes.",
-        "content2": "6.2 We reserve the right to:",
-        "right1": "Impose transaction limits or velocity controls;",
-        "right2": "Require justification for high-value or unusual transactions;",
-        "right3": "Freeze or reverse specific entries pending review.",
-        "content3": "6.3 You agree to provide full cooperation in any inquiry or investigation related to Virtual Account activity."
+        "title": "6. アカウント制限およびモニタリング",
+        "content1": "6.1 バーチャルアカウントはベストエフォートで提供されます。パートナー障害、規制指示、または銀行方針変更により、サービスが中断される場合があります。",
+        "content2": "6.2 当社は以下の権利を留保します：",
+        "right1": "取引上限または頻度制御を課すこと；",
+        "right2": "高額または異常取引について説明を求めること；",
+        "right3": "審査完了まで特定仕訳を凍結または反転すること。",
+        "content3": "6.3 あなたは、バーチャルアカウント活動に関するいかなる照会または調査にも全面的に協力することに同意します。"
       },
       "section7": {
-        "title": "7. TERMINATION",
-        "content1": "7.1 Your access to a Virtual Account may be terminated:",
-        "reason1": "Upon closure of your Custodian Account;",
-        "reason2": "If you fail to comply with onboarding or ongoing verification;",
-        "reason3": "At the instruction of the issuing financial institution.",
-        "content2": "7.2 Upon termination, any residual balances will be reconciled and returned in accordance with our standard offboarding and compliance protocols."
+        "title": "7. 終了",
+        "content1": "7.1 バーチャルアカウントへのアクセスは、次の場合に終了されることがあります：",
+        "reason1": "カストディアカウントが閉鎖された場合；",
+        "reason2": "オンボーディングまたは継続的検証要件に不適合となった場合；",
+        "reason3": "発行金融機関の指示がある場合。",
+        "content2": "7.2 終了時には、残高がある場合、当社の標準オフボーディングおよびコンプライアンス手順に従って照合・返還されます。"
       }
     },
     "partF": {
-      "title": "PART F: THIRD-PARTY SERVICES",
+      "title": "F部：第三者サービス",
       "section1": {
-        "title": "1. SCOPE",
-        "content1": "1.1 This Part F governs your access to and use of any third-party services, platforms, applications, or tools (\"Third-Party Services\") that are made available through or integrated with the UpFinance ecosystem.",
-        "content2": "1.2 By interacting with any Third-Party Services through UpFinance, you acknowledge that:",
-        "acknowledgment1": "Such services are operated by independent third-party providers;",
-        "acknowledgment2": "UpFinance does not control, endorse, or assume liability for these services;",
-        "acknowledgment3": "You are solely responsible for reviewing and agreeing to the third party's terms and policies."
+        "title": "1. 適用範囲",
+        "content1": "1.1 本F部は、UpFinance エコシステムを通じて提供される、または統合される第三者のサービス、プラットフォーム、アプリケーション、またはツール（以下「第三者サービス」）へのアクセスおよび利用を定めるものです。",
+        "content2": "1.2 UpFinance を通じて第三者サービスと連携することにより、あなたは以下を認めます：",
+        "acknowledgment1": "当該サービスは独立した第三者提供者により運営されること；",
+        "acknowledgment2": "UpFinance は当該サービスを管理・推奨せず、責任を負わないこと；",
+        "acknowledgment3": "第三者の規約およびポリシー確認と同意はあなたの責任であること。"
       },
       "section2": {
-        "title": "2. ACCESS AND INTEGRATION",
-        "content1": "2.1 Third-Party Services may be accessed via APIs, embedded interfaces, deep links, wallet connectors, or data-sharing protocols provided through UpFinance's platform.",
-        "content2": "2.2 These may include, without limitation:",
-        "service1": "Trading platforms or DEX aggregators;",
-        "service2": "Lending or staking applications;",
-        "service3": "Decentralized identity or KYC providers;",
-        "service4": "Tax reporting or accounting software;",
-        "service5": "Payment processors or fiat gateways.",
-        "content3": "2.3 UpFinance reserves the right to enable, restrict, or discontinue any Third-Party Service integration at its sole discretion."
+        "title": "2. アクセスおよび統合",
+        "content1": "2.1 第三者サービスには、UpFinance プラットフォームで提供される API、埋め込みインターフェース、ディープリンク、ウォレットコネクタ、またはデータ共有プロトコルを通じてアクセスできる場合があります。",
+        "content2": "2.2 これらには、以下を含みますが、これらに限定されません：",
+        "service1": "取引プラットフォームまたは DEX アグリゲーター；",
+        "service2": "貸付またはステーキングアプリケーション；",
+        "service3": "分散型IDまたは KYC 提供者；",
+        "service4": "税務申告または会計ソフトウェア；",
+        "service5": "決済処理業者または法定通貨ゲートウェイ。",
+        "content3": "2.3 UpFinance は、その単独裁量により、第三者サービス連携を有効化、制限、または終了する権利を留保します。"
       },
       "section3": {
-        "title": "3. RISK AND DUE DILIGENCE",
-        "content1": "3.1 You acknowledge that Third-Party Services may:",
-        "risk1": "Be subject to different laws, regulations, or compliance standards;",
-        "risk2": "Present operational, financial, technological, or reputational risks;",
-        "risk3": "Interact with your wallet or Custodian Account with elevated permissions.",
-        "content2": "3.2 You agree to perform your own due diligence before using any Third-Party Service and to assume full responsibility for any resulting loss or liability.",
-        "content3": "3.3 UpFinance makes no warranties or guarantees regarding:",
-        "warranty1": "The performance, reliability, or accuracy of third-party tools;",
-        "warranty2": "The safety or legality of smart contracts operated by third parties;",
-        "warranty3": "The data handling practices of such providers."
+        "title": "3. リスクおよびデューデリジェンス",
+        "content1": "3.1 あなたは、第三者サービスが以下に該当し得ることを認めます：",
+        "risk1": "異なる法令・規制・コンプライアンス基準の適用を受ける可能性；",
+        "risk2": "運用・財務・技術・レピュテーション上のリスク；",
+        "risk3": "あなたのウォレットまたはカストディアカウントに高権限で連携する可能性。",
+        "content2": "3.2 あなたは、第三者サービスを利用する前に自らデューデリジェンスを実施し、その結果生じるいかなる損失または責任についても全面的に負担することに同意します。",
+        "content3": "3.3 UpFinance は、以下についていかなる保証または確約も行いません：",
+        "warranty1": "第三者ツールの性能、信頼性、正確性；",
+        "warranty2": "第三者運用スマートコントラクトの安全性または合法性；",
+        "warranty3": "当該提供者のデータ取扱実務。"
       },
       "section4": {
-        "title": "4. DATA SHARING AND CONSENTS",
-        "content1": "4.1 You authorize UpFinance to share certain personal, transactional, or compliance data with third-party providers as required to enable or support the requested service.",
-        "content2": "4.2 Such data sharing will be governed by:",
-        "governance1": "The specific consent you provide at the time of activation;",
-        "governance2": "Our Privacy Policy;",
-        "governance3": "Applicable data protection regulations.",
-        "content3": "4.3 You may revoke access or unlink a Third-Party Service at any time via the settings or integrations dashboard."
+        "title": "4. データ共有および同意",
+        "content1": "4.1 あなたは、要求されたサービスの有効化または提供支援に必要な範囲で、UpFinance が一定の個人データ、取引データ、またはコンプライアンス関連データを第三者提供者と共有することを承認します。",
+        "content2": "4.2 当該データ共有は以下により規律されます：",
+        "governance1": "有効化時にあなたが与える個別同意；",
+        "governance2": "当社プライバシーポリシー；",
+        "governance3": "適用されるデータ保護規制。",
+        "content3": "4.3 あなたは、設定または連携ダッシュボードを通じて、いつでも第三者サービスへのアクセス権を撤回または連携解除できます。"
       },
       "section5": {
-        "title": "5. FEES AND COMMISSIONS",
-        "content1": "5.1 Use of Third-Party Services may incur additional fees, including but not limited to:",
-        "fee1": "API access or usage fees;",
-        "fee2": "Platform commissions or referral markups;",
-        "fee3": "Subscription or service charges by the provider.",
-        "content2": "5.2 Where applicable, UpFinance may earn referral income or share in fees collected by third parties, as disclosed from time to time.",
-        "content3": "5.3 You acknowledge that fee structures and billing mechanisms are governed by the third-party provider and are beyond UpFinance's control."
+        "title": "5. 手数料およびコミッション",
+        "content1": "5.1 第三者サービスの利用には、以下を含む追加費用が発生する場合があります（ただしこれらに限られません）：",
+        "fee1": "API アクセスまたは利用手数料；",
+        "fee2": "プラットフォームコミッションまたは紹介マークアップ；",
+        "fee3": "提供者によるサブスクリプション料またはサービス料。",
+        "content2": "5.2 該当する場合、UpFinance は随時の開示に従い、紹介収益を得る、または第三者が徴収する手数料の分配を受ける場合があります。",
+        "content3": "5.3 あなたは、手数料体系および請求メカニズムが第三者提供者により定められ、UpFinance の管理外であることを認識します。"
       },
       "section6": {
-        "title": "6. LIABILITY AND DISCLAIMERS",
-        "content1": "6.1 UpFinance shall not be liable for:",
-        "liability1": "Any direct or indirect loss arising from your use of Third-Party Services;",
-        "liability2": "Contractual breaches, fraud, or misconduct by the third-party provider;",
-        "liability3": "Unauthorized access, data breaches, or downtime associated with the service.",
-        "content2": "6.2 All Third-Party Services are provided on an \"AS IS\" and \"AS AVAILABLE\" basis without warranties of any kind, express or implied."
+        "title": "6. 責任および免責",
+        "content1": "6.1 UpFinance は、以下について責任を負いません：",
+        "liability1": "第三者サービス利用に起因する直接または間接損失；",
+        "liability2": "第三者提供者による契約違反、詐欺または不正行為；",
+        "liability3": "当該サービスに関連する不正アクセス、データ侵害、停止。",
+        "content2": "6.2 すべての第三者サービスは、明示または黙示を問わず、いかなる保証も伴わない「現状有姿」および「提供可能な範囲」で提供されます。"
       },
       "section7": {
-        "title": "7. TERMINATION",
-        "content1": "7.1 We may suspend or terminate access to a Third-Party Service if:",
-        "reason1": "Required by law or regulatory directive;",
-        "reason2": "The provider ceases operations or fails to meet our technical/integrity standards;",
-        "reason3": "You violate any term of this Part F.",
-        "content2": "7.2 Upon disconnection or termination:",
-        "consequence1": "All access rights to the affected Third-Party Service shall immediately cease;",
-        "consequence2": "You remain liable for any pending transactions, fees, or obligations."
+        "title": "7. 終了",
+        "content1": "7.1 当社は、次の場合に第三者サービスへのアクセスを停止または終了することがあります：",
+        "reason1": "法令または規制指示により必要な場合；",
+        "reason2": "提供者が事業停止した場合、または当社技術／信頼性基準を満たさない場合；",
+        "reason3": "あなたが本F部のいずれかに違反した場合。",
+        "content2": "7.2 連携解除または終了時：",
+        "consequence1": "対象第三者サービスへの一切のアクセス権は直ちに終了すること；",
+        "consequence2": "未処理取引、手数料、義務については引き続きあなたが責任を負うこと。"
       }
     },
     "endOfTerms": {
-      "title": "END OF SERVICE-SPECIFIC TERMS",
-      "content": "The remaining provisions of these Terms, including the Definitions Section and Dispute Resolution Clause, continue to apply."
+      "title": "サービス別条項の終了",
+      "content": "本規約の残余条項（定義条項および紛争解決条項を含む）は引き続き適用されます。"
     },
-    "copyright": "© 2025 UpGlobal Inc. All rights reserved. FinCEN MSB Reg. No. 31000308751680."
+    "copyright": "© 2025 UpGlobal Inc. 無断転載を禁じます。FinCEN MSB 登録番号: 31000308751680。"
   },
   "kyc_aml_content": {
-    "title": "UpFinance ANTI-MONEY LAUNDERING (AML) AND KNOW-YOUR-CUSTOMER (KYC) POLICY",
-    "lastUpdated": "Oct 8, 2025",
-    "intro1": "This Anti-Money Laundering (\"AML\") and Know-Your-Customer (\"KYC\") Policy (\"Policy\") is issued by UpGlobal Inc., a corporation incorporated under the laws of the State of Delaware with its registered office at 8 The Green, Ste A, Dover, DE 19901, USA, doing business as UpFinance (\"we,\" \"us,\" or \"our\").",
-    "intro2": "The purpose of this Policy is to establish comprehensive governance, controls, and procedures to prevent money laundering, terrorist financing, proliferation financing, sanctions evasion, and related illicit financial activity.",
-    "intro3": "This Policy applies to all users, counterparties, employees, and partners of UpFinance and forms an integral part of our Terms of Use.",
+    "title": "UpFinance 反マネー・ローンダリング（AML）および本人確認（KYC）ポリシー",
+    "lastUpdated": "2025年10月8日",
+    "intro1": "本反マネー・ローンダリング（\"AML\"）および本人確認（\"KYC\"）ポリシー（\"本ポリシー\"）は、米国デラウェア州法に基づき設立され、登記住所を 8 The Green, Ste A, Dover, DE 19901, USA に置く UpGlobal Inc.（商号 UpFinance、以下「当社」）が制定するものです。",
+    "intro2": "本ポリシーの目的は、マネー・ローンダリング、テロ資金供与、拡散金融、制裁回避、その他関連する不正金融活動を防止するための包括的なガバナンス、統制および手続を確立することにあります。",
+    "intro3": "本ポリシーは UpFinance のすべてのユーザー、取引相手、従業員およびパートナーに適用され、利用規約の不可分な一部を構成します。",
     "section1": {
-      "title": "1. Legal and Regulatory Framework",
-      "content1": "UpFinance complies with all applicable U.S. laws and regulations, including the Bank Secrecy Act (BSA), USA PATRIOT Act, and related FinCEN rules (31 CFR §§ 1010-1023), as well as the Financial Action Task Force (FATF) Recommendations.",
-      "content2": "UpGlobal Inc. is registered with the U.S. Financial Crimes Enforcement Network (FinCEN) as a Money Services Business (MSB Reg. No. 31000308751680).",
-      "content3": "Where applicable, we coordinate with licensed custodial partners, including Merits Bank & Trust Limited (Hong Kong — TCSP Licence No. TC008817), which operate under their respective regulatory regimes."
+      "title": "1. 法令および規制の枠組み",
+      "content1": "UpFinance は、銀行秘密法（BSA）、USA PATRIOT Act、関連する FinCEN 規則（31 CFR §§ 1010-1023）ならびに FATF（金融活動作業部会）勧告を含む、適用される米国の法令・規制を遵守します。",
+      "content2": "UpGlobal Inc. は、米国金融犯罪取締ネットワーク（FinCEN）に Money Services Business として登録されています（MSB Reg. No. 31000308751680）。",
+      "content3": "必要に応じて、当社は Merits Bank & Trust Limited（香港 — TCSP Licence No. TC008817）を含むライセンス保有カストディパートナーと連携し、それぞれの規制制度の下で運用します。"
     },
     "section2": {
-      "title": "2. Risk-Based Approach (RBA)",
-      "content1": "We employ a risk-based approach consistent with FATF guidance and FinCEN expectations. Customers are risk-classified based on geographic origin, business nature, transaction patterns, source of funds, and PEP/sanctions status. ",
-      "content2": "Enhanced Due Diligence (EDD) is applied to high-risk profiles, including those from higher-risk jurisdictions or with complex structures or unusual behavior."
+      "title": "2. リスクベース・アプローチ（RBA）",
+      "content1": "当社は FATF ガイダンスおよび FinCEN の期待に整合するリスクベース・アプローチを採用します。顧客は、地理的属性、事業特性、取引パターン、資金源、PEP／制裁ステータスに基づいてリスク分類されます。",
+      "content2": "高リスク法域に関連する場合、複雑な構造を有する場合、または異常な行動が認められる場合など、高リスクプロファイルには強化デューデリジェンス（EDD）を適用します。"
     },
     "section3": {
-      "title": "3. Customer Due Diligence (CDD)",
-      "intro": "CDD is mandatory before establishing any relationship or enabling transactions. It includes:",
-      "requirement1": "Verification of identity via government ID and, where permitted, biometric checks;",
-      "requirement2": "Collection of residential address, nationality, date of birth, and contact details;",
-      "requirement3": "Verification of source of funds and source of wealth;",
-      "requirement4": "Sanctions screening against OFAC, UN, EU, and other lists;",
-      "requirement5": "Determination of Ultimate Beneficial Ownership (UBO) for entities.",
-      "content": "No services are provided to individuals or entities failing to meet CDD standards. All data is handled in accordance with our Privacy Policy and applicable data-protection laws."
+      "title": "3. 顧客デューデリジェンス（CDD）",
+      "intro": "CDD は、取引関係の開始または取引実行を可能にする前に必須であり、以下を含みます：",
+      "requirement1": "公的身分証明書による本人確認（法令で許容される場合は生体認証を含む）；",
+      "requirement2": "居住地住所、国籍、生年月日、連絡先情報の取得；",
+      "requirement3": "資金源および資産形成源泉の確認；",
+      "requirement4": "OFAC、国連、EU その他のリストに対する制裁スクリーニング；",
+      "requirement5": "法人に対する実質的支配者（UBO）の特定。",
+      "content": "CDD 基準を満たさない個人または法人にはサービスを提供しません。すべてのデータは当社のプライバシーポリシーおよび適用されるデータ保護法令に従って取り扱います。"
     },
     "section4": {
-      "title": "4. Ongoing Monitoring",
-      "intro": "UpFinance uses automated and manual controls to monitor transactions and behavior continuously, including:",
-      "item1": "Screening against updated sanctions and PEP lists;",
-      "item2": "Review of activity against typologies of fraud and money laundering;",
-      "item3": "Triggering alerts on threshold breaches or anomalies;",
-      "item4": "Periodic re-verification of customer information.",
-      "content": "Suspicious activity is documented, escalated internally, and may be reported to FinCEN or other competent authorities as required by law."
+      "title": "4. 継続的モニタリング",
+      "intro": "UpFinance は、自動化および手動の統制により、取引および行動を継続的に監視します。これには以下が含まれます：",
+      "item1": "更新された制裁リストおよび PEP リストに対するスクリーニング；",
+      "item2": "詐欺・マネー・ローンダリング類型に照らした活動レビュー；",
+      "item3": "閾値超過または異常値検知時のアラート発報；",
+      "item4": "顧客情報の定期的な再確認。",
+      "content": "疑わしい活動は記録され、社内でエスカレーションされ、法令上必要な場合には FinCEN またはその他の所管当局へ報告されることがあります。"
     },
     "section5": {
-      "title": "5. Recordkeeping and Reporting",
-      "content": "All records related to CDD, transactions, communications, and internal reviews are retained for a minimum of seven (7) years after account closure or final activity, consistent with 31 CFR § 1010.430. UpFinance files Suspicious Activity Reports (SARs) or Currency Transaction Reports (CTRs) when required and cooperates fully with law-enforcement and regulatory requests."
+      "title": "5. 記録保存および報告",
+      "content": "CDD、取引、連絡、内部審査に関するすべての記録は、31 CFR § 1010.430 に従い、口座解約または最終活動後少なくとも 7 年間保存されます。UpFinance は必要に応じて Suspicious Activity Report（SAR）または Currency Transaction Report（CTR）を提出し、法執行機関および規制当局からの要請に全面的に協力します。"
     },
     "section6": {
-      "title": "6. Training and Governance",
-      "content1": "All personnel receive annual AML/KYC training covering red flags, typologies, and reporting obligations.",
-      "content2": "A designated Compliance Officer oversees program implementation, monitors effectiveness, and reports directly to the Board of Directors.",
-      "content3": "This Policy is reviewed at least annually and updated to reflect new regulations and emerging risks."
+      "title": "6. 研修およびガバナンス",
+      "content1": "全職員は、レッドフラッグ、類型、報告義務を含む年次 AML/KYC 研修を受講します。",
+      "content2": "指定コンプライアンス責任者がプログラム実施を監督し、有効性をモニタリングし、取締役会へ直接報告します。",
+      "content3": "本ポリシーは少なくとも年 1 回見直し、新たな規制や新興リスクを反映して更新されます。"
     },
     "section7": {
-      "title": "7. Prohibited Clients and Activities",
-      "intro": "UpFinance does not onboard clients who:",
-      "prohibition1": "Reside in or are nationals of jurisdictions under comprehensive U.S. OFAC or UN sanctions;",
-      "prohibition2": "Appear on OFAC SDN, EU Consolidated, or UN lists;",
-      "prohibition3": "Refuse to provide required information or submit false documents; or",
-      "prohibition4": "Are suspected of laundering, fraud, terrorist financing, or sanctions evasion.",
-      "intro2": "We also prohibit use of the Services for:",
-      "prohibition5": "Mixing or tumbling transactions without legitimate purpose;",
-      "prohibition6": "Facilitating ransomware payments; or",
-      "prohibition7": "Anonymous or synthetic-identity usage."
+      "title": "7. 禁止対象顧客および禁止行為",
+    "intro": "UpFinance は、次に該当する顧客のオンボーディングを行いません：",
+      "prohibition1": "米国 OFAC または国連による包括的制裁の対象法域に居住する、または国籍を有する者；",
+      "prohibition2": "OFAC SDN、EU 統合リスト、または国連リストに掲載されている者；",
+      "prohibition3": "必要情報の提出を拒否する、または虚偽書類を提出する者；または",
+      "prohibition4": "マネー・ローンダリング、詐欺、テロ資金供与、制裁回避が疑われる者。",
+      "intro2": "当社は、以下を目的とする本サービス利用も禁止します：",
+      "prohibition5": "正当な目的のないミキシング／タンブリング取引；",
+      "prohibition6": "ランサムウェア支払いの仲介；または",
+      "prohibition7": "匿名または合成IDによる利用。"
     },
     "section8": {
-      "title": "8. Cooperation and Audit",
-      "content1": "UpFinance cooperates with regulators, auditors, and licensed partners (including Merits Bank & Trust) to ensure audit readiness and transparency.",
-      "content2": " Authorized auditors and regulators may inspect our AML controls under confidentiality obligations."
+      "title": "8. 協力および監査",
+      "content1": "UpFinance は、監査対応体制と透明性確保のため、規制当局、監査人、ライセンス保有パートナー（Merits Bank & Trust を含む）と協力します。",
+      "content2": "守秘義務の範囲内で、権限を有する監査人および規制当局は当社の AML 統制を検査できる場合があります。"
     },
     "footer": {
-      "copyright": "© 2025 UpGlobal Inc. All rights reserved.",
-      "registration": "Registered with FinCEN as a Money Services Business (MSB Reg. No. 31000308751680)."
+      "copyright": "© 2025 UpGlobal Inc. 無断転載を禁じます。",
+      "registration": "FinCEN に Money Services Business として登録済み（MSB Reg. No. 31000308751680）。"
     }
   },
   "privacy_content": {
-    "title": "UpFinance PRIVACY POLICY",
-    "intro": "This Privacy Policy explains how UpGlobal Inc., a corporation incorporated under the laws of the State of Delaware, U.S.A., with its registered office at 8 The Green, Ste A, Dover, DE 19901 (doing business as UpFinance, \"we,\" \"us,\" or \"our\"), collects, uses, stores, transfers, and safeguards personal data in connection with our services.\n It applies to individuals who access or use any part of the UpFinance ecosystem, including our websites, mobile applications, APIs, custodial and non-custodial wallets, card services, and virtual accounts (collectively, the \"Services\").",
+    "title": "UpFinance プライバシーポリシー",
+    "intro": "本プライバシーポリシーは、米国デラウェア州法に基づき設立され、登記住所を 8 The Green, Ste A, Dover, DE 19901 に置く UpGlobal Inc.（商号 UpFinance、以下「当社」）が、当社サービスに関連して個人データをどのように収集、利用、保管、移転および保護するかを説明するものです。\n本ポリシーは、当社ウェブサイト、モバイルアプリ、API、カストディ型およびノンカストディ型ウォレット、カードサービス、仮想口座を含む UpFinance エコシステムのいずれかにアクセスまたは利用する個人（以下、総称して「本サービス」）に適用されます。",
     "section1": {
-      "title": "1. Data Controller",
-      "content": "UpGlobal Inc. acts as the data controller for processing activities described in this Policy. \n For custodial and settlement functions provided by Merits Bank & Trust Limited (Hong Kong — TCSP Licence No. TC008817), that institution acts as an independent or joint data controller for its respective regulated obligations. \n All privacy inquiries may be directed to our Data Protection Officer at legal@upfinance.ai."
+      "title": "1. データ管理者",
+      "content": "本ポリシーに記載する処理活動において、UpGlobal Inc. はデータ管理者として行動します。\nMerits Bank & Trust Limited（香港 — TCSP Licence No. TC008817）が提供するカストディおよび決済機能については、当該機関がその規制上の義務範囲において独立または共同のデータ管理者として行動します。\nプライバシーに関するお問い合わせは、当社データ保護責任者（legal@upfinance.ai）までご連絡ください。"
     },
     "section2": {
-      "title": "2. Categories of Personal Data Collected",
-      "intro": "We collect and process the following categories of personal data:",
-      "identityInfo": "Identity Information: name, date of birth, nationality, identification documents (e.g., passport or ID), and biometric identifiers (where permitted by law);",
-      "contactInfo": "Contact Information: address, email, telephone number;",
-      "financialData": "Financial and Transactional Data: wallet addresses, payment-card details (masked or tokenized), bank account numbers, and records of fiat and digital-asset transactions;",
-      "deviceData": "Device and Technical Data: IP address, browser type, device IDs, session logs, and metadata about usage;",
-      "behavioralData": "Behavioral and Analytics Data: user interactions, clickstream activity, support transcripts, and session recordings;",
-      "marketingData": "Marketing and Communication Data: subscription status and preferences;",
-      "complianceData": "Compliance Data: employment background, source of funds, sanctions and PEP screening results.",
-      "ageNotice": "We do not knowingly collect personal data from anyone under 18. If such data is discovered, it will be deleted promptly."
+      "title": "2. 取得する個人データの種類",
+      "intro": "当社は、以下の種類の個人データを取得および処理します：",
+      "identityInfo": "本人情報：氏名、生年月日、国籍、本人確認書類（例：パスポート、ID）および生体識別情報（法令で許容される場合）；",
+      "contactInfo": "連絡先情報：住所、メールアドレス、電話番号；",
+      "financialData": "金融・取引データ：ウォレットアドレス、支払カード情報（マスク化またはトークン化）、銀行口座情報、法定通貨およびデジタル資産取引記録；",
+      "deviceData": "デバイス・技術データ：IPアドレス、ブラウザ種別、デバイスID、セッションログ、利用に関するメタデータ；",
+      "behavioralData": "行動・分析データ：ユーザー操作、クリックストリーム、サポート対応記録、セッション記録；",
+      "marketingData": "マーケティング・通信データ：購読状況および各種設定；",
+      "complianceData": "コンプライアンスデータ：職業情報、資金源、制裁および PEP スクリーニング結果。",
+      "ageNotice": "当社は 18 歳未満の個人データを意図的に収集しません。当該データが判明した場合は速やかに削除します。"
     },
     "section3": {
-      "title": "3. Purposes for Processing",
-      "intro": "We process personal data only where lawful and necessary, including:",
-      "purpose1": "Verifying identity and performing AML/CFT screening as required by law;",
-      "purpose2": "Registering and providing access to the Services (wallets, cards, swaps, accounts);",
-      "purpose3": "Detecting and investigating fraudulent or suspicious activity;",
-      "purpose4": "Maintaining and optimizing system performance;",
-      "purpose5": "Sending administrative and transactional communications;",
-      "purpose6": "Meeting statutory record-keeping and reporting obligations;",
-      "purpose7": "Conducting automated risk assessments and eligibility checks."
+      "title": "3. 処理目的",
+      "intro": "当社は、適法かつ必要な場合に限り個人データを処理します。主な目的は以下のとおりです：",
+      "purpose1": "法令で求められる本人確認および AML/CFT スクリーニングの実施；",
+      "purpose2": "本サービス（ウォレット、カード、スワップ、口座等）の登録・提供；",
+      "purpose3": "不正または疑わしい活動の検知および調査；",
+      "purpose4": "システム性能の維持・最適化；",
+      "purpose5": "運営上・取引上の連絡の送信；",
+      "purpose6": "法定の記録保存・報告義務の履行；",
+      "purpose7": "自動化されたリスク評価および適格性審査の実施。"
     },
     "section4": {
-      "title": "4. Legal Basis for Processing",
-      "intro": "Processing is carried out on the following grounds:",
-      "basis1": "Your explicit consent (for example, marketing or biometric processing);",
-      "basis2": "Performance of a contract (the Terms of Use and related services);",
-      "basis3": "Compliance with legal obligations (e.g., AML laws and FinCEN rules);",
-      "basis4": "Protection of vital interests;",
-      "basis5": "Our legitimate business interests, balanced against your rights."
+      "title": "4. 処理の法的根拠",
+      "intro": "処理は、以下の根拠に基づいて行われます：",
+      "basis1": "お客様の明示的同意（例：マーケティングまたは生体情報処理）；",
+      "basis2": "契約履行（利用規約および関連サービス）；",
+      "basis3": "法的義務の遵守（例：AML 法令および FinCEN 規則）；",
+      "basis4": "重大な利益の保護；",
+      "basis5": "お客様の権利と均衡を図ったうえでの当社の正当な事業上の利益。"
     },
     "section5": {
-      "title": "5. Data Retention",
-      "intro": "We retain personal data only as long as necessary for its purpose or to meet legal requirements. Typical periods include:",
-      "retention1": "KYC/AML data: minimum 7 years after account closure;",
-      "retention2": "Technical logs: 30–180 days;",
-      "retention3": "Marketing opt-out records: indefinitely (to honor preferences);",
-      "retention4": "Support records: up to 3 years after resolution, unless longer needed for legal reasons."
+      "title": "5. データ保持期間",
+      "intro": "当社は、目的達成または法的要件充足に必要な期間に限って個人データを保持します。一般的な期間は以下のとおりです：",
+      "retention1": "KYC/AML データ：口座解約後、最低 7 年；",
+      "retention2": "技術ログ：30〜180 日；",
+      "retention3": "マーケティング配信停止記録：無期限（設定反映のため）；",
+      "retention4": "サポート記録：解決後最大 3 年（法的理由でさらに必要な場合を除く）。"
     },
     "section6": {
-      "title": "6. Disclosure of Personal Data to Third Parties",
-      "intro": "We share personal data only on a need-to-know basis with:",
-      "recipient1": "Licensed custodial partners (e.g., Merits Bank & Trust Limited) for safeguarding and settlement;",
-      "recipient2": "Service providers for KYC/AML screening, cloud hosting, analytics, and communications;",
-      "recipient3": "Regulatory and law-enforcement authorities when required by law or court order;",
-      "recipient4": "Professional advisors (audit, tax, legal) under confidentiality duties.",
-      "disclosureNote": "All transfers are governed by contractual data-protection clauses and confidentiality obligations."
+      "title": "6. 第三者への個人データ提供",
+      "intro": "当社は、知る必要性の原則に基づき、以下の相手先に限って個人データを共有します：",
+      "recipient1": "保全および決済のためのライセンス保有カストディパートナー（例：Merits Bank & Trust Limited）；",
+      "recipient2": "KYC/AML スクリーニング、クラウドホスティング、分析、通信を担うサービス提供者；",
+      "recipient3": "法令または裁判所命令により必要となる規制当局および法執行機関；",
+      "recipient4": "守秘義務を負う専門アドバイザー（監査、税務、法務）。",
+      "disclosureNote": "すべての移転は、契約上のデータ保護条項および守秘義務により規律されます。"
     },
     "section7": {
-      "title": "7. International Transfers of Data",
-      "intro": "Your personal data may be transferred to and processed in countries that may not offer the same level of protection. We apply appropriate safeguards, including:",
-      "safeguard1": "Standard Contractual Clauses or other approved transfer mechanisms;",
-      "safeguard2": "Transfers to jurisdictions recognized as adequate;",
-      "safeguard3": "Your explicit consent where required.",
-      "complianceNote": "All cross-border transfers comply with applicable data-protection law."
+      "title": "7. 国際的なデータ移転",
+      "intro": "お客様の個人データは、同等の保護水準を提供しない可能性のある国へ移転・処理される場合があります。当社は以下を含む適切な保護措置を講じます：",
+      "safeguard1": "標準契約条項（SCC）またはその他承認済みの移転メカニズム；",
+      "safeguard2": "十分性認定を受けた法域への移転；",
+      "safeguard3": "必要に応じたお客様の明示的同意。",
+      "complianceNote": "すべての越境移転は適用されるデータ保護法令に準拠して実施されます。"
     },
     "section8": {
-      "title": "8. Rights of Data Subjects",
-      "intro": "You may have the right to:",
-      "right1": "Access and obtain a copy of your personal data;",
-      "right2": "Request correction or deletion;",
-      "right3": "Restrict or object to processing;",
-      "right4": "Request data portability (where technically feasible);",
-      "right5": "Withdraw consent at any time without affecting prior processing.",
-      "contactInfo": "To exercise these rights, contact legal@upfinance.ai. We may require identity verification before acting on requests."
+      "title": "8. データ主体の権利",
+      "intro": "お客様は、以下の権利を有する場合があります：",
+      "right1": "自身の個人データへのアクセスおよび写しの取得；",
+      "right2": "訂正または削除の請求；",
+      "right3": "処理の制限または異議申立て；",
+      "right4": "データポータビリティの請求（技術的に可能な範囲）；",
+      "right5": "既往の処理に影響を及ぼすことなく、いつでも同意を撤回する権利。",
+      "contactInfo": "これらの権利行使は legal@upfinance.ai までご連絡ください。対応前に本人確認をお願いする場合があります。"
     },
     "section9": {
-      "title": "9. Cookies and Tracking Technologies",
-      "content": "We use cookies and similar technologies to enable site functionality, analyze usage, and prevent fraud. You can manage non-essential cookies through browser settings. Disabling certain cookies may limit service features."
+      "title": "9. Cookie および追跡技術",
+      "content": "当社は、サイト機能の提供、利用状況分析、不正防止のために Cookie および類似技術を使用します。必須でない Cookie はブラウザ設定で管理できます。特定の Cookie を無効化すると、一部機能が制限される場合があります。"
     },
     "section10": {
-      "title": "10. Security of Personal Data",
-      "intro": "We employ industry-standard technical and organizational measures, including:",
-      "measure1": "Encryption in transit and at rest;",
-      "measure2": "Role-based access controls and multi-factor authentication;",
-      "measure3": "Regular security audits and penetration tests; and",
-      "measure4": "Documented incident-response procedures.",
-      "securityNote": "No system is completely secure. Users should safeguard their credentials and notify us promptly of suspected breaches."
+      "title": "10. 個人データの安全管理",
+      "intro": "当社は、業界標準の技術的・組織的措置を講じています。例：",
+      "measure1": "通信時および保存時の暗号化；",
+      "measure2": "ロールベースのアクセス制御および多要素認証；",
+      "measure3": "定期的なセキュリティ監査および侵入テスト；",
+      "measure4": "文書化されたインシデント対応手順。",
+      "securityNote": "完全に安全なシステムは存在しません。ユーザーは認証情報を適切に管理し、侵害の疑いがある場合は速やかに当社へ通知してください。"
     },
     "section11": {
-      "title": "11. Breach Notification",
-      "content": "If a data breach is likely to pose a high risk to individual rights or freedoms, we will notify affected users and relevant authorities without undue delay as required by law."
+      "title": "11. 漏えい通知",
+      "content": "データ侵害が個人の権利または自由に高いリスクをもたらす可能性がある場合、当社は法令に従い、不当な遅滞なく影響を受けるユーザーおよび関係当局へ通知します。"
     },
     "section12": {
-      "title": "12. Updates to This Policy",
-      "content": "We may update this Privacy Policy to reflect changes in law or operations. Material changes will be communicated via official channels and take effect upon publication. Continued use of the Services constitutes acceptance of the revised Policy."
+      "title": "12. 本ポリシーの更新",
+      "content": "当社は、法令または運用の変更を反映するため、本プライバシーポリシーを更新する場合があります。重要な変更は公式チャネルを通じて通知され、掲載時に効力を生じます。更新後に本サービスを継続利用した場合、改定ポリシーに同意したものとみなされます。"
     },
     "section13": {
-      "title": "13. Regulatory Reference and Contact",
-      "content1": "UpFinance operates under the brand of UpGlobal Inc., registered with the U.S. Financial Crimes Enforcement Network (FinCEN) as a Money Services Business (MSB Reg. No. 31000308751680).",
-      "content2": "For questions about this Policy or your data rights, please email legal@upfinance.ai."
+      "title": "13. 規制情報および連絡先",
+      "content1": "UpFinance は UpGlobal Inc. のブランドとして運営されており、同社は米国金融犯罪取締ネットワーク（FinCEN）に Money Services Business として登録されています（MSB Reg. No. 31000308751680）。",
+      "content2": "本ポリシーまたはお客様のデータに関する権利についてのご質問は、legal@upfinance.ai までご連絡ください。"
     }
   }
 }

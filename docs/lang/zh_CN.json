@@ -259,691 +259,691 @@
     "submit_success": "提交成功，我们会尽快联系你。"
   },
   "terms_content": {
-    "title": "UpFinance SERVICES TERMS & CONDITIONS",
-    "legalNotice": "THIS IS A LEGALLY BINDING DOCUMENT. PLEASE READ IT CAREFULLY.",
-    "intro1": "These Terms and Conditions (\"Terms\") constitute a legally binding agreement between you (the \"User\" or \"you\") and UpGlobal Inc., a corporation incorporated in Delaware, having its registered office at 8 The Green Ste A Dover, DE 19901, in the City of Dover, County of Kent, Zip Code 19901. \"UpFinance\" is a registered trademark and the primary commercial brand operated by UpGlobal Inc. for the delivery of its digital financial services. References in these Terms to \"UpFinance\", \"we\", \"us\", or \"our\" shall be construed as references to UpGlobal Inc. in its capacity as the legal entity behind the UpFinance platform.",
-    "intro2": "These Terms govern your access to and use of our Services (as defined herein), including but not limited to any website, mobile application, and associated financial products and tools operated under the UpFinance brand.",
-    "intro3": "By accessing, registering for, or using any part of the Services, you acknowledge that you have read, understood, and agreed to be bound by these Terms, together with any policies, disclosures, schedules, and notices incorporated by reference. If you do not agree with these Terms, you must not use or access any of the Services.",
+    "title": "UpFinance 服务条款与条件",
+    "legalNotice": "本文件具有法律约束力，请您仔细阅读。",
+    "intro1": "本《服务条款与条件》（以下简称“本条款”）由您（“用户”或“您”）与 UpGlobal Inc. 订立，构成具有法律约束力的协议。UpGlobal Inc. 为在特拉华州注册成立的公司，注册地址为 8 The Green Ste A Dover, DE 19901, Dover 市，Kent 县，邮编 19901。“UpFinance”系 UpGlobal Inc. 注册商标，并作为其提供数字金融服务的主要商业品牌。本条款中提及的“UpFinance”“我们”“我方”等，均指作为 UpFinance 平台法律主体的 UpGlobal Inc.。",
+    "intro2": "本条款适用于您访问和使用我们的服务（定义见本条款），包括但不限于 UpFinance 品牌下运营的网站、移动应用以及相关金融产品与工具。",
+    "intro3": "当您访问、注册或使用任何服务时，即表示您已阅读、理解并同意受本条款及通过引用并入的政策、披露、费率表与通知约束。若您不同意本条款，请勿访问或使用任何服务。",
     "part1": {
-      "title": "PART I: GENERAL TERMS AND CONDITIONS"
+      "title": "第一部分：通用条款与条件"
     },
     "section1": {
-      "title": "1. DEFINITIONS",
-      "content": "Unless the context otherwise requires, capitalized terms used in these Terms shall have the meanings assigned to them in the Definitions Section at the end of this document."
+      "title": "1. 定义",
+      "content": "除非上下文另有要求，本条款中首字母大写的术语具有本文件末尾“定义”章节所赋予的含义。"
     },
     "section2": {
-      "title": "2. SCOPE AND APPLICATION",
-      "content1": "2.1 These Terms apply to your Account and your use of the Services, including but not limited to: (a) the Custodian Account; (b) UpFinance Card Services; (c) Swap Transactions; (d) Wallet Services; (e) Virtual Accounts; and (f) access to or use of any Third-Party Services provided in conjunction with UpFinance.",
-      "content2": "2.2 These Terms are supplemented by any specific terms and conditions applicable to each Service module, as set out in Parts A–F. To the extent of any conflict between the General Terms and the terms of a Service-specific Part, the Service-specific terms shall prevail.",
-      "content3": "2.3 These Terms are governed by the laws of Delaware. Any disputes shall be subject to the exclusive jurisdiction of the courts or arbitral bodies of Delaware, unless otherwise provided in the Dispute Resolution Clause."
+      "title": "2. 适用范围",
+      "content1": "2.1 本条款适用于您的账户及您对服务的使用，包括但不限于：(a) 托管账户；(b) UpFinance 卡服务；(c) 兑换交易；(d) 钱包服务；(e) 虚拟账户；以及 (f) 与 UpFinance 相关提供的任何第三方服务之访问或使用。",
+      "content2": "2.2 本条款应结合 A–F 各部分所列之服务专项条款共同适用。若通用条款与某一专项条款存在冲突，以该专项条款为准。",
+      "content3": "2.3 本条款受美国特拉华州法律管辖。除争议解决条款另有规定外，任何争议均由特拉华州法院或仲裁机构专属管辖。"
     },
     "section3": {
-      "title": "3. LICENSING AND REGULATORY FRAMEWORK",
-      "content1": "3.1 U.S. FinCEN Registration. UpGlobal Inc is registered with the U.S. Financial Crimes Enforcement Network (FinCEN) as a Money Services Business under Registration No. 31000308751680 (Date on MSB transcript: Aug 28, 2025; Received date: Aug 25, 2025), with the registered business address 8 The Green, Ste A, Dover, DE 19901. FinCEN registration is a federal registration under the Bank Secrecy Act and does not constitute an approval or endorsement by FinCEN.",
-      "content2": "3.2 State Licensing: Certain money transmission or payment services may require state money transmitter licenses (MTLs). Availability of specific services can vary by state or territory and may be restricted, delayed, or provided via licensed partners until applicable licenses are obtained. Nothing in these Terms shall be construed as representing that UpGlobal Inc holds all state MTLs.",
-      "content3": "3.3 Intermediary & Partner Licensing: UpFinance may deliver regulated components of the Services through licensed third-party institutions. Custodial and settlement services may be facilitated through Merits Bank & Trust Limited, a Hong Kong licensed trust or company service provider (TCSP Licence No. TC008817). UpGlobal Inc does not itself conduct trust, custodial, or banking business.",
-      "content4": "3.4 Disclosure Obligation: The User acknowledges that UpFinance does not independently hold a financial license in the initial stage of operations. All Services are offered through Merits' regulated license under full disclosure.",
-      "content5": "3.5 Future Licensing: UpFinance reserves the right to acquire additional regulatory approvals or licenses in other jurisdictions and to migrate certain services to be conducted under its own license in due course."
+      "title": "3. 许可与监管框架",
+      "content1": "3.1 美国 FinCEN 注册。UpGlobal Inc 已在美国金融犯罪执法网络（FinCEN）登记为货币服务企业，注册号 31000308751680（MSB 报备日期：2025 年 8 月 28 日；接收日期：2025 年 8 月 25 日），注册地址为 8 The Green, Ste A, Dover, DE 19901。FinCEN 注册属于《银行保密法》框架下的联邦登记，不构成 FinCEN 对本公司的批准或背书。",
+      "content2": "3.2 州级许可：部分汇款或支付服务可能需要州级汇款牌照（MTL）。具体服务可用性可能因州或地区而异，并可能在相关许可取得前受到限制、延后或通过持牌合作方提供。本条款任何内容均不应解释为 UpGlobal Inc 已持有全部州级 MTL。",
+      "content3": "3.3 中介与合作方许可：UpFinance 可能通过持牌第三方机构提供受监管的服务组成部分。托管与清算服务可由香港持牌信托或公司服务提供者 Merits Bank & Trust Limited（TCSP 牌照号：TC008817）协助提供。UpGlobal Inc 本身不从事信托、托管或银行业务。",
+      "content4": "3.4 披露义务：用户确认，UpFinance 在业务初始阶段并未独立持有金融牌照。所有服务均在充分披露前提下通过 Merits 的受监管牌照提供。",
+      "content5": "3.5 未来许可：UpFinance 保留在其他司法辖区取得额外监管批准或牌照，并在适当时将部分服务迁移至其自有牌照项下运营的权利。"
     },
     "section4": {
-      "title": "4. ACCOUNT OPENING AND ELIGIBILITY",
-      "intro": "4.1 To access and use the Services, you must:",
-      "requirement1": "Be at least eighteen (18) years of age;",
-      "requirement2": "Not be a citizen or resident of a jurisdiction where the use of the Services is prohibited by applicable laws or regulations;",
-      "requirement3": "Provide all required documentation and complete KYC/AML checks to the satisfaction of UpFinance or its designated compliance providers;",
-      "requirement4": "Have full legal capacity to enter into binding contracts.",
-      "content2": "4.2 We reserve the right to approve or reject any application at our sole discretion. We may suspend or terminate access to the Services in case of suspected breach of these Terms or violation of any applicable laws.",
-      "content3": "4.3 You agree that your Account is non-transferable, and you will not allow third parties to access or operate your Account.",
-      "content4": "4.4 You represent you are not located in, organized under the laws of, or ordinarily resident in any sanctioned jurisdiction, and you are not a sanctioned person (e.g., on any U.S. OFAC list). You will not use the Services for any activities prohibited by U.S. sanctions or export-control laws.",
-      "content5": "4.5 Prohibited/Restricted Jurisdictions may apply and can change."
+      "title": "4. 开户与资格",
+      "intro": "4.1 为访问和使用服务，您必须：",
+      "requirement1": "年满十八（18）周岁；",
+      "requirement2": "不得为适用法律或法规禁止使用本服务之司法辖区的公民或居民；",
+      "requirement3": "提交全部所需文件并完成令 UpFinance 或其指定合规服务方满意的 KYC/AML 审核；",
+      "requirement4": "具备订立具有法律约束力合同的完全民事行为能力。",
+      "content2": "4.2 我们保留自行决定批准或拒绝任何申请的权利。如疑似违反本条款或适用法律，我们可暂停或终止您对服务的访问。",
+      "content3": "4.3 您同意账户不可转让，且不得允许第三方访问或操作您的账户。",
+      "content4": "4.4 您声明并保证：您不位于受制裁司法辖区、并非依该等司法辖区法律设立，亦非通常居住于该等司法辖区，且您并非受制裁对象（例如列入美国 OFAC 名单）。您不得将服务用于任何受美国制裁或出口管制法律禁止的活动。",
+      "content5": "4.5 可能适用禁止/受限司法辖区规则，且该等规则可不时变更。"
     },
     "section5": {
-      "title": "5. SERVICE AVAILABILITY AND MODIFICATIONS",
-      "intro": "5.1 We reserve the right to:",
-      "right1": "Modify, suspend, or discontinue any part of the Services at any time;",
-      "right2": "Impose or change service limits;",
-      "right3": "Update our policies and features without prior notice unless otherwise required by law.",
-      "content2": "5.2 Your continued use of the Services constitutes acceptance of any changes made pursuant to this Section."
+      "title": "5. 服务可用性与变更",
+      "intro": "5.1 我们保留以下权利：",
+      "right1": "在任何时间修改、暂停或终止服务的任何部分；",
+      "right2": "设定或调整服务限额；",
+      "right3": "在法律无另行要求时，无需事先通知更新我们的政策与功能。",
+      "content2": "5.2 您继续使用服务，即视为接受根据本条作出的任何变更。"
     },
     "section6": {
-      "title": "6. FEES AND TAXATION",
-      "content1": "6.1 All applicable fees, charges, and commissions are disclosed in the Fee Schedule, which forms part of these Terms.",
-      "content2": "6.2 Fees may include (without limitation):",
-      "fee1": "Card issuance and annual maintenance fees;",
-      "fee2": "FX or swap spreads;",
-      "fee3": "Withdrawal, deposit, or top-up fees;",
-      "fee4": "Network and blockchain transaction costs;",
-      "content3": "6.3 Fees are exclusive of any applicable tax or withholding obligation. You are solely responsible for determining and fulfilling your tax liabilities in your jurisdiction of residence."
+      "title": "6. 费用与税务",
+      "content1": "6.1 所有适用费用、收费及佣金均披露于费率表中，且费率表构成本条款的一部分。",
+      "content2": "6.2 费用可能包括（但不限于）：",
+      "fee1": "发卡费及年费；",
+      "fee2": "外汇或兑换点差；",
+      "fee3": "提现、入金或充值费用；",
+      "fee4": "网络及区块链交易成本；",
+      "content3": "6.3 费用不含任何适用税费或代扣代缴义务。您应自行负责确定并履行您居住地司法辖区的纳税义务。"
     },
     "section7": {
-      "title": "7. RISK DISCLOSURE",
-      "intro": "7.1 You acknowledge and accept that:",
-      "risk1": "Digital assets are highly volatile and speculative in nature;",
-      "risk2": "There is a risk of partial or total loss of your holdings;",
-      "risk3": "Blockchain transactions may be irreversible;",
-      "risk4": "Custodial or self-custody solutions may be subject to technological and cybersecurity risks;",
-      "content2": "7.2 You understand that UpFinance does not act as your financial advisor. All decisions made using the Services are undertaken at your sole discretion and risk.",
-      "content3": "7.3 UpGlobal Inc is not a bank, and Accounts are not FDIC-insured, unless expressly stated for a specific product."
+      "title": "7. 风险披露",
+      "intro": "7.1 您确认并接受：",
+      "risk1": "数字资产具有高波动性及投机属性；",
+      "risk2": "您的持仓可能发生部分或全部损失；",
+      "risk3": "区块链交易可能不可逆；",
+      "risk4": "托管或自托管方案可能面临技术与网络安全风险；",
+      "content2": "7.2 您理解 UpFinance 并非您的财务顾问。您基于服务作出的所有决策均由您自行判断并自行承担风险。",
+      "content3": "7.3 除特定产品明确说明外，UpGlobal Inc 并非银行，账户亦不受 FDIC 存款保险保障。"
     },
     "section8": {
-      "title": "8. LIMITATION OF LIABILITY",
-      "content1": "8.1 To the fullest extent permitted by applicable law, the total aggregate liability of UpGlobal Inc and its respective affiliates, directors, officers, employees, agents, service providers, and licensors (collectively, the \"UpFinance Parties\") arising out of or in connection with these Terms or the Services shall not exceed the lesser of (a) the total amount of direct fees paid by the User to UpFinance in the six (6) months preceding the event giving rise to the claim, or (b) USD 100,000.",
-      "content2": "8.2 In no event shall any UpFinance Party be liable for any indirect, incidental, special, exemplary, punitive, or consequential damages, or for any loss of profits, revenue, goodwill, data, business opportunity, or anticipated savings, whether arising in contract, tort (including negligence), equity, strict liability, or otherwise, even if advised of the possibility of such damages.",
-      "content3": "8.3 UpFinance disclaims liability for any loss, delay, or damage arising from or related to the actions or omissions of any third-party service provider, including custodians, banks, payment processors, settlement agents, or blockchain networks, except to the extent such loss is caused solely by the gross negligence or willful misconduct of UpFinance as determined by a final, non-appealable judgment.",
-      "content4": "8.4 UpFinance shall not be liable for any failure or delay in performance resulting from events beyond its reasonable control, including acts of God, acts of civil or military authorities, war, terrorism, labor disputes, cyberattacks, technical failures, regulatory actions, or any interruption of third-party services or infrastructure.",
-      "content5": "8.5 Notwithstanding anything to the contrary in these Terms, the exclusions and limitations of liability set forth in this Clause shall not apply where the claim results directly from gross negligence or willful misconduct by UpFinance, as established in a final judgment by a court of competent jurisdiction that is not subject to further appeal.",
-      "content6": "8.6 Any claim or cause of action arising out of or related to the Services must be initiated within twelve (12) months after the date on which the facts giving rise to such claim first occurred. Claims not brought within this period shall be deemed irrevocably waived.",
-      "content7": "8.6 You agree to indemnify, defend, and hold harmless UpGlobal Inc and its respective affiliates, directors, officers, employees, agents, service providers, licensors, and representatives from and against any and all claims, demands, actions, proceedings, losses, liabilities, damages, judgments, settlements, fines, penalties, costs, and expenses (including reasonable legal and accounting fees), whether direct or indirect, arising out of or relating to: (a) your access to or use of the Services; (b) your violation of these Terms or any incorporated policy; (c) your breach of any representation, warranty, or obligation under these Terms; (d) your violation of any applicable law, regulation, or third-party rights; (e) any act of fraud, misrepresentation, or willful misconduct on your part; or (f) any claim brought against UpFinance in connection with your data, activity, conduct, or transactions carried out through the Services. This indemnification obligation shall survive the termination or expiration of these Terms and your use of the Services."
+      "title": "8. 责任限制",
+      "content1": "8.1 在适用法律允许的最大范围内，因本条款或服务引起或与之相关的 UpGlobal Inc 及其各自关联方、董事、高级职员、员工、代理人、服务提供商和许可方（合称“UpFinance 各方”）的累计总责任，不得超过以下两者中的较低者：(a) 用户在引发该索赔事件发生前六（6）个月内向 UpFinance 实际支付的直接费用总额；或 (b) 100,000 美元。",
+      "content2": "8.2 在任何情况下，任何 UpFinance 一方均不对任何间接、附带、特殊、示范性、惩罚性或后果性损害承担责任，也不对利润、收入、商誉、数据、商业机会或预期节省的损失承担责任；无论该等责任主张基于合同、侵权（包括过失）、衡平法、严格责任或其他依据，且即使已被告知该等损害可能发生亦然。",
+      "content3": "8.3 对于因任何第三方服务提供商（包括托管方、银行、支付处理机构、清算代理或区块链网络）的作为或不作为所引起或相关的任何损失、延迟或损害，UpFinance 概不负责；但经终局且不可上诉判决认定该等损失仅由 UpFinance 的重大过失或故意不当行为造成的除外。",
+      "content4": "8.4 对于因超出 UpFinance 合理控制范围之事件导致的任何履约失败或延迟，UpFinance 不承担责任，包括但不限于不可抗力、民事或军事机关行为、战争、恐怖主义、劳资纠纷、网络攻击、技术故障、监管措施，或第三方服务及基础设施中断。",
+      "content5": "8.5 尽管本条款有任何相反约定，如经有管辖权法院作出终局且不可再上诉判决认定索赔系直接因 UpFinance 重大过失或故意不当行为导致，则本条所载责任排除与限制不适用。",
+      "content6": "8.6 因服务引起或与服务相关的任何索赔或诉因，必须在引发该等索赔事实首次发生之日起十二（12）个月内提出。未在该期限内提出的，视为不可撤销地放弃。",
+      "content7": "8.6 您同意对 UpGlobal Inc 及其各自关联方、董事、高级职员、员工、代理人、服务提供商、许可方及代表进行赔偿、抗辩并使其免受损害，以应对任何及所有直接或间接产生或相关的索赔、请求、诉讼、程序、损失、责任、损害、判决、和解、罚款、处罚、成本与费用（包括合理律师费和会计费），其来源包括但不限于：(a) 您对服务的访问或使用；(b) 您违反本条款或任何并入政策；(c) 您违反本条款项下任何陈述、保证或义务；(d) 您违反任何适用法律、法规或第三方权利；(e) 您实施的任何欺诈、虚假陈述或故意不当行为；或 (f) 因您通过服务开展的数据、活动、行为或交易而针对 UpFinance 提起的任何索赔。该等赔偿义务在本条款终止或到期以及您停止使用服务后仍持续有效。"
     },
     "section9": {
-      "title": "9. TERMINATION AND SUSPENSION",
-      "content1": "9.1 We may suspend, restrict, or terminate your access to the Services at our sole and absolute discretion, with or without prior notice, including but not limited to circumstances where we reasonably suspect fraud, money laundering, breach of law or regulation, violation of these Terms, material reputational risk, or if required to comply with any legal, regulatory, or governmental order, inquiry, investigation, or directive.",
-      "content2": "9.2 We reserve the right to retain, freeze, or withhold funds or assets held in your Account if we determine, in our sole discretion, that such action is necessary to comply with applicable laws, support ongoing investigations, or mitigate potential harm or liability. Such retention shall be without prejudice to our other rights under these Terms or at law.",
-      "content3": "9.3 You may terminate your Account at any time by providing written notice and fulfilling all outstanding obligations. Termination shall not affect any accrued rights or liabilities.",
-      "content4": "9.4 Upon termination, all rights granted to you under these Terms shall immediately cease. Subject to applicable laws, we shall return any remaining eligible funds to a verified destination provided by you after completion of compliance and audit checks. We may impose offboarding fees or deduct any applicable charges, and we may retain data and transaction records for legal, compliance, or audit purposes.",
-      "content5": "9.5 The provisions of these Terms relating to liability, indemnity, governing law, dispute resolution, and any other clauses that by their nature should survive termination shall continue to apply after your Account is closed or these Terms expire."
+      "title": "9. 终止与暂停",
+      "content1": "9.1 我们可依完全自行酌情决定，在有或无事先通知的情况下，暂停、限制或终止您对服务的访问，包括但不限于我们合理怀疑存在欺诈、洗钱、违法违规、违反本条款、重大声誉风险，或为遵守任何法律、监管或政府命令、询问、调查或指示所必需之情形。",
+      "content2": "9.2 若我们依自行判断认为为遵守适用法律、支持正在进行的调查或减轻潜在损害或责任所必需，我们保留对您账户中持有的资金或资产进行保留、冻结或暂缓处理的权利。该等保留不影响我们在本条款项下或法律项下的其他权利。",
+      "content3": "9.3 您可在任何时候以书面通知并履行全部未结义务的方式终止您的账户。终止不影响已产生的任何权利或责任。",
+      "content4": "9.4 终止后，本条款授予您的所有权利立即终止。在适用法律允许范围内，完成合规与审计检查后，我们将把剩余可返还资金退回至您提供并经验证的接收目的地。我们可收取离场费用或扣除适用收费，并可为法律、合规或审计目的保留数据与交易记录。",
+      "content5": "9.5 本条款中有关责任、赔偿、适用法律、争议解决及依其性质应在终止后继续有效的其他条款，在您账户关闭或本条款到期后继续适用。"
     },
     "section10": {
-      "title": "10. NOTICES AND COMMUNICATIONS",
-      "content1": "All legal notices shall be deemed delivered when sent via email to support@upfinance.ai or mailed to UpGlobal Inc, 8 The Green, Ste A, Dover, DE 19901, USA. You agree to receive communications electronically and waive any right to physical delivery.",
-      "content2": "By using the Services, you consent to receive notices and disclosures electronically in accordance with the U.S. E-SIGN Act (15 U.S.C. § 7001 et seq.)."
+      "title": "10. 通知与通信",
+      "content1": "所有法律通知在发送至 support@upfinance.ai 邮箱，或邮寄至 UpGlobal Inc, 8 The Green, Ste A, Dover, DE 19901, USA 时即视为有效送达。您同意以电子方式接收通信，并放弃要求纸质送达的权利。",
+      "content2": "您使用服务即表示同意依据美国《E-SIGN 法案》（15 U.S.C. § 7001 等）以电子方式接收通知与披露。"
     },
     "section11": {
-      "title": "11. DEFINITIONS",
-      "intro": "In these Terms, unless the context requires otherwise, the following expressions shall have the following meanings:",
-      "account": "\"Account\" means the registered user account created with UpFinance through which Services are accessed and managed.",
-      "affiliate": "\"Affiliate\" means any entity that directly or indirectly controls, is controlled by, or is under common control with a party.",
-      "custodianAccount": "\"Custodian Account\" means the account established for the User under Part A for the custody and management of fiat or digital assets, held through licensed trust or custodial partners.",
-      "digitalAssets": "\"Digital Assets\" means any cryptographic tokens, virtual currencies, digital coins, or other blockchain-based representations of value supported by the Services.",
-      "fees": "\"Fees\" means any charges, costs, spreads, or commissions applicable to the Services, as disclosed in the Fee Schedule or at the time of the transaction.",
-      "merits": "\"Merits\" or \"Merits Bank & Trust\" means Merits Bank & Trust Limited, a Hong Kong licensed trust or company service provider (TCSP Licence No. TC008817), which may be used as a custodial and settlement partner.",
-      "partyA": "\"Party A\" refers to Osmosis Limited, operating under the commercial name \"UpFinance,\" including any of its successors or assigns.",
-      "platform": "\"Platform\" means all websites, mobile applications, APIs, interfaces, and other systems operated under the UpFinance brand.",
-      "services": "\"Services\" means all products, functionalities, and features made available to Users through the UpFinance Platform, including but not limited to Custodian Accounts, Card Services, Wallets, Swap Transactions, Virtual Accounts, and Third-Party Services.",
-      "terms": "\"Terms\" refers to these UpFinance Services Terms and Conditions, including any policies, schedules, annexes, and service-specific terms incorporated by reference.",
-      "thirdPartyServices": "\"Third-Party Services\" means any external platforms, software, providers, or services integrated into or made available through UpFinance, over which UpGlobal Inc has no operational control.",
-      "user": "\"User,\" \"you,\" or \"your\" means the individual or legal entity that registers for, accesses, or uses any part of the Services."
+      "title": "11. 定义",
+      "intro": "在本条款中，除上下文另有要求外，下列术语含义如下：",
+      "account": "“账户（Account）”指您在 UpFinance 注册并用于访问和管理服务的用户账户。",
+      "affiliate": "“关联方（Affiliate）”指直接或间接控制一方、受一方控制或与一方受共同控制的任何实体。",
+      "custodianAccount": "“托管账户（Custodian Account）”指根据 A 部分为用户设立，并通过持牌信托或托管合作方持有，用于托管和管理法币或数字资产的账户。",
+      "digitalAssets": "“数字资产（Digital Assets）”指服务支持的任何加密代币、虚拟货币、数字币或其他基于区块链的价值表示。",
+      "fees": "“费用（Fees）”指适用于服务的任何收费、成本、点差或佣金，以费率表或交易时披露内容为准。",
+      "merits": "“Merits”或“Merits Bank & Trust”指 Merits Bank & Trust Limited（香港持牌信托或公司服务提供者，TCSP 牌照号 TC008817），其可能作为托管与清算合作方。",
+      "partyA": "“甲方（Party A）”指以“UpFinance”为商业名称运营的 Osmosis Limited 及其任何继承方或受让方。",
+      "platform": "“平台（Platform）”指 UpFinance 品牌下运营的所有网站、移动应用、API、接口及其他系统。",
+      "services": "“服务（Services）”指通过 UpFinance 平台向用户提供的全部产品、功能与特性，包括但不限于托管账户、卡服务、钱包、兑换交易、虚拟账户与第三方服务。",
+      "terms": "“条款（Terms）”指本 UpFinance 服务条款与条件，以及通过引用并入的任何政策、费率表、附件及服务专项条款。",
+      "thirdPartyServices": "“第三方服务（Third-Party Services）”指整合至或通过 UpFinance 提供的外部平台、软件、服务商或服务，UpGlobal Inc 对其不具有运营控制权。",
+      "user": "“用户（User）”“您（you/your）”指注册、访问或使用任何服务的个人或法律实体。"
     },
     "section12": {
-      "title": "12. DISPUTE RESOLUTION",
-      "content1": "12.1 To the fullest extent permitted by applicable law, any dispute, controversy, difference, or claim arising out of or relating to these Terms or the Services, including the existence, validity, interpretation, performance, breach, or termination thereof, shall be resolved through final and binding arbitration.",
-      "content2": "12.2 The arbitration shall be conducted in accordance with the American Arbitration Association (AAA) Commercial Arbitration Rules in force at the time of the commencement of the arbitration. The seat of arbitration shall be Delaware, and the language of the proceedings shall be English. The number of arbitrators shall be one, appointed in accordance with the AAA Rules. Judgment upon the arbitral award may be entered in any court of competent jurisdiction.",
-      "content3": "12.3 The parties expressly waive, to the maximum extent permitted by law, any right to a trial by jury or to participate in any class action, mass action, or collective proceeding against the other party. Each party agrees to resolve disputes on an individual basis only and not as a plaintiff or class member in any purported class or representative proceeding.",
-      "content4": "12.4 Notwithstanding the above, either party may seek interim, emergency, or injunctive relief from any court of competent jurisdiction where such relief is necessary to prevent imminent and irreparable harm, preserve assets, or protect confidential information or intellectual property rights, and such application shall not be deemed incompatible with this arbitration clause.",
-      "content5": "12.5 All arbitration proceedings, filings, submissions, awards, and related materials shall be kept strictly confidential by all parties, and shall not be disclosed to any third party without the prior written consent of the other party, unless such disclosure is required by law or regulatory authority."
+      "title": "12. 争议解决",
+      "content1": "12.1 在适用法律允许的最大范围内，因本条款或服务引起或与之相关的任何争议、纠纷、分歧或请求（包括其存在、效力、解释、履行、违约或终止）均应通过终局且具有约束力的仲裁解决。",
+      "content2": "12.2 仲裁应依仲裁启动时有效的美国仲裁协会（AAA）《商业仲裁规则》进行。仲裁地为特拉华州，仲裁语言为英文。仲裁员人数为一名，并按 AAA 规则任命。仲裁裁决可提交有管辖权法院申请承认与执行。",
+      "content3": "12.3 双方在法律允许的最大范围内明确放弃陪审团审判权，以及以集体诉讼、大规模诉讼或其他共同诉讼形式对另一方提起程序的权利。各方同意仅以个别基础解决争议，不以任何拟议的集体或代表诉讼中的原告或成员身份主张权利。",
+      "content4": "12.4 尽管有前述约定，如为防止迫在眉睫且不可弥补的损害、保全资产或保护保密信息或知识产权，任一方均可向有管辖权法院申请临时、紧急或禁令救济，该等申请不视为与本仲裁条款不一致。",
+      "content5": "12.5 所有仲裁程序、立案文件、提交材料、裁决及相关资料均应由各方严格保密；除非法律或监管机关要求披露，否则未经对方事先书面同意，不得向任何第三方披露。"
     },
     "section13": {
-      "title": "13. GENERAL TERMS",
-      "content1": "13.1 These Terms, together with all policies, disclosures, and documents incorporated herein by reference, constitute the entire agreement between you and Party A and supersede all prior agreements, understandings, negotiations, representations, and communications, whether oral or written, with respect to the subject matter hereof.",
-      "content2": "13.2 No failure or delay by UpGlobal Inc in exercising any right, power, or remedy under these Terms shall operate as a waiver thereof, nor shall any single or partial exercise preclude any other or further exercise thereof. Any waiver must be in writing to be effective.",
-      "content3": "13.3 You may not assign, transfer, or novate your rights or obligations under these Terms without our prior written consent. We may assign or transfer these Terms, in whole or in part, without notice or consent, to any affiliate, successor entity, or in connection with a corporate reorganization, merger, acquisition, or sale of assets.",
-      "content4": "13.4 UpGlobal Inc shall not be liable for any failure or delay in performance or availability of the Services to the extent such failure or delay results from events or circumstances beyond its reasonable control, including but not limited to acts of God, natural disasters, epidemic or pandemic outbreaks, war, terrorism, cyberattacks, communication failures, utility or network downtime, labor disputes, government restrictions or regulatory actions, custodial or service provider failures, and other unforeseeable operational disruptions.",
-      "content5": "13.5 UpGlobal Inc reserves the right to amend, update, or modify these Terms or any of the incorporated documents at any time by publishing the revised version on the Platform or otherwise providing notice to you. Your continued use of the Services following such publication or notice constitutes your acceptance of the updated Terms.",
-      "content6": "13.6 If any provision of these Terms is held by a court of competent jurisdiction to be invalid, illegal, or unenforceable, such provision shall be modified to the minimum extent necessary to render it valid and enforceable, and the remaining provisions shall remain in full force and effect.",
-      "content7": "13.7 These Terms shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to conflict of law principles. You agree that Delaware shall be the exclusive forum for any disputes not otherwise subject to arbitration under these Terms.",
-      "content8": "13.8 To the fullest extent permitted by law, any claim or cause of action arising out of or related to these Terms or the Services must be filed within twelve (12) months from the date the claim first arose. Any claims not filed within such time shall be permanently barred."
+      "title": "13. 一般条款",
+      "content1": "13.1 本条款连同通过引用并入的全部政策、披露及文件，构成您与甲方之间就本事项达成的完整协议，并取代此前与本事项有关的一切口头或书面协议、谅解、谈判、陈述及沟通。",
+      "content2": "13.2 UpGlobal Inc 对本条款项下任何权利、权力或救济的未行使或延迟行使，不构成对该等权利的放弃；任何单次或部分行使亦不妨碍其后任何进一步行使。任何放弃须以书面形式作出方为有效。",
+      "content3": "13.3 未经我们事先书面同意，您不得转让、移转或更替本条款项下您的权利或义务。我们可在不通知或不征得同意的情况下，将本条款全部或部分转让给任何关联方、继承主体，或在公司重组、合并、收购或资产出售中进行转移。",
+      "content4": "13.4 如服务履行或可用性之失败或延迟系由超出 UpGlobal Inc 合理控制范围的事件或情形导致，UpGlobal Inc 不承担责任，包括但不限于不可抗力、自然灾害、流行病或大流行暴发、战争、恐怖主义、网络攻击、通信故障、公用事业或网络中断、劳资纠纷、政府限制或监管行动、托管方或服务提供方故障，以及其他不可预见的运营中断。",
+      "content5": "13.5 UpGlobal Inc 保留随时通过在平台发布修订版本或以其他方式向您通知，修改、更新或变更本条款及任何并入文件的权利。您在该等发布或通知后继续使用服务，即视为接受更新后的条款。",
+      "content6": "13.6 若本条款任何条款被有管辖权法院认定无效、违法或不可执行，则该条款应在实现其有效与可执行所必需的最小范围内进行调整，其余条款继续完全有效。",
+      "content7": "13.7 本条款应受美国特拉华州法律管辖并依其解释，不适用法律冲突原则。您同意，对于不受本条款仲裁机制约束的争议，特拉华州为专属争议解决地。",
+      "content8": "13.8 在法律允许的最大范围内，因本条款或服务引起或相关的任何索赔或诉因，须自该索赔首次产生之日起十二（12）个月内提出。逾期未提起的请求将被永久排除。"
     },
     "section14": {
-      "title": "14. OPERATIONAL AND LEGAL SAFEGUARDS",
-      "content1": "14.1 You agree to indemnify and hold harmless UpFinance, its affiliates, directors, officers, employees, agents, and service providers from and against any and all losses, damages, liabilities, claims, demands, costs, and expenses (including legal fees) arising from your breach of these Terms, your violation of applicable laws or regulations, your use of the Services, or any unauthorized, fraudulent, or negligent acts or omissions on your part.",
-      "content2": "14.2 We shall not be liable for any failure or delay in performance caused by events or circumstances beyond our reasonable control, including but not limited to acts of God, cyber incidents, regulatory changes, custodial or banking failures, internet outages, war, civil unrest, or third-party service interruptions."
+      "title": "14. 运营与法律保障",
+      "content1": "14.1 您同意对 UpFinance 及其关联方、董事、高级职员、员工、代理人及服务提供商作出赔偿并使其免受损害，以应对因您违反本条款、违反适用法律法规、使用服务或您实施的任何未经授权、欺诈或过失作为/不作为所引起的任何及全部损失、损害、责任、索赔、请求、成本和费用（包括法律费用）。",
+      "content2": "14.2 对于因超出我们合理控制范围之事件或情形导致的任何履约失败或延迟，我们不承担责任，包括但不限于不可抗力、网络安全事件、监管变化、托管或银行机构故障、互联网中断、战争、社会动荡或第三方服务中断。"
     },
     "partA": {
-      "title": "PART A: CUSTODIAN ACCOUNT",
+      "title": "A 部分：托管账户",
       "section1": {
-        "title": "1. SCOPE",
-        "content1": "1.1 This Part A sets out the terms and conditions applicable to the Custodian Account provided through UpFinance via its regulated partner, Merits Bank & Trust (“Merits”), a licensed trust company incorporated in Hong Kong.",
-        "content2": "1.2 By accessing or using the Custodian Account, you agree to be bound by this Part A in addition to the General Terms and Conditions."
+        "title": "1. 适用范围",
+        "content1": "1.1 本 A 部分规定了通过 UpFinance 及其受监管合作方 Merits Bank & Trust（“Merits”）提供的托管账户所适用的条款与条件。Merits 为在香港注册成立的持牌信托公司。",
+        "content2": "1.2 访问或使用托管账户，即表示您同意除通用条款与条件外，还受本 A 部分约束。"
       },
       "section2": {
-        "title": "2. CUSTODIAN ACCOUNT STRUCTURE",
-        "content1": "2.1 The Custodian Account enables Users to hold and manage digital assets and fiat currencies in a segregated trust environment. All Custodian Accounts are operated under the regulatory license and control framework of Merits.",
-        "content2": "2.2 Funds held within Custodian Accounts are not mixed with UpFinance's corporate assets. They are maintained in accordance with fiduciary trust standards and are not subject to the claims of UpFinance's creditors.",
-        "content3": "2.3 Custodian Accounts may include sub-accounts or wallets designated for specific asset types (e.g., BTC, ETH, USDT, USD) and functionalities (e.g., debit account, virtual account, or collateral wallet).",
-        "content4": "2.4 The User acknowledges and accepts that funds or assets transferred to, held with, or managed by Merits Bank & Trust or any designated sub-custodian are subject to the operational, insolvency, and legal risks associated with such third-party custodians. UpFinance disclaims all liability for losses, delays, unavailability of funds, or regulatory interventions involving such third-party institutions, except where caused by its own gross negligence or willful misconduct as established by final, non-appealable judgment.",
-        "content5": "2.5 Unless otherwise required by applicable law, UpFinance acts solely as a facilitator and administrative coordinator with respect to custodial and trust arrangements. No fiduciary, trustee, or similar legal relationship is created between the User and UpFinance as a result of these arrangements."
+        "title": "2. 托管账户结构",
+        "content1": "2.1 托管账户使用户可在隔离信托环境中持有并管理数字资产与法币。所有托管账户均在 Merits 的监管牌照与控制框架下运营。",
+        "content2": "2.2 托管账户内资金不与 UpFinance 公司自有资产混同，按受托信托标准维护，不受 UpFinance 债权人索偿。",
+        "content3": "2.3 托管账户可包含针对特定资产类型（如 BTC、ETH、USDT、USD）和功能（如借记账户、虚拟账户或抵押钱包）设置的子账户或钱包。",
+        "content4": "2.4 用户确认并接受：转入、存放于或由 Merits Bank & Trust 或任何指定次级托管方管理的资金或资产，均可能面临该等第三方托管机构相关的运营、破产及法律风险。除经终局且不可上诉判决认定因 UpFinance 重大过失或故意不当行为直接导致外，UpFinance 对涉及该等第三方机构的损失、延迟、资金不可用或监管干预不承担责任。",
+        "content5": "2.5 除非适用法律另有要求，就托管与信托安排而言，UpFinance 仅作为协调与行政协助方。该等安排不构成用户与 UpFinance 之间的受托人、信义或类似法律关系。"
       },
       "section3": {
-        "title": "3. ACCOUNT OPENING AND ACCESS",
-        "intro": "3.1 To open a Custodian Account, Users must complete all required onboarding steps, including:",
-        "requirement1": "Identity verification;",
-        "requirement2": "Source of funds and wealth declarations;",
-        "requirement3": "Compliance with anti-money laundering (AML) and counter-terrorism financing (CTF) requirements;",
-        "requirement4": "Agreement to applicable custodial and user policies.",
-        "content2": "3.2 We reserve the right to deny, suspend, or terminate access to Custodian Accounts in the event of:",
-        "reason1": "Incomplete or unsatisfactory documentation;",
-        "reason2": "Regulatory restrictions;",
-        "reason3": "Breach of any part of these Terms."
+        "title": "3. 开户与访问",
+        "intro": "3.1 开立托管账户，用户须完成所有必要开户步骤，包括：",
+        "requirement1": "身份核验；",
+        "requirement2": "资金来源与财富来源声明；",
+        "requirement3": "符合反洗钱（AML）及反恐融资（CTF）要求；",
+        "requirement4": "同意适用的托管及用户政策。",
+        "content2": "3.2 在下列情形下，我们保留拒绝、暂停或终止托管账户访问权限的权利：",
+        "reason1": "文件不完整或不符合要求；",
+        "reason2": "监管限制；",
+        "reason3": "违反本条款任何部分。"
       },
       "section4": {
-        "title": "4. DEPOSITS AND WITHDRAWALS",
-        "content1": "4.1 Deposits into the Custodian Account may be made in approved fiat currencies or supported digital assets.",
-        "content2": "4.2 You are solely responsible for ensuring that you send only supported tokens to the appropriate address provided by UpFinance. Sending unsupported tokens or using incorrect deposit protocols may result in permanent loss.",
-        "content3": "4.3 Withdrawals from the Custodian Account are subject to:",
-        "requirement1": "Successful KYC/AML status;",
-        "requirement2": "Minimum withdrawal thresholds;",
-        "requirement3": "Internal risk and security checks;",
-        "requirement4": "Blockchain network availability and third-party settlement constraints.",
-        "content4": "4.4 We reserve the right to implement withdrawal cooldown periods, compliance holds, or transaction reviews as reasonably necessary to fulfill our legal obligations."
+        "title": "4. 入金与出金",
+        "content1": "4.1 托管账户可使用获准法币或支持的数字资产进行入金。",
+        "content2": "4.2 您应自行确保仅向 UpFinance 提供的正确地址发送受支持代币。发送不受支持代币或使用错误入金协议，可能导致永久性损失。",
+        "content3": "4.3 托管账户出金受以下条件约束：",
+        "requirement1": "KYC/AML 状态通过；",
+        "requirement2": "达到最低出金门槛；",
+        "requirement3": "通过内部风控与安全检查；",
+        "requirement4": "区块链网络可用性及第三方清算限制。",
+        "content4": "4.4 为履行法律义务，我们保留在合理必要范围内设置提现冷却期、合规冻结或交易复核的权利。"
       },
       "section5": {
-        "title": "5. CUSTODY, SECURITY AND SEGREGATION",
-        "content1": "5.1 All digital assets in the Custodian Account are held in wallets secured and operated by Merits Bank & Trust or its appointed sub-custodians, using institutional-grade infrastructure and security controls.",
-        "content2": "5.2 Fiat balances are held in segregated client accounts under the name of Merits Bank & Trust for the benefit of Users. These accounts are not co-mingled with proprietary funds of UpFinance or Merits, except where required for operational purposes in accordance with applicable regulatory frameworks, and are subject to statutory protections.",
-        "content3": "5.3 UpFinance exercises reasonable care and skill in coordinating custodial arrangements but disclaims liability for any acts, omissions, insolvency, or delays of custodians, sub-custodians, banks, or other financial institutions once funds have been credited to such accounts, except in cases of UpFinance's own gross negligence or willful misconduct as determined by a final, non-appealable judgment.",
-        "content4": "5.4 Legal title to digital or fiat assets held in the Custodian Account remains with the User unless otherwise specified in a separate written agreement governing specific use cases such as staking, lending, or collateral arrangements.",
-        "content5": "5.5 The User agrees to indemnify and hold harmless UpFinance and its affiliates against all claims, losses, costs, and liabilities arising from custodial loss, seizure, or delay, except where such losses result directly from the gross negligence or willful misconduct of UpFinance."
+        "title": "5. 托管、安全与隔离",
+        "content1": "5.1 托管账户中的全部数字资产均存放于由 Merits Bank & Trust 或其指定次级托管方保障并运营的钱包中，并采用机构级基础设施与安全控制。",
+        "content2": "5.2 法币余额以 Merits Bank & Trust 名义存放于为用户利益设立的隔离客户账户中。除按适用监管框架为运营所必需外，该等账户不与 UpFinance 或 Merits 自有资金混同，并受法定保护。",
+        "content3": "5.3 UpFinance 在协调托管安排时履行合理注意义务与专业能力，但在资金记入相关账户后，对于托管方、次级托管方、银行或其他金融机构的行为、不作为、资不抵债或延迟不承担责任；但经终局且不可上诉判决认定因 UpFinance 自身重大过失或故意不当行为导致的除外。",
+        "content4": "5.4 除非在规范特定用途（如质押、借贷或抵押安排）的独立书面协议中另有约定，托管账户内数字资产或法币的法律所有权仍归用户所有。",
+        "content5": "5.5 对于因托管损失、查封或延迟引发的一切索赔、损失、费用及责任，除直接因 UpFinance 重大过失或故意不当行为导致者外，用户同意向 UpFinance 及其关联方作出赔偿并使其免受损害。"
       },
       "section6": {
-        "title": "6. LIMITATIONS AND RISKS",
-        "content1": "6.1 Custodian Accounts are not deposit accounts and do not accrue interest unless otherwise agreed in writing.",
-        "content2": "6.2 You acknowledge that UpFinance is not a licensed bank and that your Custodian Account is not protected by any deposit insurance scheme.",
-        "content3": "6.3 Digital assets may lose value and are subject to technical, legal, and regulatory risks. You accept these risks fully and unconditionally.",
-        "content4": "6.4 We may suspend access to specific assets, networks, or services without prior notice if required for risk control, maintenance, or compliance."
+        "title": "6. 限制与风险",
+        "content1": "6.1 托管账户并非存款账户，除非另有书面约定，否则不计付利息。",
+        "content2": "6.2 您确认 UpFinance 并非持牌银行，且您的托管账户不受任何存款保险计划保障。",
+        "content3": "6.3 数字资产可能贬值，并受技术、法律与监管风险影响。您完全且无条件接受该等风险。",
+        "content4": "6.4 如出于风控、维护或合规需要，我们可在不事先通知的情况下暂停特定资产、网络或服务的访问。"
       },
       "section7": {
-        "title": "7. TERMINATION",
-        "content1": "7.1 Upon termination of your Account or closure of the Custodian Account, we will:",
-        "item1": "Verify your identity and ensure compliance clearance;",
-        "item2": "Facilitate the transfer of eligible balances to a verified destination provided by you;",
-        "item3": "Apply any applicable fees and deduct outstanding obligations.",
-        "content2": "7.2 We may retain records of your Custodian Account for legal and audit purposes, even after termination."
+        "title": "7. 终止",
+        "content1": "7.1 在您的账户终止或托管账户关闭后，我们将：",
+        "item1": "核验您的身份并确保通过合规审查；",
+        "item2": "协助将符合条件的余额转至您提供并经验证的接收地址/账户；",
+        "item3": "计收适用费用并扣除未结清义务。",
+        "content2": "7.2 即使终止后，我们仍可出于法律及审计目的保留您的托管账户记录。"
       }
     },
     "partB": {
-      "title": "PART B: CARD SERVICES",
+      "title": "B 部分：卡服务",
       "section1": {
-        "title": "1. SCOPE",
-        "content1": "1.1 This Part B governs the terms and conditions under which UpFinance offers its Users access to one or more physical or virtual payment cards (the \"UpFinance Card\"), issued in cooperation with one or more licensed BIN sponsors or electronic money institutions (the \"Card Issuer\").",
-        "content2": "1.2 By applying for or using an UpFinance Card, you agree to be bound by this Part B in addition to the General Terms and any issuer-specific cardholder agreements, where applicable."
+        "title": "1. 适用范围",
+        "content1": "1.1 本 B 部分规定 UpFinance 向用户提供一张或多张实体或虚拟支付卡（“UpFinance 卡”）访问权限的条款与条件。该等卡由一个或多个持牌 BIN 赞助机构或电子货币机构（“发卡机构”）合作发行。",
+        "content2": "1.2 申请或使用 UpFinance 卡，即表示您同意除通用条款外，还受本 B 部分及适用的发卡机构持卡人协议约束。"
       },
       "section2": {
-        "title": "2. CARD ISSUANCE",
-        "content1": "2.1 Subject to successful completion of all KYC, AML, and due diligence requirements, and any applicable issuer policies, UpFinance may issue to you:",
-        "item1": "A physical card with EMV chip, PIN, and magnetic stripe;",
-        "item2": "A virtual card for online use and contactless payments;",
-        "item3": "Optional co-branded cards in partnership with merchants or business entities.",
-        "content2": "2.2 Cards are issued and activated only upon approval by the designated Card Issuer. Activation procedures will be communicated to the User and may include biometric verification or other secure processes.",
-        "content3": "2.3 The Card remains the property of the Card Issuer at all times and must be returned or destroyed upon request."
+        "title": "2. 发卡",
+        "content1": "2.1 在您成功完成全部 KYC、AML、尽职调查要求以及适用发卡政策后，UpFinance 可向您发行：",
+        "item1": "配备 EMV 芯片、PIN 码和磁条的实体卡；",
+        "item2": "用于线上支付和非接触支付的虚拟卡；",
+        "item3": "与商户或企业合作的联名卡（如适用）。",
+        "content2": "2.2 卡片仅在指定发卡机构批准后方可发行与激活。激活流程将通知用户，且可能包含生物识别或其他安全校验。",
+        "content3": "2.3 卡片始终归发卡机构所有，并应在要求时返还或销毁。"
       },
       "section3": {
-        "title": "3. CARD USAGE",
-        "content1": "3.1 The UpFinance Card may be used for:",
-        "usage1": "Point-of-sale (POS) transactions with merchants;",
-        "usage2": "Online payments;",
-        "usage3": "ATM cash withdrawals (where permitted);",
-        "usage4": "In-app transactions and subscriptions.",
-        "content2": "3.2 The Card may be linked to balances in your Custodian Account and is subject to automatic liquidation of assets to settle fiat transactions in accordance with Part A and internal FX policies.",
-        "content3": "3.3 You are responsible for maintaining sufficient balance to authorize transactions. If insufficient funds are available, the transaction may be declined.",
-        "content4": "3.4 Card use is subject to geographic, merchant category, and daily/monthly limits imposed by UpFinance and/or the Card Issuer."
+        "title": "3. 用卡规则",
+        "content1": "3.1 UpFinance 卡可用于：",
+        "usage1": "商户线下刷卡（POS）交易；",
+        "usage2": "线上支付；",
+        "usage3": "ATM 取现（在允许地区/场景）；",
+        "usage4": "应用内交易与订阅。",
+        "content2": "3.2 该卡可关联您托管账户中的余额，并可根据 A 部分及内部外汇政策自动变现资产以结算法币交易。",
+        "content3": "3.3 您有责任维持足够余额以完成交易授权。若资金不足，交易可能被拒绝。",
+        "content4": "3.4 用卡将受 UpFinance 和/或发卡机构设定的地域、商户类别及日/月限额约束。"
       },
       "section4": {
-        "title": "4. SECURITY AND RESPONSIBILITIES",
-        "content1": "4.1 You must:",
-        "responsibility1": "Protect the card number, CVV, PIN, and any other authentication credentials;",
-        "responsibility2": "Not share card credentials with any unauthorized third party;",
-        "responsibility3": "Promptly report any loss, theft, or suspected unauthorized access.",
-        "content2": "4.2 You shall be liable for any transactions initiated with your credentials unless:",
-        "exception1": "You have notified UpFinance of loss/theft;",
-        "exception2": "The Card has been blocked or suspended;",
-        "exception3": "The transaction occurred due to gross negligence or willful misconduct by UpFinance or the Card Issuer.",
-        "content3": "4.3 UpFinance reserves the right to suspend or block the Card at any time:",
-        "reason1": "Upon suspected fraud or compromise;",
-        "reason2": "At the instruction of regulatory authorities;",
-        "reason3": "Upon violation of these Terms."
+        "title": "4. 安全与责任",
+        "content1": "4.1 您必须：",
+        "responsibility1": "妥善保护卡号、CVV、PIN 及其他认证凭据；",
+        "responsibility2": "不得向任何未授权第三方透露卡片凭据；",
+        "responsibility3": "发生遗失、盗用或疑似未授权访问时应立即报告。",
+        "content2": "4.2 除下列情形外，凡使用您凭据发起的交易均由您承担责任：",
+        "exception1": "您已向 UpFinance 报告遗失/盗用；",
+        "exception2": "卡片已被阻断或暂停；",
+        "exception3": "交易系因 UpFinance 或发卡机构重大过失或故意不当行为造成。",
+        "content3": "4.3 在以下情形，UpFinance 保留随时暂停或冻结卡片的权利：",
+        "reason1": "涉嫌欺诈或安全受损；",
+        "reason2": "监管机构要求；",
+        "reason3": "违反本条款。"
       },
       "section5": {
-        "title": "5. FEES, LIMITS AND EXCHANGE",
-        "content1": "5.1 All applicable fees, including but not limited to:",
-        "fee1": "Card issuance fee;",
-        "fee2": "Monthly or annual maintenance fee;",
-        "fee3": "FX spread or conversion margin;",
-        "fee4": "ATM withdrawal fees;",
-        "fee5": "Reissuance or replacement fees are disclosed in the applicable Fee Schedule.",
-        "feesDisclosure": "are disclosed in the applicable Fee Schedule.",
-        "content2": "5.2 All non-USD transactions are converted using rates set by UpFinance or the Card Issuer, which include a spread over benchmark interbank rates. The applicable rate will be disclosed or made available at the time of transaction.",
-        "content3": "5.3 Fees may be charged in crypto or fiat and may be auto-deducted from your Custodian Account or invoiced in arrears."
+        "title": "5. 费用、限额与汇兑",
+        "content1": "5.1 适用费用包括但不限于：",
+        "fee1": "发卡费；",
+        "fee2": "月费或年费；",
+        "fee3": "外汇点差或兑换价差；",
+        "fee4": "ATM 提现费；",
+        "fee5": "补卡或换卡费用，详见适用费率表。",
+        "feesDisclosure": "具体以适用费率表披露为准。",
+        "content2": "5.2 所有非美元交易将按 UpFinance 或发卡机构设定汇率换算，该汇率包含相对基准银行间汇率的点差。适用汇率将在交易时披露或可供查询。",
+        "content3": "5.3 费用可按加密资产或法币收取，并可能从您的托管账户自动扣除或后付费开票。"
       },
       "section6": {
-        "title": "6. RESTRICTIONS",
-        "content1": "6.1 You may not use the UpFinance Card for:",
-        "restriction1": "Prohibited transactions under applicable law (e.g., gambling, sanctioned entities);",
-        "restriction2": "Fraudulent or deceptive activities;",
-        "restriction3": "Transactions inconsistent with AML/CTF obligations.",
-        "content2": "6.2 We reserve the right to cancel, suspend, or restrict the Card with or without notice to comply with our legal obligations or risk policies."
+        "title": "6. 使用限制",
+        "content1": "6.1 您不得将 UpFinance 卡用于：",
+        "restriction1": "适用法律禁止的交易（如赌博、受制裁主体交易）；",
+        "restriction2": "欺诈或误导性活动；",
+        "restriction3": "不符合 AML/CTF 义务的交易。",
+        "content2": "6.2 为履行法律义务或风控政策，我们保留在通知或不通知的情况下注销、暂停或限制该卡的权利。"
       },
       "section7": {
-        "title": "7. TERMINATION AND EXPIRATION",
-        "content1": "7.1 Your Card will be valid until its stated expiration date unless earlier terminated. We may issue a replacement card prior to expiration at our discretion.",
-        "content2": "7.2 Upon closure of your Account, expiration of the Card, or termination for breach, you must:",
-        "requirement1": "Cease use of the Card immediately;",
-        "requirement2": "Destroy the physical card (if applicable);",
-        "requirement3": "Ensure outstanding transactions and fees are settled.",
-        "content3": "7.3 Remaining funds (if any) will be returned in accordance with the Custodian Account terms and subject to audit and regulatory clearance."
+        "title": "7. 终止与到期",
+        "content1": "7.1 除非提前终止，您的卡片在其标注到期日前有效。我们可自行决定在到期前补发新卡。",
+        "content2": "7.2 账户关闭、卡片到期或因违约终止时，您必须：",
+        "requirement1": "立即停止使用卡片；",
+        "requirement2": "销毁实体卡（如适用）；",
+        "requirement3": "确保未结交易与费用完成结清。",
+        "content3": "7.3 剩余资金（如有）将按托管账户条款返还，并以通过审计与监管核验为前提。"
       }
     },
     "partC": {
-      "title": "PART C: SWAP TRANSACTIONS",
+      "title": "C 部分：兑换交易",
       "section1": {
-        "title": "1. SCOPE",
-        "content1": "1.1 This Part C sets forth the terms and conditions governing the use of UpFinance's swap services, which enable Users to convert one supported digital asset or fiat currency into another (\"Swap Transactions\").",
-        "content2": "1.2 Swap Transactions may be facilitated by UpFinance directly or through third-party liquidity providers (\"Liquidity Providers\") and may be executed via centralized or decentralized exchange protocols."
+        "title": "1. 适用范围",
+        "content1": "1.1 本 C 部分规定 UpFinance 兑换服务之使用条款与条件。该服务允许用户将一种受支持的数字资产或法币转换为另一种（“兑换交易”）。",
+        "content2": "1.2 兑换交易可由 UpFinance 直接执行，或通过第三方流动性提供方（“流动性提供方”）完成，并可经中心化或去中心化交易协议执行。"
       },
       "section2": {
-        "title": "2. ELIGIBILITY AND CONDITIONS",
-        "content1": "2.1 You must:",
-        "requirement1": "Hold an active Custodian Account with sufficient eligible balance;",
-        "requirement2": "Have completed all required identity and compliance verification steps;",
-        "requirement3": "Accept the Swap Transaction terms and any associated pricing, slippage, or fees at the time of execution.",
-        "content2": "2.2 UpFinance may limit the types of assets available for swap, minimum or maximum swap thresholds, and eligible counterparties.",
-        "content3": "2.3 Swap functionality may be suspended at any time without prior notice for reasons including market volatility, risk controls, or service maintenance."
+        "title": "2. 资格与条件",
+        "content1": "2.1 您必须：",
+        "requirement1": "持有有效托管账户且具有足够可用余额；",
+        "requirement2": "完成全部所需身份与合规核验；",
+        "requirement3": "在执行时接受兑换交易条款及相关报价、滑点或费用。",
+        "content2": "2.2 UpFinance 可限制可兑换资产类型、最小或最大兑换门槛及可用交易对手方。",
+        "content3": "2.3 因市场波动、风控或服务维护等原因，兑换功能可在不事先通知的情况下随时暂停。"
       },
       "section3": {
-        "title": "3. EXECUTION AND PRICING",
-        "content1": "3.1 When initiating a Swap Transaction, you will be shown an indicative quote reflecting:",
-        "item1": "The input and output asset type and amount;",
-        "item2": "The applicable exchange rate or conversion formula;",
-        "item3": "Estimated network and service fees;",
-        "item4": "Any slippage tolerance limits.",
-        "content2": "3.2 You acknowledge that:",
-        "acknowledgment1": "Swap rates may change between quote and execution due to market movement;",
-        "acknowledgment2": "Network delays may result in execution outside your desired parameters;",
-        "acknowledgment3": "Transactions may be irreversible once executed.",
-        "content3": "3.3 You are solely responsible for verifying all swap parameters before confirmation. You waive any claim arising from adverse price movements occurring prior to execution."
+        "title": "3. 执行与定价",
+        "content1": "3.1 发起兑换交易时，您将看到参考报价，内容包括：",
+        "item1": "输入与输出资产类型及数量；",
+        "item2": "适用汇率或换算公式；",
+        "item3": "预估网络费与服务费；",
+        "item4": "滑点容忍限制（如有）。",
+        "content2": "3.2 您确认：",
+        "acknowledgment1": "因市场变动，报价与执行之间的兑换汇率可能变化；",
+        "acknowledgment2": "网络延迟可能导致执行结果偏离您期望参数；",
+        "acknowledgment3": "交易一经执行可能不可撤销。",
+        "content3": "3.3 您有责任在确认前核对全部兑换参数。对于执行前发生的不利价格变动，您放弃相关索赔。"
       },
       "section4": {
-        "title": "4. SETTLEMENT AND CONFIRMATION",
-        "content1": "4.1 Upon execution, the corresponding balances in your Custodian Account will be debited and credited accordingly.",
-        "content2": "4.2 A transaction record will be generated and made available through your Account interface. This shall serve as conclusive evidence of execution, unless manifest error is proven.",
-        "content3": "4.3 Swap Transactions may take time to settle depending on the blockchain or external service provider involved. UpFinance is not liable for settlement delays beyond its control."
+        "title": "4. 清算与确认",
+        "content1": "4.1 交易执行后，您托管账户中的相应余额将按结果扣减与入账。",
+        "content2": "4.2 系统将生成交易记录并通过账户界面提供，该记录作为执行完成的最终证据，除非能够证明存在明显错误。",
+        "content3": "4.3 兑换交易清算时间取决于相关区块链或外部服务商。对于超出 UpFinance 控制范围的清算延迟，UpFinance 不承担责任。"
       },
       "section5": {
-        "title": "5. FEES AND SPREADS",
-        "content1": "5.1 All Swap Transactions are subject to:",
-        "fee1": "A platform fee as disclosed in the Fee Schedule;",
-        "fee2": "A spread applied to the prevailing market rate;",
-        "fee3": "Any third-party gas or transaction fees, as applicable.",
-        "content2": "5.2 Fees are deducted at the time of execution and are non-refundable once the transaction has been confirmed on-chain or by our systems."
+        "title": "5. 费用与点差",
+        "content1": "5.1 所有兑换交易均适用：",
+        "fee1": "费率表披露的平台服务费；",
+        "fee2": "基于当时市场价的点差；",
+        "fee3": "适用的第三方 Gas 费或交易费。",
+        "content2": "5.2 费用在执行时扣除；交易一经链上或系统确认，不予退还。"
       },
       "section6": {
-        "title": "6. RISK DISCLOSURE",
-        "content1": "6.1 You acknowledge and accept the following risks:",
-        "risk1": "Price slippage or unfavorable execution during volatile markets;",
-        "risk2": "Impermanent loss or depegging of stablecoins;",
-        "risk3": "Protocol errors or smart contract vulnerabilities (if using DEX routes);",
-        "risk4": "Liquidity shortfalls preventing transaction completion.",
-        "content2": "6.2 You bear full responsibility for the outcome of each Swap Transaction, including tax consequences or unrealized gains/losses."
+        "title": "6. 风险披露",
+        "content1": "6.1 您确认并接受以下风险：",
+        "risk1": "市场波动期间的滑点或不利成交；",
+        "risk2": "稳定币脱锚或无常损失；",
+        "risk3": "协议错误或智能合约漏洞（如使用 DEX 路由）；",
+        "risk4": "流动性不足导致交易无法完成。",
+        "content2": "6.2 每笔兑换交易的结果（包括税务影响及未实现盈亏）均由您自行承担全部责任。"
       },
       "section7": {
-        "title": "7. RIGHT TO REFUSE OR CANCEL",
-        "content1": "7.1 UpFinance reserves the right to:",
-        "right1": "Cancel or reverse any Swap Transaction in the event of technical malfunction, pricing error, or regulatory instruction;",
-        "right2": "Limit swap frequency, volume, or access based on compliance or risk triggers;",
-        "right3": "Delay settlement pending manual review where suspicious activity is detected.",
-        "content2": "7.2 In the event of suspected abuse or policy violation, your Account may be suspended and all pending transactions frozen without notice."
+        "title": "7. 拒绝或撤销权",
+        "content1": "7.1 UpFinance 保留以下权利：",
+        "right1": "在技术故障、定价错误或监管指令情形下取消或冲销任何兑换交易；",
+        "right2": "基于合规或风控触发条件限制兑换频率、额度或访问权限；",
+        "right3": "发现可疑活动时，在人工复核完成前延迟清算。",
+        "content2": "7.2 如怀疑存在滥用或违反政策，您的账户可在不通知情况下被暂停，所有待处理交易可被冻结。"
       }
     },
     "partD": {
-      "title": "PART D: WALLETS AND VAULTS",
+      "title": "D 部分：钱包与金库",
       "section1": {
-        "title": "1. SCOPE",
-        "content1": "1.1 This Part D governs the use of wallet services and digital asset vaults made available through UpFinance, including:",
-        "type1": "Non-custodial wallets generated or connected by the User;",
-        "type2": "Smart contract-based vaults offered or operated by UpFinance;",
-        "type3": "Hybrid storage systems integrating custodial and self-custodial features.",
-        "content2": "1.2 Wallet and Vault Services are subject to applicable compliance, technical, and security protocols, and may be disabled, suspended, or modified at any time without prior notice."
+        "title": "1. 适用范围",
+        "content1": "1.1 本 D 部分适用于通过 UpFinance 提供的钱包服务与数字资产金库，包括：",
+        "type1": "由用户生成或连接的非托管钱包；",
+        "type2": "由 UpFinance 提供或运营的基于智能合约的金库；",
+        "type3": "整合托管与自托管特性的混合存储系统。",
+        "content2": "1.2 钱包与金库服务受适用的合规、技术与安全协议约束，并可能在不事先通知的情况下被停用、暂停或调整。"
       },
       "section2": {
-        "title": "2. WALLET TYPES AND FUNCTIONALITY",
-        "content1": "2.1 UpFinance may support the following wallet types:",
-        "walletType1": "External Wallets: Non-custodial wallets connected by the User (e.g., MetaMask, WalletConnect);",
-        "walletType2": "Smart Vaults: On-chain programmable vaults with predefined rules for storage, access, or delegation;",
-        "walletType3": "Recovery Wallets: Multisig or social recovery-enabled wallets managed through UpFinance interfaces.",
-        "content2": "2.2 Vaults may include advanced features such as:",
-        "feature1": "Time-locked asset release;",
-        "feature2": "Delegation or inheritance rules;",
-        "feature3": "Automated task execution;",
-        "feature4": "Multi-party approvals.",
-        "content3": "2.3 The functionality, visibility, and accessibility of each wallet or vault may depend on blockchain network conditions, third-party integrations, or gas availability."
+        "title": "2. 钱包类型与功能",
+        "content1": "2.1 UpFinance 可能支持以下钱包类型：",
+        "walletType1": "外部钱包：由用户连接的非托管钱包（如 MetaMask、WalletConnect）；",
+        "walletType2": "智能金库：链上可编程金库，可预设存储、访问或委托规则；",
+        "walletType3": "恢复钱包：通过 UpFinance 界面管理的多签或社交恢复钱包。",
+        "content2": "2.2 金库可包含如下高级功能：",
+        "feature1": "定时/锁仓释放资产；",
+        "feature2": "委托或继承规则；",
+        "feature3": "自动化任务执行；",
+        "feature4": "多方审批。",
+        "content3": "2.3 各钱包或金库的功能、可见性与可访问性可能受区块链网络状态、第三方集成或 Gas 可用性影响。"
       },
       "section3": {
-        "title": "3. USER CONTROL AND RESPONSIBILITY",
-        "content1": "3.1 For all non-custodial or smart contract wallets:",
-        "responsibility1": "You retain sole control over the private keys, seed phrases, or recovery credentials;",
-        "responsibility2": "UpFinance does not store, manage, or retrieve any User keys or access codes;",
-        "responsibility3": "Loss or compromise of your keys may result in irreversible loss of assets.",
-        "content2": "3.2 You are solely responsible for the use of dApps, signing of transactions, and exposure to smart contract risks when interacting with Vault Services.",
-        "content3": "3.3 By using Wallet or Vault Services, you acknowledge that:",
-        "acknowledgment1": "Smart contracts may contain errors or bugs;",
-        "acknowledgment2": "You have conducted your own due diligence;",
-        "acknowledgment3": "You assume all risk related to such technologies."
+        "title": "3. 用户控制与责任",
+        "content1": "3.1 对于所有非托管或智能合约钱包：",
+        "responsibility1": "私钥、助记词或恢复凭据由您独占控制；",
+        "responsibility2": "UpFinance 不存储、管理或找回任何用户密钥或访问码；",
+        "responsibility3": "密钥遗失或泄露可能导致资产不可逆损失。",
+        "content2": "3.2 在使用金库服务时，您对 dApp 使用、交易签名及智能合约风险承担全部责任。",
+        "content3": "3.3 使用钱包或金库服务即表示您确认：",
+        "acknowledgment1": "智能合约可能存在错误或漏洞；",
+        "acknowledgment2": "您已自行完成尽职调查；",
+        "acknowledgment3": "您自行承担与该等技术相关的一切风险。"
       },
       "section4": {
-        "title": "4. INTERACTIONS WITH CUSTODIAL SERVICES",
-        "content1": "4.1 You may transfer assets between your Custodian Account and Vaults or Wallets at any time, subject to applicable fees, gas costs, and platform policies.",
-        "content2": "4.2 Vaults may be subject to lock-up periods, cooldown timers, or programmable access conditions which may delay or restrict withdrawals.",
-        "content3": "4.3 Interoperability with external custody solutions (e.g., Ledger, MPC providers) is not guaranteed and may be limited by third-party software or hardware constraints."
+        "title": "4. 与托管服务的交互",
+        "content1": "4.1 您可在托管账户与金库/钱包之间转移资产，但须遵守适用费用、Gas 成本及平台政策。",
+        "content2": "4.2 金库可能设置锁定期、冷却计时器或可编程访问条件，从而延迟或限制提现。",
+        "content3": "4.3 与外部托管方案（如 Ledger、MPC 服务商）的互操作性不作保证，且可能受第三方软硬件限制。"
       },
       "section5": {
-        "title": "5. FEES AND LIMITATIONS",
-        "content1": "5.1 Usage of Wallet or Vault Services may incur:",
-        "fee1": "Blockchain gas fees;",
-        "fee2": "Smart contract interaction charges;",
-        "fee3": "Vault creation or maintenance fees (where applicable).",
-        "content2": "5.2 UpFinance reserves the right to implement usage-based pricing, transaction throttling, or minimum/maximum transfer amounts."
+        "title": "5. 费用与限制",
+        "content1": "5.1 使用钱包或金库服务可能产生：",
+        "fee1": "区块链 Gas 费用；",
+        "fee2": "智能合约交互费用；",
+        "fee3": "金库创建或维护费用（如适用）。",
+        "content2": "5.2 UpFinance 保留实施按使用量计费、交易限流及最小/最大转账额度的权利。"
       },
       "section6": {
-        "title": "6. TERMINATION AND DATA RETENTION",
-        "content1": "6.1 Upon termination of your Account:",
-        "termination1": "Vaults may be deactivated, and any automated processes halted;",
-        "termination2": "You will retain access to your external wallets, but Vault interfaces may be disabled.",
-        "content2": "6.2 UpFinance shall not be responsible for preserving metadata, transaction history, or user-configured vault logic after Account termination.",
-        "content3": "6.3 You are advised to export or back up any relevant information before initiating Account closure."
+        "title": "6. 终止与数据保留",
+        "content1": "6.1 账户终止后：",
+        "termination1": "金库可能被停用，相关自动流程将停止；",
+        "termination2": "您仍可访问外部钱包，但金库界面可能被禁用。",
+        "content2": "6.2 账户终止后，UpFinance 不负责保留元数据、交易历史或用户配置的金库逻辑。",
+        "content3": "6.3 建议您在发起销户前导出或备份相关信息。"
       }
     },
     "partE": {
-      "title": "PART E: VIRTUAL ACCOUNTS",
+      "title": "E 部分：虚拟账户",
       "section1": {
-        "title": "1. SCOPE",
-        "content1": "1.1 This Part E sets forth the terms and conditions applicable to the provision and use of virtual account services offered through UpFinance (\"Virtual Accounts\").",
-        "content2": "1.2 Virtual Accounts refer to unique identifiers and associated payment rails (e.g., dedicated IBANs, SWIFT codes, FPS identifiers, or proxy-linked accounts) that enable Users to receive or send fiat currency deposits and withdrawals through partnered banking and payment institutions."
+        "title": "1. 适用范围",
+        "content1": "1.1 本 E 部分规定通过 UpFinance 提供及使用虚拟账户服务（“虚拟账户”）的适用条款与条件。",
+        "content2": "1.2 虚拟账户是指唯一标识及其对应支付通道（如专属 IBAN、SWIFT 代码、FPS 标识或代理关联账户），使用户可通过合作银行及支付机构收发法币入金与出金。"
       },
       "section2": {
-        "title": "2. ACCOUNT ISSUANCE AND ELIGIBILITY",
-        "content1": "2.1 Virtual Accounts are provided through licensed financial partners and are subject to their onboarding and compliance requirements. UpFinance does not independently issue or manage Virtual Accounts.",
-        "content2": "2.2 You must:",
-        "requirement1": "Maintain an active Custodian Account with UpFinance;",
-        "requirement2": "Successfully complete all required KYC/AML procedures;",
-        "requirement3": "Acknowledge and agree to any additional partner-specific terms and disclosures.",
-        "content3": "2.3 UpFinance reserves the right to reject, suspend, or revoke access to Virtual Accounts at any time for risk, compliance, or technical reasons."
+        "title": "2. 账户签发与资格",
+        "content1": "2.1 虚拟账户由持牌金融合作方提供，并受其开户与合规要求约束。UpFinance 不独立签发或管理虚拟账户。",
+        "content2": "2.2 您必须：",
+        "requirement1": "在 UpFinance 保持有效托管账户；",
+        "requirement2": "成功完成全部所需 KYC/AML 流程；",
+        "requirement3": "确认并同意任何合作方特定的附加条款与披露。",
+        "content3": "2.3 因风控、合规或技术原因，UpFinance 保留随时拒绝、暂停或撤销虚拟账户访问权限的权利。"
       },
       "section3": {
-        "title": "3. DEPOSITS AND FUNDING",
-        "content1": "3.1 Fiat deposits may be made to your Virtual Account via bank transfer or other supported payment methods.",
-        "content2": "3.2 Funds received into your Virtual Account will be credited to your Custodian Account once cleared by the underlying financial institution. Delays may occur due to:",
-        "delay1": "Bank processing times;",
-        "delay2": "Incorrect reference details;",
-        "delay3": "Network or correspondent banking issues.",
-        "content3": "3.3 You are responsible for ensuring accurate transfer details. Misrouted or improperly referenced transfers may be delayed or forfeited."
+        "title": "3. 入金与充值",
+        "content1": "3.1 可通过银行转账或其他支持的支付方式向您的虚拟账户进行法币入金。",
+        "content2": "3.2 虚拟账户收到资金并经底层金融机构清算后，将记入您的托管账户。延迟可能由于：",
+        "delay1": "银行处理时间；",
+        "delay2": "附言/参考信息错误；",
+        "delay3": "网络或代理行问题。",
+        "content3": "3.3 您有责任确保转账信息准确。误汇或附言错误可能导致延迟或资金损失。"
       },
       "section4": {
-        "title": "4. OUTBOUND PAYMENTS",
-        "content1": "4.1 You may initiate outbound payments from your Custodian Account to external bank accounts via the Virtual Account system, subject to applicable fees, cut-off times, and anti-fraud checks.",
-        "content2": "4.2 Transfers may be rejected or delayed due to:",
-        "reason1": "Compliance flags;",
-        "reason2": "Sanction screening;",
-        "reason3": "Insufficient documentation or transaction justification.",
-        "content3": "4.3 All outbound instructions are deemed final once submitted. You acknowledge that fiat payment networks are not reversible and UpFinance cannot guarantee recovery of misdirected funds."
+        "title": "4. 对外付款",
+        "content1": "4.1 您可通过虚拟账户系统从托管账户向外部银行账户发起付款，但须遵守适用费用、截止时间及反欺诈检查。",
+        "content2": "4.2 转账可能因以下原因被拒绝或延迟：",
+        "reason1": "合规预警；",
+        "reason2": "制裁筛查；",
+        "reason3": "文件不足或交易用途说明不足。",
+        "content3": "4.3 所有对外付款指令一经提交即视为最终指令。您确认法币支付网络通常不可逆，UpFinance 无法保证追回误转资金。"
       },
       "section5": {
-        "title": "5. FEES AND CONVERSIONS",
-        "content1": "5.1 Virtual Account usage may be subject to:",
-        "fee1": "Deposit and withdrawal fees;",
-        "fee2": "FX conversion margins (if applicable);",
-        "fee3": "Third-party banking and processing charges.",
-        "content2": "5.2 Fees are disclosed in the current Fee Schedule and may be amended from time to time. You agree to pay all applicable fees in full and authorize UpFinance to deduct such fees from your Custodian Account."
+        "title": "5. 费用与换汇",
+        "content1": "5.1 使用虚拟账户可能产生：",
+        "fee1": "入金与出金费用；",
+        "fee2": "外汇换算价差（如适用）；",
+        "fee3": "第三方银行及处理费用。",
+        "content2": "5.2 费用以现行费率表披露为准，并可能不时调整。您同意全额支付全部适用费用，并授权 UpFinance 从您的托管账户扣除。"
       },
       "section6": {
-        "title": "6. ACCOUNT LIMITATIONS AND MONITORING",
-        "content1": "6.1 Virtual Accounts are provided on a best-effort basis. Service may be disrupted due to partner outages, regulatory directives, or banking policy changes.",
-        "content2": "6.2 We reserve the right to:",
-        "right1": "Impose transaction limits or velocity controls;",
-        "right2": "Require justification for high-value or unusual transactions;",
-        "right3": "Freeze or reverse specific entries pending review.",
-        "content3": "6.3 You agree to provide full cooperation in any inquiry or investigation related to Virtual Account activity."
+        "title": "6. 账户限制与监控",
+        "content1": "6.1 虚拟账户按“尽力而为”原则提供。服务可能因合作方中断、监管指令或银行政策变化而受影响。",
+        "content2": "6.2 我们保留以下权利：",
+        "right1": "设置交易限额或频率控制；",
+        "right2": "要求对大额或异常交易提供说明；",
+        "right3": "在复核期间冻结或冲正特定入账/出账。",
+        "content3": "6.3 您同意就与虚拟账户活动相关的任何询问或调查予以充分配合。"
       },
       "section7": {
-        "title": "7. TERMINATION",
-        "content1": "7.1 Your access to a Virtual Account may be terminated:",
-        "reason1": "Upon closure of your Custodian Account;",
-        "reason2": "If you fail to comply with onboarding or ongoing verification;",
-        "reason3": "At the instruction of the issuing financial institution.",
-        "content2": "7.2 Upon termination, any residual balances will be reconciled and returned in accordance with our standard offboarding and compliance protocols."
+        "title": "7. 终止",
+        "content1": "7.1 您对虚拟账户的访问权限可在以下情形终止：",
+        "reason1": "您的托管账户关闭；",
+        "reason2": "您未遵守开户或持续核验要求；",
+        "reason3": "签发金融机构指示终止。",
+        "content2": "7.2 终止后，任何剩余余额将按我们的标准离场与合规流程进行对账并返还。"
       }
     },
     "partF": {
-      "title": "PART F: THIRD-PARTY SERVICES",
+      "title": "F 部分：第三方服务",
       "section1": {
-        "title": "1. SCOPE",
-        "content1": "1.1 This Part F governs your access to and use of any third-party services, platforms, applications, or tools (\"Third-Party Services\") that are made available through or integrated with the UpFinance ecosystem.",
-        "content2": "1.2 By interacting with any Third-Party Services through UpFinance, you acknowledge that:",
-        "acknowledgment1": "Such services are operated by independent third-party providers;",
-        "acknowledgment2": "UpFinance does not control, endorse, or assume liability for these services;",
-        "acknowledgment3": "You are solely responsible for reviewing and agreeing to the third party's terms and policies."
+        "title": "1. 适用范围",
+        "content1": "1.1 本 F 部分适用于您访问和使用通过 UpFinance 生态提供或集成的任何第三方服务、平台、应用或工具（“第三方服务”）。",
+        "content2": "1.2 通过 UpFinance 与任何第三方服务交互，即表示您确认：",
+        "acknowledgment1": "该等服务由独立第三方提供方运营；",
+        "acknowledgment2": "UpFinance 不控制、不背书且不就该等服务承担责任；",
+        "acknowledgment3": "您应自行审阅并同意第三方条款与政策。"
       },
       "section2": {
-        "title": "2. ACCESS AND INTEGRATION",
-        "content1": "2.1 Third-Party Services may be accessed via APIs, embedded interfaces, deep links, wallet connectors, or data-sharing protocols provided through UpFinance's platform.",
-        "content2": "2.2 These may include, without limitation:",
-        "service1": "Trading platforms or DEX aggregators;",
-        "service2": "Lending or staking applications;",
-        "service3": "Decentralized identity or KYC providers;",
-        "service4": "Tax reporting or accounting software;",
-        "service5": "Payment processors or fiat gateways.",
-        "content3": "2.3 UpFinance reserves the right to enable, restrict, or discontinue any Third-Party Service integration at its sole discretion."
+        "title": "2. 访问与集成",
+        "content1": "2.1 第三方服务可通过 UpFinance 平台提供的 API、嵌入式界面、深度链接、钱包连接器或数据共享协议接入。",
+        "content2": "2.2 该等服务可能包括但不限于：",
+        "service1": "交易平台或 DEX 聚合器；",
+        "service2": "借贷或质押应用；",
+        "service3": "去中心化身份或 KYC 服务商；",
+        "service4": "税务申报或会计软件；",
+        "service5": "支付处理商或法币网关。",
+        "content3": "2.3 UpFinance 保留自行决定启用、限制或终止任何第三方服务集成的权利。"
       },
       "section3": {
-        "title": "3. RISK AND DUE DILIGENCE",
-        "content1": "3.1 You acknowledge that Third-Party Services may:",
-        "risk1": "Be subject to different laws, regulations, or compliance standards;",
-        "risk2": "Present operational, financial, technological, or reputational risks;",
-        "risk3": "Interact with your wallet or Custodian Account with elevated permissions.",
-        "content2": "3.2 You agree to perform your own due diligence before using any Third-Party Service and to assume full responsibility for any resulting loss or liability.",
-        "content3": "3.3 UpFinance makes no warranties or guarantees regarding:",
-        "warranty1": "The performance, reliability, or accuracy of third-party tools;",
-        "warranty2": "The safety or legality of smart contracts operated by third parties;",
-        "warranty3": "The data handling practices of such providers."
+        "title": "3. 风险与尽职调查",
+        "content1": "3.1 您确认第三方服务可能：",
+        "risk1": "受不同法律、监管或合规标准约束；",
+        "risk2": "带来运营、财务、技术或声誉风险；",
+        "risk3": "以较高权限与您的钱包或托管账户交互。",
+        "content2": "3.2 您同意在使用任何第三方服务前自行完成尽职调查，并对由此产生的任何损失或责任承担全部责任。",
+        "content3": "3.3 对于以下事项，UpFinance 不作任何保证：",
+        "warranty1": "第三方工具的性能、稳定性或准确性；",
+        "warranty2": "第三方运营智能合约的安全性或合法性；",
+        "warranty3": "该等服务商的数据处理实践。"
       },
       "section4": {
-        "title": "4. DATA SHARING AND CONSENTS",
-        "content1": "4.1 You authorize UpFinance to share certain personal, transactional, or compliance data with third-party providers as required to enable or support the requested service.",
-        "content2": "4.2 Such data sharing will be governed by:",
-        "governance1": "The specific consent you provide at the time of activation;",
-        "governance2": "Our Privacy Policy;",
-        "governance3": "Applicable data protection regulations.",
-        "content3": "4.3 You may revoke access or unlink a Third-Party Service at any time via the settings or integrations dashboard."
+        "title": "4. 数据共享与同意",
+        "content1": "4.1 为实现或支持您请求的服务，您授权 UpFinance 向第三方服务商共享必要的个人、交易或合规数据。",
+        "content2": "4.2 此类数据共享受以下规则约束：",
+        "governance1": "您在启用时作出的具体授权同意；",
+        "governance2": "我们的《隐私政策》；",
+        "governance3": "适用的数据保护法规。",
+        "content3": "4.3 您可随时在设置或集成面板撤销授权或解绑第三方服务。"
       },
       "section5": {
-        "title": "5. FEES AND COMMISSIONS",
-        "content1": "5.1 Use of Third-Party Services may incur additional fees, including but not limited to:",
-        "fee1": "API access or usage fees;",
-        "fee2": "Platform commissions or referral markups;",
-        "fee3": "Subscription or service charges by the provider.",
-        "content2": "5.2 Where applicable, UpFinance may earn referral income or share in fees collected by third parties, as disclosed from time to time.",
-        "content3": "5.3 You acknowledge that fee structures and billing mechanisms are governed by the third-party provider and are beyond UpFinance's control."
+        "title": "5. 费用与佣金",
+        "content1": "5.1 使用第三方服务可能产生额外费用，包括但不限于：",
+        "fee1": "API 接入或使用费；",
+        "fee2": "平台佣金或推荐加价；",
+        "fee3": "服务商收取的订阅费或服务费。",
+        "content2": "5.2 在适用情况下，UpFinance 可能获得推荐收益或参与第三方费用分成，具体将不时披露。",
+        "content3": "5.3 您确认费用结构与计费机制由第三方服务商决定，且不受 UpFinance 控制。"
       },
       "section6": {
-        "title": "6. LIABILITY AND DISCLAIMERS",
-        "content1": "6.1 UpFinance shall not be liable for:",
-        "liability1": "Any direct or indirect loss arising from your use of Third-Party Services;",
-        "liability2": "Contractual breaches, fraud, or misconduct by the third-party provider;",
-        "liability3": "Unauthorized access, data breaches, or downtime associated with the service.",
-        "content2": "6.2 All Third-Party Services are provided on an \"AS IS\" and \"AS AVAILABLE\" basis without warranties of any kind, express or implied."
+        "title": "6. 责任与免责声明",
+        "content1": "6.1 对于以下事项，UpFinance 不承担责任：",
+        "liability1": "因您使用第三方服务产生的任何直接或间接损失；",
+        "liability2": "第三方服务商的违约、欺诈或不当行为；",
+        "liability3": "与该服务相关的未授权访问、数据泄露或停机。",
+        "content2": "6.2 所有第三方服务均按“现状（AS IS）”和“可用（AS AVAILABLE）”原则提供，不作任何明示或默示保证。"
       },
       "section7": {
-        "title": "7. TERMINATION",
-        "content1": "7.1 We may suspend or terminate access to a Third-Party Service if:",
-        "reason1": "Required by law or regulatory directive;",
-        "reason2": "The provider ceases operations or fails to meet our technical/integrity standards;",
-        "reason3": "You violate any term of this Part F.",
-        "content2": "7.2 Upon disconnection or termination:",
-        "consequence1": "All access rights to the affected Third-Party Service shall immediately cease;",
-        "consequence2": "You remain liable for any pending transactions, fees, or obligations."
+        "title": "7. 终止",
+        "content1": "7.1 在以下情形下，我们可暂停或终止您对第三方服务的访问：",
+        "reason1": "法律或监管指令要求；",
+        "reason2": "服务商停止运营或未达到我们的技术/诚信标准；",
+        "reason3": "您违反本 F 部分任何条款。",
+        "content2": "7.2 断开或终止后：",
+        "consequence1": "您对受影响第三方服务的全部访问权将立即终止；",
+        "consequence2": "您仍须承担任何待处理交易、费用或其他义务。"
       }
     },
     "endOfTerms": {
-      "title": "END OF SERVICE-SPECIFIC TERMS",
-      "content": "The remaining provisions of these Terms, including the Definitions Section and Dispute Resolution Clause, continue to apply."
+      "title": "服务专项条款结束",
+      "content": "本条款其余条款（包括“定义”与“争议解决”）继续适用。"
     },
-    "copyright": "© 2025 UpGlobal Inc. All rights reserved. FinCEN MSB Reg. No. 31000308751680."
+    "copyright": "© 2025 UpGlobal Inc. 保留所有权利。FinCEN MSB 注册号：31000308751680。"
   },
   "kyc_aml_content": {
-    "title": "UpFinance ANTI-MONEY LAUNDERING (AML) AND KNOW-YOUR-CUSTOMER (KYC) POLICY",
-    "lastUpdated": "Oct 8, 2025",
-    "intro1": "This Anti-Money Laundering (\"AML\") and Know-Your-Customer (\"KYC\") Policy (\"Policy\") is issued by UpGlobal Inc., a corporation incorporated under the laws of the State of Delaware with its registered office at 8 The Green, Ste A, Dover, DE 19901, USA, doing business as UpFinance (\"we,\" \"us,\" or \"our\").",
-    "intro2": "The purpose of this Policy is to establish comprehensive governance, controls, and procedures to prevent money laundering, terrorist financing, proliferation financing, sanctions evasion, and related illicit financial activity.",
-    "intro3": "This Policy applies to all users, counterparties, employees, and partners of UpFinance and forms an integral part of our Terms of Use.",
+    "title": "UpFinance 反洗钱（AML）与了解你的客户（KYC）政策",
+    "lastUpdated": "2025年10月8日",
+    "intro1": "本《反洗钱（\"AML\"）与了解你的客户（\"KYC\"）政策》（\"本政策\"）由 UpGlobal Inc. 发布。UpGlobal Inc. 为依据美国特拉华州法律设立的公司，注册办公地址为 8 The Green, Ste A, Dover, DE 19901, USA，并以 UpFinance 名义开展业务（\"我们\"、\"本公司\"）。",
+    "intro2": "本政策旨在建立完善的治理、控制与操作流程，以防范洗钱、恐怖融资、扩散融资、规避制裁及其他相关非法金融活动。",
+    "intro3": "本政策适用于 UpFinance 的所有用户、交易对手、员工及合作伙伴，并构成《使用条款》的组成部分。",
     "section1": {
-      "title": "1. Legal and Regulatory Framework",
-      "content1": "UpFinance complies with all applicable U.S. laws and regulations, including the Bank Secrecy Act (BSA), USA PATRIOT Act, and related FinCEN rules (31 CFR §§ 1010-1023), as well as the Financial Action Task Force (FATF) Recommendations.",
-      "content2": "UpGlobal Inc. is registered with the U.S. Financial Crimes Enforcement Network (FinCEN) as a Money Services Business (MSB Reg. No. 31000308751680).",
-      "content3": "Where applicable, we coordinate with licensed custodial partners, including Merits Bank & Trust Limited (Hong Kong — TCSP Licence No. TC008817), which operate under their respective regulatory regimes."
+      "title": "1. 法律与监管框架",
+      "content1": "UpFinance 遵守所有适用的美国法律法规，包括《银行保密法》（BSA）、《美国爱国者法案》、相关 FinCEN 规则（31 CFR §§ 1010-1023）以及 FATF（金融行动特别工作组）建议。",
+      "content2": "UpGlobal Inc. 已在美国金融犯罪执法网络（FinCEN）注册为货币服务企业（MSB Reg. No. 31000308751680）。",
+      "content3": "在适用情况下，我们与持牌托管合作方协同运作，包括 Merits Bank & Trust Limited（香港—TCSP 牌照编号 TC008817），并遵守其各自监管框架。"
     },
     "section2": {
-      "title": "2. Risk-Based Approach (RBA)",
-      "content1": "We employ a risk-based approach consistent with FATF guidance and FinCEN expectations. Customers are risk-classified based on geographic origin, business nature, transaction patterns, source of funds, and PEP/sanctions status. ",
-      "content2": "Enhanced Due Diligence (EDD) is applied to high-risk profiles, including those from higher-risk jurisdictions or with complex structures or unusual behavior."
+      "title": "2. 风险为本方法（RBA）",
+      "content1": "我们采用符合 FATF 指引与 FinCEN 监管预期的风险为本方法。客户将基于地域来源、业务性质、交易模式、资金来源以及 PEP/制裁状态进行风险分级。",
+      "content2": "对于高风险画像（包括来自高风险司法辖区或具有复杂结构/异常行为的客户），将实施强化尽职调查（EDD）。"
     },
     "section3": {
-      "title": "3. Customer Due Diligence (CDD)",
-      "intro": "CDD is mandatory before establishing any relationship or enabling transactions. It includes:",
-      "requirement1": "Verification of identity via government ID and, where permitted, biometric checks;",
-      "requirement2": "Collection of residential address, nationality, date of birth, and contact details;",
-      "requirement3": "Verification of source of funds and source of wealth;",
-      "requirement4": "Sanctions screening against OFAC, UN, EU, and other lists;",
-      "requirement5": "Determination of Ultimate Beneficial Ownership (UBO) for entities.",
-      "content": "No services are provided to individuals or entities failing to meet CDD standards. All data is handled in accordance with our Privacy Policy and applicable data-protection laws."
+      "title": "3. 客户尽职调查（CDD）",
+      "intro": "在建立任何业务关系或启用交易前，必须完成 CDD，包括：",
+      "requirement1": "通过政府签发证件进行身份核验，并在法律允许范围内进行生物识别核验；",
+      "requirement2": "收集居住地址、国籍、出生日期及联系方式；",
+      "requirement3": "核验资金来源与财富来源；",
+      "requirement4": "对 OFAC、联合国、欧盟及其他名单进行制裁筛查；",
+      "requirement5": "对机构客户识别最终受益所有人（UBO）。",
+      "content": "未达到 CDD 标准的个人或实体将无法获得服务。所有数据均依据我们的《隐私政策》及适用数据保护法律处理。"
     },
     "section4": {
-      "title": "4. Ongoing Monitoring",
-      "intro": "UpFinance uses automated and manual controls to monitor transactions and behavior continuously, including:",
-      "item1": "Screening against updated sanctions and PEP lists;",
-      "item2": "Review of activity against typologies of fraud and money laundering;",
-      "item3": "Triggering alerts on threshold breaches or anomalies;",
-      "item4": "Periodic re-verification of customer information.",
-      "content": "Suspicious activity is documented, escalated internally, and may be reported to FinCEN or other competent authorities as required by law."
+      "title": "4. 持续监测",
+      "intro": "UpFinance 通过自动化与人工控制持续监测交易及行为，包括：",
+      "item1": "依据更新后的制裁名单与 PEP 名单进行筛查；",
+      "item2": "按欺诈与洗钱典型特征审查账户活动；",
+      "item3": "对阈值触发或异常行为生成预警；",
+      "item4": "定期复核客户信息。",
+      "content": "可疑活动将被记录并进行内部升级处理；在法律要求下，可能向 FinCEN 或其他有权机关报告。"
     },
     "section5": {
-      "title": "5. Recordkeeping and Reporting",
-      "content": "All records related to CDD, transactions, communications, and internal reviews are retained for a minimum of seven (7) years after account closure or final activity, consistent with 31 CFR § 1010.430. UpFinance files Suspicious Activity Reports (SARs) or Currency Transaction Reports (CTRs) when required and cooperates fully with law-enforcement and regulatory requests."
+      "title": "5. 记录保存与报告",
+      "content": "与 CDD、交易、沟通及内部审查相关的全部记录，将在账户关闭或最终活动后至少保存七（7）年，以符合 31 CFR § 1010.430 要求。法律要求时，UpFinance 将提交可疑活动报告（SAR）或大额现金交易报告（CTR），并全面配合执法与监管请求。"
     },
     "section6": {
-      "title": "6. Training and Governance",
-      "content1": "All personnel receive annual AML/KYC training covering red flags, typologies, and reporting obligations.",
-      "content2": "A designated Compliance Officer oversees program implementation, monitors effectiveness, and reports directly to the Board of Directors.",
-      "content3": "This Policy is reviewed at least annually and updated to reflect new regulations and emerging risks."
+      "title": "6. 培训与治理",
+      "content1": "所有员工每年接受 AML/KYC 培训，内容涵盖风险信号、典型模式与报告义务。",
+      "content2": "由指定合规负责人监督项目执行与有效性，并直接向董事会汇报。",
+      "content3": "本政策至少每年审查一次，并根据新法规与新兴风险及时更新。"
     },
     "section7": {
-      "title": "7. Prohibited Clients and Activities",
-      "intro": "UpFinance does not onboard clients who:",
-      "prohibition1": "Reside in or are nationals of jurisdictions under comprehensive U.S. OFAC or UN sanctions;",
-      "prohibition2": "Appear on OFAC SDN, EU Consolidated, or UN lists;",
-      "prohibition3": "Refuse to provide required information or submit false documents; or",
-      "prohibition4": "Are suspected of laundering, fraud, terrorist financing, or sanctions evasion.",
-      "intro2": "We also prohibit use of the Services for:",
-      "prohibition5": "Mixing or tumbling transactions without legitimate purpose;",
-      "prohibition6": "Facilitating ransomware payments; or",
-      "prohibition7": "Anonymous or synthetic-identity usage."
+      "title": "7. 禁止客户与禁止活动",
+      "intro": "UpFinance 不接纳以下客户：",
+      "prohibition1": "居住于或属于受美国 OFAC 或联合国全面制裁的司法辖区的个人/实体；",
+      "prohibition2": "列入 OFAC SDN、欧盟综合名单或联合国名单的个人/实体；",
+      "prohibition3": "拒绝提供必要信息或提交虚假材料者；或",
+      "prohibition4": "涉嫌洗钱、欺诈、恐怖融资或规避制裁者。",
+      "intro2": "我们同样禁止将服务用于：",
+      "prohibition5": "无正当目的的混币或交易混淆行为；",
+      "prohibition6": "协助勒索软件相关支付；或",
+      "prohibition7": "匿名身份或合成身份使用。"
     },
     "section8": {
-      "title": "8. Cooperation and Audit",
-      "content1": "UpFinance cooperates with regulators, auditors, and licensed partners (including Merits Bank & Trust) to ensure audit readiness and transparency.",
-      "content2": " Authorized auditors and regulators may inspect our AML controls under confidentiality obligations."
+      "title": "8. 协作与审计",
+      "content1": "UpFinance 与监管机构、审计方及持牌合作伙伴（包括 Merits Bank & Trust）保持协作，以确保审计可用性与运营透明度。",
+      "content2": "在保密义务约束下，经授权的审计方与监管机构可检查我们的 AML 控制体系。"
     },
     "footer": {
-      "copyright": "© 2025 UpGlobal Inc. All rights reserved.",
-      "registration": "Registered with FinCEN as a Money Services Business (MSB Reg. No. 31000308751680)."
+      "copyright": "© 2025 UpGlobal Inc. 保留所有权利。",
+      "registration": "已在 FinCEN 注册为货币服务企业（MSB Reg. No. 31000308751680）。"
     }
   },
   "privacy_content": {
-    "title": "UpFinance PRIVACY POLICY",
-    "intro": "This Privacy Policy explains how UpGlobal Inc., a corporation incorporated under the laws of the State of Delaware, U.S.A., with its registered office at 8 The Green, Ste A, Dover, DE 19901 (doing business as UpFinance, \"we,\" \"us,\" or \"our\"), collects, uses, stores, transfers, and safeguards personal data in connection with our services.\n It applies to individuals who access or use any part of the UpFinance ecosystem, including our websites, mobile applications, APIs, custodial and non-custodial wallets, card services, and virtual accounts (collectively, the \"Services\").",
+    "title": "UpFinance 隐私政策",
+    "intro": "本隐私政策说明 UpGlobal Inc.（依据美国特拉华州法律设立，注册办公地址为 8 The Green, Ste A, Dover, DE 19901，并以 UpFinance 名义开展业务，以下称“我们”）如何在服务相关场景中收集、使用、存储、传输与保护个人数据。\n本政策适用于访问或使用 UpFinance 生态任一部分的个人，包括网站、移动应用、API、托管与非托管钱包、卡服务及虚拟账户（统称“服务”）。",
     "section1": {
-      "title": "1. Data Controller",
-      "content": "UpGlobal Inc. acts as the data controller for processing activities described in this Policy. \n For custodial and settlement functions provided by Merits Bank & Trust Limited (Hong Kong — TCSP Licence No. TC008817), that institution acts as an independent or joint data controller for its respective regulated obligations. \n All privacy inquiries may be directed to our Data Protection Officer at legal@upfinance.ai."
+      "title": "1. 数据控制者",
+      "content": "对于本政策所述处理活动，UpGlobal Inc. 为数据控制者。\n对于由 Merits Bank & Trust Limited（香港—TCSP 牌照编号 TC008817）提供的托管与结算功能，该机构将依据其监管义务担任独立或共同数据控制者。\n与隐私相关的咨询可发送至我们的数据保护负责人邮箱：legal@upfinance.ai。"
     },
     "section2": {
-      "title": "2. Categories of Personal Data Collected",
-      "intro": "We collect and process the following categories of personal data:",
-      "identityInfo": "Identity Information: name, date of birth, nationality, identification documents (e.g., passport or ID), and biometric identifiers (where permitted by law);",
-      "contactInfo": "Contact Information: address, email, telephone number;",
-      "financialData": "Financial and Transactional Data: wallet addresses, payment-card details (masked or tokenized), bank account numbers, and records of fiat and digital-asset transactions;",
-      "deviceData": "Device and Technical Data: IP address, browser type, device IDs, session logs, and metadata about usage;",
-      "behavioralData": "Behavioral and Analytics Data: user interactions, clickstream activity, support transcripts, and session recordings;",
-      "marketingData": "Marketing and Communication Data: subscription status and preferences;",
-      "complianceData": "Compliance Data: employment background, source of funds, sanctions and PEP screening results.",
-      "ageNotice": "We do not knowingly collect personal data from anyone under 18. If such data is discovered, it will be deleted promptly."
+      "title": "2. 收集的个人数据类别",
+      "intro": "我们会收集并处理以下类别的个人数据：",
+      "identityInfo": "身份信息：姓名、出生日期、国籍、身份证明文件（如护照或身份证）以及在法律允许情况下的生物识别信息；",
+      "contactInfo": "联系方式：地址、电子邮箱、电话号码；",
+      "financialData": "金融与交易数据：钱包地址、支付卡信息（脱敏或令牌化处理）、银行账号、法币与数字资产交易记录；",
+      "deviceData": "设备与技术数据：IP 地址、浏览器类型、设备标识符、会话日志及使用元数据；",
+      "behavioralData": "行为与分析数据：用户交互、点击流行为、客服沟通记录与会话记录；",
+      "marketingData": "营销与沟通数据：订阅状态与偏好设置；",
+      "complianceData": "合规数据：职业背景、资金来源、制裁筛查与 PEP 筛查结果。",
+      "ageNotice": "我们不会有意收集 18 岁以下人士的个人数据。一经发现将及时删除。"
     },
     "section3": {
-      "title": "3. Purposes for Processing",
-      "intro": "We process personal data only where lawful and necessary, including:",
-      "purpose1": "Verifying identity and performing AML/CFT screening as required by law;",
-      "purpose2": "Registering and providing access to the Services (wallets, cards, swaps, accounts);",
-      "purpose3": "Detecting and investigating fraudulent or suspicious activity;",
-      "purpose4": "Maintaining and optimizing system performance;",
-      "purpose5": "Sending administrative and transactional communications;",
-      "purpose6": "Meeting statutory record-keeping and reporting obligations;",
-      "purpose7": "Conducting automated risk assessments and eligibility checks."
+      "title": "3. 处理目的",
+      "intro": "我们仅在合法且必要的情形下处理个人数据，包括：",
+      "purpose1": "依法进行身份核验及 AML/CFT 筛查；",
+      "purpose2": "完成注册并提供服务访问（钱包、卡、兑换、账户等）；",
+      "purpose3": "识别并调查欺诈或可疑活动；",
+      "purpose4": "维护并优化系统性能；",
+      "purpose5": "发送管理类与交易类通知；",
+      "purpose6": "履行法定记录保存与报告义务；",
+      "purpose7": "执行自动化风险评估与资格审查。"
     },
     "section4": {
-      "title": "4. Legal Basis for Processing",
-      "intro": "Processing is carried out on the following grounds:",
-      "basis1": "Your explicit consent (for example, marketing or biometric processing);",
-      "basis2": "Performance of a contract (the Terms of Use and related services);",
-      "basis3": "Compliance with legal obligations (e.g., AML laws and FinCEN rules);",
-      "basis4": "Protection of vital interests;",
-      "basis5": "Our legitimate business interests, balanced against your rights."
+      "title": "4. 处理的法律依据",
+      "intro": "我们基于以下法律依据开展处理：",
+      "basis1": "您明确同意（如营销推送或生物识别处理）；",
+      "basis2": "履行合同所必需（《使用条款》及相关服务）；",
+      "basis3": "履行法定义务所必需（如 AML 法规与 FinCEN 规则）；",
+      "basis4": "保护重大利益所必需；",
+      "basis5": "在平衡您权利基础上的我们的合法商业利益。"
     },
     "section5": {
-      "title": "5. Data Retention",
-      "intro": "We retain personal data only as long as necessary for its purpose or to meet legal requirements. Typical periods include:",
-      "retention1": "KYC/AML data: minimum 7 years after account closure;",
-      "retention2": "Technical logs: 30–180 days;",
-      "retention3": "Marketing opt-out records: indefinitely (to honor preferences);",
-      "retention4": "Support records: up to 3 years after resolution, unless longer needed for legal reasons."
+      "title": "5. 数据保留期限",
+      "intro": "我们仅在实现处理目的或满足法律要求所必需的期限内保留个人数据，典型期限包括：",
+      "retention1": "KYC/AML 数据：账户关闭后至少 7 年；",
+      "retention2": "技术日志：30–180 天；",
+      "retention3": "营销退订记录：长期保留（用于尊重偏好设置）；",
+      "retention4": "客服记录：问题关闭后最多 3 年；若法律另有要求可延长。"
     },
     "section6": {
-      "title": "6. Disclosure of Personal Data to Third Parties",
-      "intro": "We share personal data only on a need-to-know basis with:",
-      "recipient1": "Licensed custodial partners (e.g., Merits Bank & Trust Limited) for safeguarding and settlement;",
-      "recipient2": "Service providers for KYC/AML screening, cloud hosting, analytics, and communications;",
-      "recipient3": "Regulatory and law-enforcement authorities when required by law or court order;",
-      "recipient4": "Professional advisors (audit, tax, legal) under confidentiality duties.",
-      "disclosureNote": "All transfers are governed by contractual data-protection clauses and confidentiality obligations."
+      "title": "6. 向第三方披露个人数据",
+      "intro": "我们仅在“必要知悉”原则下与以下对象共享个人数据：",
+      "recipient1": "持牌托管合作方（如 Merits Bank & Trust Limited），用于资产托管与结算；",
+      "recipient2": "提供 KYC/AML 筛查、云托管、分析与通信服务的服务提供商；",
+      "recipient3": "在法律或法院命令要求下的监管与执法机构；",
+      "recipient4": "承担保密义务的专业顾问（审计、税务、法律）。",
+      "disclosureNote": "所有数据传输均受合同性数据保护条款与保密义务约束。"
     },
     "section7": {
-      "title": "7. International Transfers of Data",
-      "intro": "Your personal data may be transferred to and processed in countries that may not offer the same level of protection. We apply appropriate safeguards, including:",
-      "safeguard1": "Standard Contractual Clauses or other approved transfer mechanisms;",
-      "safeguard2": "Transfers to jurisdictions recognized as adequate;",
-      "safeguard3": "Your explicit consent where required.",
-      "complianceNote": "All cross-border transfers comply with applicable data-protection law."
+      "title": "7. 数据跨境传输",
+      "intro": "您的个人数据可能被传输并处理于保护水平不完全相同的国家/地区。我们将采取适当保障措施，包括：",
+      "safeguard1": "标准合同条款（SCC）或其他获批准的传输机制；",
+      "safeguard2": "传输至被认定为具备充分保护水平的司法辖区；",
+      "safeguard3": "在法律要求时取得您的明确同意。",
+      "complianceNote": "所有跨境传输均遵守适用的数据保护法律。"
     },
     "section8": {
-      "title": "8. Rights of Data Subjects",
-      "intro": "You may have the right to:",
-      "right1": "Access and obtain a copy of your personal data;",
-      "right2": "Request correction or deletion;",
-      "right3": "Restrict or object to processing;",
-      "right4": "Request data portability (where technically feasible);",
-      "right5": "Withdraw consent at any time without affecting prior processing.",
-      "contactInfo": "To exercise these rights, contact legal@upfinance.ai. We may require identity verification before acting on requests."
+      "title": "8. 数据主体权利",
+      "intro": "您可能享有以下权利：",
+      "right1": "访问并获取个人数据副本；",
+      "right2": "请求更正或删除；",
+      "right3": "限制处理或提出异议；",
+      "right4": "在技术可行时请求数据可携带；",
+      "right5": "随时撤回同意（不影响撤回前处理的合法性）。",
+      "contactInfo": "如需行使上述权利，请联系 legal@upfinance.ai。我们在处理请求前可能要求身份核验。"
     },
     "section9": {
-      "title": "9. Cookies and Tracking Technologies",
-      "content": "We use cookies and similar technologies to enable site functionality, analyze usage, and prevent fraud. You can manage non-essential cookies through browser settings. Disabling certain cookies may limit service features."
+      "title": "9. Cookie 与追踪技术",
+      "content": "我们使用 Cookie 及类似技术以支持站点功能、分析使用情况并防范欺诈。您可通过浏览器设置管理非必要 Cookie。禁用部分 Cookie 可能影响某些服务功能。"
     },
     "section10": {
-      "title": "10. Security of Personal Data",
-      "intro": "We employ industry-standard technical and organizational measures, including:",
-      "measure1": "Encryption in transit and at rest;",
-      "measure2": "Role-based access controls and multi-factor authentication;",
-      "measure3": "Regular security audits and penetration tests; and",
-      "measure4": "Documented incident-response procedures.",
-      "securityNote": "No system is completely secure. Users should safeguard their credentials and notify us promptly of suspected breaches."
+      "title": "10. 个人数据安全",
+      "intro": "我们采用行业标准的技术与组织措施，包括：",
+      "measure1": "传输中与静态存储数据加密；",
+      "measure2": "基于角色的访问控制与多因素认证；",
+      "measure3": "定期安全审计与渗透测试；",
+      "measure4": "成文的安全事件响应流程。",
+      "securityNote": "任何系统都无法做到绝对安全。用户应妥善保管凭证，并在怀疑发生安全事件时及时通知我们。"
     },
     "section11": {
-      "title": "11. Breach Notification",
-      "content": "If a data breach is likely to pose a high risk to individual rights or freedoms, we will notify affected users and relevant authorities without undue delay as required by law."
+      "title": "11. 数据泄露通知",
+      "content": "若数据泄露可能对个人权利与自由造成高风险，我们将依法在不不当延迟的前提下通知受影响用户及相关主管机构。"
     },
     "section12": {
-      "title": "12. Updates to This Policy",
-      "content": "We may update this Privacy Policy to reflect changes in law or operations. Material changes will be communicated via official channels and take effect upon publication. Continued use of the Services constitutes acceptance of the revised Policy."
+      "title": "12. 本政策更新",
+      "content": "我们可能因法律或运营变化更新本隐私政策。重大更新将通过官方渠道通知，并自发布之日起生效。您继续使用服务即表示接受更新后的政策。"
     },
     "section13": {
-      "title": "13. Regulatory Reference and Contact",
-      "content1": "UpFinance operates under the brand of UpGlobal Inc., registered with the U.S. Financial Crimes Enforcement Network (FinCEN) as a Money Services Business (MSB Reg. No. 31000308751680).",
-      "content2": "For questions about this Policy or your data rights, please email legal@upfinance.ai."
+      "title": "13. 监管信息与联系方式",
+      "content1": "UpFinance 以 UpGlobal Inc. 品牌运营。UpGlobal Inc. 已在美国 FinCEN 注册为货币服务企业（MSB Reg. No. 31000308751680）。",
+      "content2": "如对本政策或您的数据权利有疑问，请发送邮件至 legal@upfinance.ai。"
     }
   }
 }

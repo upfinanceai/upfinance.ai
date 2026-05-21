@@ -259,691 +259,691 @@
     "submit_success": "تم الإرسال بنجاح. سنتواصل معك قريبًا."
   },
   "terms_content": {
-    "title": "UpFinance SERVICES TERMS & CONDITIONS",
-    "legalNotice": "THIS IS A LEGALLY BINDING DOCUMENT. PLEASE READ IT CAREFULLY.",
-    "intro1": "These Terms and Conditions (\"Terms\") constitute a legally binding agreement between you (the \"User\" or \"you\") and UpGlobal Inc., a corporation incorporated in Delaware, having its registered office at 8 The Green Ste A Dover, DE 19901, in the City of Dover, County of Kent, Zip Code 19901. \"UpFinance\" is a registered trademark and the primary commercial brand operated by UpGlobal Inc. for the delivery of its digital financial services. References in these Terms to \"UpFinance\", \"we\", \"us\", or \"our\" shall be construed as references to UpGlobal Inc. in its capacity as the legal entity behind the UpFinance platform.",
-    "intro2": "These Terms govern your access to and use of our Services (as defined herein), including but not limited to any website, mobile application, and associated financial products and tools operated under the UpFinance brand.",
-    "intro3": "By accessing, registering for, or using any part of the Services, you acknowledge that you have read, understood, and agreed to be bound by these Terms, together with any policies, disclosures, schedules, and notices incorporated by reference. If you do not agree with these Terms, you must not use or access any of the Services.",
+    "title": "الشروط والأحكام الخاصة بخدمات UpFinance",
+    "legalNotice": "هذا مستند ملزم قانونيًا. يُرجى قراءته بعناية.",
+    "intro1": "تشكل هذه الشروط والأحكام (\"الشروط\") اتفاقًا ملزمًا قانونيًا بينك (\"المستخدم\" أو \"أنت\") وبين شركة UpGlobal Inc.، وهي شركة مؤسسة في ولاية ديلاوير وعنوان مكتبها المسجل: 8 The Green Ste A Dover, DE 19901، في مدينة دوفر، مقاطعة كِنت، الرمز البريدي 19901. وتُعد \"UpFinance\" علامة تجارية مسجلة والعلامة التجارية الرئيسية التي تديرها UpGlobal Inc. لتقديم خدماتها المالية الرقمية. وتُفسَّر أي إشارة في هذه الشروط إلى \"UpFinance\" أو \"نحن\" أو \"لنا\" على أنها إشارة إلى UpGlobal Inc. بصفتها الكيان القانوني المشغّل لمنصة UpFinance.",
+    "intro2": "تنظم هذه الشروط وصولك إلى خدماتنا واستخدامك لها (على النحو المعرّف هنا)، بما في ذلك على سبيل المثال لا الحصر أي موقع إلكتروني أو تطبيق للهاتف المحمول والمنتجات والأدوات المالية المرتبطة التي تعمل تحت علامة UpFinance.",
+    "intro3": "من خلال الوصول إلى أي جزء من الخدمات أو التسجيل فيها أو استخدامها، فإنك تقر بأنك قرأت هذه الشروط وفهمتها ووافقت على الالتزام بها، إلى جانب أي سياسات أو إفصاحات أو جداول أو إشعارات مدمجة فيها بالإحالة. وإذا لم توافق على هذه الشروط، فيجب عليك عدم استخدام أي جزء من الخدمات أو الوصول إليه.",
     "part1": {
-      "title": "PART I: GENERAL TERMS AND CONDITIONS"
+      "title": "الجزء الأول: الشروط والأحكام العامة"
     },
     "section1": {
-      "title": "1. DEFINITIONS",
-      "content": "Unless the context otherwise requires, capitalized terms used in these Terms shall have the meanings assigned to them in the Definitions Section at the end of this document."
+      "title": "1. التعريفات",
+      "content": "ما لم يقتضِ السياق خلاف ذلك، يكون للمصطلحات المكتوبة بحروف كبيرة والمستخدمة في هذه الشروط المعاني المخصصة لها في قسم التعريفات الوارد في نهاية هذه الوثيقة."
     },
     "section2": {
-      "title": "2. SCOPE AND APPLICATION",
-      "content1": "2.1 These Terms apply to your Account and your use of the Services, including but not limited to: (a) the Custodian Account; (b) UpFinance Card Services; (c) Swap Transactions; (d) Wallet Services; (e) Virtual Accounts; and (f) access to or use of any Third-Party Services provided in conjunction with UpFinance.",
-      "content2": "2.2 These Terms are supplemented by any specific terms and conditions applicable to each Service module, as set out in Parts A–F. To the extent of any conflict between the General Terms and the terms of a Service-specific Part, the Service-specific terms shall prevail.",
-      "content3": "2.3 These Terms are governed by the laws of Delaware. Any disputes shall be subject to the exclusive jurisdiction of the courts or arbitral bodies of Delaware, unless otherwise provided in the Dispute Resolution Clause."
+      "title": "2. النطاق والتطبيق",
+      "content1": "2.1 تسري هذه الشروط على حسابك وعلى استخدامك للخدمات، بما في ذلك على سبيل المثال لا الحصر: (أ) حساب الحفظ؛ (ب) خدمات بطاقة UpFinance؛ (ج) معاملات المبادلة؛ (د) خدمات المحافظ؛ (هـ) الحسابات الافتراضية؛ و(و) الوصول إلى أي خدمات طرف ثالث مقدمة بالاقتران مع UpFinance أو استخدامها.",
+      "content2": "2.2 تُستكمل هذه الشروط بأي شروط وأحكام خاصة تنطبق على كل وحدة من وحدات الخدمة، كما هو مبين في الأجزاء A–F. وفي حال تعارض الشروط العامة مع شروط جزء خاص بخدمة معينة، تسود شروط الجزء الخاص بالخدمة.",
+      "content3": "2.3 تخضع هذه الشروط لقوانين ولاية ديلاوير. وتخضع أي منازعات للاختصاص الحصري للمحاكم أو هيئات التحكيم في ديلاوير، ما لم يُنص على خلاف ذلك في بند تسوية المنازعات."
     },
     "section3": {
-      "title": "3. LICENSING AND REGULATORY FRAMEWORK",
-      "content1": "3.1 U.S. FinCEN Registration. UpGlobal Inc is registered with the U.S. Financial Crimes Enforcement Network (FinCEN) as a Money Services Business under Registration No. 31000308751680 (Date on MSB transcript: Aug 28, 2025; Received date: Aug 25, 2025), with the registered business address 8 The Green, Ste A, Dover, DE 19901. FinCEN registration is a federal registration under the Bank Secrecy Act and does not constitute an approval or endorsement by FinCEN.",
-      "content2": "3.2 State Licensing: Certain money transmission or payment services may require state money transmitter licenses (MTLs). Availability of specific services can vary by state or territory and may be restricted, delayed, or provided via licensed partners until applicable licenses are obtained. Nothing in these Terms shall be construed as representing that UpGlobal Inc holds all state MTLs.",
-      "content3": "3.3 Intermediary & Partner Licensing: UpFinance may deliver regulated components of the Services through licensed third-party institutions. Custodial and settlement services may be facilitated through Merits Bank & Trust Limited, a Hong Kong licensed trust or company service provider (TCSP Licence No. TC008817). UpGlobal Inc does not itself conduct trust, custodial, or banking business.",
-      "content4": "3.4 Disclosure Obligation: The User acknowledges that UpFinance does not independently hold a financial license in the initial stage of operations. All Services are offered through Merits' regulated license under full disclosure.",
-      "content5": "3.5 Future Licensing: UpFinance reserves the right to acquire additional regulatory approvals or licenses in other jurisdictions and to migrate certain services to be conducted under its own license in due course."
+      "title": "3. الترخيص والإطار التنظيمي",
+      "content1": "3.1 تسجيل FinCEN في الولايات المتحدة: شركة UpGlobal Inc مسجلة لدى شبكة مكافحة الجرائم المالية الأمريكية (FinCEN) كمؤسسة خدمات مالية بموجب رقم التسجيل 31000308751680 (تاريخ بيان MSB: 28 أغسطس 2025؛ تاريخ الاستلام: 25 أغسطس 2025)، وعنوان النشاط المسجل هو 8 The Green, Ste A, Dover, DE 19901. ويُعد تسجيل FinCEN تسجيلًا فدراليًا بموجب قانون السرية المصرفية، ولا يُشكل موافقة أو تزكية من FinCEN.",
+      "content2": "3.2 التراخيص على مستوى الولايات: قد تتطلب بعض خدمات تحويل الأموال أو الدفع تراخيص محوّل أموال على مستوى الولاية (MTLs). وقد تختلف إتاحة خدمات محددة بحسب الولاية أو الإقليم، وقد تُقيَّد أو تتأخر أو تُقدَّم عبر شركاء مرخصين إلى حين الحصول على التراخيص اللازمة. ولا يجوز تفسير أي نص في هذه الشروط على أنه إقرار بأن UpGlobal Inc تمتلك جميع تراخيص MTL في الولايات.",
+      "content3": "3.3 ترخيص الوسطاء والشركاء: قد تقدم UpFinance مكونات خاضعة للتنظيم من الخدمات عبر مؤسسات طرف ثالث مرخصة. وقد تتم خدمات الحفظ والتسوية عبر Merits Bank & Trust Limited، وهي جهة مرخصة في هونغ كونغ كمقدم خدمات ائتمانية أو خدمات شركات (TCSP Licence No. TC008817). ولا تمارس UpGlobal Inc بنفسها أعمال الائتمان أو الحفظ أو الأعمال المصرفية.",
+      "content4": "3.4 التزام الإفصاح: يقر المستخدم بأن UpFinance لا تمتلك بشكل مستقل ترخيصًا ماليًا في المرحلة الأولية من التشغيل. ويتم تقديم جميع الخدمات عبر الترخيص المنظم لشركة Merits مع الإفصاح الكامل.",
+      "content5": "3.5 التراخيص المستقبلية: تحتفظ UpFinance بالحق في الحصول على موافقات تنظيمية أو تراخيص إضافية في ولايات قضائية أخرى، وفي نقل بعض الخدمات لتُدار بموجب ترخيصها الخاص في الوقت المناسب."
     },
     "section4": {
-      "title": "4. ACCOUNT OPENING AND ELIGIBILITY",
-      "intro": "4.1 To access and use the Services, you must:",
-      "requirement1": "Be at least eighteen (18) years of age;",
-      "requirement2": "Not be a citizen or resident of a jurisdiction where the use of the Services is prohibited by applicable laws or regulations;",
-      "requirement3": "Provide all required documentation and complete KYC/AML checks to the satisfaction of UpFinance or its designated compliance providers;",
-      "requirement4": "Have full legal capacity to enter into binding contracts.",
-      "content2": "4.2 We reserve the right to approve or reject any application at our sole discretion. We may suspend or terminate access to the Services in case of suspected breach of these Terms or violation of any applicable laws.",
-      "content3": "4.3 You agree that your Account is non-transferable, and you will not allow third parties to access or operate your Account.",
-      "content4": "4.4 You represent you are not located in, organized under the laws of, or ordinarily resident in any sanctioned jurisdiction, and you are not a sanctioned person (e.g., on any U.S. OFAC list). You will not use the Services for any activities prohibited by U.S. sanctions or export-control laws.",
-      "content5": "4.5 Prohibited/Restricted Jurisdictions may apply and can change."
+      "title": "4. فتح الحساب والأهلية",
+      "intro": "4.1 للوصول إلى الخدمات واستخدامها، يجب عليك:",
+      "requirement1": "أن تكون قد أتممت الثامنة عشرة (18) من العمر على الأقل؛",
+      "requirement2": "ألا تكون مواطنًا أو مقيمًا في ولاية قضائية يُحظر فيها استخدام الخدمات بموجب القوانين أو اللوائح المعمول بها؛",
+      "requirement3": "تقديم جميع المستندات المطلوبة وإتمام فحوص KYC/AML بما يرضي UpFinance أو مزودي الامتثال المعينين لديها؛",
+      "requirement4": "أن تكون متمتعًا بالأهلية القانونية الكاملة لإبرام عقود ملزمة.",
+      "content2": "4.2 نحتفظ بحق قبول أي طلب أو رفضه وفق تقديرنا المنفرد. ويجوز لنا تعليق أو إنهاء الوصول إلى الخدمات عند الاشتباه بخرق هذه الشروط أو مخالفة أي قوانين معمول بها.",
+      "content3": "4.3 توافق على أن حسابك غير قابل للتحويل، وأنك لن تسمح لأي طرف ثالث بالوصول إلى حسابك أو تشغيله.",
+      "content4": "4.4 تقر وتضمن أنك لست موجودًا في ولاية قضائية خاضعة للعقوبات، ولا منشأً وفق قوانينها، ولا مقيمًا فيها عادة، وأنك لست شخصًا خاضعًا للعقوبات (مثل الإدراج في أي قائمة OFAC أمريكية). كما تتعهد بعدم استخدام الخدمات في أي أنشطة محظورة بموجب قوانين العقوبات الأمريكية أو ضوابط التصدير.",
+      "content5": "4.5 قد تسري قيود أو حالات حظر تخص ولايات قضائية معينة، وقد تتغير بمرور الوقت."
     },
     "section5": {
-      "title": "5. SERVICE AVAILABILITY AND MODIFICATIONS",
-      "intro": "5.1 We reserve the right to:",
-      "right1": "Modify, suspend, or discontinue any part of the Services at any time;",
-      "right2": "Impose or change service limits;",
-      "right3": "Update our policies and features without prior notice unless otherwise required by law.",
-      "content2": "5.2 Your continued use of the Services constitutes acceptance of any changes made pursuant to this Section."
+      "title": "5. إتاحة الخدمات والتعديلات",
+      "intro": "5.1 نحتفظ بالحق في:",
+      "right1": "تعديل أي جزء من الخدمات أو تعليقه أو إيقافه في أي وقت؛",
+      "right2": "فرض حدود للخدمة أو تعديلها؛",
+      "right3": "تحديث سياساتنا وميزاتنا دون إشعار مسبق ما لم يتطلب القانون خلاف ذلك.",
+      "content2": "5.2 يشكل استمرارك في استخدام الخدمات قبولًا لأي تغييرات تُجرى بموجب هذا القسم."
     },
     "section6": {
-      "title": "6. FEES AND TAXATION",
-      "content1": "6.1 All applicable fees, charges, and commissions are disclosed in the Fee Schedule, which forms part of these Terms.",
-      "content2": "6.2 Fees may include (without limitation):",
-      "fee1": "Card issuance and annual maintenance fees;",
-      "fee2": "FX or swap spreads;",
-      "fee3": "Withdrawal, deposit, or top-up fees;",
-      "fee4": "Network and blockchain transaction costs;",
-      "content3": "6.3 Fees are exclusive of any applicable tax or withholding obligation. You are solely responsible for determining and fulfilling your tax liabilities in your jurisdiction of residence."
+      "title": "6. الرسوم والضرائب",
+      "content1": "6.1 تُفصح جميع الرسوم والمصاريف والعمولات المعمول بها في جدول الرسوم، والذي يُعد جزءًا من هذه الشروط.",
+      "content2": "6.2 قد تشمل الرسوم (دون حصر):",
+      "fee1": "رسوم إصدار البطاقة ورسوم الصيانة السنوية؛",
+      "fee2": "فروق أسعار الصرف أو فروق المبادلة؛",
+      "fee3": "رسوم السحب أو الإيداع أو شحن الرصيد؛",
+      "fee4": "تكاليف الشبكة ومعاملات البلوك تشين؛",
+      "content3": "6.3 الرسوم لا تشمل أي ضرائب واجبة التطبيق أو التزامات استقطاع. وتتحمل وحدك مسؤولية تحديد التزاماتك الضريبية في ولاية إقامتك والوفاء بها."
     },
     "section7": {
-      "title": "7. RISK DISCLOSURE",
-      "intro": "7.1 You acknowledge and accept that:",
-      "risk1": "Digital assets are highly volatile and speculative in nature;",
-      "risk2": "There is a risk of partial or total loss of your holdings;",
-      "risk3": "Blockchain transactions may be irreversible;",
-      "risk4": "Custodial or self-custody solutions may be subject to technological and cybersecurity risks;",
-      "content2": "7.2 You understand that UpFinance does not act as your financial advisor. All decisions made using the Services are undertaken at your sole discretion and risk.",
-      "content3": "7.3 UpGlobal Inc is not a bank, and Accounts are not FDIC-insured, unless expressly stated for a specific product."
+      "title": "7. الإفصاح عن المخاطر",
+      "intro": "7.1 تقر وتوافق على ما يلي:",
+      "risk1": "الأصول الرقمية شديدة التقلب وذات طبيعة مضاربية؛",
+      "risk2": "يوجد خطر فقدان حيازاتك جزئيًا أو كليًا؛",
+      "risk3": "قد تكون معاملات البلوك تشين غير قابلة للعكس؛",
+      "risk4": "قد تخضع حلول الحفظ أو الحفظ الذاتي لمخاطر تقنية ومخاطر أمن سيبراني؛",
+      "content2": "7.2 أنت تدرك أن UpFinance لا تعمل كمستشار مالي لك. وجميع القرارات المتخذة باستخدام الخدمات تتم وفق تقديرك المنفرد وعلى مسؤوليتك الخاصة.",
+      "content3": "7.3 شركة UpGlobal Inc ليست بنكًا، والحسابات ليست مؤمَّنة من FDIC، ما لم يُنص صراحةً على خلاف ذلك لمنتج محدد."
     },
     "section8": {
-      "title": "8. LIMITATION OF LIABILITY",
-      "content1": "8.1 To the fullest extent permitted by applicable law, the total aggregate liability of UpGlobal Inc and its respective affiliates, directors, officers, employees, agents, service providers, and licensors (collectively, the \"UpFinance Parties\") arising out of or in connection with these Terms or the Services shall not exceed the lesser of (a) the total amount of direct fees paid by the User to UpFinance in the six (6) months preceding the event giving rise to the claim, or (b) USD 100,000.",
-      "content2": "8.2 In no event shall any UpFinance Party be liable for any indirect, incidental, special, exemplary, punitive, or consequential damages, or for any loss of profits, revenue, goodwill, data, business opportunity, or anticipated savings, whether arising in contract, tort (including negligence), equity, strict liability, or otherwise, even if advised of the possibility of such damages.",
-      "content3": "8.3 UpFinance disclaims liability for any loss, delay, or damage arising from or related to the actions or omissions of any third-party service provider, including custodians, banks, payment processors, settlement agents, or blockchain networks, except to the extent such loss is caused solely by the gross negligence or willful misconduct of UpFinance as determined by a final, non-appealable judgment.",
-      "content4": "8.4 UpFinance shall not be liable for any failure or delay in performance resulting from events beyond its reasonable control, including acts of God, acts of civil or military authorities, war, terrorism, labor disputes, cyberattacks, technical failures, regulatory actions, or any interruption of third-party services or infrastructure.",
-      "content5": "8.5 Notwithstanding anything to the contrary in these Terms, the exclusions and limitations of liability set forth in this Clause shall not apply where the claim results directly from gross negligence or willful misconduct by UpFinance, as established in a final judgment by a court of competent jurisdiction that is not subject to further appeal.",
-      "content6": "8.6 Any claim or cause of action arising out of or related to the Services must be initiated within twelve (12) months after the date on which the facts giving rise to such claim first occurred. Claims not brought within this period shall be deemed irrevocably waived.",
-      "content7": "8.6 You agree to indemnify, defend, and hold harmless UpGlobal Inc and its respective affiliates, directors, officers, employees, agents, service providers, licensors, and representatives from and against any and all claims, demands, actions, proceedings, losses, liabilities, damages, judgments, settlements, fines, penalties, costs, and expenses (including reasonable legal and accounting fees), whether direct or indirect, arising out of or relating to: (a) your access to or use of the Services; (b) your violation of these Terms or any incorporated policy; (c) your breach of any representation, warranty, or obligation under these Terms; (d) your violation of any applicable law, regulation, or third-party rights; (e) any act of fraud, misrepresentation, or willful misconduct on your part; or (f) any claim brought against UpFinance in connection with your data, activity, conduct, or transactions carried out through the Services. This indemnification obligation shall survive the termination or expiration of these Terms and your use of the Services."
+      "title": "8. تحديد المسؤولية",
+      "content1": "8.1 إلى أقصى حد يجيزه القانون المعمول به، لا يتجاوز إجمالي المسؤولية الكلية لشركة UpGlobal Inc والشركات التابعة لها ومديريها ومسؤوليها وموظفيها ووكلائها ومزودي خدماتها ومانحي التراخيص لديها (ويُشار إليهم مجتمعين بـ\"أطراف UpFinance\") الناشئة عن هذه الشروط أو الخدمات أو المرتبطة بهما، أقل المبلغين التاليين: (أ) إجمالي الرسوم المباشرة التي دفعها المستخدم إلى UpFinance خلال الستة (6) أشهر السابقة للحدث المنشئ للمطالبة، أو (ب) 100,000 دولار أمريكي.",
+      "content2": "8.2 لا يكون أي من أطراف UpFinance مسؤولًا في أي حال عن أي أضرار غير مباشرة أو عرضية أو خاصة أو نموذجية أو عقابية أو تبعية، أو عن أي خسارة في الأرباح أو الإيرادات أو السمعة التجارية أو البيانات أو الفرص التجارية أو الوفورات المتوقعة، سواء نشأت عن عقد أو فعل ضار (بما في ذلك الإهمال) أو قواعد الإنصاف أو المسؤولية الصارمة أو غير ذلك، حتى لو تم إبلاغه بإمكانية حدوث هذه الأضرار.",
+      "content3": "8.3 تخلي UpFinance مسؤوليتها عن أي خسارة أو تأخير أو ضرر ينشأ عن أفعال أو امتناعات أي مزود خدمة من طرف ثالث أو يرتبط بها، بما في ذلك جهات الحفظ والبنوك ومعالجي المدفوعات ووكلاء التسوية أو شبكات البلوك تشين، باستثناء القدر الذي يثبت فيه بحكم نهائي غير قابل للاستئناف أن تلك الخسارة نجمت حصريًا عن إهمال جسيم أو سوء سلوك عمدي من UpFinance.",
+      "content4": "8.4 لا تتحمل UpFinance المسؤولية عن أي إخفاق أو تأخير في الأداء ينتج عن أحداث خارجة عن نطاق سيطرتها المعقولة، بما في ذلك الكوارث الطبيعية، وأفعال السلطات المدنية أو العسكرية، والحرب، والإرهاب، والنزاعات العمالية، والهجمات السيبرانية، والأعطال التقنية، والإجراءات التنظيمية، أو أي انقطاع في خدمات أو بنية تحتية تابعة لطرف ثالث.",
+      "content5": "8.5 رغم أي نص مخالف في هذه الشروط، لا تسري الاستثناءات والقيود الواردة في هذا البند إذا كانت المطالبة ناتجة مباشرة عن إهمال جسيم أو سوء سلوك عمدي من UpFinance، على نحو يثبته حكم نهائي صادر عن محكمة مختصة وغير قابل لمزيد من الطعن.",
+      "content6": "8.6 يجب إقامة أي مطالبة أو سبب دعوى ناشئ عن الخدمات أو متعلق بها خلال اثني عشر (12) شهرًا من تاريخ وقوع الوقائع المنشئة لهذه المطالبة لأول مرة. وتُعد المطالبات التي لا تُرفع خلال هذه المدة متنازلًا عنها نهائيًا وبصورة لا رجعة فيها.",
+      "content7": "8.6 توافق على تعويض شركة UpGlobal Inc والشركات التابعة لها ومديريها ومسؤوليها وموظفيها ووكلائها ومزودي خدماتها ومانحي التراخيص وممثليها، والدفاع عنهم وإبراء ذمتهم من وضد أي وجميع المطالبات والطلبات والدعاوى والإجراءات والخسائر والالتزامات والأضرار والأحكام والتسويات والغرامات والعقوبات والتكاليف والمصروفات (بما في ذلك أتعاب قانونية ومحاسبية معقولة)، سواء كانت مباشرة أو غير مباشرة، الناشئة عن أو المتعلقة بـ: (أ) وصولك إلى الخدمات أو استخدامك لها؛ (ب) مخالفتك لهذه الشروط أو لأي سياسة مدمجة فيها؛ (ج) إخلالك بأي إقرار أو ضمان أو التزام بموجب هذه الشروط؛ (د) مخالفتك لأي قانون أو لائحة مطبقة أو حقوق طرف ثالث؛ (هـ) أي فعل احتيال أو تحريف أو سوء سلوك عمدي من جانبك؛ أو (و) أي مطالبة تُرفع ضد UpFinance فيما يتصل ببياناتك أو أنشطتك أو سلوكك أو المعاملات التي أجريتها عبر الخدمات. ويستمر هذا الالتزام بالتعويض بعد إنهاء أو انقضاء هذه الشروط وبعد توقفك عن استخدام الخدمات."
     },
     "section9": {
-      "title": "9. TERMINATION AND SUSPENSION",
-      "content1": "9.1 We may suspend, restrict, or terminate your access to the Services at our sole and absolute discretion, with or without prior notice, including but not limited to circumstances where we reasonably suspect fraud, money laundering, breach of law or regulation, violation of these Terms, material reputational risk, or if required to comply with any legal, regulatory, or governmental order, inquiry, investigation, or directive.",
-      "content2": "9.2 We reserve the right to retain, freeze, or withhold funds or assets held in your Account if we determine, in our sole discretion, that such action is necessary to comply with applicable laws, support ongoing investigations, or mitigate potential harm or liability. Such retention shall be without prejudice to our other rights under these Terms or at law.",
-      "content3": "9.3 You may terminate your Account at any time by providing written notice and fulfilling all outstanding obligations. Termination shall not affect any accrued rights or liabilities.",
-      "content4": "9.4 Upon termination, all rights granted to you under these Terms shall immediately cease. Subject to applicable laws, we shall return any remaining eligible funds to a verified destination provided by you after completion of compliance and audit checks. We may impose offboarding fees or deduct any applicable charges, and we may retain data and transaction records for legal, compliance, or audit purposes.",
-      "content5": "9.5 The provisions of these Terms relating to liability, indemnity, governing law, dispute resolution, and any other clauses that by their nature should survive termination shall continue to apply after your Account is closed or these Terms expire."
+      "title": "9. الإنهاء والتعليق",
+      "content1": "9.1 يجوز لنا تعليق وصولك إلى الخدمات أو تقييده أو إنهاؤه وفق تقديرنا المنفرد والمطلق، مع أو دون إشعار مسبق، بما في ذلك على سبيل المثال لا الحصر الحالات التي نشتبه فيها بشكل معقول بوجود احتيال أو غسل أموال أو مخالفة قانون أو لائحة أو مخالفة لهذه الشروط أو مخاطر جوهرية على السمعة، أو إذا كان ذلك مطلوبًا للامتثال لأي أمر أو استفسار أو تحقيق أو توجيه قانوني أو تنظيمي أو حكومي.",
+      "content2": "9.2 نحتفظ بالحق في الاحتفاظ بالأموال أو الأصول الموجودة في حسابك أو تجميدها أو حجبها إذا قررنا، وفق تقديرنا المنفرد، أن هذا الإجراء ضروري للامتثال للقوانين المعمول بها أو لدعم تحقيقات جارية أو للتخفيف من ضرر أو مسؤولية محتملة. ويكون هذا الاحتفاظ دون إخلال بحقوقنا الأخرى بموجب هذه الشروط أو بموجب القانون.",
+      "content3": "9.3 يجوز لك إنهاء حسابك في أي وقت عبر إشعار كتابي مع الوفاء بجميع الالتزامات القائمة. ولا يؤثر الإنهاء على أي حقوق أو التزامات مستحقة قبل تاريخ الإنهاء.",
+      "content4": "9.4 عند الإنهاء، تتوقف فورًا جميع الحقوق الممنوحة لك بموجب هذه الشروط. ورهنًا بالقوانين المعمول بها، سنعيد أي أموال مؤهلة متبقية إلى جهة مستفيدة موثقة تقدمها أنت بعد استكمال فحوص الامتثال والتدقيق. ويجوز لنا فرض رسوم إنهاء علاقة أو خصم أي رسوم واجبة، كما يجوز لنا الاحتفاظ بالبيانات وسجلات المعاملات لأغراض قانونية أو امتثال أو تدقيق.",
+      "content5": "9.5 تستمر الأحكام المتعلقة بالمسؤولية والتعويض والقانون الحاكم وتسوية المنازعات، وأي أحكام أخرى يُفترض بطبيعتها أن تظل نافذة بعد الإنهاء، في السريان بعد إغلاق حسابك أو انتهاء هذه الشروط."
     },
     "section10": {
-      "title": "10. NOTICES AND COMMUNICATIONS",
-      "content1": "All legal notices shall be deemed delivered when sent via email to support@upfinance.ai or mailed to UpGlobal Inc, 8 The Green, Ste A, Dover, DE 19901, USA. You agree to receive communications electronically and waive any right to physical delivery.",
-      "content2": "By using the Services, you consent to receive notices and disclosures electronically in accordance with the U.S. E-SIGN Act (15 U.S.C. § 7001 et seq.)."
+      "title": "10. الإشعارات والمراسلات",
+      "content1": "تُعد جميع الإشعارات القانونية مسلّمة عند إرسالها عبر البريد الإلكتروني إلى support@upfinance.ai أو عبر البريد إلى UpGlobal Inc, 8 The Green, Ste A, Dover, DE 19901, USA. وتوافق على تلقي المراسلات إلكترونيًا وتتنازل عن أي حق في التسليم الورقي.",
+      "content2": "باستخدامك للخدمات، فإنك توافق على استلام الإشعارات والإفصاحات إلكترونيًا وفقًا لقانون التوقيعات الإلكترونية الأمريكي E-SIGN (15 U.S.C. § 7001 وما يليها)."
     },
     "section11": {
-      "title": "11. DEFINITIONS",
-      "intro": "In these Terms, unless the context requires otherwise, the following expressions shall have the following meanings:",
-      "account": "\"Account\" means the registered user account created with UpFinance through which Services are accessed and managed.",
-      "affiliate": "\"Affiliate\" means any entity that directly or indirectly controls, is controlled by, or is under common control with a party.",
-      "custodianAccount": "\"Custodian Account\" means the account established for the User under Part A for the custody and management of fiat or digital assets, held through licensed trust or custodial partners.",
-      "digitalAssets": "\"Digital Assets\" means any cryptographic tokens, virtual currencies, digital coins, or other blockchain-based representations of value supported by the Services.",
-      "fees": "\"Fees\" means any charges, costs, spreads, or commissions applicable to the Services, as disclosed in the Fee Schedule or at the time of the transaction.",
-      "merits": "\"Merits\" or \"Merits Bank & Trust\" means Merits Bank & Trust Limited, a Hong Kong licensed trust or company service provider (TCSP Licence No. TC008817), which may be used as a custodial and settlement partner.",
-      "partyA": "\"Party A\" refers to Osmosis Limited, operating under the commercial name \"UpFinance,\" including any of its successors or assigns.",
-      "platform": "\"Platform\" means all websites, mobile applications, APIs, interfaces, and other systems operated under the UpFinance brand.",
-      "services": "\"Services\" means all products, functionalities, and features made available to Users through the UpFinance Platform, including but not limited to Custodian Accounts, Card Services, Wallets, Swap Transactions, Virtual Accounts, and Third-Party Services.",
-      "terms": "\"Terms\" refers to these UpFinance Services Terms and Conditions, including any policies, schedules, annexes, and service-specific terms incorporated by reference.",
-      "thirdPartyServices": "\"Third-Party Services\" means any external platforms, software, providers, or services integrated into or made available through UpFinance, over which UpGlobal Inc has no operational control.",
-      "user": "\"User,\" \"you,\" or \"your\" means the individual or legal entity that registers for, accesses, or uses any part of the Services."
+      "title": "11. التعريفات",
+      "intro": "في هذه الشروط، وما لم يقتضِ السياق خلاف ذلك، يكون للتعبيرات التالية المعاني المبينة قرين كل منها:",
+      "account": "\"الحساب\" يعني حساب المستخدم المسجل الذي يتم إنشاؤه لدى UpFinance والذي يتم من خلاله الوصول إلى الخدمات وإدارتها.",
+      "affiliate": "\"الشركة التابعة\" تعني أي كيان يسيطر بشكل مباشر أو غير مباشر على أحد الأطراف، أو يخضع لسيطرته، أو يخضع معه لسيطرة مشتركة.",
+      "custodianAccount": "\"حساب الحفظ\" يعني الحساب المنشأ للمستخدم بموجب الجزء A لحفظ وإدارة العملات الورقية أو الأصول الرقمية عبر شركاء ائتمانيين أو حفظ مرخصين.",
+      "digitalAssets": "\"الأصول الرقمية\" تعني أي رموز مشفرة أو عملات افتراضية أو عملات رقمية أو أي تمثيلات أخرى للقيمة قائمة على البلوك تشين ومدعومة ضمن الخدمات.",
+      "fees": "\"الرسوم\" تعني أي رسوم أو تكاليف أو فروق أسعار أو عمولات واجبة على الخدمات، كما هو مفصح عنه في جدول الرسوم أو وقت تنفيذ المعاملة.",
+      "merits": "\"Merits\" أو \"Merits Bank & Trust\" تعني Merits Bank & Trust Limited، وهي جهة مرخصة في هونغ كونغ كمقدم خدمات ائتمانية أو خدمات شركات (TCSP Licence No. TC008817)، وقد تُستخدم كشريك للحفظ والتسوية.",
+      "partyA": "\"الطرف أ\" يشير إلى Osmosis Limited العاملة تحت الاسم التجاري \"UpFinance\"، بما في ذلك أي من خلفائها أو من تؤول إليهم الحقوق.",
+      "platform": "\"المنصة\" تعني جميع المواقع الإلكترونية وتطبيقات الهاتف المحمول وواجهات API والواجهات والأنظمة الأخرى التي تعمل تحت علامة UpFinance.",
+      "services": "\"الخدمات\" تعني جميع المنتجات والوظائف والميزات المتاحة للمستخدمين عبر منصة UpFinance، بما في ذلك على سبيل المثال لا الحصر حسابات الحفظ وخدمات البطاقات والمحافظ ومعاملات المبادلة والحسابات الافتراضية وخدمات الأطراف الثالثة.",
+      "terms": "\"الشروط\" تشير إلى شروط وأحكام خدمات UpFinance هذه، بما في ذلك أي سياسات أو جداول أو ملاحق أو شروط خاصة بالخدمة مدمجة بالإحالة.",
+      "thirdPartyServices": "\"خدمات الطرف الثالث\" تعني أي منصات أو برامج أو مزودين أو خدمات خارجية مدمجة في UpFinance أو متاحة من خلاله، والتي لا تملك UpGlobal Inc سيطرة تشغيلية عليها.",
+      "user": "\"المستخدم\" أو \"أنت\" أو \"لك\" يعني الشخص الطبيعي أو الاعتباري الذي يسجل أو يصل إلى أي جزء من الخدمات أو يستخدمه."
     },
     "section12": {
-      "title": "12. DISPUTE RESOLUTION",
-      "content1": "12.1 To the fullest extent permitted by applicable law, any dispute, controversy, difference, or claim arising out of or relating to these Terms or the Services, including the existence, validity, interpretation, performance, breach, or termination thereof, shall be resolved through final and binding arbitration.",
-      "content2": "12.2 The arbitration shall be conducted in accordance with the American Arbitration Association (AAA) Commercial Arbitration Rules in force at the time of the commencement of the arbitration. The seat of arbitration shall be Delaware, and the language of the proceedings shall be English. The number of arbitrators shall be one, appointed in accordance with the AAA Rules. Judgment upon the arbitral award may be entered in any court of competent jurisdiction.",
-      "content3": "12.3 The parties expressly waive, to the maximum extent permitted by law, any right to a trial by jury or to participate in any class action, mass action, or collective proceeding against the other party. Each party agrees to resolve disputes on an individual basis only and not as a plaintiff or class member in any purported class or representative proceeding.",
-      "content4": "12.4 Notwithstanding the above, either party may seek interim, emergency, or injunctive relief from any court of competent jurisdiction where such relief is necessary to prevent imminent and irreparable harm, preserve assets, or protect confidential information or intellectual property rights, and such application shall not be deemed incompatible with this arbitration clause.",
-      "content5": "12.5 All arbitration proceedings, filings, submissions, awards, and related materials shall be kept strictly confidential by all parties, and shall not be disclosed to any third party without the prior written consent of the other party, unless such disclosure is required by law or regulatory authority."
+      "title": "12. تسوية المنازعات",
+      "content1": "12.1 إلى أقصى حد يجيزه القانون المعمول به، تُحال أي منازعة أو خلاف أو اختلاف أو مطالبة ناشئة عن هذه الشروط أو الخدمات أو متعلقة بها، بما في ذلك وجودها أو صحتها أو تفسيرها أو تنفيذها أو الإخلال بها أو إنهاؤها، إلى تحكيم نهائي وملزم.",
+      "content2": "12.2 يُجرى التحكيم وفقًا لقواعد التحكيم التجاري لجمعية التحكيم الأمريكية (AAA) السارية وقت بدء التحكيم. ويكون مقر التحكيم في ديلاوير، ولغة الإجراءات هي الإنجليزية. ويكون عدد المحكمين محكمًا واحدًا يُعين وفق قواعد AAA. ويجوز تثبيت حكم التحكيم أمام أي محكمة مختصة.",
+      "content3": "12.3 يتنازل الطرفان صراحةً، إلى أقصى حد يجيزه القانون، عن أي حق في المحاكمة أمام هيئة محلفين أو المشاركة في أي دعوى جماعية أو واسعة النطاق أو إجراء جماعي ضد الطرف الآخر. ويوافق كل طرف على تسوية المنازعات بصفة فردية فقط وليس بصفته مدعيًا أو عضوًا في أي دعوى جماعية أو تمثيلية مزعومة.",
+      "content4": "12.4 مع عدم الإخلال بما سبق، يجوز لأي طرف طلب تدابير وقتية أو عاجلة أو أوامر قضائية من أي محكمة مختصة عندما تكون هذه التدابير ضرورية لمنع ضرر وشيك غير قابل للجبر، أو للحفاظ على الأصول، أو لحماية المعلومات السرية أو حقوق الملكية الفكرية، ولا يُعد هذا الطلب متعارضًا مع بند التحكيم هذا.",
+      "content5": "12.5 تظل جميع إجراءات التحكيم والمذكرات والمرافعات والأحكام والمواد ذات الصلة سريةً بشكل صارم من جميع الأطراف، ولا يجوز الإفصاح عنها لأي طرف ثالث دون موافقة كتابية مسبقة من الطرف الآخر، ما لم يكن الإفصاح مطلوبًا بموجب القانون أو من قبل جهة تنظيمية."
     },
     "section13": {
-      "title": "13. GENERAL TERMS",
-      "content1": "13.1 These Terms, together with all policies, disclosures, and documents incorporated herein by reference, constitute the entire agreement between you and Party A and supersede all prior agreements, understandings, negotiations, representations, and communications, whether oral or written, with respect to the subject matter hereof.",
-      "content2": "13.2 No failure or delay by UpGlobal Inc in exercising any right, power, or remedy under these Terms shall operate as a waiver thereof, nor shall any single or partial exercise preclude any other or further exercise thereof. Any waiver must be in writing to be effective.",
-      "content3": "13.3 You may not assign, transfer, or novate your rights or obligations under these Terms without our prior written consent. We may assign or transfer these Terms, in whole or in part, without notice or consent, to any affiliate, successor entity, or in connection with a corporate reorganization, merger, acquisition, or sale of assets.",
-      "content4": "13.4 UpGlobal Inc shall not be liable for any failure or delay in performance or availability of the Services to the extent such failure or delay results from events or circumstances beyond its reasonable control, including but not limited to acts of God, natural disasters, epidemic or pandemic outbreaks, war, terrorism, cyberattacks, communication failures, utility or network downtime, labor disputes, government restrictions or regulatory actions, custodial or service provider failures, and other unforeseeable operational disruptions.",
-      "content5": "13.5 UpGlobal Inc reserves the right to amend, update, or modify these Terms or any of the incorporated documents at any time by publishing the revised version on the Platform or otherwise providing notice to you. Your continued use of the Services following such publication or notice constitutes your acceptance of the updated Terms.",
-      "content6": "13.6 If any provision of these Terms is held by a court of competent jurisdiction to be invalid, illegal, or unenforceable, such provision shall be modified to the minimum extent necessary to render it valid and enforceable, and the remaining provisions shall remain in full force and effect.",
-      "content7": "13.7 These Terms shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to conflict of law principles. You agree that Delaware shall be the exclusive forum for any disputes not otherwise subject to arbitration under these Terms.",
-      "content8": "13.8 To the fullest extent permitted by law, any claim or cause of action arising out of or related to these Terms or the Services must be filed within twelve (12) months from the date the claim first arose. Any claims not filed within such time shall be permanently barred."
+      "title": "13. أحكام عامة",
+      "content1": "13.1 تشكل هذه الشروط، إلى جانب جميع السياسات والإفصاحات والمستندات المدمجة فيها بالإحالة، الاتفاق الكامل بينك وبين الطرف أ، وتحل محل جميع الاتفاقات والتفاهمات والمفاوضات والإقرارات والمراسلات السابقة، سواء كانت شفهية أو كتابية، فيما يتعلق بموضوعها.",
+      "content2": "13.2 لا يُعد عدم قيام UpGlobal Inc بممارسة أي حق أو سلطة أو وسيلة انتصاف بموجب هذه الشروط، أو التأخر في ذلك، تنازلًا عن هذا الحق أو السلطة أو وسيلة الانتصاف. كما لا يمنع أي استعمال منفرد أو جزئي أي استعمال آخر أو لاحق. ولا يكون أي تنازل نافذًا إلا إذا كان مكتوبًا.",
+      "content3": "13.3 لا يجوز لك التنازل عن حقوقك أو التزاماتك بموجب هذه الشروط أو نقلها أو إحلال طرف محلّك فيها دون موافقتنا الكتابية المسبقة. ويجوز لنا إحالة هذه الشروط أو نقلها، كليًا أو جزئيًا، دون إشعار أو موافقة، إلى أي شركة تابعة أو كيان خلف، أو في إطار إعادة تنظيم مؤسسي أو اندماج أو استحواذ أو بيع أصول.",
+      "content4": "13.4 لا تتحمل UpGlobal Inc المسؤولية عن أي إخفاق أو تأخير في أداء الخدمات أو إتاحتها بالقدر الذي يكون فيه هذا الإخفاق أو التأخير ناتجًا عن أحداث أو ظروف خارجة عن نطاق سيطرتها المعقولة، بما في ذلك على سبيل المثال لا الحصر الكوارث الطبيعية، والأوبئة أو الجوائح، والحرب، والإرهاب، والهجمات السيبرانية، وتعطل الاتصالات، وانقطاع المرافق أو الشبكات، والنزاعات العمالية، والقيود الحكومية أو الإجراءات التنظيمية، وإخفاقات جهات الحفظ أو مزودي الخدمات، وغيرها من الاضطرابات التشغيلية غير المتوقعة.",
+      "content5": "13.5 تحتفظ UpGlobal Inc بالحق في تعديل هذه الشروط أو تحديثها أو تغييرها، أو تعديل أي من المستندات المدمجة فيها، في أي وقت عبر نشر النسخة المعدلة على المنصة أو إخطارك بأي وسيلة أخرى. ويُعد استمرارك في استخدام الخدمات بعد هذا النشر أو الإشعار قبولًا منك بالشروط المحدثة.",
+      "content6": "13.6 إذا قضت محكمة مختصة بأن أي حكم من هذه الشروط باطل أو غير قانوني أو غير قابل للتنفيذ، فيُعدّل هذا الحكم بالحد الأدنى اللازم لجعله صحيحًا وقابلًا للتنفيذ، وتظل الأحكام الأخرى نافذة بكامل قوتها وأثرها.",
+      "content7": "13.7 تخضع هذه الشروط وتُفسر وفق قوانين ولاية ديلاوير، دون اعتبار لقواعد تنازع القوانين. وتوافق على أن ديلاوير هي المنتدى الحصري لأي نزاع لا يخضع للتحكيم بموجب هذه الشروط.",
+      "content8": "13.8 إلى أقصى حد يجيزه القانون، يجب رفع أي مطالبة أو سبب دعوى ناشئ عن هذه الشروط أو الخدمات أو متعلق بهما خلال اثني عشر (12) شهرًا من تاريخ نشوء المطالبة لأول مرة. وأي مطالبة لا تُرفع خلال هذه المدة تكون محظورة نهائيًا."
     },
     "section14": {
-      "title": "14. OPERATIONAL AND LEGAL SAFEGUARDS",
-      "content1": "14.1 You agree to indemnify and hold harmless UpFinance, its affiliates, directors, officers, employees, agents, and service providers from and against any and all losses, damages, liabilities, claims, demands, costs, and expenses (including legal fees) arising from your breach of these Terms, your violation of applicable laws or regulations, your use of the Services, or any unauthorized, fraudulent, or negligent acts or omissions on your part.",
-      "content2": "14.2 We shall not be liable for any failure or delay in performance caused by events or circumstances beyond our reasonable control, including but not limited to acts of God, cyber incidents, regulatory changes, custodial or banking failures, internet outages, war, civil unrest, or third-party service interruptions."
+      "title": "14. الضمانات التشغيلية والقانونية",
+      "content1": "14.1 توافق على تعويض UpFinance والشركات التابعة لها ومديريها ومسؤوليها وموظفيها ووكلائها ومزودي خدماتها وإبراء ذمتهم من وضد أي وجميع الخسائر والأضرار والالتزامات والمطالبات والطلبات والتكاليف والمصروفات (بما في ذلك الأتعاب القانونية) الناشئة عن إخلالك بهذه الشروط، أو مخالفتك للقوانين أو اللوائح المعمول بها، أو استخدامك للخدمات، أو أي أفعال أو امتناعات غير مصرح بها أو احتيالية أو مهملة من جانبك.",
+      "content2": "14.2 لا نتحمل المسؤولية عن أي إخفاق أو تأخير في الأداء ينجم عن أحداث أو ظروف خارجة عن نطاق سيطرتنا المعقولة، بما في ذلك على سبيل المثال لا الحصر الكوارث الطبيعية، والحوادث السيبرانية، والتغييرات التنظيمية، وإخفاقات الحفظ أو الأنظمة المصرفية، وانقطاعات الإنترنت، والحرب، والاضطرابات المدنية، أو انقطاع خدمات طرف ثالث."
     },
     "partA": {
-      "title": "PART A: CUSTODIAN ACCOUNT",
+      "title": "الجزء A: حساب الحفظ",
       "section1": {
-        "title": "1. SCOPE",
-        "content1": "1.1 This Part A sets out the terms and conditions applicable to the Custodian Account provided through UpFinance via its regulated partner, Merits Bank & Trust (“Merits”), a licensed trust company incorporated in Hong Kong.",
-        "content2": "1.2 By accessing or using the Custodian Account, you agree to be bound by this Part A in addition to the General Terms and Conditions."
+        "title": "1. النطاق",
+        "content1": "1.1 يحدد هذا الجزء A الشروط والأحكام المطبقة على حساب الحفظ المقدم عبر UpFinance من خلال شريكها الخاضع للتنظيم Merits Bank & Trust (\"Merits\")، وهي شركة ائتمانية مرخصة ومؤسسة في هونغ كونغ.",
+        "content2": "1.2 من خلال الوصول إلى حساب الحفظ أو استخدامه، فإنك توافق على الالتزام بهذا الجزء A بالإضافة إلى الشروط والأحكام العامة."
       },
       "section2": {
-        "title": "2. CUSTODIAN ACCOUNT STRUCTURE",
-        "content1": "2.1 The Custodian Account enables Users to hold and manage digital assets and fiat currencies in a segregated trust environment. All Custodian Accounts are operated under the regulatory license and control framework of Merits.",
-        "content2": "2.2 Funds held within Custodian Accounts are not mixed with UpFinance's corporate assets. They are maintained in accordance with fiduciary trust standards and are not subject to the claims of UpFinance's creditors.",
-        "content3": "2.3 Custodian Accounts may include sub-accounts or wallets designated for specific asset types (e.g., BTC, ETH, USDT, USD) and functionalities (e.g., debit account, virtual account, or collateral wallet).",
-        "content4": "2.4 The User acknowledges and accepts that funds or assets transferred to, held with, or managed by Merits Bank & Trust or any designated sub-custodian are subject to the operational, insolvency, and legal risks associated with such third-party custodians. UpFinance disclaims all liability for losses, delays, unavailability of funds, or regulatory interventions involving such third-party institutions, except where caused by its own gross negligence or willful misconduct as established by final, non-appealable judgment.",
-        "content5": "2.5 Unless otherwise required by applicable law, UpFinance acts solely as a facilitator and administrative coordinator with respect to custodial and trust arrangements. No fiduciary, trustee, or similar legal relationship is created between the User and UpFinance as a result of these arrangements."
+        "title": "2. هيكل حساب الحفظ",
+        "content1": "2.1 يتيح حساب الحفظ للمستخدمين الاحتفاظ بالأصول الرقمية والعملات الورقية وإدارتها ضمن بيئة ائتمانية مفصولة. وتُشغَّل جميع حسابات الحفظ بموجب الترخيص التنظيمي وإطار الرقابة الخاصين بـ Merits.",
+        "content2": "2.2 لا تُخلط الأموال المحتفظ بها داخل حسابات الحفظ مع أصول UpFinance المؤسسية. ويتم الاحتفاظ بها وفق معايير الأمانة الائتمانية ولا تخضع لمطالبات دائني UpFinance.",
+        "content3": "2.3 قد تتضمن حسابات الحفظ حسابات فرعية أو محافظ مخصصة لأنواع أصول محددة (مثل BTC وETH وUSDT وUSD) ووظائف محددة (مثل حساب الخصم أو الحساب الافتراضي أو محفظة الضمان).",
+        "content4": "2.4 يقر المستخدم ويقبل بأن الأموال أو الأصول المحولة إلى Merits Bank & Trust أو أي جهة حفظ فرعية معينة، أو المحتفظ بها لديها أو المُدارة من قبلها، تخضع للمخاطر التشغيلية ومخاطر الإعسار والمخاطر القانونية المرتبطة بجهات الحفظ من الأطراف الثالثة. وتخلي UpFinance مسؤوليتها عن أي خسائر أو تأخيرات أو عدم توافر للأموال أو تدخلات تنظيمية تتعلق بهذه المؤسسات من الأطراف الثالثة، إلا إذا ثبت بحكم نهائي غير قابل للاستئناف أن السبب هو إهمال جسيم أو سوء سلوك عمدي من جانبها.",
+        "content5": "2.5 ما لم يتطلب القانون المعمول به خلاف ذلك، تعمل UpFinance فقط كمُيسر ومنسق إداري فيما يتعلق بترتيبات الحفظ والائتمان. ولا ينشأ عن هذه الترتيبات أي علاقة ائتمانية أو وصائية أو علاقة قانونية مماثلة بين المستخدم وUpFinance."
       },
       "section3": {
-        "title": "3. ACCOUNT OPENING AND ACCESS",
-        "intro": "3.1 To open a Custodian Account, Users must complete all required onboarding steps, including:",
-        "requirement1": "Identity verification;",
-        "requirement2": "Source of funds and wealth declarations;",
-        "requirement3": "Compliance with anti-money laundering (AML) and counter-terrorism financing (CTF) requirements;",
-        "requirement4": "Agreement to applicable custodial and user policies.",
-        "content2": "3.2 We reserve the right to deny, suspend, or terminate access to Custodian Accounts in the event of:",
-        "reason1": "Incomplete or unsatisfactory documentation;",
-        "reason2": "Regulatory restrictions;",
-        "reason3": "Breach of any part of these Terms."
+        "title": "3. فتح الحساب والوصول",
+        "intro": "3.1 لفتح حساب حفظ، يجب على المستخدمين إتمام جميع خطوات الانضمام المطلوبة، بما في ذلك:",
+        "requirement1": "التحقق من الهوية؛",
+        "requirement2": "الإفصاح عن مصدر الأموال ومصدر الثروة؛",
+        "requirement3": "الامتثال لمتطلبات مكافحة غسل الأموال (AML) ومكافحة تمويل الإرهاب (CTF)؛",
+        "requirement4": "الموافقة على سياسات الحفظ وسياسات المستخدم المعمول بها.",
+        "content2": "3.2 نحتفظ بالحق في رفض أو تعليق أو إنهاء الوصول إلى حسابات الحفظ في حال:",
+        "reason1": "عدم اكتمال المستندات أو عدم كفايتها؛",
+        "reason2": "وجود قيود تنظيمية؛",
+        "reason3": "مخالفة أي جزء من هذه الشروط."
       },
       "section4": {
-        "title": "4. DEPOSITS AND WITHDRAWALS",
-        "content1": "4.1 Deposits into the Custodian Account may be made in approved fiat currencies or supported digital assets.",
-        "content2": "4.2 You are solely responsible for ensuring that you send only supported tokens to the appropriate address provided by UpFinance. Sending unsupported tokens or using incorrect deposit protocols may result in permanent loss.",
-        "content3": "4.3 Withdrawals from the Custodian Account are subject to:",
-        "requirement1": "Successful KYC/AML status;",
-        "requirement2": "Minimum withdrawal thresholds;",
-        "requirement3": "Internal risk and security checks;",
-        "requirement4": "Blockchain network availability and third-party settlement constraints.",
-        "content4": "4.4 We reserve the right to implement withdrawal cooldown periods, compliance holds, or transaction reviews as reasonably necessary to fulfill our legal obligations."
+        "title": "4. الإيداعات والسحوبات",
+        "content1": "4.1 يمكن إجراء الإيداعات في حساب الحفظ بعملات ورقية معتمدة أو أصول رقمية مدعومة.",
+        "content2": "4.2 تتحمل وحدك مسؤولية التأكد من إرسال الرموز المدعومة فقط إلى العنوان الصحيح المقدم من UpFinance. وقد يؤدي إرسال رموز غير مدعومة أو استخدام بروتوكولات إيداع غير صحيحة إلى خسارة دائمة.",
+        "content3": "4.3 تخضع السحوبات من حساب الحفظ لما يلي:",
+        "requirement1": "حالة KYC/AML مستوفاة؛",
+        "requirement2": "حدود سحب دنيا؛",
+        "requirement3": "فحوص المخاطر والأمان الداخلية؛",
+        "requirement4": "توافر شبكة البلوك تشين وقيود التسوية لدى الأطراف الثالثة.",
+        "content4": "4.4 نحتفظ بالحق في تطبيق فترات تهدئة للسحب، أو أوامر تعليق امتثال، أو مراجعات للمعاملات بالقدر المعقول واللازم للوفاء بالتزاماتنا القانونية."
       },
       "section5": {
-        "title": "5. CUSTODY, SECURITY AND SEGREGATION",
-        "content1": "5.1 All digital assets in the Custodian Account are held in wallets secured and operated by Merits Bank & Trust or its appointed sub-custodians, using institutional-grade infrastructure and security controls.",
-        "content2": "5.2 Fiat balances are held in segregated client accounts under the name of Merits Bank & Trust for the benefit of Users. These accounts are not co-mingled with proprietary funds of UpFinance or Merits, except where required for operational purposes in accordance with applicable regulatory frameworks, and are subject to statutory protections.",
-        "content3": "5.3 UpFinance exercises reasonable care and skill in coordinating custodial arrangements but disclaims liability for any acts, omissions, insolvency, or delays of custodians, sub-custodians, banks, or other financial institutions once funds have been credited to such accounts, except in cases of UpFinance's own gross negligence or willful misconduct as determined by a final, non-appealable judgment.",
-        "content4": "5.4 Legal title to digital or fiat assets held in the Custodian Account remains with the User unless otherwise specified in a separate written agreement governing specific use cases such as staking, lending, or collateral arrangements.",
-        "content5": "5.5 The User agrees to indemnify and hold harmless UpFinance and its affiliates against all claims, losses, costs, and liabilities arising from custodial loss, seizure, or delay, except where such losses result directly from the gross negligence or willful misconduct of UpFinance."
+        "title": "5. الحفظ والأمن والفصل",
+        "content1": "5.1 تُحفظ جميع الأصول الرقمية في حساب الحفظ داخل محافظ مؤمّنة ومشغّلة من قبل Merits Bank & Trust أو جهات الحفظ الفرعية المعينة منها، باستخدام بنية تحتية وضوابط أمنية بمستوى مؤسسي.",
+        "content2": "5.2 تُحفظ الأرصدة بالعملات الورقية في حسابات عملاء مفصولة باسم Merits Bank & Trust لصالح المستخدمين. ولا تُخلط هذه الحسابات مع الأموال الخاصة بـ UpFinance أو Merits، إلا عند الحاجة لأغراض تشغيلية وفق الأطر التنظيمية المعمول بها، كما تخضع للحمايات القانونية النظامية.",
+        "content3": "5.3 تبذل UpFinance عناية ومهارة معقولتين في تنسيق ترتيبات الحفظ، لكنها تخلي مسؤوليتها عن أي أفعال أو امتناعات أو إعسار أو تأخيرات تخص جهات الحفظ أو جهات الحفظ الفرعية أو البنوك أو المؤسسات المالية الأخرى بعد قيد الأموال في تلك الحسابات، باستثناء الحالات التي يثبت فيها بحكم نهائي غير قابل للاستئناف وجود إهمال جسيم أو سوء سلوك عمدي من جانب UpFinance نفسها.",
+        "content4": "5.4 تبقى الملكية القانونية للأصول الرقمية أو الورقية المحتفظ بها في حساب الحفظ للمستخدم، ما لم يُنص على خلاف ذلك في اتفاقية مكتوبة منفصلة تنظم حالات استخدام محددة مثل الرهن (staking) أو الإقراض أو ترتيبات الضمان.",
+        "content5": "5.5 يوافق المستخدم على تعويض UpFinance والشركات التابعة لها وإبراء ذمتهم من جميع المطالبات والخسائر والتكاليف والالتزامات الناشئة عن خسارة الحفظ أو الحجز أو التأخير، إلا إذا كانت هذه الخسائر ناتجة مباشرة عن إهمال جسيم أو سوء سلوك عمدي من جانب UpFinance."
       },
       "section6": {
-        "title": "6. LIMITATIONS AND RISKS",
-        "content1": "6.1 Custodian Accounts are not deposit accounts and do not accrue interest unless otherwise agreed in writing.",
-        "content2": "6.2 You acknowledge that UpFinance is not a licensed bank and that your Custodian Account is not protected by any deposit insurance scheme.",
-        "content3": "6.3 Digital assets may lose value and are subject to technical, legal, and regulatory risks. You accept these risks fully and unconditionally.",
-        "content4": "6.4 We may suspend access to specific assets, networks, or services without prior notice if required for risk control, maintenance, or compliance."
+        "title": "6. القيود والمخاطر",
+        "content1": "6.1 حسابات الحفظ ليست حسابات إيداع ولا تُستحق عليها فوائد ما لم يُتفق على خلاف ذلك كتابةً.",
+        "content2": "6.2 تقر بأن UpFinance ليست بنكًا مرخصًا، وأن حساب الحفظ الخاص بك غير مشمول بأي نظام لتأمين الودائع.",
+        "content3": "6.3 قد تفقد الأصول الرقمية قيمتها، كما أنها خاضعة لمخاطر تقنية وقانونية وتنظيمية. وأنت تقبل هذه المخاطر بشكل كامل وغير مشروط.",
+        "content4": "6.4 يجوز لنا تعليق الوصول إلى أصول أو شبكات أو خدمات محددة دون إشعار مسبق إذا كان ذلك مطلوبًا للسيطرة على المخاطر أو الصيانة أو الامتثال."
       },
       "section7": {
-        "title": "7. TERMINATION",
-        "content1": "7.1 Upon termination of your Account or closure of the Custodian Account, we will:",
-        "item1": "Verify your identity and ensure compliance clearance;",
-        "item2": "Facilitate the transfer of eligible balances to a verified destination provided by you;",
-        "item3": "Apply any applicable fees and deduct outstanding obligations.",
-        "content2": "7.2 We may retain records of your Custodian Account for legal and audit purposes, even after termination."
+        "title": "7. الإنهاء",
+        "content1": "7.1 عند إنهاء حسابك أو إغلاق حساب الحفظ، سنقوم بما يلي:",
+        "item1": "التحقق من هويتك والتأكد من استيفاء متطلبات الامتثال؛",
+        "item2": "تسهيل تحويل الأرصدة المؤهلة إلى جهة مستفيدة موثقة تحددها أنت؛",
+        "item3": "تطبيق أي رسوم واجبة وخصم الالتزامات المستحقة.",
+        "content2": "7.2 يجوز لنا الاحتفاظ بسجلات حساب الحفظ الخاص بك لأغراض قانونية وتدقيقية حتى بعد الإنهاء."
       }
     },
     "partB": {
-      "title": "PART B: CARD SERVICES",
+      "title": "الجزء B: خدمات البطاقات",
       "section1": {
-        "title": "1. SCOPE",
-        "content1": "1.1 This Part B governs the terms and conditions under which UpFinance offers its Users access to one or more physical or virtual payment cards (the \"UpFinance Card\"), issued in cooperation with one or more licensed BIN sponsors or electronic money institutions (the \"Card Issuer\").",
-        "content2": "1.2 By applying for or using an UpFinance Card, you agree to be bound by this Part B in addition to the General Terms and any issuer-specific cardholder agreements, where applicable."
+        "title": "1. النطاق",
+        "content1": "1.1 ينظم هذا الجزء B الشروط والأحكام التي تتيح بموجبها UpFinance لمستخدميها الوصول إلى بطاقة دفع فعلية أو افتراضية واحدة أو أكثر (\"بطاقة UpFinance\")، تصدر بالتعاون مع جهة أو أكثر من رعاة BIN المرخصين أو مؤسسات النقود الإلكترونية (\"مُصدر البطاقة\").",
+        "content2": "1.2 بتقديم طلب للحصول على بطاقة UpFinance أو باستخدامها، فإنك توافق على الالتزام بهذا الجزء B بالإضافة إلى الشروط العامة وأي اتفاقيات خاصة بحامل البطاقة صادرة عن المُصدر، حيثما ينطبق ذلك."
       },
       "section2": {
-        "title": "2. CARD ISSUANCE",
-        "content1": "2.1 Subject to successful completion of all KYC, AML, and due diligence requirements, and any applicable issuer policies, UpFinance may issue to you:",
-        "item1": "A physical card with EMV chip, PIN, and magnetic stripe;",
-        "item2": "A virtual card for online use and contactless payments;",
-        "item3": "Optional co-branded cards in partnership with merchants or business entities.",
-        "content2": "2.2 Cards are issued and activated only upon approval by the designated Card Issuer. Activation procedures will be communicated to the User and may include biometric verification or other secure processes.",
-        "content3": "2.3 The Card remains the property of the Card Issuer at all times and must be returned or destroyed upon request."
+        "title": "2. إصدار البطاقات",
+        "content1": "2.1 رهنًا بالاستيفاء الناجح لجميع متطلبات KYC وAML والعناية الواجبة، وأي سياسات سارية لدى المُصدر، يجوز لـ UpFinance إصدار ما يلي لك:",
+        "item1": "بطاقة فعلية مزودة بشريحة EMV ورقم PIN وشريط ممغنط؛",
+        "item2": "بطاقة افتراضية للاستخدام عبر الإنترنت والمدفوعات اللاتلامسية؛",
+        "item3": "بطاقات مشتركة العلامة التجارية اختيارية بالشراكة مع التجار أو الكيانات التجارية.",
+        "content2": "2.2 لا تُصدر البطاقات ولا تُفعّل إلا بعد موافقة مُصدر البطاقة المعين. وسيتم إبلاغ المستخدم بإجراءات التفعيل، وقد تتضمن التحقق البيومتري أو إجراءات أمان أخرى.",
+        "content3": "2.3 تظل البطاقة ملكًا لمُصدر البطاقة في جميع الأوقات، ويجب إعادتها أو إتلافها عند الطلب."
       },
       "section3": {
-        "title": "3. CARD USAGE",
-        "content1": "3.1 The UpFinance Card may be used for:",
-        "usage1": "Point-of-sale (POS) transactions with merchants;",
-        "usage2": "Online payments;",
-        "usage3": "ATM cash withdrawals (where permitted);",
-        "usage4": "In-app transactions and subscriptions.",
-        "content2": "3.2 The Card may be linked to balances in your Custodian Account and is subject to automatic liquidation of assets to settle fiat transactions in accordance with Part A and internal FX policies.",
-        "content3": "3.3 You are responsible for maintaining sufficient balance to authorize transactions. If insufficient funds are available, the transaction may be declined.",
-        "content4": "3.4 Card use is subject to geographic, merchant category, and daily/monthly limits imposed by UpFinance and/or the Card Issuer."
+        "title": "3. استخدام البطاقة",
+        "content1": "3.1 يمكن استخدام بطاقة UpFinance لأغراض:",
+        "usage1": "معاملات نقاط البيع (POS) مع التجار؛",
+        "usage2": "المدفوعات عبر الإنترنت؛",
+        "usage3": "السحب النقدي من أجهزة الصراف الآلي (حيثما يُسمح بذلك)؛",
+        "usage4": "المعاملات والاشتراكات داخل التطبيق.",
+        "content2": "3.2 قد ترتبط البطاقة بأرصدة حساب الحفظ الخاص بك، وتخضع للتسييل التلقائي للأصول لتسوية معاملات العملات الورقية وفقًا للجزء A وسياسات الصرف الداخلية.",
+        "content3": "3.3 تتحمل مسؤولية الحفاظ على رصيد كافٍ لاعتماد المعاملات. وإذا لم تتوافر أموال كافية، فقد يتم رفض المعاملة.",
+        "content4": "3.4 يخضع استخدام البطاقة لقيود جغرافية وقيود حسب فئة التاجر وحدود يومية/شهرية تفرضها UpFinance و/أو مُصدر البطاقة."
       },
       "section4": {
-        "title": "4. SECURITY AND RESPONSIBILITIES",
-        "content1": "4.1 You must:",
-        "responsibility1": "Protect the card number, CVV, PIN, and any other authentication credentials;",
-        "responsibility2": "Not share card credentials with any unauthorized third party;",
-        "responsibility3": "Promptly report any loss, theft, or suspected unauthorized access.",
-        "content2": "4.2 You shall be liable for any transactions initiated with your credentials unless:",
-        "exception1": "You have notified UpFinance of loss/theft;",
-        "exception2": "The Card has been blocked or suspended;",
-        "exception3": "The transaction occurred due to gross negligence or willful misconduct by UpFinance or the Card Issuer.",
-        "content3": "4.3 UpFinance reserves the right to suspend or block the Card at any time:",
-        "reason1": "Upon suspected fraud or compromise;",
-        "reason2": "At the instruction of regulatory authorities;",
-        "reason3": "Upon violation of these Terms."
+        "title": "4. الأمن والمسؤوليات",
+        "content1": "4.1 يجب عليك:",
+        "responsibility1": "حماية رقم البطاقة ورمز CVV ورمز PIN وأي بيانات اعتماد مصادقة أخرى؛",
+        "responsibility2": "عدم مشاركة بيانات اعتماد البطاقة مع أي طرف ثالث غير مصرح له؛",
+        "responsibility3": "الإبلاغ فورًا عن أي فقدان أو سرقة أو اشتباه في وصول غير مصرح به.",
+        "content2": "4.2 تتحمل مسؤولية أي معاملات تبدأ باستخدام بيانات اعتمادك ما لم:",
+        "exception1": "تكن قد أخطرت UpFinance بحالة الفقد/السرقة؛",
+        "exception2": "تكون البطاقة قد حُظرت أو عُلّقت؛",
+        "exception3": "تكون المعاملة قد حدثت بسبب إهمال جسيم أو سوء سلوك عمدي من UpFinance أو مُصدر البطاقة.",
+        "content3": "4.3 تحتفظ UpFinance بالحق في تعليق البطاقة أو حظرها في أي وقت:",
+        "reason1": "عند الاشتباه في احتيال أو اختراق؛",
+        "reason2": "بناءً على تعليمات الجهات التنظيمية؛",
+        "reason3": "عند مخالفة هذه الشروط."
       },
       "section5": {
-        "title": "5. FEES, LIMITS AND EXCHANGE",
-        "content1": "5.1 All applicable fees, including but not limited to:",
-        "fee1": "Card issuance fee;",
-        "fee2": "Monthly or annual maintenance fee;",
-        "fee3": "FX spread or conversion margin;",
-        "fee4": "ATM withdrawal fees;",
-        "fee5": "Reissuance or replacement fees are disclosed in the applicable Fee Schedule.",
-        "feesDisclosure": "are disclosed in the applicable Fee Schedule.",
-        "content2": "5.2 All non-USD transactions are converted using rates set by UpFinance or the Card Issuer, which include a spread over benchmark interbank rates. The applicable rate will be disclosed or made available at the time of transaction.",
-        "content3": "5.3 Fees may be charged in crypto or fiat and may be auto-deducted from your Custodian Account or invoiced in arrears."
+        "title": "5. الرسوم والحدود والصرف",
+        "content1": "5.1 جميع الرسوم المطبقة، بما في ذلك على سبيل المثال لا الحصر:",
+        "fee1": "رسوم إصدار البطاقة؛",
+        "fee2": "رسوم الصيانة الشهرية أو السنوية؛",
+        "fee3": "فروق أسعار الصرف أو هامش التحويل؛",
+        "fee4": "رسوم السحب من أجهزة الصراف الآلي؛",
+        "fee5": "يتم الإفصاح عن رسوم إعادة الإصدار أو الاستبدال في جدول الرسوم المعمول به.",
+        "feesDisclosure": "يتم الإفصاح عنها في جدول الرسوم المعمول به.",
+        "content2": "5.2 تُحوَّل جميع المعاملات بغير الدولار الأمريكي باستخدام أسعار يحددها UpFinance أو مُصدر البطاقة، وتشمل فرقًا سعريًا فوق السعر المرجعي بين البنوك. وسيتم الإفصاح عن السعر المطبق أو إتاحته وقت تنفيذ المعاملة.",
+        "content3": "5.3 قد تُفرض الرسوم بالعملات الرقمية أو العملات الورقية، وقد تُخصم تلقائيًا من حساب الحفظ الخاص بك أو تُفوتر لاحقًا."
       },
       "section6": {
-        "title": "6. RESTRICTIONS",
-        "content1": "6.1 You may not use the UpFinance Card for:",
-        "restriction1": "Prohibited transactions under applicable law (e.g., gambling, sanctioned entities);",
-        "restriction2": "Fraudulent or deceptive activities;",
-        "restriction3": "Transactions inconsistent with AML/CTF obligations.",
-        "content2": "6.2 We reserve the right to cancel, suspend, or restrict the Card with or without notice to comply with our legal obligations or risk policies."
+        "title": "6. القيود",
+        "content1": "6.1 لا يجوز لك استخدام بطاقة UpFinance في:",
+        "restriction1": "المعاملات المحظورة بموجب القانون المعمول به (مثل المقامرة أو الكيانات الخاضعة للعقوبات)؛",
+        "restriction2": "الأنشطة الاحتيالية أو الخادعة؛",
+        "restriction3": "المعاملات غير المتوافقة مع التزامات AML/CTF.",
+        "content2": "6.2 نحتفظ بالحق في إلغاء البطاقة أو تعليقها أو تقييدها مع أو دون إشعار للامتثال لالتزاماتنا القانونية أو سياسات المخاطر."
       },
       "section7": {
-        "title": "7. TERMINATION AND EXPIRATION",
-        "content1": "7.1 Your Card will be valid until its stated expiration date unless earlier terminated. We may issue a replacement card prior to expiration at our discretion.",
-        "content2": "7.2 Upon closure of your Account, expiration of the Card, or termination for breach, you must:",
-        "requirement1": "Cease use of the Card immediately;",
-        "requirement2": "Destroy the physical card (if applicable);",
-        "requirement3": "Ensure outstanding transactions and fees are settled.",
-        "content3": "7.3 Remaining funds (if any) will be returned in accordance with the Custodian Account terms and subject to audit and regulatory clearance."
+        "title": "7. الإنهاء وانتهاء الصلاحية",
+        "content1": "7.1 تظل بطاقتك صالحة حتى تاريخ الانتهاء المحدد عليها ما لم تُنهَ قبل ذلك. ويجوز لنا، وفق تقديرنا، إصدار بطاقة بديلة قبل انتهاء الصلاحية.",
+        "content2": "7.2 عند إغلاق حسابك، أو انتهاء صلاحية البطاقة، أو إنهائها بسبب مخالفة، يجب عليك:",
+        "requirement1": "التوقف فورًا عن استخدام البطاقة؛",
+        "requirement2": "إتلاف البطاقة الفعلية (إن وُجدت)؛",
+        "requirement3": "التأكد من تسوية المعاملات والرسوم المستحقة.",
+        "content3": "7.3 تُعاد الأموال المتبقية (إن وجدت) وفقًا لشروط حساب الحفظ ورهنًا بإتمام التدقيق والموافقات التنظيمية."
       }
     },
     "partC": {
-      "title": "PART C: SWAP TRANSACTIONS",
+      "title": "الجزء C: معاملات المبادلة",
       "section1": {
-        "title": "1. SCOPE",
-        "content1": "1.1 This Part C sets forth the terms and conditions governing the use of UpFinance's swap services, which enable Users to convert one supported digital asset or fiat currency into another (\"Swap Transactions\").",
-        "content2": "1.2 Swap Transactions may be facilitated by UpFinance directly or through third-party liquidity providers (\"Liquidity Providers\") and may be executed via centralized or decentralized exchange protocols."
+        "title": "1. النطاق",
+        "content1": "1.1 يحدد هذا الجزء C الشروط والأحكام التي تنظم استخدام خدمات المبادلة لدى UpFinance، والتي تُمكّن المستخدمين من تحويل أصل رقمي مدعوم أو عملة ورقية إلى أخرى (\"معاملات المبادلة\").",
+        "content2": "1.2 قد تُيسَّر معاملات المبادلة مباشرةً بواسطة UpFinance أو عبر مزودي سيولة من أطراف ثالثة (\"مزودو السيولة\")، وقد تُنفَّذ عبر بروتوكولات تبادل مركزية أو لامركزية."
       },
       "section2": {
-        "title": "2. ELIGIBILITY AND CONDITIONS",
-        "content1": "2.1 You must:",
-        "requirement1": "Hold an active Custodian Account with sufficient eligible balance;",
-        "requirement2": "Have completed all required identity and compliance verification steps;",
-        "requirement3": "Accept the Swap Transaction terms and any associated pricing, slippage, or fees at the time of execution.",
-        "content2": "2.2 UpFinance may limit the types of assets available for swap, minimum or maximum swap thresholds, and eligible counterparties.",
-        "content3": "2.3 Swap functionality may be suspended at any time without prior notice for reasons including market volatility, risk controls, or service maintenance."
+        "title": "2. الأهلية والشروط",
+        "content1": "2.1 يجب عليك:",
+        "requirement1": "امتلاك حساب حفظ نشط يتضمن رصيدًا مؤهلًا كافيًا؛",
+        "requirement2": "استكمال جميع خطوات التحقق من الهوية والامتثال المطلوبة؛",
+        "requirement3": "قبول شروط معاملة المبادلة وأي تسعير أو انزلاق سعري أو رسوم مرتبطة بها وقت التنفيذ.",
+        "content2": "2.2 يجوز لـ UpFinance تقييد أنواع الأصول المتاحة للمبادلة، والحدود الدنيا أو القصوى للمبادلة، والأطراف المقابلة المؤهلة.",
+        "content3": "2.3 يجوز تعليق وظيفة المبادلة في أي وقت دون إشعار مسبق لأسباب تشمل تقلبات السوق أو ضوابط المخاطر أو صيانة الخدمة."
       },
       "section3": {
-        "title": "3. EXECUTION AND PRICING",
-        "content1": "3.1 When initiating a Swap Transaction, you will be shown an indicative quote reflecting:",
-        "item1": "The input and output asset type and amount;",
-        "item2": "The applicable exchange rate or conversion formula;",
-        "item3": "Estimated network and service fees;",
-        "item4": "Any slippage tolerance limits.",
-        "content2": "3.2 You acknowledge that:",
-        "acknowledgment1": "Swap rates may change between quote and execution due to market movement;",
-        "acknowledgment2": "Network delays may result in execution outside your desired parameters;",
-        "acknowledgment3": "Transactions may be irreversible once executed.",
-        "content3": "3.3 You are solely responsible for verifying all swap parameters before confirmation. You waive any claim arising from adverse price movements occurring prior to execution."
+        "title": "3. التنفيذ والتسعير",
+        "content1": "3.1 عند بدء معاملة مبادلة، سيتم عرض سعر إرشادي يعكس:",
+        "item1": "نوع ومقدار الأصل الداخل والأصل الخارج؛",
+        "item2": "سعر الصرف المطبق أو صيغة التحويل؛",
+        "item3": "تقدير رسوم الشبكة ورسوم الخدمة؛",
+        "item4": "أي حدود لتحمل الانزلاق السعري.",
+        "content2": "3.2 تقر بأن:",
+        "acknowledgment1": "أسعار المبادلة قد تتغير بين عرض السعر والتنفيذ بسبب حركة السوق؛",
+        "acknowledgment2": "قد تؤدي تأخيرات الشبكة إلى تنفيذ خارج المعايير التي ترغب بها؛",
+        "acknowledgment3": "قد تصبح المعاملات غير قابلة للعكس بمجرد تنفيذها.",
+        "content3": "3.3 تتحمل وحدك مسؤولية التحقق من جميع معايير المبادلة قبل التأكيد. وتتنازل عن أي مطالبة ناشئة عن تحركات سعرية سلبية تحدث قبل التنفيذ."
       },
       "section4": {
-        "title": "4. SETTLEMENT AND CONFIRMATION",
-        "content1": "4.1 Upon execution, the corresponding balances in your Custodian Account will be debited and credited accordingly.",
-        "content2": "4.2 A transaction record will be generated and made available through your Account interface. This shall serve as conclusive evidence of execution, unless manifest error is proven.",
-        "content3": "4.3 Swap Transactions may take time to settle depending on the blockchain or external service provider involved. UpFinance is not liable for settlement delays beyond its control."
+        "title": "4. التسوية والتأكيد",
+        "content1": "4.1 عند التنفيذ، سيتم خصم وإضافة الأرصدة المقابلة في حساب الحفظ الخاص بك وفقًا لذلك.",
+        "content2": "4.2 سيتم إنشاء سجل للمعاملة وإتاحته عبر واجهة حسابك. ويُعد هذا السجل دليلًا قاطعًا على التنفيذ ما لم يثبت وجود خطأ ظاهر.",
+        "content3": "4.3 قد تستغرق معاملات المبادلة وقتًا للتسوية بحسب شبكة البلوك تشين أو مزود الخدمة الخارجي المعني. ولا تتحمل UpFinance مسؤولية تأخيرات التسوية الخارجة عن نطاق سيطرتها."
       },
       "section5": {
-        "title": "5. FEES AND SPREADS",
-        "content1": "5.1 All Swap Transactions are subject to:",
-        "fee1": "A platform fee as disclosed in the Fee Schedule;",
-        "fee2": "A spread applied to the prevailing market rate;",
-        "fee3": "Any third-party gas or transaction fees, as applicable.",
-        "content2": "5.2 Fees are deducted at the time of execution and are non-refundable once the transaction has been confirmed on-chain or by our systems."
+        "title": "5. الرسوم والفروقات السعرية",
+        "content1": "5.1 تخضع جميع معاملات المبادلة لما يلي:",
+        "fee1": "رسوم منصة كما هو مفصح عنه في جدول الرسوم؛",
+        "fee2": "فرق سعري يُطبَّق على سعر السوق السائد؛",
+        "fee3": "أي رسوم غاز أو رسوم معاملات لطرف ثالث، حسب الاقتضاء.",
+        "content2": "5.2 تُخصم الرسوم وقت التنفيذ وتكون غير قابلة للاسترداد بعد تأكيد المعاملة على السلسلة أو من خلال أنظمتنا."
       },
       "section6": {
-        "title": "6. RISK DISCLOSURE",
-        "content1": "6.1 You acknowledge and accept the following risks:",
-        "risk1": "Price slippage or unfavorable execution during volatile markets;",
-        "risk2": "Impermanent loss or depegging of stablecoins;",
-        "risk3": "Protocol errors or smart contract vulnerabilities (if using DEX routes);",
-        "risk4": "Liquidity shortfalls preventing transaction completion.",
-        "content2": "6.2 You bear full responsibility for the outcome of each Swap Transaction, including tax consequences or unrealized gains/losses."
+        "title": "6. الإفصاح عن المخاطر",
+        "content1": "6.1 تقر وتقبل المخاطر التالية:",
+        "risk1": "الانزلاق السعري أو التنفيذ غير المواتي أثناء تقلبات السوق؛",
+        "risk2": "الخسارة غير الدائمة أو فقدان ارتباط العملات المستقرة؛",
+        "risk3": "أخطاء البروتوكول أو ثغرات العقود الذكية (عند استخدام مسارات DEX)؛",
+        "risk4": "نقص السيولة بما يمنع إتمام المعاملة.",
+        "content2": "6.2 تتحمل المسؤولية الكاملة عن نتيجة كل معاملة مبادلة، بما في ذلك الآثار الضريبية أو الأرباح/الخسائر غير المحققة."
       },
       "section7": {
-        "title": "7. RIGHT TO REFUSE OR CANCEL",
-        "content1": "7.1 UpFinance reserves the right to:",
-        "right1": "Cancel or reverse any Swap Transaction in the event of technical malfunction, pricing error, or regulatory instruction;",
-        "right2": "Limit swap frequency, volume, or access based on compliance or risk triggers;",
-        "right3": "Delay settlement pending manual review where suspicious activity is detected.",
-        "content2": "7.2 In the event of suspected abuse or policy violation, your Account may be suspended and all pending transactions frozen without notice."
+        "title": "7. الحق في الرفض أو الإلغاء",
+        "content1": "7.1 تحتفظ UpFinance بالحق في:",
+        "right1": "إلغاء أو عكس أي معاملة مبادلة في حال حدوث خلل تقني أو خطأ تسعير أو تعليمات تنظيمية؛",
+        "right2": "تقييد وتيرة المبادلة أو حجمها أو الوصول إليها بناءً على محفزات الامتثال أو المخاطر؛",
+        "right3": "تأخير التسوية لحين المراجعة اليدوية عند اكتشاف نشاط مشبوه.",
+        "content2": "7.2 في حال الاشتباه في إساءة استخدام أو مخالفة سياسة، يجوز تعليق حسابك وتجميد جميع المعاملات المعلقة دون إشعار."
       }
     },
     "partD": {
-      "title": "PART D: WALLETS AND VAULTS",
+      "title": "الجزء D: المحافظ والخزائن",
       "section1": {
-        "title": "1. SCOPE",
-        "content1": "1.1 This Part D governs the use of wallet services and digital asset vaults made available through UpFinance, including:",
-        "type1": "Non-custodial wallets generated or connected by the User;",
-        "type2": "Smart contract-based vaults offered or operated by UpFinance;",
-        "type3": "Hybrid storage systems integrating custodial and self-custodial features.",
-        "content2": "1.2 Wallet and Vault Services are subject to applicable compliance, technical, and security protocols, and may be disabled, suspended, or modified at any time without prior notice."
+        "title": "1. النطاق",
+        "content1": "1.1 ينظم هذا الجزء D استخدام خدمات المحافظ وخزائن الأصول الرقمية المتاحة عبر UpFinance، بما في ذلك:",
+        "type1": "المحافظ غير الحفظية التي ينشئها المستخدم أو يربطها؛",
+        "type2": "الخزائن القائمة على العقود الذكية التي تقدمها UpFinance أو تشغلها؛",
+        "type3": "أنظمة تخزين هجينة تدمج خصائص الحفظ والحفظ الذاتي.",
+        "content2": "1.2 تخضع خدمات المحافظ والخزائن لبروتوكولات الامتثال والتقنية والأمان المعمول بها، ويجوز تعطيلها أو تعليقها أو تعديلها في أي وقت دون إشعار مسبق."
       },
       "section2": {
-        "title": "2. WALLET TYPES AND FUNCTIONALITY",
-        "content1": "2.1 UpFinance may support the following wallet types:",
-        "walletType1": "External Wallets: Non-custodial wallets connected by the User (e.g., MetaMask, WalletConnect);",
-        "walletType2": "Smart Vaults: On-chain programmable vaults with predefined rules for storage, access, or delegation;",
-        "walletType3": "Recovery Wallets: Multisig or social recovery-enabled wallets managed through UpFinance interfaces.",
-        "content2": "2.2 Vaults may include advanced features such as:",
-        "feature1": "Time-locked asset release;",
-        "feature2": "Delegation or inheritance rules;",
-        "feature3": "Automated task execution;",
-        "feature4": "Multi-party approvals.",
-        "content3": "2.3 The functionality, visibility, and accessibility of each wallet or vault may depend on blockchain network conditions, third-party integrations, or gas availability."
+        "title": "2. أنواع المحافظ والوظائف",
+        "content1": "2.1 قد تدعم UpFinance أنواع المحافظ التالية:",
+        "walletType1": "المحافظ الخارجية: محافظ غير حفظية يربطها المستخدم (مثل MetaMask وWalletConnect)؛",
+        "walletType2": "الخزائن الذكية: خزائن قابلة للبرمجة على السلسلة مع قواعد محددة مسبقًا للتخزين أو الوصول أو التفويض؛",
+        "walletType3": "محافظ الاسترداد: محافظ متعددة التوقيع أو مدعومة بالاسترداد الاجتماعي تُدار عبر واجهات UpFinance.",
+        "content2": "2.2 قد تتضمن الخزائن ميزات متقدمة مثل:",
+        "feature1": "الإفراج عن الأصول المقيد زمنيًا؛",
+        "feature2": "قواعد التفويض أو الميراث؛",
+        "feature3": "تنفيذ المهام تلقائيًا؛",
+        "feature4": "موافقات متعددة الأطراف.",
+        "content3": "2.3 قد تعتمد وظائف كل محفظة أو خزنة وإمكانية رؤيتها والوصول إليها على ظروف شبكة البلوك تشين أو تكاملات الأطراف الثالثة أو توافر رسوم الغاز."
       },
       "section3": {
-        "title": "3. USER CONTROL AND RESPONSIBILITY",
-        "content1": "3.1 For all non-custodial or smart contract wallets:",
-        "responsibility1": "You retain sole control over the private keys, seed phrases, or recovery credentials;",
-        "responsibility2": "UpFinance does not store, manage, or retrieve any User keys or access codes;",
-        "responsibility3": "Loss or compromise of your keys may result in irreversible loss of assets.",
-        "content2": "3.2 You are solely responsible for the use of dApps, signing of transactions, and exposure to smart contract risks when interacting with Vault Services.",
-        "content3": "3.3 By using Wallet or Vault Services, you acknowledge that:",
-        "acknowledgment1": "Smart contracts may contain errors or bugs;",
-        "acknowledgment2": "You have conducted your own due diligence;",
-        "acknowledgment3": "You assume all risk related to such technologies."
+        "title": "3. تحكم المستخدم ومسؤوليته",
+        "content1": "3.1 بالنسبة لجميع المحافظ غير الحفظية أو القائمة على العقود الذكية:",
+        "responsibility1": "تحتفظ وحدك بالسيطرة على المفاتيح الخاصة أو عبارات الاستعادة أو بيانات اعتماد الاسترداد؛",
+        "responsibility2": "لا تقوم UpFinance بتخزين أو إدارة أو استرجاع أي مفاتيح مستخدم أو رموز وصول؛",
+        "responsibility3": "قد يؤدي فقدان مفاتيحك أو اختراقها إلى خسارة غير قابلة للعكس للأصول.",
+        "content2": "3.2 تتحمل وحدك مسؤولية استخدام التطبيقات اللامركزية (dApps) وتوقيع المعاملات والتعرض لمخاطر العقود الذكية عند التفاعل مع خدمات الخزائن.",
+        "content3": "3.3 باستخدامك خدمات المحافظ أو الخزائن، فإنك تقر بأن:",
+        "acknowledgment1": "العقود الذكية قد تحتوي على أخطاء أو ثغرات؛",
+        "acknowledgment2": "لقد أجريت العناية الواجبة الخاصة بك؛",
+        "acknowledgment3": "وأنت تتحمل جميع المخاطر المرتبطة بهذه التقنيات."
       },
       "section4": {
-        "title": "4. INTERACTIONS WITH CUSTODIAL SERVICES",
-        "content1": "4.1 You may transfer assets between your Custodian Account and Vaults or Wallets at any time, subject to applicable fees, gas costs, and platform policies.",
-        "content2": "4.2 Vaults may be subject to lock-up periods, cooldown timers, or programmable access conditions which may delay or restrict withdrawals.",
-        "content3": "4.3 Interoperability with external custody solutions (e.g., Ledger, MPC providers) is not guaranteed and may be limited by third-party software or hardware constraints."
+        "title": "4. التفاعل مع خدمات الحفظ",
+        "content1": "4.1 يجوز لك تحويل الأصول بين حساب الحفظ الخاص بك وبين الخزائن أو المحافظ في أي وقت، وذلك رهنًا بالرسوم المطبقة وتكاليف الغاز وسياسات المنصة.",
+        "content2": "4.2 قد تخضع الخزائن لفترات قفل أو مؤقتات تهدئة أو شروط وصول قابلة للبرمجة، مما قد يؤخر السحوبات أو يقيّدها.",
+        "content3": "4.3 لا يُضمن التوافق التشغيلي مع حلول الحفظ الخارجية (مثل Ledger أو مزودي MPC)، وقد يكون محدودًا بقيود البرامج أو الأجهزة لدى الأطراف الثالثة."
       },
       "section5": {
-        "title": "5. FEES AND LIMITATIONS",
-        "content1": "5.1 Usage of Wallet or Vault Services may incur:",
-        "fee1": "Blockchain gas fees;",
-        "fee2": "Smart contract interaction charges;",
-        "fee3": "Vault creation or maintenance fees (where applicable).",
-        "content2": "5.2 UpFinance reserves the right to implement usage-based pricing, transaction throttling, or minimum/maximum transfer amounts."
+        "title": "5. الرسوم والقيود",
+        "content1": "5.1 قد يترتب على استخدام خدمات المحافظ أو الخزائن ما يلي:",
+        "fee1": "رسوم غاز البلوك تشين؛",
+        "fee2": "رسوم التفاعل مع العقود الذكية؛",
+        "fee3": "رسوم إنشاء الخزينة أو صيانتها (عند الاقتضاء).",
+        "content2": "5.2 تحتفظ UpFinance بالحق في تطبيق تسعير قائم على الاستخدام، أو تقليل سرعة المعاملات، أو فرض حدود دنيا/قصوى لمبالغ التحويل."
       },
       "section6": {
-        "title": "6. TERMINATION AND DATA RETENTION",
-        "content1": "6.1 Upon termination of your Account:",
-        "termination1": "Vaults may be deactivated, and any automated processes halted;",
-        "termination2": "You will retain access to your external wallets, but Vault interfaces may be disabled.",
-        "content2": "6.2 UpFinance shall not be responsible for preserving metadata, transaction history, or user-configured vault logic after Account termination.",
-        "content3": "6.3 You are advised to export or back up any relevant information before initiating Account closure."
+        "title": "6. الإنهاء والاحتفاظ بالبيانات",
+        "content1": "6.1 عند إنهاء حسابك:",
+        "termination1": "قد يتم تعطيل الخزائن وإيقاف أي عمليات مؤتمتة؛",
+        "termination2": "ستحتفظ بإمكانية الوصول إلى محافظك الخارجية، لكن قد يتم تعطيل واجهات الخزائن.",
+        "content2": "6.2 لا تتحمل UpFinance مسؤولية حفظ البيانات الوصفية أو سجل المعاملات أو منطق الخزائن الذي قام المستخدم بتكوينه بعد إنهاء الحساب.",
+        "content3": "6.3 يُنصح بتصدير أي معلومات ذات صلة أو أخذ نسخة احتياطية منها قبل بدء إجراءات إغلاق الحساب."
       }
     },
     "partE": {
-      "title": "PART E: VIRTUAL ACCOUNTS",
+      "title": "الجزء E: الحسابات الافتراضية",
       "section1": {
-        "title": "1. SCOPE",
-        "content1": "1.1 This Part E sets forth the terms and conditions applicable to the provision and use of virtual account services offered through UpFinance (\"Virtual Accounts\").",
-        "content2": "1.2 Virtual Accounts refer to unique identifiers and associated payment rails (e.g., dedicated IBANs, SWIFT codes, FPS identifiers, or proxy-linked accounts) that enable Users to receive or send fiat currency deposits and withdrawals through partnered banking and payment institutions."
+        "title": "1. النطاق",
+        "content1": "1.1 يحدد هذا الجزء E الشروط والأحكام المطبقة على تقديم واستخدام خدمات الحسابات الافتراضية المقدمة عبر UpFinance (\"الحسابات الافتراضية\").",
+        "content2": "1.2 تشير الحسابات الافتراضية إلى معرّفات فريدة ومسارات دفع مرتبطة (مثل أرقام IBAN مخصصة أو رموز SWIFT أو معرّفات FPS أو حسابات مرتبطة بالوكيل) تمكّن المستخدمين من استلام أو إرسال إيداعات وسحوبات العملات الورقية عبر المؤسسات المصرفية ومؤسسات الدفع الشريكة."
       },
       "section2": {
-        "title": "2. ACCOUNT ISSUANCE AND ELIGIBILITY",
-        "content1": "2.1 Virtual Accounts are provided through licensed financial partners and are subject to their onboarding and compliance requirements. UpFinance does not independently issue or manage Virtual Accounts.",
-        "content2": "2.2 You must:",
-        "requirement1": "Maintain an active Custodian Account with UpFinance;",
-        "requirement2": "Successfully complete all required KYC/AML procedures;",
-        "requirement3": "Acknowledge and agree to any additional partner-specific terms and disclosures.",
-        "content3": "2.3 UpFinance reserves the right to reject, suspend, or revoke access to Virtual Accounts at any time for risk, compliance, or technical reasons."
+        "title": "2. إصدار الحساب والأهلية",
+        "content1": "2.1 تُقدَّم الحسابات الافتراضية عبر شركاء ماليين مرخصين وتخضع لمتطلبات الانضمام والامتثال الخاصة بهم. ولا تقوم UpFinance بإصدار الحسابات الافتراضية أو إدارتها بشكل مستقل.",
+        "content2": "2.2 يجب عليك:",
+        "requirement1": "الحفاظ على حساب حفظ نشط لدى UpFinance؛",
+        "requirement2": "إتمام جميع إجراءات KYC/AML المطلوبة بنجاح؛",
+        "requirement3": "الإقرار والموافقة على أي شروط أو إفصاحات إضافية خاصة بالشريك.",
+        "content3": "2.3 تحتفظ UpFinance بالحق في رفض أو تعليق أو سحب الوصول إلى الحسابات الافتراضية في أي وقت لأسباب تتعلق بالمخاطر أو الامتثال أو الجوانب التقنية."
       },
       "section3": {
-        "title": "3. DEPOSITS AND FUNDING",
-        "content1": "3.1 Fiat deposits may be made to your Virtual Account via bank transfer or other supported payment methods.",
-        "content2": "3.2 Funds received into your Virtual Account will be credited to your Custodian Account once cleared by the underlying financial institution. Delays may occur due to:",
-        "delay1": "Bank processing times;",
-        "delay2": "Incorrect reference details;",
-        "delay3": "Network or correspondent banking issues.",
-        "content3": "3.3 You are responsible for ensuring accurate transfer details. Misrouted or improperly referenced transfers may be delayed or forfeited."
+        "title": "3. الإيداعات والتمويل",
+        "content1": "3.1 يمكن إجراء إيداعات العملات الورقية إلى حسابك الافتراضي عبر التحويل البنكي أو وسائل الدفع المدعومة الأخرى.",
+        "content2": "3.2 تُقيَّد الأموال الواردة إلى حسابك الافتراضي في حساب الحفظ الخاص بك بعد إتمام المقاصة من المؤسسة المالية الأساسية. وقد يحدث تأخير بسبب:",
+        "delay1": "أوقات المعالجة البنكية؛",
+        "delay2": "تفاصيل مرجعية غير صحيحة؛",
+        "delay3": "مشكلات الشبكة أو البنوك المراسلة.",
+        "content3": "3.3 تتحمل مسؤولية ضمان دقة تفاصيل التحويل. وقد تتأخر التحويلات الموجهة بشكل خاطئ أو ذات المرجع غير الصحيح أو تُفقد."
       },
       "section4": {
-        "title": "4. OUTBOUND PAYMENTS",
-        "content1": "4.1 You may initiate outbound payments from your Custodian Account to external bank accounts via the Virtual Account system, subject to applicable fees, cut-off times, and anti-fraud checks.",
-        "content2": "4.2 Transfers may be rejected or delayed due to:",
-        "reason1": "Compliance flags;",
-        "reason2": "Sanction screening;",
-        "reason3": "Insufficient documentation or transaction justification.",
-        "content3": "4.3 All outbound instructions are deemed final once submitted. You acknowledge that fiat payment networks are not reversible and UpFinance cannot guarantee recovery of misdirected funds."
+        "title": "4. المدفوعات الصادرة",
+        "content1": "4.1 يجوز لك بدء مدفوعات صادرة من حساب الحفظ الخاص بك إلى حسابات بنكية خارجية عبر نظام الحساب الافتراضي، وذلك رهنًا بالرسوم المعمول بها ومواعيد الإقفال وفحوص مكافحة الاحتيال.",
+        "content2": "4.2 قد تُرفض التحويلات أو تتأخر بسبب:",
+        "reason1": "إشارات امتثال؛",
+        "reason2": "فحص العقوبات؛",
+        "reason3": "نقص المستندات أو مبررات المعاملة.",
+        "content3": "4.3 تُعد جميع تعليمات الدفع الصادرة نهائية بمجرد إرسالها. وتقر بأن شبكات مدفوعات العملات الورقية غير قابلة للعكس وأن UpFinance لا تضمن استرداد الأموال المحولة بالخطأ."
       },
       "section5": {
-        "title": "5. FEES AND CONVERSIONS",
-        "content1": "5.1 Virtual Account usage may be subject to:",
-        "fee1": "Deposit and withdrawal fees;",
-        "fee2": "FX conversion margins (if applicable);",
-        "fee3": "Third-party banking and processing charges.",
-        "content2": "5.2 Fees are disclosed in the current Fee Schedule and may be amended from time to time. You agree to pay all applicable fees in full and authorize UpFinance to deduct such fees from your Custodian Account."
+        "title": "5. الرسوم والتحويلات",
+        "content1": "5.1 قد يخضع استخدام الحساب الافتراضي لما يلي:",
+        "fee1": "رسوم الإيداع والسحب؛",
+        "fee2": "هوامش تحويل العملات (عند الاقتضاء)؛",
+        "fee3": "رسوم مصرفية ورسوم معالجة لطرف ثالث.",
+        "content2": "5.2 يتم الإفصاح عن الرسوم في جدول الرسوم الحالي وقد تُعدل من وقت لآخر. وتوافق على دفع جميع الرسوم المطبقة بالكامل وتفوض UpFinance بخصم هذه الرسوم من حساب الحفظ الخاص بك."
       },
       "section6": {
-        "title": "6. ACCOUNT LIMITATIONS AND MONITORING",
-        "content1": "6.1 Virtual Accounts are provided on a best-effort basis. Service may be disrupted due to partner outages, regulatory directives, or banking policy changes.",
-        "content2": "6.2 We reserve the right to:",
-        "right1": "Impose transaction limits or velocity controls;",
-        "right2": "Require justification for high-value or unusual transactions;",
-        "right3": "Freeze or reverse specific entries pending review.",
-        "content3": "6.3 You agree to provide full cooperation in any inquiry or investigation related to Virtual Account activity."
+        "title": "6. قيود الحساب والمراقبة",
+        "content1": "6.1 تُقدَّم الحسابات الافتراضية على أساس بذل أفضل جهد. وقد تتعطل الخدمة بسبب توقفات الشركاء أو التوجيهات التنظيمية أو تغييرات سياسات البنوك.",
+        "content2": "6.2 نحتفظ بالحق في:",
+        "right1": "فرض حدود للمعاملات أو ضوابط للوتيرة؛",
+        "right2": "طلب مبررات للمعاملات مرتفعة القيمة أو غير المعتادة؛",
+        "right3": "تجميد أو عكس قيود محددة لحين المراجعة.",
+        "content3": "6.3 توافق على تقديم التعاون الكامل في أي استفسار أو تحقيق يتعلق بنشاط الحساب الافتراضي."
       },
       "section7": {
-        "title": "7. TERMINATION",
-        "content1": "7.1 Your access to a Virtual Account may be terminated:",
-        "reason1": "Upon closure of your Custodian Account;",
-        "reason2": "If you fail to comply with onboarding or ongoing verification;",
-        "reason3": "At the instruction of the issuing financial institution.",
-        "content2": "7.2 Upon termination, any residual balances will be reconciled and returned in accordance with our standard offboarding and compliance protocols."
+        "title": "7. الإنهاء",
+        "content1": "7.1 قد يتم إنهاء وصولك إلى الحساب الافتراضي:",
+        "reason1": "عند إغلاق حساب الحفظ الخاص بك؛",
+        "reason2": "إذا أخفقت في الامتثال لمتطلبات الانضمام أو التحقق المستمر؛",
+        "reason3": "بناءً على تعليمات المؤسسة المالية المُصدِرة.",
+        "content2": "7.2 عند الإنهاء، تتم تسوية أي أرصدة متبقية وإعادتها وفقًا لبروتوكولات إنهاء العلاقة والامتثال القياسية لدينا."
       }
     },
     "partF": {
-      "title": "PART F: THIRD-PARTY SERVICES",
+      "title": "الجزء F: خدمات الأطراف الثالثة",
       "section1": {
-        "title": "1. SCOPE",
-        "content1": "1.1 This Part F governs your access to and use of any third-party services, platforms, applications, or tools (\"Third-Party Services\") that are made available through or integrated with the UpFinance ecosystem.",
-        "content2": "1.2 By interacting with any Third-Party Services through UpFinance, you acknowledge that:",
-        "acknowledgment1": "Such services are operated by independent third-party providers;",
-        "acknowledgment2": "UpFinance does not control, endorse, or assume liability for these services;",
-        "acknowledgment3": "You are solely responsible for reviewing and agreeing to the third party's terms and policies."
+        "title": "1. النطاق",
+        "content1": "1.1 ينظم هذا الجزء F وصولك إلى واستخدامك لأي خدمات أو منصات أو تطبيقات أو أدوات تابعة لطرف ثالث (\"خدمات الطرف الثالث\") تكون متاحة عبر منظومة UpFinance أو مدمجة فيها.",
+        "content2": "1.2 من خلال تفاعلك مع أي خدمات طرف ثالث عبر UpFinance، فإنك تقر بأن:",
+        "acknowledgment1": "هذه الخدمات تُشغَّل بواسطة مزودين مستقلين من الأطراف الثالثة؛",
+        "acknowledgment2": "UpFinance لا تسيطر على هذه الخدمات ولا تؤيدها ولا تتحمل المسؤولية عنها؛",
+        "acknowledgment3": "وتتحمل وحدك مسؤولية مراجعة شروط وسياسات الطرف الثالث والموافقة عليها."
       },
       "section2": {
-        "title": "2. ACCESS AND INTEGRATION",
-        "content1": "2.1 Third-Party Services may be accessed via APIs, embedded interfaces, deep links, wallet connectors, or data-sharing protocols provided through UpFinance's platform.",
-        "content2": "2.2 These may include, without limitation:",
-        "service1": "Trading platforms or DEX aggregators;",
-        "service2": "Lending or staking applications;",
-        "service3": "Decentralized identity or KYC providers;",
-        "service4": "Tax reporting or accounting software;",
-        "service5": "Payment processors or fiat gateways.",
-        "content3": "2.3 UpFinance reserves the right to enable, restrict, or discontinue any Third-Party Service integration at its sole discretion."
+        "title": "2. الوصول والتكامل",
+        "content1": "2.1 يمكن الوصول إلى خدمات الطرف الثالث عبر واجهات API، أو الواجهات المضمنة، أو الروابط العميقة، أو موصلات المحافظ، أو بروتوكولات مشاركة البيانات المتاحة من خلال منصة UpFinance.",
+        "content2": "2.2 وقد يشمل ذلك، دون حصر:",
+        "service1": "منصات التداول أو مجمعات DEX؛",
+        "service2": "تطبيقات الإقراض أو الرهن؛",
+        "service3": "مزودي الهوية اللامركزية أو KYC؛",
+        "service4": "برامج إعداد التقارير الضريبية أو المحاسبة؛",
+        "service5": "معالجات المدفوعات أو بوابات العملات الورقية.",
+        "content3": "2.3 تحتفظ UpFinance بالحق في تفعيل أو تقييد أو إيقاف أي تكامل مع خدمة طرف ثالث وفق تقديرها المنفرد."
       },
       "section3": {
-        "title": "3. RISK AND DUE DILIGENCE",
-        "content1": "3.1 You acknowledge that Third-Party Services may:",
-        "risk1": "Be subject to different laws, regulations, or compliance standards;",
-        "risk2": "Present operational, financial, technological, or reputational risks;",
-        "risk3": "Interact with your wallet or Custodian Account with elevated permissions.",
-        "content2": "3.2 You agree to perform your own due diligence before using any Third-Party Service and to assume full responsibility for any resulting loss or liability.",
-        "content3": "3.3 UpFinance makes no warranties or guarantees regarding:",
-        "warranty1": "The performance, reliability, or accuracy of third-party tools;",
-        "warranty2": "The safety or legality of smart contracts operated by third parties;",
-        "warranty3": "The data handling practices of such providers."
+        "title": "3. المخاطر والعناية الواجبة",
+        "content1": "3.1 تقر بأن خدمات الطرف الثالث قد:",
+        "risk1": "تخضع لقوانين أو لوائح أو معايير امتثال مختلفة؛",
+        "risk2": "تنطوي على مخاطر تشغيلية أو مالية أو تقنية أو متعلقة بالسمعة؛",
+        "risk3": "تتفاعل مع محفظتك أو حساب الحفظ الخاص بك بصلاحيات موسعة.",
+        "content2": "3.2 توافق على إجراء العناية الواجبة الخاصة بك قبل استخدام أي خدمة طرف ثالث وعلى تحمل المسؤولية الكاملة عن أي خسارة أو التزام ناتج.",
+        "content3": "3.3 لا تقدم UpFinance أي ضمانات أو تعهدات فيما يتعلق بـ:",
+        "warranty1": "أداء أدوات الطرف الثالث أو موثوقيتها أو دقتها؛",
+        "warranty2": "سلامة أو قانونية العقود الذكية التي يشغلها أطراف ثالثة؛",
+        "warranty3": "ممارسات معالجة البيانات لدى هؤلاء المزودين."
       },
       "section4": {
-        "title": "4. DATA SHARING AND CONSENTS",
-        "content1": "4.1 You authorize UpFinance to share certain personal, transactional, or compliance data with third-party providers as required to enable or support the requested service.",
-        "content2": "4.2 Such data sharing will be governed by:",
-        "governance1": "The specific consent you provide at the time of activation;",
-        "governance2": "Our Privacy Policy;",
-        "governance3": "Applicable data protection regulations.",
-        "content3": "4.3 You may revoke access or unlink a Third-Party Service at any time via the settings or integrations dashboard."
+        "title": "4. مشاركة البيانات والموافقات",
+        "content1": "4.1 تفوض UpFinance بمشاركة بعض البيانات الشخصية أو بيانات المعاملات أو بيانات الامتثال مع مزودي الطرف الثالث بالقدر اللازم لتمكين الخدمة المطلوبة أو دعمها.",
+        "content2": "4.2 تخضع مشاركة البيانات هذه لما يلي:",
+        "governance1": "الموافقة المحددة التي تقدمها عند التفعيل؛",
+        "governance2": "سياسة الخصوصية الخاصة بنا؛",
+        "governance3": "لوائح حماية البيانات المعمول بها.",
+        "content3": "4.3 يجوز لك إلغاء الوصول أو فك الارتباط مع خدمة طرف ثالث في أي وقت عبر لوحة الإعدادات أو التكاملات."
       },
       "section5": {
-        "title": "5. FEES AND COMMISSIONS",
-        "content1": "5.1 Use of Third-Party Services may incur additional fees, including but not limited to:",
-        "fee1": "API access or usage fees;",
-        "fee2": "Platform commissions or referral markups;",
-        "fee3": "Subscription or service charges by the provider.",
-        "content2": "5.2 Where applicable, UpFinance may earn referral income or share in fees collected by third parties, as disclosed from time to time.",
-        "content3": "5.3 You acknowledge that fee structures and billing mechanisms are governed by the third-party provider and are beyond UpFinance's control."
+        "title": "5. الرسوم والعمولات",
+        "content1": "5.1 قد يترتب على استخدام خدمات الطرف الثالث رسوم إضافية، بما في ذلك على سبيل المثال لا الحصر:",
+        "fee1": "رسوم الوصول إلى API أو رسوم الاستخدام؛",
+        "fee2": "عمولات المنصة أو هوامش الإحالة؛",
+        "fee3": "رسوم الاشتراك أو الخدمة التي يفرضها المزود.",
+        "content2": "5.2 عند الاقتضاء، قد تحقق UpFinance دخل إحالة أو حصة من الرسوم التي تجمعها أطراف ثالثة، وفق ما يُفصح عنه من وقت لآخر.",
+        "content3": "5.3 تقر بأن هياكل الرسوم وآليات الفوترة يحكمها مزود الطرف الثالث وهي خارج نطاق سيطرة UpFinance."
       },
       "section6": {
-        "title": "6. LIABILITY AND DISCLAIMERS",
-        "content1": "6.1 UpFinance shall not be liable for:",
-        "liability1": "Any direct or indirect loss arising from your use of Third-Party Services;",
-        "liability2": "Contractual breaches, fraud, or misconduct by the third-party provider;",
-        "liability3": "Unauthorized access, data breaches, or downtime associated with the service.",
-        "content2": "6.2 All Third-Party Services are provided on an \"AS IS\" and \"AS AVAILABLE\" basis without warranties of any kind, express or implied."
+        "title": "6. المسؤولية وإخلاءات المسؤولية",
+        "content1": "6.1 لا تتحمل UpFinance المسؤولية عن:",
+        "liability1": "أي خسارة مباشرة أو غير مباشرة ناشئة عن استخدامك لخدمات الطرف الثالث؛",
+        "liability2": "الإخلالات التعاقدية أو الاحتيال أو سوء السلوك من جانب مزود الطرف الثالث؛",
+        "liability3": "الوصول غير المصرح به أو اختراقات البيانات أو فترات التوقف المرتبطة بالخدمة.",
+        "content2": "6.2 تُقدَّم جميع خدمات الطرف الثالث على أساس \"كما هي\" و\"حسب التوافر\" دون أي ضمانات من أي نوع، صريحة كانت أم ضمنية."
       },
       "section7": {
-        "title": "7. TERMINATION",
-        "content1": "7.1 We may suspend or terminate access to a Third-Party Service if:",
-        "reason1": "Required by law or regulatory directive;",
-        "reason2": "The provider ceases operations or fails to meet our technical/integrity standards;",
-        "reason3": "You violate any term of this Part F.",
-        "content2": "7.2 Upon disconnection or termination:",
-        "consequence1": "All access rights to the affected Third-Party Service shall immediately cease;",
-        "consequence2": "You remain liable for any pending transactions, fees, or obligations."
+        "title": "7. الإنهاء",
+        "content1": "7.1 يجوز لنا تعليق أو إنهاء الوصول إلى خدمة طرف ثالث إذا:",
+        "reason1": "كان ذلك مطلوبًا بموجب القانون أو توجيه تنظيمي؛",
+        "reason2": "أوقف المزود عملياته أو أخفق في استيفاء معاييرنا التقنية/معايير النزاهة؛",
+        "reason3": "قمت بمخالفة أي شرط من شروط هذا الجزء F.",
+        "content2": "7.2 عند فصل الخدمة أو إنهائها:",
+        "consequence1": "تنتهي فورًا جميع حقوق الوصول إلى خدمة الطرف الثالث المتأثرة؛",
+        "consequence2": "وتظل مسؤولًا عن أي معاملات معلقة أو رسوم أو التزامات."
       }
     },
     "endOfTerms": {
-      "title": "END OF SERVICE-SPECIFIC TERMS",
-      "content": "The remaining provisions of these Terms, including the Definitions Section and Dispute Resolution Clause, continue to apply."
+      "title": "نهاية الشروط الخاصة بالخدمة",
+      "content": "تظل الأحكام المتبقية من هذه الشروط، بما في ذلك قسم التعريفات وبند تسوية المنازعات، سارية التطبيق."
     },
-    "copyright": "© 2025 UpGlobal Inc. All rights reserved. FinCEN MSB Reg. No. 31000308751680."
+    "copyright": "© 2025 UpGlobal Inc. جميع الحقوق محفوظة. رقم تسجيل FinCEN MSB: 31000308751680."
   },
   "kyc_aml_content": {
-    "title": "UpFinance ANTI-MONEY LAUNDERING (AML) AND KNOW-YOUR-CUSTOMER (KYC) POLICY",
-    "lastUpdated": "Oct 8, 2025",
-    "intro1": "This Anti-Money Laundering (\"AML\") and Know-Your-Customer (\"KYC\") Policy (\"Policy\") is issued by UpGlobal Inc., a corporation incorporated under the laws of the State of Delaware with its registered office at 8 The Green, Ste A, Dover, DE 19901, USA, doing business as UpFinance (\"we,\" \"us,\" or \"our\").",
-    "intro2": "The purpose of this Policy is to establish comprehensive governance, controls, and procedures to prevent money laundering, terrorist financing, proliferation financing, sanctions evasion, and related illicit financial activity.",
-    "intro3": "This Policy applies to all users, counterparties, employees, and partners of UpFinance and forms an integral part of our Terms of Use.",
+    "title": "سياسة UpFinance لمكافحة غسل الأموال (AML) واعرف عميلك (KYC)",
+    "lastUpdated": "8 أكتوبر 2025",
+    "intro1": "تصدر هذه السياسة الخاصة بمكافحة غسل الأموال (\"AML\") واعرف عميلك (\"KYC\") (\"السياسة\") عن شركة UpGlobal Inc.، وهي شركة مؤسسة بموجب قوانين ولاية ديلاوير الأمريكية ومكتبها المسجل في 8 The Green, Ste A, Dover, DE 19901, USA، وتزاول أعمالها تحت الاسم التجاري UpFinance (\"نحن\" أو \"لنا\").",
+    "intro2": "تهدف هذه السياسة إلى وضع إطار حوكمة وضوابط وإجراءات شاملة لمنع غسل الأموال وتمويل الإرهاب وتمويل الانتشار والتهرب من العقوبات وأي أنشطة مالية غير مشروعة ذات صلة.",
+    "intro3": "تنطبق هذه السياسة على جميع مستخدمي UpFinance والأطراف المقابلة والموظفين والشركاء، وتشكل جزءًا لا يتجزأ من شروط الاستخدام الخاصة بنا.",
     "section1": {
-      "title": "1. Legal and Regulatory Framework",
-      "content1": "UpFinance complies with all applicable U.S. laws and regulations, including the Bank Secrecy Act (BSA), USA PATRIOT Act, and related FinCEN rules (31 CFR §§ 1010-1023), as well as the Financial Action Task Force (FATF) Recommendations.",
-      "content2": "UpGlobal Inc. is registered with the U.S. Financial Crimes Enforcement Network (FinCEN) as a Money Services Business (MSB Reg. No. 31000308751680).",
-      "content3": "Where applicable, we coordinate with licensed custodial partners, including Merits Bank & Trust Limited (Hong Kong — TCSP Licence No. TC008817), which operate under their respective regulatory regimes."
+      "title": "1. الإطار القانوني والتنظيمي",
+      "content1": "تلتزم UpFinance بجميع القوانين واللوائح الأمريكية المعمول بها، بما في ذلك قانون السرية المصرفية (BSA) وقانون USA PATRIOT والقواعد ذات الصلة الصادرة عن FinCEN (31 CFR §§ 1010-1023)، وكذلك توصيات فرقة العمل المعنية بالإجراءات المالية (FATF).",
+      "content2": "شركة UpGlobal Inc. مسجلة لدى شبكة مكافحة الجرائم المالية الأمريكية (FinCEN) بصفتها مؤسسة خدمات مالية (MSB Reg. No. 31000308751680).",
+      "content3": "عند الاقتضاء، ننسق مع شركاء حفظ مرخصين، بما في ذلك Merits Bank & Trust Limited (هونغ كونغ — TCSP Licence No. TC008817)، والذين يعملون وفق أنظمتهم الرقابية الخاصة."
     },
     "section2": {
-      "title": "2. Risk-Based Approach (RBA)",
-      "content1": "We employ a risk-based approach consistent with FATF guidance and FinCEN expectations. Customers are risk-classified based on geographic origin, business nature, transaction patterns, source of funds, and PEP/sanctions status. ",
-      "content2": "Enhanced Due Diligence (EDD) is applied to high-risk profiles, including those from higher-risk jurisdictions or with complex structures or unusual behavior."
+      "title": "2. منهجية قائمة على المخاطر (RBA)",
+      "content1": "نتبع منهجية قائمة على المخاطر تتماشى مع إرشادات FATF وتوقعات FinCEN. ويتم تصنيف العملاء حسب مستوى المخاطر بناءً على المنشأ الجغرافي وطبيعة النشاط وأنماط المعاملات ومصدر الأموال وحالة الشخص السياسي المعرض للمخاطر (PEP)/العقوبات.",
+      "content2": "يتم تطبيق العناية الواجبة المعززة (EDD) على الملفات عالية المخاطر، بما في ذلك القادمين من ولايات قضائية أعلى خطورة أو ذوي الهياكل المعقدة أو السلوك غير المعتاد."
     },
     "section3": {
-      "title": "3. Customer Due Diligence (CDD)",
-      "intro": "CDD is mandatory before establishing any relationship or enabling transactions. It includes:",
-      "requirement1": "Verification of identity via government ID and, where permitted, biometric checks;",
-      "requirement2": "Collection of residential address, nationality, date of birth, and contact details;",
-      "requirement3": "Verification of source of funds and source of wealth;",
-      "requirement4": "Sanctions screening against OFAC, UN, EU, and other lists;",
-      "requirement5": "Determination of Ultimate Beneficial Ownership (UBO) for entities.",
-      "content": "No services are provided to individuals or entities failing to meet CDD standards. All data is handled in accordance with our Privacy Policy and applicable data-protection laws."
+      "title": "3. العناية الواجبة بالعملاء (CDD)",
+      "intro": "تُعد العناية الواجبة بالعملاء (CDD) إلزامية قبل إنشاء أي علاقة أو تمكين أي معاملات، وتشمل:",
+      "requirement1": "التحقق من الهوية عبر مستند حكومي، ومع الفحوص البيومترية حيثما يسمح القانون؛",
+      "requirement2": "جمع عنوان الإقامة والجنسية وتاريخ الميلاد وبيانات الاتصال؛",
+      "requirement3": "التحقق من مصدر الأموال ومصدر الثروة؛",
+      "requirement4": "فحص العقوبات مقابل قوائم OFAC والأمم المتحدة والاتحاد الأوروبي وغيرها؛",
+      "requirement5": "تحديد المالك المستفيد النهائي (UBO) للكيانات.",
+      "content": "لا تُقدَّم أي خدمات للأفراد أو الكيانات التي لا تستوفي معايير CDD. ويتم التعامل مع جميع البيانات وفقًا لسياسة الخصوصية لدينا وقوانين حماية البيانات المعمول بها."
     },
     "section4": {
-      "title": "4. Ongoing Monitoring",
-      "intro": "UpFinance uses automated and manual controls to monitor transactions and behavior continuously, including:",
-      "item1": "Screening against updated sanctions and PEP lists;",
-      "item2": "Review of activity against typologies of fraud and money laundering;",
-      "item3": "Triggering alerts on threshold breaches or anomalies;",
-      "item4": "Periodic re-verification of customer information.",
-      "content": "Suspicious activity is documented, escalated internally, and may be reported to FinCEN or other competent authorities as required by law."
+      "title": "4. المراقبة المستمرة",
+      "intro": "تستخدم UpFinance ضوابط آلية ويدوية لمراقبة المعاملات والسلوك بشكل مستمر، بما في ذلك:",
+      "item1": "الفحص مقابل قوائم العقوبات وقوائم PEP المحدثة؛",
+      "item2": "مراجعة الأنشطة مقارنة بأنماط الاحتيال وغسل الأموال؛",
+      "item3": "إطلاق تنبيهات عند تجاوز الحدود أو ظهور حالات شاذة؛",
+      "item4": "إعادة التحقق الدوري من معلومات العملاء.",
+      "content": "يتم توثيق الأنشطة المشبوهة وتصعيدها داخليًا، وقد يتم الإبلاغ عنها إلى FinCEN أو الجهات المختصة الأخرى وفقًا لما يقتضيه القانون."
     },
     "section5": {
-      "title": "5. Recordkeeping and Reporting",
-      "content": "All records related to CDD, transactions, communications, and internal reviews are retained for a minimum of seven (7) years after account closure or final activity, consistent with 31 CFR § 1010.430. UpFinance files Suspicious Activity Reports (SARs) or Currency Transaction Reports (CTRs) when required and cooperates fully with law-enforcement and regulatory requests."
+      "title": "5. حفظ السجلات والإبلاغ",
+      "content": "تُحفظ جميع السجلات المتعلقة بـ CDD والمعاملات والمراسلات والمراجعات الداخلية لمدة لا تقل عن سبع (7) سنوات بعد إغلاق الحساب أو آخر نشاط، بما يتوافق مع 31 CFR § 1010.430. وتقدم UpFinance تقارير الأنشطة المشبوهة (SARs) أو تقارير معاملات العملة (CTRs) عند الحاجة، وتتعاون بالكامل مع طلبات جهات إنفاذ القانون والجهات التنظيمية."
     },
     "section6": {
-      "title": "6. Training and Governance",
-      "content1": "All personnel receive annual AML/KYC training covering red flags, typologies, and reporting obligations.",
-      "content2": "A designated Compliance Officer oversees program implementation, monitors effectiveness, and reports directly to the Board of Directors.",
-      "content3": "This Policy is reviewed at least annually and updated to reflect new regulations and emerging risks."
+      "title": "6. التدريب والحوكمة",
+      "content1": "يتلقى جميع الموظفين تدريبًا سنويًا في AML/KYC يشمل مؤشرات الخطر والأنماط والالتزامات الخاصة بالإبلاغ.",
+      "content2": "يشرف مسؤول امتثال معين على تنفيذ البرنامج ويراقب فعاليته ويرفع تقاريره مباشرة إلى مجلس الإدارة.",
+      "content3": "تتم مراجعة هذه السياسة مرة واحدة على الأقل سنويًا وتحديثها لتعكس اللوائح الجديدة والمخاطر الناشئة."
     },
     "section7": {
-      "title": "7. Prohibited Clients and Activities",
-      "intro": "UpFinance does not onboard clients who:",
-      "prohibition1": "Reside in or are nationals of jurisdictions under comprehensive U.S. OFAC or UN sanctions;",
-      "prohibition2": "Appear on OFAC SDN, EU Consolidated, or UN lists;",
-      "prohibition3": "Refuse to provide required information or submit false documents; or",
-      "prohibition4": "Are suspected of laundering, fraud, terrorist financing, or sanctions evasion.",
-      "intro2": "We also prohibit use of the Services for:",
-      "prohibition5": "Mixing or tumbling transactions without legitimate purpose;",
-      "prohibition6": "Facilitating ransomware payments; or",
-      "prohibition7": "Anonymous or synthetic-identity usage."
+      "title": "7. العملاء والأنشطة المحظورة",
+      "intro": "لا تقوم UpFinance بضم العملاء الذين:",
+      "prohibition1": "يقيمون في أو يحملون جنسية ولايات قضائية خاضعة لعقوبات شاملة من OFAC الأمريكية أو الأمم المتحدة؛",
+      "prohibition2": "تظهر أسماؤهم في قوائم OFAC SDN أو قوائم الاتحاد الأوروبي الموحدة أو قوائم الأمم المتحدة؛",
+      "prohibition3": "يرفضون تقديم المعلومات المطلوبة أو يقدمون مستندات مزورة؛ أو",
+      "prohibition4": "يُشتبه في تورطهم بغسل الأموال أو الاحتيال أو تمويل الإرهاب أو التهرب من العقوبات.",
+      "intro2": "كما نحظر استخدام الخدمات من أجل:",
+      "prohibition5": "عمليات الخلط أو التمويه (tumbling) دون غرض مشروع؛",
+      "prohibition6": "تسهيل مدفوعات برامج الفدية؛ أو",
+      "prohibition7": "الاستخدام بهويات مجهولة أو اصطناعية."
     },
     "section8": {
-      "title": "8. Cooperation and Audit",
-      "content1": "UpFinance cooperates with regulators, auditors, and licensed partners (including Merits Bank & Trust) to ensure audit readiness and transparency.",
-      "content2": " Authorized auditors and regulators may inspect our AML controls under confidentiality obligations."
+      "title": "8. التعاون والتدقيق",
+      "content1": "تتعاون UpFinance مع الجهات التنظيمية والمدققين والشركاء المرخصين (بما في ذلك Merits Bank & Trust) لضمان الجاهزية للتدقيق والشفافية.",
+      "content2": "يجوز للمدققين والجهات التنظيمية المخولين فحص ضوابط AML الخاصة بنا ضمن التزامات السرية."
     },
     "footer": {
-      "copyright": "© 2025 UpGlobal Inc. All rights reserved.",
-      "registration": "Registered with FinCEN as a Money Services Business (MSB Reg. No. 31000308751680)."
+      "copyright": "© 2025 UpGlobal Inc. جميع الحقوق محفوظة.",
+      "registration": "مسجلة لدى FinCEN كمؤسسة خدمات مالية (MSB Reg. No. 31000308751680)."
     }
   },
   "privacy_content": {
-    "title": "UpFinance PRIVACY POLICY",
-    "intro": "This Privacy Policy explains how UpGlobal Inc., a corporation incorporated under the laws of the State of Delaware, U.S.A., with its registered office at 8 The Green, Ste A, Dover, DE 19901 (doing business as UpFinance, \"we,\" \"us,\" or \"our\"), collects, uses, stores, transfers, and safeguards personal data in connection with our services.\n It applies to individuals who access or use any part of the UpFinance ecosystem, including our websites, mobile applications, APIs, custodial and non-custodial wallets, card services, and virtual accounts (collectively, the \"Services\").",
+    "title": "سياسة خصوصية UpFinance",
+    "intro": "توضح سياسة الخصوصية هذه كيفية قيام شركة UpGlobal Inc.، وهي شركة مؤسسة بموجب قوانين ولاية ديلاوير في الولايات المتحدة الأمريكية ومكتبها المسجل في 8 The Green, Ste A, Dover, DE 19901 (وتزاول أعمالها تحت الاسم التجاري UpFinance، ويُشار إليها بـ \"نحن\" أو \"لنا\")، بجمع البيانات الشخصية واستخدامها وتخزينها ونقلها وحمايتها فيما يتعلق بخدماتنا.\nوتنطبق على الأفراد الذين يصلون إلى أي جزء من منظومة UpFinance أو يستخدمونه، بما في ذلك مواقعنا الإلكترونية وتطبيقات الهاتف المحمول وواجهات API والمحافظ الحفظية وغير الحفظية وخدمات البطاقات والحسابات الافتراضية (ويشار إليها مجتمعة بـ \"الخدمات\").",
     "section1": {
-      "title": "1. Data Controller",
-      "content": "UpGlobal Inc. acts as the data controller for processing activities described in this Policy. \n For custodial and settlement functions provided by Merits Bank & Trust Limited (Hong Kong — TCSP Licence No. TC008817), that institution acts as an independent or joint data controller for its respective regulated obligations. \n All privacy inquiries may be directed to our Data Protection Officer at legal@upfinance.ai."
+      "title": "1. مسؤول التحكم في البيانات",
+      "content": "تعمل شركة UpGlobal Inc. بوصفها مسؤول التحكم في البيانات لأنشطة المعالجة الموضحة في هذه السياسة.\nوبالنسبة لوظائف الحفظ والتسوية التي تقدمها Merits Bank & Trust Limited (هونغ كونغ — TCSP Licence No. TC008817)، فإن تلك المؤسسة تعمل بصفتها مسؤول تحكم مستقل أو مشترك في البيانات فيما يتعلق بالتزاماتها التنظيمية.\nيمكن توجيه جميع استفسارات الخصوصية إلى مسؤول حماية البيانات لدينا عبر legal@upfinance.ai."
     },
     "section2": {
-      "title": "2. Categories of Personal Data Collected",
-      "intro": "We collect and process the following categories of personal data:",
-      "identityInfo": "Identity Information: name, date of birth, nationality, identification documents (e.g., passport or ID), and biometric identifiers (where permitted by law);",
-      "contactInfo": "Contact Information: address, email, telephone number;",
-      "financialData": "Financial and Transactional Data: wallet addresses, payment-card details (masked or tokenized), bank account numbers, and records of fiat and digital-asset transactions;",
-      "deviceData": "Device and Technical Data: IP address, browser type, device IDs, session logs, and metadata about usage;",
-      "behavioralData": "Behavioral and Analytics Data: user interactions, clickstream activity, support transcripts, and session recordings;",
-      "marketingData": "Marketing and Communication Data: subscription status and preferences;",
-      "complianceData": "Compliance Data: employment background, source of funds, sanctions and PEP screening results.",
-      "ageNotice": "We do not knowingly collect personal data from anyone under 18. If such data is discovered, it will be deleted promptly."
+      "title": "2. فئات البيانات الشخصية التي نجمعها",
+      "intro": "نقوم بجمع ومعالجة الفئات التالية من البيانات الشخصية:",
+      "identityInfo": "بيانات الهوية: الاسم، تاريخ الميلاد، الجنسية، مستندات الهوية (مثل جواز السفر أو بطاقة الهوية)، والمعرفات البيومترية (حيثما يسمح القانون)؛",
+      "contactInfo": "بيانات الاتصال: العنوان، البريد الإلكتروني، رقم الهاتف؛",
+      "financialData": "البيانات المالية وبيانات المعاملات: عناوين المحافظ، بيانات بطاقات الدفع (مقنَّعة أو مُرمَّزة)، أرقام الحسابات البنكية، وسجلات معاملات العملات الورقية والأصول الرقمية؛",
+      "deviceData": "بيانات الجهاز والبيانات التقنية: عنوان IP، نوع المتصفح، معرفات الأجهزة، سجلات الجلسات، وبيانات الاستخدام الوصفية؛",
+      "behavioralData": "البيانات السلوكية والتحليلية: تفاعلات المستخدم، نشاط مسار النقرات، نصوص دعم العملاء، وتسجيلات الجلسات؛",
+      "marketingData": "بيانات التسويق والتواصل: حالة الاشتراك والتفضيلات؛",
+      "complianceData": "بيانات الامتثال: الخلفية الوظيفية، مصدر الأموال، ونتائج فحص العقوبات وPEP.",
+      "ageNotice": "لا نجمع عمدًا بيانات شخصية لمن هم دون 18 عامًا. وإذا تم اكتشاف مثل هذه البيانات فسيتم حذفها فورًا."
     },
     "section3": {
-      "title": "3. Purposes for Processing",
-      "intro": "We process personal data only where lawful and necessary, including:",
-      "purpose1": "Verifying identity and performing AML/CFT screening as required by law;",
-      "purpose2": "Registering and providing access to the Services (wallets, cards, swaps, accounts);",
-      "purpose3": "Detecting and investigating fraudulent or suspicious activity;",
-      "purpose4": "Maintaining and optimizing system performance;",
-      "purpose5": "Sending administrative and transactional communications;",
-      "purpose6": "Meeting statutory record-keeping and reporting obligations;",
-      "purpose7": "Conducting automated risk assessments and eligibility checks."
+      "title": "3. أغراض المعالجة",
+      "intro": "نقوم بمعالجة البيانات الشخصية فقط عندما يكون ذلك مشروعًا وضروريًا، بما في ذلك:",
+      "purpose1": "التحقق من الهوية وإجراء فحوص AML/CFT وفقًا لما يقتضيه القانون؛",
+      "purpose2": "تسجيل المستخدمين وتوفير الوصول إلى الخدمات (المحافظ، البطاقات، المبادلات، الحسابات)؛",
+      "purpose3": "كشف الأنشطة الاحتيالية أو المشبوهة والتحقيق فيها؛",
+      "purpose4": "الحفاظ على أداء الأنظمة وتحسينه؛",
+      "purpose5": "إرسال الإشعارات الإدارية وإشعارات المعاملات؛",
+      "purpose6": "الوفاء بالالتزامات النظامية الخاصة بحفظ السجلات والإبلاغ؛",
+      "purpose7": "إجراء تقييمات مخاطر مؤتمتة وفحوصات الأهلية."
     },
     "section4": {
-      "title": "4. Legal Basis for Processing",
-      "intro": "Processing is carried out on the following grounds:",
-      "basis1": "Your explicit consent (for example, marketing or biometric processing);",
-      "basis2": "Performance of a contract (the Terms of Use and related services);",
-      "basis3": "Compliance with legal obligations (e.g., AML laws and FinCEN rules);",
-      "basis4": "Protection of vital interests;",
-      "basis5": "Our legitimate business interests, balanced against your rights."
+      "title": "4. الأساس القانوني للمعالجة",
+      "intro": "تُجرى المعالجة على الأسس التالية:",
+      "basis1": "موافقتك الصريحة (مثل التسويق أو معالجة البيانات البيومترية)؛",
+      "basis2": "تنفيذ عقد (شروط الاستخدام والخدمات ذات الصلة)؛",
+      "basis3": "الامتثال للالتزامات القانونية (مثل قوانين AML وقواعد FinCEN)؛",
+      "basis4": "حماية المصالح الحيوية؛",
+      "basis5": "مصالحنا التجارية المشروعة مع موازنتها بحقوقك."
     },
     "section5": {
-      "title": "5. Data Retention",
-      "intro": "We retain personal data only as long as necessary for its purpose or to meet legal requirements. Typical periods include:",
-      "retention1": "KYC/AML data: minimum 7 years after account closure;",
-      "retention2": "Technical logs: 30–180 days;",
-      "retention3": "Marketing opt-out records: indefinitely (to honor preferences);",
-      "retention4": "Support records: up to 3 years after resolution, unless longer needed for legal reasons."
+      "title": "5. الاحتفاظ بالبيانات",
+      "intro": "نحتفظ بالبيانات الشخصية فقط للمدة اللازمة لغرضها أو للوفاء بالمتطلبات القانونية. وتشمل المدد المعتادة:",
+      "retention1": "بيانات KYC/AML: لمدة لا تقل عن 7 سنوات بعد إغلاق الحساب؛",
+      "retention2": "السجلات التقنية: من 30 إلى 180 يومًا؛",
+      "retention3": "سجلات إلغاء الاشتراك التسويقي: إلى أجل غير مسمى (احترامًا للتفضيلات)؛",
+      "retention4": "سجلات الدعم: حتى 3 سنوات بعد حل الحالة، ما لم يلزم مدة أطول لأسباب قانونية."
     },
     "section6": {
-      "title": "6. Disclosure of Personal Data to Third Parties",
-      "intro": "We share personal data only on a need-to-know basis with:",
-      "recipient1": "Licensed custodial partners (e.g., Merits Bank & Trust Limited) for safeguarding and settlement;",
-      "recipient2": "Service providers for KYC/AML screening, cloud hosting, analytics, and communications;",
-      "recipient3": "Regulatory and law-enforcement authorities when required by law or court order;",
-      "recipient4": "Professional advisors (audit, tax, legal) under confidentiality duties.",
-      "disclosureNote": "All transfers are governed by contractual data-protection clauses and confidentiality obligations."
+      "title": "6. الإفصاح عن البيانات الشخصية لأطراف ثالثة",
+      "intro": "نشارك البيانات الشخصية فقط على أساس الحاجة إلى المعرفة مع:",
+      "recipient1": "شركاء الحفظ المرخصين (مثل Merits Bank & Trust Limited) لأغراض الحفظ والتسوية؛",
+      "recipient2": "مزودي الخدمات لفحص KYC/AML والاستضافة السحابية والتحليلات والاتصالات؛",
+      "recipient3": "الجهات التنظيمية وجهات إنفاذ القانون عند طلب ذلك بموجب القانون أو أمر قضائي؛",
+      "recipient4": "المستشارين المهنيين (التدقيق، الضرائب، القانون) الخاضعين لواجبات السرية.",
+      "disclosureNote": "تخضع جميع عمليات النقل لبنود تعاقدية لحماية البيانات والتزامات السرية."
     },
     "section7": {
-      "title": "7. International Transfers of Data",
-      "intro": "Your personal data may be transferred to and processed in countries that may not offer the same level of protection. We apply appropriate safeguards, including:",
-      "safeguard1": "Standard Contractual Clauses or other approved transfer mechanisms;",
-      "safeguard2": "Transfers to jurisdictions recognized as adequate;",
-      "safeguard3": "Your explicit consent where required.",
-      "complianceNote": "All cross-border transfers comply with applicable data-protection law."
+      "title": "7. نقل البيانات عبر الحدود",
+      "intro": "قد يتم نقل بياناتك الشخصية ومعالجتها في دول قد لا توفر مستوى الحماية نفسه. ونطبق ضمانات مناسبة تشمل:",
+      "safeguard1": "البنود التعاقدية القياسية أو أي آليات نقل أخرى معتمدة؛",
+      "safeguard2": "النقل إلى ولايات قضائية معترف بكفاية الحماية فيها؛",
+      "safeguard3": "موافقتك الصريحة عند الاقتضاء.",
+      "complianceNote": "تتم جميع عمليات النقل عبر الحدود وفق قوانين حماية البيانات المعمول بها."
     },
     "section8": {
-      "title": "8. Rights of Data Subjects",
-      "intro": "You may have the right to:",
-      "right1": "Access and obtain a copy of your personal data;",
-      "right2": "Request correction or deletion;",
-      "right3": "Restrict or object to processing;",
-      "right4": "Request data portability (where technically feasible);",
-      "right5": "Withdraw consent at any time without affecting prior processing.",
-      "contactInfo": "To exercise these rights, contact legal@upfinance.ai. We may require identity verification before acting on requests."
+      "title": "8. حقوق أصحاب البيانات",
+      "intro": "قد يكون لك الحق في:",
+      "right1": "الوصول إلى بياناتك الشخصية والحصول على نسخة منها؛",
+      "right2": "طلب التصحيح أو الحذف؛",
+      "right3": "تقييد المعالجة أو الاعتراض عليها؛",
+      "right4": "طلب نقل البيانات (حيثما كان ذلك ممكنًا تقنيًا)؛",
+      "right5": "سحب الموافقة في أي وقت دون التأثير على المعالجة السابقة.",
+      "contactInfo": "لممارسة هذه الحقوق، تواصل عبر legal@upfinance.ai. وقد نطلب التحقق من الهوية قبل تنفيذ الطلبات."
     },
     "section9": {
-      "title": "9. Cookies and Tracking Technologies",
-      "content": "We use cookies and similar technologies to enable site functionality, analyze usage, and prevent fraud. You can manage non-essential cookies through browser settings. Disabling certain cookies may limit service features."
+      "title": "9. ملفات تعريف الارتباط وتقنيات التتبع",
+      "content": "نستخدم ملفات تعريف الارتباط والتقنيات المماثلة لتمكين وظائف الموقع وتحليل الاستخدام ومنع الاحتيال. يمكنك إدارة ملفات تعريف الارتباط غير الأساسية من خلال إعدادات المتصفح. وقد يؤدي تعطيل بعض الملفات إلى تقييد بعض ميزات الخدمة."
     },
     "section10": {
-      "title": "10. Security of Personal Data",
-      "intro": "We employ industry-standard technical and organizational measures, including:",
-      "measure1": "Encryption in transit and at rest;",
-      "measure2": "Role-based access controls and multi-factor authentication;",
-      "measure3": "Regular security audits and penetration tests; and",
-      "measure4": "Documented incident-response procedures.",
-      "securityNote": "No system is completely secure. Users should safeguard their credentials and notify us promptly of suspected breaches."
+      "title": "10. أمن البيانات الشخصية",
+      "intro": "نطبق تدابير تقنية وتنظيمية بمعايير الصناعة، بما في ذلك:",
+      "measure1": "التشفير أثناء النقل وفي حالة السكون؛",
+      "measure2": "ضوابط وصول قائمة على الأدوار ومصادقة متعددة العوامل؛",
+      "measure3": "عمليات تدقيق أمنية واختبارات اختراق منتظمة؛ و",
+      "measure4": "إجراءات موثقة للاستجابة للحوادث.",
+      "securityNote": "لا يوجد نظام آمن بالكامل. يجب على المستخدمين حماية بيانات اعتمادهم وإبلاغنا فورًا عند الاشتباه بأي اختراق."
     },
     "section11": {
-      "title": "11. Breach Notification",
-      "content": "If a data breach is likely to pose a high risk to individual rights or freedoms, we will notify affected users and relevant authorities without undue delay as required by law."
+      "title": "11. إشعار خرق البيانات",
+      "content": "إذا كان من المحتمل أن يشكل خرق البيانات خطرًا عاليًا على حقوق الأفراد أو حرياتهم، فسنقوم بإخطار المستخدمين المتأثرين والجهات المختصة دون تأخير غير مبرر وفقًا لما يقتضيه القانون."
     },
     "section12": {
-      "title": "12. Updates to This Policy",
-      "content": "We may update this Privacy Policy to reflect changes in law or operations. Material changes will be communicated via official channels and take effect upon publication. Continued use of the Services constitutes acceptance of the revised Policy."
+      "title": "12. تحديثات هذه السياسة",
+      "content": "قد نقوم بتحديث سياسة الخصوصية هذه لتعكس التغييرات في القوانين أو العمليات. وسيتم إبلاغ التغييرات الجوهرية عبر القنوات الرسمية وتدخل حيز النفاذ عند النشر. ويعد استمرارك في استخدام الخدمات موافقة على السياسة المعدلة."
     },
     "section13": {
-      "title": "13. Regulatory Reference and Contact",
-      "content1": "UpFinance operates under the brand of UpGlobal Inc., registered with the U.S. Financial Crimes Enforcement Network (FinCEN) as a Money Services Business (MSB Reg. No. 31000308751680).",
-      "content2": "For questions about this Policy or your data rights, please email legal@upfinance.ai."
+      "title": "13. المرجع التنظيمي ووسيلة التواصل",
+      "content1": "تعمل UpFinance تحت العلامة التجارية لشركة UpGlobal Inc. المسجلة لدى شبكة مكافحة الجرائم المالية الأمريكية (FinCEN) كمؤسسة خدمات مالية (MSB Reg. No. 31000308751680).",
+      "content2": "للاستفسارات حول هذه السياسة أو حقوق بياناتك، يرجى التواصل عبر legal@upfinance.ai."
     }
   }
 }
