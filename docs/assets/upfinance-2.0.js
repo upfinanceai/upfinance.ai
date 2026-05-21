@@ -3630,10 +3630,26 @@ const handleTocItemClick = (clickedItem, sidebarList) => {
 const lenisSmoothScrollLinks = () => {
   const lenisTargetElements = document.querySelectorAll(".lenis-scroll-to");
   const sidebarList = document.querySelector(".table-of-contents .table-of-list");
+  const resolveScrollTarget = (href) => {
+    if (!href) return null;
+    if (href.startsWith("#")) return href;
+    try {
+      const url = new URL(href, window.location.href);
+      const sameOrigin = url.origin === window.location.origin;
+      const samePath = url.pathname === window.location.pathname;
+      if (sameOrigin && samePath && url.hash) return url.hash;
+    } catch (_err) {
+    }
+    return null;
+  };
   lenisTargetElements.forEach((ele) => {
     ele.addEventListener("click", function(e) {
+      const href = ele.getAttribute("href");
+      const target = resolveScrollTarget(href);
+      if (!target) {
+        return;
+      }
       e.preventDefault();
-      const target = ele.getAttribute("href");
       if (sidebarList) {
         const clickedItem = ele.closest("li");
         if (clickedItem) {
