@@ -94,9 +94,9 @@
     "slogan": "Ngân hàng số kỷ nguyên Web3"
   },
   "modal": {
-    "title": "Ứng dụng web di động",
-    "copy": "UpFinance hiện chỉ khả dụng trên web di động. Vui lòng tiếp tục trên điện thoại để có trải nghiệm tốt nhất.",
-    "cancel": "Hủy",
+    "title": "Tốt nhất trên di động",
+    "copy": "UpFinance khả dụng trên cả máy tính và di động. Để có trải nghiệm tốt nhất, chúng tôi khuyên bạn dùng điện thoại.",
+    "cancel": "Ở lại đây",
     "continue": "Tiếp tục"
   },
   "a11y": {
@@ -220,5 +220,42 @@
     "telegram": "Telegram",
     "whatsapp": "WhatsApp",
     "linkedin": "LinkedIn"
+  },
+  "trust_menu": {
+    "global_reach": "Phạm vi toàn cầu",
+    "partners": "Đối tác",
+    "compliance": "Tuân thủ",
+    "faq_support": "FAQ & Hỗ trợ"
+  },
+  "trust_menu_desc": {
+    "global_reach": "Khả dụng tại hơn 150 quốc gia",
+    "partners": "Hạ tầng tài chính đẳng cấp thế giới",
+    "compliance": "Được cấp phép trên 10 khu vực pháp lý",
+    "faq_support": "Nhận câu trả lời, nhận hỗ trợ"
+  },
+  "partner_form": {
+    "title": "Hợp tác cùng UpFinance",
+    "desc": "Hãy cho chúng tôi biết nhu cầu hợp tác của bạn, chúng tôi sẽ sớm liên hệ lại.",
+    "full_name": "Họ và tên",
+    "full_name_placeholder": "Nhập họ và tên",
+    "company_name": "Tên công ty / dự án",
+    "company_name_placeholder": "Nhập tên công ty hoặc dự án",
+    "email": "Email",
+    "email_placeholder": "Nhập email",
+    "telegram_whatsapp": "Telegram / WhatsApp",
+    "telegram_whatsapp_placeholder": "Nhập Telegram hoặc WhatsApp",
+    "partnership_type": "Loại hợp tác",
+    "partnership_type_placeholder": "Chọn loại hợp tác",
+    "type_channel_partner": "Đối tác kênh",
+    "type_strategic_partner": "Đối tác chiến lược",
+    "type_technology_partner": "Đối tác công nghệ",
+    "type_media_partner": "Đối tác truyền thông",
+    "type_other": "Khác",
+    "message": "Tin nhắn",
+    "message_placeholder": "Không bắt buộc",
+    "required_note": "* Trường bắt buộc",
+    "cancel": "Hủy",
+    "submit": "Gửi",
+    "submit_success": "Gửi thành công. Chúng tôi sẽ sớm liên hệ."
   }
 }

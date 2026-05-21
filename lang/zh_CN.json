@@ -94,9 +94,9 @@
     "slogan": "Web3 时代数字银行"
   },
   "modal": {
-    "title": "移动网页版",
-    "copy": "UpFinance 当前仅提供移动网页版本。为获得最佳体验，请使用手机继续访问。",
-    "cancel": "取消",
+    "title": "移动端体验更佳",
+    "copy": "UpFinance 同时支持桌面端和移动端。为获得最佳体验，我们建议你使用手机。",
+    "cancel": "留在这里",
     "continue": "继续"
   },
   "a11y": {
@@ -220,5 +220,42 @@
     "telegram": "Telegram",
     "whatsapp": "WhatsApp",
     "linkedin": "LinkedIn"
+  },
+  "trust_menu": {
+    "global_reach": "全球覆盖",
+    "partners": "合作伙伴",
+    "compliance": "合规",
+    "faq_support": "常见问题与支持"
+  },
+  "trust_menu_desc": {
+    "global_reach": "覆盖 150+ 国家",
+    "partners": "世界级金融基础设施",
+    "compliance": "已在 10 个司法辖区持牌",
+    "faq_support": "获取答案，获得帮助"
+  },
+  "partner_form": {
+    "title": "与 UpFinance 建立合作",
+    "desc": "告诉我们你的合作需求，我们会尽快联系你。",
+    "full_name": "姓名",
+    "full_name_placeholder": "请输入姓名",
+    "company_name": "公司 / 项目名称",
+    "company_name_placeholder": "请输入公司或项目名称",
+    "email": "邮箱",
+    "email_placeholder": "请输入邮箱",
+    "telegram_whatsapp": "Telegram / WhatsApp",
+    "telegram_whatsapp_placeholder": "请输入 Telegram 或 WhatsApp",
+    "partnership_type": "合作类型",
+    "partnership_type_placeholder": "请选择合作类型",
+    "type_channel_partner": "渠道合作",
+    "type_strategic_partner": "战略合作",
+    "type_technology_partner": "技术合作",
+    "type_media_partner": "媒体合作",
+    "type_other": "其他",
+    "message": "留言",
+    "message_placeholder": "选填",
+    "required_note": "* 为必填项",
+    "cancel": "取消",
+    "submit": "提交",
+    "submit_success": "提交成功，我们会尽快联系你。"
   }
 }

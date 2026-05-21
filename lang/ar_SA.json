@@ -94,9 +94,9 @@
     "slogan": "البنك الرقمي لعصر Web3"
   },
   "modal": {
-    "title": "تطبيق ويب للجوال",
-    "copy": "UpFinance متاح حاليًا على الويب للجوال فقط. يرجى المتابعة من هاتفك للحصول على أفضل تجربة.",
-    "cancel": "إلغاء",
+    "title": "أفضل على الهاتف",
+    "copy": "UpFinance متاح على كل من سطح المكتب والهاتف. ولأفضل تجربة، نوصي باستخدام هاتفك.",
+    "cancel": "البقاء هنا",
     "continue": "متابعة"
   },
   "a11y": {
@@ -220,5 +220,42 @@
     "telegram": "Telegram",
     "whatsapp": "WhatsApp",
     "linkedin": "LinkedIn"
+  },
+  "trust_menu": {
+    "global_reach": "الانتشار العالمي",
+    "partners": "الشركاء",
+    "compliance": "الامتثال",
+    "faq_support": "الأسئلة الشائعة والدعم"
+  },
+  "trust_menu_desc": {
+    "global_reach": "متاح في أكثر من 150 دولة",
+    "partners": "بنية تحتية مالية عالمية المستوى",
+    "compliance": "مرخّص عبر 10 ولايات قضائية",
+    "faq_support": "احصل على الإجابات واحصل على المساعدة"
+  },
+  "partner_form": {
+    "title": "الشراكة مع UpFinance",
+    "desc": "أخبرنا بطلب الشراكة وسنتواصل معك قريبًا.",
+    "full_name": "الاسم الكامل",
+    "full_name_placeholder": "أدخل الاسم الكامل",
+    "company_name": "اسم الشركة / المشروع",
+    "company_name_placeholder": "أدخل اسم الشركة أو المشروع",
+    "email": "البريد الإلكتروني",
+    "email_placeholder": "أدخل البريد الإلكتروني",
+    "telegram_whatsapp": "Telegram / WhatsApp",
+    "telegram_whatsapp_placeholder": "أدخل Telegram أو WhatsApp",
+    "partnership_type": "نوع الشراكة",
+    "partnership_type_placeholder": "اختر نوع الشراكة",
+    "type_channel_partner": "شريك قنوات",
+    "type_strategic_partner": "شريك استراتيجي",
+    "type_technology_partner": "شريك تقني",
+    "type_media_partner": "شريك إعلامي",
+    "type_other": "أخرى",
+    "message": "رسالة",
+    "message_placeholder": "اختياري",
+    "required_note": "* حقول مطلوبة",
+    "cancel": "إلغاء",
+    "submit": "إرسال",
+    "submit_success": "تم الإرسال بنجاح. سنتواصل معك قريبًا."
   }
 }

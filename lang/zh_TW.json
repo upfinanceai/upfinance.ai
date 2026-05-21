@@ -94,9 +94,9 @@
     "slogan": "Web3 時代數位銀行"
   },
   "modal": {
-    "title": "行動網頁版",
-    "copy": "UpFinance 目前僅提供行動網頁版本。為獲得最佳體驗，請使用手機繼續訪問。",
-    "cancel": "取消",
+    "title": "行動端體驗更佳",
+    "copy": "UpFinance 同時支援桌面端和行動端。為獲得最佳體驗，我們建議你使用手機。",
+    "cancel": "留在這裡",
     "continue": "繼續"
   },
   "a11y": {
@@ -220,5 +220,42 @@
     "telegram": "Telegram",
     "whatsapp": "WhatsApp",
     "linkedin": "LinkedIn"
+  },
+  "trust_menu": {
+    "global_reach": "全球覆蓋",
+    "partners": "合作夥伴",
+    "compliance": "合規",
+    "faq_support": "常見問題與支援"
+  },
+  "trust_menu_desc": {
+    "global_reach": "覆蓋 150+ 國家",
+    "partners": "世界級金融基礎設施",
+    "compliance": "已在 10 個司法轄區持牌",
+    "faq_support": "獲取答案，獲得幫助"
+  },
+  "partner_form": {
+    "title": "與 UpFinance 建立合作",
+    "desc": "告訴我們你的合作需求，我們會盡快聯絡你。",
+    "full_name": "姓名",
+    "full_name_placeholder": "請輸入姓名",
+    "company_name": "公司 / 專案名稱",
+    "company_name_placeholder": "請輸入公司或專案名稱",
+    "email": "電子郵件",
+    "email_placeholder": "請輸入電子郵件",
+    "telegram_whatsapp": "Telegram / WhatsApp",
+    "telegram_whatsapp_placeholder": "請輸入 Telegram 或 WhatsApp",
+    "partnership_type": "合作類型",
+    "partnership_type_placeholder": "請選擇合作類型",
+    "type_channel_partner": "渠道合作",
+    "type_strategic_partner": "策略合作",
+    "type_technology_partner": "技術合作",
+    "type_media_partner": "媒體合作",
+    "type_other": "其他",
+    "message": "留言",
+    "message_placeholder": "選填",
+    "required_note": "* 為必填項",
+    "cancel": "取消",
+    "submit": "提交",
+    "submit_success": "提交成功，我們會盡快聯絡你。"
   }
 }

@@ -94,9 +94,9 @@
     "slogan": "The Web3-Era Digital Bank"
   },
   "modal": {
-    "title": "Mobile web app",
-    "copy": "UpFinance is currently available on mobile web only. Please continue on your phone for the best experience.",
-    "cancel": "Cancel",
+    "title": "Best on Mobile",
+    "copy": "UpFinance is available on both desktop and mobile. For the best experience, we recommend using your phone.",
+    "cancel": "Stay Here",
     "continue": "Continue"
   },
   "a11y": {
@@ -220,5 +220,42 @@
     "telegram": "Telegram",
     "whatsapp": "WhatsApp",
     "linkedin": "LinkedIn"
+  },
+  "trust_menu": {
+    "global_reach": "Global Reach",
+    "partners": "Partners",
+    "compliance": "Compliance",
+    "faq_support": "FAQ & Support"
+  },
+  "trust_menu_desc": {
+    "global_reach": "Available in 150+ countries",
+    "partners": "World-class financial infrastructure",
+    "compliance": "Licensed across 10 jurisdictions",
+    "faq_support": "Get answers, get help"
+  },
+  "partner_form": {
+    "title": "Partner with UpFinance",
+    "desc": "Tell us about your partnership request and we'll get back to you soon.",
+    "full_name": "Full Name",
+    "full_name_placeholder": "Enter your full name",
+    "company_name": "Company / Project Name",
+    "company_name_placeholder": "Enter company or project name",
+    "email": "Email",
+    "email_placeholder": "Enter your email",
+    "telegram_whatsapp": "Telegram / WhatsApp",
+    "telegram_whatsapp_placeholder": "Enter your Telegram or WhatsApp",
+    "partnership_type": "Partnership Type",
+    "partnership_type_placeholder": "Select partnership type",
+    "type_channel_partner": "Channel Partner",
+    "type_strategic_partner": "Strategic Partner",
+    "type_technology_partner": "Technology Partner",
+    "type_media_partner": "Media Partner",
+    "type_other": "Other",
+    "message": "Message",
+    "message_placeholder": "Optional",
+    "required_note": "* Required fields",
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "submit_success": "Submitted successfully. We will contact you soon."
   }
 }

@@ -94,9 +94,9 @@
     "slogan": "Web3 시대의 디지털 은행"
   },
   "modal": {
-    "title": "모바일 웹 앱",
-    "copy": "UpFinance는 현재 모바일 웹에서만 이용할 수 있습니다. 최상의 경험을 위해 휴대폰에서 계속 진행해 주세요.",
-    "cancel": "취소",
+    "title": "모바일에서 더 좋아요",
+    "copy": "UpFinance는 데스크톱과 모바일 모두에서 사용할 수 있습니다. 최적의 경험을 위해 휴대폰 사용을 권장합니다.",
+    "cancel": "여기에 머무르기",
     "continue": "계속"
   },
   "a11y": {
@@ -220,5 +220,42 @@
     "telegram": "Telegram",
     "whatsapp": "WhatsApp",
     "linkedin": "LinkedIn"
+  },
+  "trust_menu": {
+    "global_reach": "글로벌 도달",
+    "partners": "파트너",
+    "compliance": "컴플라이언스",
+    "faq_support": "FAQ 및 지원"
+  },
+  "trust_menu_desc": {
+    "global_reach": "150개 이상 국가에서 이용 가능",
+    "partners": "세계적 수준의 금융 인프라",
+    "compliance": "10개 관할권에서 라이선스 보유",
+    "faq_support": "답변을 받고 도움을 받으세요"
+  },
+  "partner_form": {
+    "title": "UpFinance와 파트너십",
+    "desc": "파트너십 요청 내용을 남겨주시면 곧 연락드리겠습니다.",
+    "full_name": "성명",
+    "full_name_placeholder": "성명을 입력하세요",
+    "company_name": "회사 / 프로젝트명",
+    "company_name_placeholder": "회사 또는 프로젝트명을 입력하세요",
+    "email": "이메일",
+    "email_placeholder": "이메일을 입력하세요",
+    "telegram_whatsapp": "텔레그램 / 왓츠앱",
+    "telegram_whatsapp_placeholder": "텔레그램 또는 왓츠앱을 입력하세요",
+    "partnership_type": "파트너십 유형",
+    "partnership_type_placeholder": "파트너십 유형을 선택하세요",
+    "type_channel_partner": "채널 파트너",
+    "type_strategic_partner": "전략 파트너",
+    "type_technology_partner": "기술 파트너",
+    "type_media_partner": "미디어 파트너",
+    "type_other": "기타",
+    "message": "메시지",
+    "message_placeholder": "선택 입력",
+    "required_note": "* 필수 항목",
+    "cancel": "취소",
+    "submit": "제출",
+    "submit_success": "제출되었습니다. 곧 연락드리겠습니다."
   }
 }

@@ -94,9 +94,9 @@
     "slogan": "Web3時代のデジタルバンク"
   },
   "modal": {
-    "title": "モバイルWebアプリ",
-    "copy": "UpFinanceは現在モバイルWebのみで利用可能です。最適な体験のため、スマートフォンで続行してください。",
-    "cancel": "キャンセル",
+    "title": "モバイルでの利用がおすすめ",
+    "copy": "UpFinance はデスクトップとモバイルの両方で利用できます。より良い体験のため、スマートフォンでの利用をおすすめします。",
+    "cancel": "ここに留まる",
     "continue": "続行"
   },
   "a11y": {
@@ -220,5 +220,42 @@
     "telegram": "Telegram",
     "whatsapp": "WhatsApp",
     "linkedin": "LinkedIn"
+  },
+  "trust_menu": {
+    "global_reach": "グローバル対応",
+    "partners": "パートナー",
+    "compliance": "コンプライアンス",
+    "faq_support": "FAQとサポート"
+  },
+  "trust_menu_desc": {
+    "global_reach": "150以上の国と地域で利用可能",
+    "partners": "世界水準の金融インフラ",
+    "compliance": "10の法域でライセンス取得",
+    "faq_support": "答えを見つけて、サポートを受ける"
+  },
+  "partner_form": {
+    "title": "UpFinanceとの提携",
+    "desc": "提携内容をご入力ください。追ってご連絡いたします。",
+    "full_name": "氏名",
+    "full_name_placeholder": "氏名を入力してください",
+    "company_name": "会社名 / プロジェクト名",
+    "company_name_placeholder": "会社名またはプロジェクト名を入力してください",
+    "email": "メールアドレス",
+    "email_placeholder": "メールアドレスを入力してください",
+    "telegram_whatsapp": "Telegram / WhatsApp",
+    "telegram_whatsapp_placeholder": "Telegram または WhatsApp を入力してください",
+    "partnership_type": "提携タイプ",
+    "partnership_type_placeholder": "提携タイプを選択してください",
+    "type_channel_partner": "チャネルパートナー",
+    "type_strategic_partner": "戦略パートナー",
+    "type_technology_partner": "テクノロジーパートナー",
+    "type_media_partner": "メディアパートナー",
+    "type_other": "その他",
+    "message": "メッセージ",
+    "message_placeholder": "任意",
+    "required_note": "* は必須項目です",
+    "cancel": "キャンセル",
+    "submit": "送信",
+    "submit_success": "送信が完了しました。追ってご連絡いたします。"
   }
 }
