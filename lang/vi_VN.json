@@ -1,0 +1,224 @@
+{
+  "language": {
+    "name": "Tiếng Việt",
+    "short": "VI",
+    "name_en": "Tiếng Anh",
+    "name_zh": "Tiếng Trung giản thể",
+    "name_zh_tw": "Tiếng Trung phồn thể",
+    "name_ko": "Tiếng Hàn",
+    "name_jp": "Tiếng Nhật",
+    "name_vi": "Tiếng Việt",
+    "name_ar": "Tiếng Ả Rập"
+  },
+  "nav": {
+    "products": "Sản phẩm",
+    "trust_center": "Trung tâm Tin cậy",
+    "about": "Giới thiệu",
+    "get_app": "Tải ứng dụng",
+    "menu": "Menu",
+    "close_menu": "Đóng menu",
+    "language": "Ngôn ngữ",
+    "solutions": "Giải pháp",
+    "developers": "Nhà phát triển",
+    "contact": "Liên hệ",
+    "careers": "Tuyển dụng",
+    "terms": "Điều khoản",
+    "privacy": "Quyền riêng tư",
+    "compliance": "Tuân thủ",
+    "home": "Trang chủ"
+  },
+  "topbar": {
+    "line1": "Nền tảng hiện đại cho thanh toán crypto và tiền pháp định",
+    "line2": "Tương lai của thanh toán toàn cầu đã đến",
+    "marquee_1": "Nền tảng hiện đại cho thanh toán crypto và tiền pháp định — <a href=\"#\" class=\"cursor-pointer underline hover:underline-offset-2 font-bold\">Tìm hiểu thêm</a> hoán đổi, chi tiêu và quản lý tiền trên toàn cầu với Up Finance.",
+    "marquee_2": "Tương lai của thanh toán toàn cầu đã đến — <a href=\"#\" class=\"cursor-pointer underline hover:underline-offset-2 font-bold\">Bắt đầu</a> crypto và tiền pháp định, hợp nhất trong một trải nghiệm liền mạch."
+  },
+  "products": {
+    "upcard": "UpCard",
+    "uppay": "UpPay",
+    "upswap": "UpSwap",
+    "upearn": "UpEarn",
+    "upinvest": "UpInvest",
+    "upfun": "UpFun",
+    "whats_new": "Có gì mới",
+    "unified_title": "Tài khoản Toàn cầu Hợp nhất",
+    "unified_desc": "Quản lý crypto và tiền pháp định trong một nơi với chuyển tiền, hoán đổi và chi tiêu tức thì."
+  },
+  "solutions": {
+    "global_payments": "Thanh toán toàn cầu",
+    "freelancers": "Freelancer",
+    "startups": "Startup",
+    "ecommerce": "Thương mại điện tử",
+    "remittance": "Kiều hối",
+    "creators": "Nhà sáng tạo"
+  },
+  "solutions_desc": {
+    "global_payments": "Xuyên biên giới trong vài giây",
+    "freelancers": "Nhận thanh toán toàn cầu nhanh chóng",
+    "startups": "Kiểm soát ngân quỹ toàn cầu",
+    "ecommerce": "Đối soát đa thị trường",
+    "remittance": "Chuyển tiền quốc tế phí thấp",
+    "creators": "Kiếm và chi tiêu toàn cầu"
+  },
+  "trust": {
+    "overview": "Tổng quan",
+    "compliance": "Tuân thủ",
+    "custody": "Lưu ký",
+    "encryption": "Mã hóa",
+    "fraud": "Chống gian lận",
+    "risk": "Kiểm soát rủi ro"
+  },
+  "trust_desc": {
+    "overview": "Bảo mật ở mọi lớp",
+    "compliance": "Được cấp phép và tuân thủ",
+    "custody": "Lưu trữ tài sản an toàn",
+    "encryption": "Dữ liệu mã hóa đầu-cuối",
+    "fraud": "Giám sát và ngăn chặn gian lận",
+    "risk": "Giới hạn rủi ro tích hợp"
+  },
+  "dev": {
+    "api_reference": "Tài liệu API",
+    "sdks": "SDK",
+    "webhooks": "Webhook",
+    "sandbox": "Sandbox",
+    "auth_keys": "Xác thực & Khóa",
+    "status": "Trạng thái"
+  },
+  "footer": {
+    "product": "Sản phẩm",
+    "developers": "Nhà phát triển",
+    "company": "Công ty",
+    "api": "API",
+    "docs": "Tài liệu",
+    "copyright": "Bản quyền © Up Finance Group 2026",
+    "slogan": "Ngân hàng số kỷ nguyên Web3"
+  },
+  "modal": {
+    "title": "Ứng dụng web di động",
+    "copy": "UpFinance hiện chỉ khả dụng trên web di động. Vui lòng tiếp tục trên điện thoại để có trải nghiệm tốt nhất.",
+    "cancel": "Hủy",
+    "continue": "Tiếp tục"
+  },
+  "a11y": {
+    "back_to_top": "Lên đầu trang",
+    "theme_toggle": "Nút chuyển giao diện",
+    "select_language": "Chọn ngôn ngữ"
+  },
+  "hero": {
+    "badge": "Ngân hàng số kỷ nguyên Web3",
+    "title": "Dòng tiền thông minh hơn.",
+    "subtitle": "Một tài khoản cho crypto và tiền pháp định. Chi tiêu, hoán đổi, sinh lời và đầu tư - không biên giới, 24/7.",
+    "note": "An toàn. Tuân thủ. Xây dựng cho quy mô toàn cầu."
+  },
+  "cta": {
+    "partner_with_us": "Hợp tác cùng chúng tôi"
+  },
+  "clients": {
+    "heading": "Được xây dựng trên các mạng lưới tài chính <span class=\"text-ns-linen\" itemprop=\"numberOfEmployees\">hàng đầu thế giới</span>"
+  },
+  "what_we_do": {
+    "title": "UpFinance là ngân hàng số kỷ nguyên Web3. Chúng tôi đang tái thiết kiến trúc tài chính để cho phép dòng tiền liền mạch, không biên giới thông qua stablecoin."
+  },
+  "feature": {
+    "badge": "Ngân hàng số kỷ nguyên Web3",
+    "ai_powered": "Được hỗ trợ bởi AI",
+    "web3_banking": "Ngân hàng Web3",
+    "infrastructure": "Hạ tầng",
+    "subtitle": "Được xây dựng để vận hành thế hệ tiếp theo của ngân hàng toàn cầu, thanh toán và hạ tầng tài sản số."
+  },
+  "feature_cards": {
+    "card1_title": "Một tài khoản, phủ sóng toàn cầu",
+    "card1_desc": "- Tất cả tài sản trong một tài khoản - tiền pháp định, crypto, stablecoin <br>- Dành cho cá nhân và doanh nghiệp <br>- 22+ tiền tệ, 150+ quốc gia",
+    "card2_title": "Bộ sản phẩm full-stack ở quy mô lớn",
+    "card2_desc": "- Super App (UpCard, UpPay, UpSwap, UpEarn, UpInvest, UpFun) <br>- Hạ tầng API cho B2B <br>- SaaS và white-label cho doanh nghiệp",
+    "card3_title": "Điều phối thanh toán bằng AI",
+    "card3_desc": "- Tổng hợp thanh toán toàn cầu qua hạ tầng fiat và crypto <br>- Tự học tuyến đường để có tỷ giá tốt nhất <br>- Đối soát T+0",
+    "card4_title": "Marketplace tài chính tích hợp AI agent",
+    "card4_desc": "- DeFi và TradFi trong một nơi <br>- Tối ưu danh mục bằng AI <br>- Thị trường dự đoán, tài sản token hóa"
+  },
+  "steps": {
+    "heading": "Mở tài khoản toàn cầu trong <span class=\"text-ns-linen\">4 bước đơn giản</span>",
+    "step1_title": "Nạp tiền vào tài khoản",
+    "step1_desc": "Nạp qua chuyển khoản ngân hàng, thẻ hoặc crypto. Mọi thứ vào một số dư hợp nhất.",
+    "step2_title": "Hoán đổi tức thì",
+    "step2_desc": "Chuyển đổi giữa tiền pháp định và crypto chỉ với một chạm. Định tuyến tối ưu, không ma sát.",
+    "step3_title": "Kích hoạt UpCard",
+    "step3_desc": "Nạp từ bất kỳ tài sản nào trong số dư. Bắt đầu chi tiêu tại hơn 130 triệu điểm chấp nhận trên toàn thế giới.",
+    "step4_title": "Vươn ra toàn cầu",
+    "step4_desc": "Chi tiêu tại hơn 130 triệu điểm chấp nhận. Nhận tới 8% APY. Tất cả từ một tài khoản, không biên giới."
+  },
+  "global_reach": {
+    "badge": "Phạm vi toàn cầu",
+    "title": "Khả dụng tại <span class=\"text-ns-linen\">150+</span> quốc gia",
+    "desc": "Kết nối với Visa, Mastercard, SWIFT và hơn 10 mạng blockchain. Tiền của bạn di chuyển đến bất cứ đâu bạn muốn."
+  },
+  "final_cta": {
+    "title": "Nâng tầm tài sản của bạn",
+    "desc": "Mở tài khoản trong 5 phút. <br class=\"lg:block hidden\" />Không số dư tối thiểu. Không biên giới."
+  },
+  "gadgets": {
+    "uppay_title": "Gửi đến hơn 150 quốc gia. Tính bằng giây, không phải ngày.",
+    "uppay_desc": "22+ tiền tệ. Đối soát T+0.",
+    "from": "Từ",
+    "from_country": "Singapore",
+    "to": "Đến",
+    "to_country": "Hàn Quốc",
+    "send_now": "Gửi ngay",
+    "upswap_title": "Crypto ↔ Fiat",
+    "upswap_desc": "Hoán đổi giữa 22 loại tiền chỉ với một chạm",
+    "asset": "Tài sản",
+    "upcard_quote": "\"Chi tiêu ở mọi nơi chấp nhận Visa và Mastercard. Hơn 130 triệu điểm chấp nhận.\"",
+    "wealth_title": "Tài sản ưu ái <br class=\"lg:block hidden\" />người tiên phong",
+    "upinvest_title": "T-Bill token hóa. Được cấp phép SFC.",
+    "upearn_title": "Nhận tới 8% APY.",
+    "upearn_desc": "Rút linh hoạt. Không khóa vốn.",
+    "upfun_title": "Dự đoán.<br>Tham gia.<br>Sinh lời.",
+    "monthly_spending": "Chi tiêu hàng tháng",
+    "total_earned": "Tổng lợi nhuận"
+  },
+  "upcard": {
+    "heading": "<span class=\"text-ns-linen\">UpCard</span> - Chi tiêu mọi nơi. Mọi tài sản. Mọi loại tiền.",
+    "desc": "Dùng crypto hoặc tiền pháp định tại hơn 130 triệu điểm chấp nhận với chuyển đổi liền mạch theo thời gian thực."
+  },
+  "partners": {
+    "heading": "Được vận hành bởi những đối tác tốt nhất trong <span class=\"text-ns-linen\">tài chính toàn cầu</span>",
+    "desc": "Chúng tôi tập hợp các đối tác tài chính hàng đầu ở mọi lớp - luôn có một lựa chọn phù hợp cho bạn.",
+    "card_issuance": "Phát hành thẻ",
+    "card_issuance_desc": "Mạng lưới thẻ toàn cầu cho phép chi tiêu liền mạch tại hơn 130 triệu điểm chấp nhận. Hỗ trợ thẻ ảo và thẻ vật lý toàn cầu.",
+    "payment": "Thanh toán",
+    "payment_desc": "Độ an toàn của hạ tầng tài chính truyền thống kết hợp với tốc độ và phạm vi của đối soát blockchain.",
+    "settlement_desc": "Đối soát nhanh hơn so với hệ thống ngân hàng xuyên biên giới truyền thống.",
+    "banking": "Ngân hàng",
+    "banking_desc": "Các ngân hàng hàng đầu khu vực với phạm vi toàn cầu. Xây dựng hạ tầng tài chính cá nhân của bạn trên nhiều khu vực pháp lý.",
+    "trading": "Giao dịch & Sinh lời",
+    "trading_desc": "Sàn giao dịch được cấp phép, tiếp cận T-Bill và lợi suất DeFi - tất cả trong một marketplace tích hợp.",
+    "custody": "Lưu ký",
+    "custody_desc": "Lưu ký và quản lý khóa dựa trên MPC. Bảo vệ tài sản cấp tổ chức cho mọi số dư.",
+    "prediction": "Dự đoán",
+    "prediction_desc": "Thị trường dự đoán trong tầm tay bạn. Đặt cược theo kết quả, kiếm lợi từ góc nhìn."
+  },
+  "compliance": {
+    "badge": "Tuân thủ pháp lý",
+    "title": "Được cấp phép, đáng tin cậy, xây dựng cho tài chính <span class=\"text-ns-linen\">toàn cầu</span>",
+    "desc": "Vận hành trên nhiều khu vực pháp lý với hạ tầng cấp tổ chức",
+    "card1": "Giấy phép <br class=\"lg:block hidden\" />đã có",
+    "card2": "Giấy phép đang <br class=\"lg:block hidden\" />phê duyệt",
+    "card3": "Quốc gia vận hành kinh doanh",
+    "card4": "Quốc gia đăng ký người dùng"
+  },
+  "products_desc": {
+    "upcard": "Chi tiêu toàn cầu với một thẻ dùng số dư crypto và tiền pháp định",
+    "uppay": "Gửi và nhận tiền toàn cầu với chuyển khoản nhanh, an toàn, liền mạch",
+    "upswap": "Hoán đổi tức thì giữa tiền tệ và crypto với tỷ giá tối ưu thời gian thực",
+    "upearn": "Tạo lợi suất cho tài sản bằng chiến lược an toàn và linh hoạt",
+    "upinvest": "Đầu tư vào crypto và thị trường toàn cầu với cơ hội được chọn lọc",
+    "upfun": "Thị trường tương tác cho crypto, thể thao và các sự kiện thực tế"
+  },
+  "social": {
+    "x": "X",
+    "discord": "Discord",
+    "telegram": "Telegram",
+    "whatsapp": "WhatsApp",
+    "linkedin": "LinkedIn"
+  }
+}

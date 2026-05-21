@@ -1,0 +1,243 @@
+     .back-to-top {
+         position: fixed;
+         right: 20px;
+         bottom: 84px;
+         z-index: 9998;
+         display: inline-flex;
+         width: 48px;
+         height: 48px;
+         align-items: center;
+         justify-content: center;
+         border: 1px solid rgba(255, 255, 255, 0.18);
+         border-radius: 9999px;
+         background: rgba(12, 12, 12, 0.86);
+         color: #fff;
+         box-shadow: 0 16px 40px rgba(0, 0, 0, 0.22);
+         opacity: 0;
+         pointer-events: none;
+         transform: translateY(8px);
+         transition: opacity 180ms ease, transform 180ms ease, background-color 180ms ease;
+     }
+
+     .back-to-top:hover {
+         background: #0c0c0c;
+     }
+
+     .back-to-top.is-visible {
+         opacity: 1;
+         pointer-events: auto;
+         transform: translateY(0);
+     }
+
+     .header-account-label {
+         display: inline-flex;
+         align-items: center;
+         line-height: 1;
+         transform: translateY(1px);
+     }
+
+     .language-menu {
+         position: relative;
+     }
+
+     .language-menu summary {
+         list-style: none;
+     }
+
+     .language-menu summary::-webkit-details-marker {
+         display: none;
+     }
+
+     .language-menu__panel {
+         position: absolute;
+         top: calc(100% + 10px);
+         right: 0;
+         min-width: 172px;
+         padding: 8px;
+         border: 1px solid rgba(255, 255, 255, 0.12);
+         border-radius: 18px;
+         background: rgba(12, 12, 12, 0.92);
+         box-shadow: 0 18px 60px rgba(0, 0, 0, 0.28);
+         backdrop-filter: blur(18px);
+         opacity: 0;
+         transform: translateY(-4px);
+         pointer-events: none;
+         transition: opacity 180ms ease, transform 180ms ease;
+     }
+
+     .language-menu details[open] .language-menu__panel {
+         opacity: 1;
+         transform: translateY(0);
+         pointer-events: auto;
+     }
+
+     .language-menu__panel a,
+     .mobile-language-switcher a {
+         text-decoration: none;
+     }
+
+     .language-menu__panel a[aria-current="true"] {
+         background: rgba(255, 255, 255, 0.12);
+         color: #fff;
+     }
+
+     .compliance-stat-card {
+         min-height: 204px;
+     }
+
+     .amount-range {
+         font-size: 18px;
+         line-height: 1.15;
+     }
+
+     @media (min-width: 480px) {
+         .amount-range {
+             font-size: 22px;
+         }
+     }
+
+     @media (min-width: 768px) {
+         .amount-range {
+             font-size: 28px;
+         }
+     }
+
+     @media (min-width: 1280px) {
+         .amount-range {
+             font-size: 32px;
+         }
+     }
+
+     main>section {
+         min-height: 100svh;
+     }
+
+     main>section:nth-of-type(2),
+     main>section:nth-of-type(3),
+     main>section:nth-last-of-type(1),
+     main>section:nth-last-of-type(2),
+     main>section:nth-last-of-type(3) {
+         min-height: auto;
+     }
+
+     main>section[role="banner"] {
+         min-height: calc(100svh - 34px);
+         display: grid;
+         align-items: center;
+         padding-top: clamp(128px, 18svh, 220px);
+         padding-bottom: clamp(48px, 10svh, 112px);
+     }
+
+     main>section[role="banner"]>video {
+         height: 100%;
+         min-height: 100%;
+     }
+
+     @media (max-width: 767px) {
+         main>section {
+             min-height: auto;
+         }
+
+         main>section[role="banner"] {
+             min-height: calc(100svh - 34px);
+             padding-top: clamp(118px, 18svh, 160px);
+             padding-bottom: 56px;
+         }
+     }
+
+     .app-cta-label {
+         text-transform: none;
+     }
+
+     .mobile-app-modal {
+         position: fixed;
+         inset: 0;
+         z-index: 10000;
+         display: none;
+         align-items: center;
+         justify-content: center;
+         padding: 24px;
+         background: rgba(0, 0, 0, 0.62);
+         backdrop-filter: blur(12px);
+     }
+
+     .mobile-app-modal.is-open {
+         display: flex;
+     }
+
+     .mobile-app-modal__dialog {
+         width: min(100%, 420px);
+         border: 1px solid rgba(255, 255, 255, 0.14);
+         border-radius: 28px;
+         background: #0c0c0c;
+         color: #fff;
+         box-shadow: 0 24px 80px rgba(0, 0, 0, 0.36);
+         padding: 28px;
+         text-align: center;
+     }
+
+     .mobile-app-modal__icon {
+         display: inline-flex;
+         width: 52px;
+         height: 52px;
+         align-items: center;
+         justify-content: center;
+         border-radius: 9999px;
+         background: rgba(255, 255, 255, 0.08);
+         color: #fff;
+         margin-bottom: 18px;
+     }
+
+     .mobile-app-modal__title {
+         font-size: 20px;
+         font-weight: 600;
+         line-height: 1.25;
+         margin: 0 0 10px;
+     }
+
+     .mobile-app-modal__copy {
+         color: rgba(255, 255, 255, 0.68);
+         font-size: 15px;
+         line-height: 1.6;
+         margin: 0;
+     }
+
+     .mobile-app-modal__actions {
+         display: flex;
+         gap: 10px;
+         margin-top: 24px;
+     }
+
+     .mobile-app-modal__button {
+         display: inline-flex;
+         min-height: 46px;
+         flex: 1;
+         align-items: center;
+         justify-content: center;
+         border-radius: 9999px;
+         border: 1px solid rgba(255, 255, 255, 0.14);
+         cursor: pointer;
+         font-size: 14px;
+         font-weight: 500;
+         transition: background-color 180ms ease, color 180ms ease, border-color 180ms ease;
+     }
+
+     .mobile-app-modal__button--secondary {
+         background: transparent;
+         color: rgba(255, 255, 255, 0.78);
+     }
+
+     .mobile-app-modal__button--primary {
+         background: #fff;
+         border-color: #fff;
+         color: #0c0c0c;
+     }
+
+     .mobile-app-modal__button--secondary:hover {
+         background: rgba(255, 255, 255, 0.08);
+         color: #fff;
+     }
+
+     .mobile-app-modal__button--primary:hover {
+         background: rgba(255, 255, 255, 0.86);
+     }

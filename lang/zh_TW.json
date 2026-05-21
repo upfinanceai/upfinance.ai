@@ -1,0 +1,224 @@
+{
+  "language": {
+    "name": "繁體中文",
+    "short": "中",
+    "name_en": "英語",
+    "name_zh": "簡體中文",
+    "name_zh_tw": "繁體中文",
+    "name_ko": "韓語",
+    "name_jp": "日語",
+    "name_vi": "越南語",
+    "name_ar": "阿拉伯語"
+  },
+  "nav": {
+    "products": "產品",
+    "trust_center": "信任中心",
+    "about": "關於",
+    "get_app": "下載應用",
+    "menu": "選單",
+    "close_menu": "關閉選單",
+    "language": "語言",
+    "solutions": "解決方案",
+    "developers": "開發者",
+    "contact": "聯絡我們",
+    "careers": "加入我們",
+    "terms": "條款",
+    "privacy": "隱私",
+    "compliance": "合規",
+    "home": "首頁"
+  },
+  "topbar": {
+    "line1": "現代化的加密與法幣支付平台",
+    "line2": "全球支付的未來已到來",
+    "marquee_1": "現代化的加密與法幣支付平台 — <a href=\"#\" class=\"cursor-pointer underline hover:underline-offset-2 font-bold\">了解更多</a> 使用 Up Finance 在全球進行兌換、消費與資金管理。",
+    "marquee_2": "全球支付的未來已到來 — <a href=\"#\" class=\"cursor-pointer underline hover:underline-offset-2 font-bold\">立即開始</a> 加密貨幣與法幣一體化，無縫體驗。"
+  },
+  "products": {
+    "upcard": "UpCard",
+    "uppay": "UpPay",
+    "upswap": "UpSwap",
+    "upearn": "UpEarn",
+    "upinvest": "UpInvest",
+    "upfun": "UpFun",
+    "whats_new": "最新動態",
+    "unified_title": "統一全球帳戶",
+    "unified_desc": "在一個帳戶中統一管理加密與法幣，支援即時轉帳、兌換和消費。"
+  },
+  "solutions": {
+    "global_payments": "全球支付",
+    "freelancers": "自由工作者",
+    "startups": "新創企業",
+    "ecommerce": "電商",
+    "remittance": "匯款",
+    "creators": "創作者"
+  },
+  "solutions_desc": {
+    "global_payments": "跨境秒級到帳",
+    "freelancers": "全球收款更快速",
+    "startups": "全球資金管理",
+    "ecommerce": "跨市場結算",
+    "remittance": "低費率國際匯款",
+    "creators": "全球創收與消費"
+  },
+  "trust": {
+    "overview": "總覽",
+    "compliance": "合規",
+    "custody": "託管",
+    "encryption": "加密",
+    "fraud": "反詐騙",
+    "risk": "風險控制"
+  },
+  "trust_desc": {
+    "overview": "全鏈路安全保障",
+    "compliance": "持牌合規營運",
+    "custody": "安全資產託管",
+    "encryption": "端到端資料加密",
+    "fraud": "監控並防範詐騙",
+    "risk": "內建風控機制"
+  },
+  "dev": {
+    "api_reference": "API 文件",
+    "sdks": "SDK",
+    "webhooks": "Webhook",
+    "sandbox": "沙盒",
+    "auth_keys": "認證與金鑰",
+    "status": "服務狀態"
+  },
+  "footer": {
+    "product": "產品",
+    "developers": "開發者",
+    "company": "公司",
+    "api": "API",
+    "docs": "文件",
+    "copyright": "版權 © Up Finance Group 2026",
+    "slogan": "Web3 時代數位銀行"
+  },
+  "modal": {
+    "title": "行動網頁版",
+    "copy": "UpFinance 目前僅提供行動網頁版本。為獲得最佳體驗，請使用手機繼續訪問。",
+    "cancel": "取消",
+    "continue": "繼續"
+  },
+  "a11y": {
+    "back_to_top": "返回頂部",
+    "theme_toggle": "主題切換按鈕",
+    "select_language": "選擇語言"
+  },
+  "hero": {
+    "badge": "Web3 時代數位銀行",
+    "title": "讓每一筆資金更聰明。",
+    "subtitle": "一個帳戶管理加密與法幣。消費、兌換、增值與投資，7x24 無國界。",
+    "note": "安全、合規、為全球規模而生。"
+  },
+  "cta": {
+    "partner_with_us": "與我們合作"
+  },
+  "clients": {
+    "heading": "建立於<span class=\"text-ns-linen\" itemprop=\"numberOfEmployees\">全球領先</span>金融網路之上"
+  },
+  "what_we_do": {
+    "title": "UpFinance 是 Web3 時代數位銀行。我們正在重構金融基礎架構，以穩定幣實現無縫、無國界的資金流動。"
+  },
+  "feature": {
+    "badge": "Web3 時代數位銀行",
+    "ai_powered": "AI 驅動",
+    "web3_banking": "Web3 銀行",
+    "infrastructure": "基礎設施",
+    "subtitle": "為下一代全球銀行、支付與數位資產基礎設施而打造。"
+  },
+  "feature_cards": {
+    "card1_title": "一個帳戶，全球通達",
+    "card1_desc": "- 一個帳戶管理全部資產：法幣、加密貨幣、穩定幣 <br>- 適用於個人與企業 <br>- 支援 22+ 幣種，覆蓋 150+ 國家",
+    "card2_title": "可規模化的全棧產品矩陣",
+    "card2_desc": "- 超級應用（UpCard、UpPay、UpSwap、UpEarn、UpInvest、UpFun）<br>- 面向 B2B 的 API 基礎設施 <br>- 面向企業的 SaaS 與白標能力",
+    "card3_title": "AI 驅動支付編排",
+    "card3_desc": "- 聚合法幣與加密支付通道 <br>- 自學習路由獲取更優匯率 <br>- T+0 結算",
+    "card4_title": "智能體嵌入式金融市場",
+    "card4_desc": "- DeFi 與傳統金融一體化 <br>- AI 投資組合優化 <br>- 預測市場與代幣化資產"
+  },
+  "steps": {
+    "heading": "開啟你的全球帳戶，只需<span class=\"text-ns-linen\">4 個步驟</span>",
+    "step1_title": "為帳戶注資",
+    "step1_desc": "透過銀行轉帳、銀行卡或加密貨幣入金，統一進入同一餘額。",
+    "step2_title": "一鍵兌換",
+    "step2_desc": "法幣與加密資產一鍵互換，最優路由，零摩擦。",
+    "step3_title": "啟用 UpCard",
+    "step3_desc": "從帳戶任意資產中扣款，在全球 1.3 億+ 商戶消費。",
+    "step4_title": "全球使用",
+    "step4_desc": "在 1.3 億+ 商戶消費，最高可獲 8% 年化收益；一個帳戶，無國界。"
+  },
+  "global_reach": {
+    "badge": "全球覆蓋",
+    "title": "覆蓋<span class=\"text-ns-linen\">150+</span>個國家",
+    "desc": "連接 Visa、Mastercard、SWIFT 與 10+ 條區塊鏈網路，資金想去哪就去哪。"
+  },
+  "final_cta": {
+    "title": "讓財富更進一步",
+    "desc": "5 分鐘開通帳戶。<br class=\"lg:block hidden\" />無門檻，無邊界。"
+  },
+  "gadgets": {
+    "uppay_title": "匯至 150+ 國家，秒速到帳。",
+    "uppay_desc": "支援 22+ 幣種，T+0 結算。",
+    "from": "從",
+    "from_country": "新加坡",
+    "to": "到",
+    "to_country": "韓國",
+    "send_now": "立即轉帳",
+    "upswap_title": "加密貨幣 ↔ 法幣",
+    "upswap_desc": "22 種貨幣一鍵兌換",
+    "asset": "資產",
+    "upcard_quote": "\"凡是支援 Visa 與 Mastercard 的地方都可消費，覆蓋 1.3 億+ 商戶。\"",
+    "wealth_title": "財富屬於<br class=\"lg:block hidden\" />探索者",
+    "upinvest_title": "代幣化美債，SFC 持牌。",
+    "upearn_title": "年化最高 8%。",
+    "upearn_desc": "彈性提取，無鎖倉。",
+    "upfun_title": "預測。<br>參與。<br>獲利。",
+    "monthly_spending": "月度支出",
+    "total_earned": "累計收益"
+  },
+  "upcard": {
+    "heading": "<span class=\"text-ns-linen\">UpCard</span> - 隨處可用，任意資產，任意幣種。",
+    "desc": "在 1.3 億+ 商戶使用加密貨幣或法幣即時支付與轉換。"
+  },
+  "partners": {
+    "heading": "由<span class=\"text-ns-linen\">全球頂級金融夥伴</span>驅動",
+    "desc": "我們聚合世界級金融夥伴，覆蓋每一層能力，總有一款適合你。",
+    "card_issuance": "發卡",
+    "card_issuance_desc": "全球卡網路支援在 1.3 億+ 商戶無縫消費，虛擬卡與實體卡均可發行。",
+    "payment": "支付",
+    "payment_desc": "傳統金融通道的安全性，結合區塊鏈結算的速度與覆蓋範圍。",
+    "settlement_desc": "相比傳統跨境銀行系統，結算更快。",
+    "banking": "銀行服務",
+    "banking_desc": "區域銀行龍頭具備全球網路，協助你搭建跨司法轄區的個人金融基礎設施。",
+    "trading": "交易與收益",
+    "trading_desc": "持牌交易所、T-Bill 通道與 DeFi 收益一體化整合。",
+    "custody": "託管",
+    "custody_desc": "基於 MPC 的託管與金鑰管理，為每一筆資產提供機構級保護。",
+    "prediction": "預測",
+    "prediction_desc": "觸手可及的預測市場，憑洞見參與並獲利。"
+  },
+  "compliance": {
+    "badge": "監管合規",
+    "title": "持牌、可信、為<span class=\"text-ns-linen\">全球</span>金融打造",
+    "desc": "以機構級基礎設施在多司法轄區持續營運",
+    "card1": "已獲得<br class=\"lg:block hidden\" />牌照",
+    "card2": "審批中<br class=\"lg:block hidden\" />牌照",
+    "card3": "業務營運國家",
+    "card4": "用戶註冊國家"
+  },
+  "products_desc": {
+    "upcard": "一張卡全球消費，支援加密與法幣餘額",
+    "uppay": "全球收付款，快速、安全、無縫",
+    "upswap": "按即時優化匯率在法幣與加密間即時兌換",
+    "upearn": "透過安全彈性策略讓資產持續增值",
+    "upinvest": "覆蓋加密與全球市場的精選投資機會",
+    "upfun": "圍繞加密、體育與真實事件的互動市場"
+  },
+  "social": {
+    "x": "X",
+    "discord": "Discord",
+    "telegram": "Telegram",
+    "whatsapp": "WhatsApp",
+    "linkedin": "LinkedIn"
+  }
+}

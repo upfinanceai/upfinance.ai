@@ -1,0 +1,224 @@
+{
+  "language": {
+    "name": "日本語",
+    "short": "JP",
+    "name_en": "英語",
+    "name_zh": "中国語（簡体字）",
+    "name_zh_tw": "中国語（繁体字）",
+    "name_ko": "韓国語",
+    "name_jp": "日本語",
+    "name_vi": "ベトナム語",
+    "name_ar": "アラビア語"
+  },
+  "nav": {
+    "products": "プロダクト",
+    "trust_center": "トラストセンター",
+    "about": "会社情報",
+    "get_app": "アプリを入手",
+    "menu": "メニュー",
+    "close_menu": "メニューを閉じる",
+    "language": "言語",
+    "solutions": "ソリューション",
+    "developers": "開発者",
+    "contact": "お問い合わせ",
+    "careers": "採用情報",
+    "terms": "利用規約",
+    "privacy": "プライバシー",
+    "compliance": "コンプライアンス",
+    "home": "ホーム"
+  },
+  "topbar": {
+    "line1": "暗号資産と法定通貨決済のためのモダンプラットフォーム",
+    "line2": "グローバル決済の未来がここに",
+    "marquee_1": "暗号資産と法定通貨決済のためのモダンプラットフォーム — <a href=\"#\" class=\"cursor-pointer underline hover:underline-offset-2 font-bold\">詳しく見る</a> Up Financeで、世界中の両替・支払い・資金管理をシームレスに。",
+    "marquee_2": "グローバル決済の未来がここに — <a href=\"#\" class=\"cursor-pointer underline hover:underline-offset-2 font-bold\">今すぐ始める</a> 暗号資産と法定通貨を1つの体験で統合。"
+  },
+  "products": {
+    "upcard": "UpCard",
+    "uppay": "UpPay",
+    "upswap": "UpSwap",
+    "upearn": "UpEarn",
+    "upinvest": "UpInvest",
+    "upfun": "UpFun",
+    "whats_new": "最新情報",
+    "unified_title": "統合グローバルアカウント",
+    "unified_desc": "暗号資産と法定通貨を1つの場所で管理。即時送金・スワップ・決済に対応。"
+  },
+  "solutions": {
+    "global_payments": "グローバル決済",
+    "freelancers": "フリーランサー",
+    "startups": "スタートアップ",
+    "ecommerce": "Eコマース",
+    "remittance": "送金",
+    "creators": "クリエイター"
+  },
+  "solutions_desc": {
+    "global_payments": "国境を越えて数秒で",
+    "freelancers": "世界中から素早く受け取り",
+    "startups": "グローバル財務管理",
+    "ecommerce": "市場横断の清算",
+    "remittance": "低手数料の国際送金",
+    "creators": "世界で稼ぎ、世界で使う"
+  },
+  "trust": {
+    "overview": "概要",
+    "compliance": "コンプライアンス",
+    "custody": "カストディ",
+    "encryption": "暗号化",
+    "fraud": "不正防止",
+    "risk": "リスク管理"
+  },
+  "trust_desc": {
+    "overview": "あらゆるレイヤーでセキュリティ",
+    "compliance": "ライセンス取得と規制準拠",
+    "custody": "安全な資産保管",
+    "encryption": "エンドツーエンド暗号化",
+    "fraud": "不正の監視と防止",
+    "risk": "組み込みのリスク制御"
+  },
+  "dev": {
+    "api_reference": "APIリファレンス",
+    "sdks": "SDK",
+    "webhooks": "Webhook",
+    "sandbox": "サンドボックス",
+    "auth_keys": "認証とキー",
+    "status": "ステータス"
+  },
+  "footer": {
+    "product": "プロダクト",
+    "developers": "開発者",
+    "company": "会社",
+    "api": "API",
+    "docs": "ドキュメント",
+    "copyright": "著作権 © Up Finance Group 2026",
+    "slogan": "Web3時代のデジタルバンク"
+  },
+  "modal": {
+    "title": "モバイルWebアプリ",
+    "copy": "UpFinanceは現在モバイルWebのみで利用可能です。最適な体験のため、スマートフォンで続行してください。",
+    "cancel": "キャンセル",
+    "continue": "続行"
+  },
+  "a11y": {
+    "back_to_top": "ページ上部へ戻る",
+    "theme_toggle": "テーマ切替ボタン",
+    "select_language": "言語を選択"
+  },
+  "hero": {
+    "badge": "Web3時代のデジタルバンク",
+    "title": "お金の動きを、もっとスマートに。",
+    "subtitle": "暗号資産と法定通貨を1つのアカウントで。使う、交換する、増やす、投資する。24時間365日、ボーダレス。",
+    "note": "安全。コンプライアンス準拠。グローバルスケールのために設計。"
+  },
+  "cta": {
+    "partner_with_us": "提携する"
+  },
+  "clients": {
+    "heading": "<span class=\"text-ns-linen\" itemprop=\"numberOfEmployees\">世界有数</span>の金融ネットワーク上に構築"
+  },
+  "what_we_do": {
+    "title": "UpFinanceはWeb3時代のデジタルバンクです。私たちはステーブルコインを通じて、シームレスでボーダレスなお金の移動を可能にする金融アーキテクチャを再構築しています。"
+  },
+  "feature": {
+    "badge": "Web3時代のデジタルバンク",
+    "ai_powered": "AI搭載",
+    "web3_banking": "Web3バンキング",
+    "infrastructure": "インフラ",
+    "subtitle": "次世代のグローバルバンキング、決済、デジタル資産インフラを支えるために構築。"
+  },
+  "feature_cards": {
+    "card1_title": "1つのアカウントで、世界へ",
+    "card1_desc": "- 法定通貨・暗号資産・ステーブルコインを1つのアカウントで管理 <br>- 個人にも法人にも対応 <br>- 22以上の通貨、150以上の国と地域",
+    "card2_title": "拡張可能なフルスタック製品群",
+    "card2_desc": "- スーパーアプリ（UpCard、UpPay、UpSwap、UpEarn、UpInvest、UpFun） <br>- B2B向けAPIインフラ <br>- 企業向けSaaSとホワイトラベル",
+    "card3_title": "AIによる決済オーケストレーション",
+    "card3_desc": "- 法定通貨と暗号資産レールを横断したグローバル決済集約 <br>- 最適レートのための自己学習ルーティング <br>- T+0決済",
+    "card4_title": "エージェント組み込み型金融マーケットプレイス",
+    "card4_desc": "- DeFiとTradFiを1か所に <br>- AIポートフォリオ最適化 <br>- 予測市場とトークン化資産"
+  },
+  "steps": {
+    "heading": "<span class=\"text-ns-linen\">4つの簡単なステップ</span>でグローバル口座を開始",
+    "step1_title": "アカウントに入金",
+    "step1_desc": "銀行振込、カード、または暗号資産で入金。すべてが1つの統合残高に反映されます。",
+    "step2_title": "即時スワップ",
+    "step2_desc": "ワンタップで法定通貨と暗号資産を変換。最適ルーティングでスムーズに。",
+    "step3_title": "UpCardを有効化",
+    "step3_desc": "残高内の任意資産からチャージし、世界1.3億以上の加盟店で支払い開始。",
+    "step4_title": "世界で使う",
+    "step4_desc": "1.3億以上の加盟店で利用。最大8% APYを獲得。1つのアカウントで、国境なし。"
+  },
+  "global_reach": {
+    "badge": "グローバル対応",
+    "title": "<span class=\"text-ns-linen\">150+</span>の国と地域で利用可能",
+    "desc": "Visa、Mastercard、SWIFT、10以上のブロックチェーンネットワークに接続。お金は行きたい場所へ。"
+  },
+  "final_cta": {
+    "title": "資産を次のレベルへ",
+    "desc": "5分でアカウント開設。<br class=\"lg:block hidden\" />最低金額なし。国境なし。"
+  },
+  "gadgets": {
+    "uppay_title": "150以上の国へ送金。数日ではなく数秒で。",
+    "uppay_desc": "22以上の通貨。T+0決済。",
+    "from": "送金元",
+    "from_country": "シンガポール",
+    "to": "送金先",
+    "to_country": "韓国",
+    "send_now": "今すぐ送金",
+    "upswap_title": "暗号資産 ↔ 法定通貨",
+    "upswap_desc": "22通貨間をワンタップでスワップ",
+    "asset": "資産",
+    "upcard_quote": "\"VisaとMastercardが使える場所ならどこでも利用可能。1.3億以上の加盟店。\"",
+    "wealth_title": "資産は<br class=\"lg:block hidden\" />挑戦者に味方する",
+    "upinvest_title": "トークン化T-Bill。SFCライセンス取得。",
+    "upearn_title": "最大8% APYを獲得。",
+    "upearn_desc": "柔軟な出金。ロックアップなし。",
+    "upfun_title": "予測。<br>プレイ。<br>収益化。",
+    "monthly_spending": "月間支出",
+    "total_earned": "累計獲得"
+  },
+  "upcard": {
+    "heading": "<span class=\"text-ns-linen\">UpCard</span> - どこでも使える。どの資産でも。どの通貨でも。",
+    "desc": "暗号資産または法定通貨をリアルタイム変換で、1.3億以上の加盟店で利用。"
+  },
+  "partners": {
+    "heading": "<span class=\"text-ns-linen\">グローバル金融</span>のトップパートナーが支える",
+    "desc": "私たちは各レイヤーで世界クラスの金融パートナーを集約し、あなたに最適な選択肢を提供します。",
+    "card_issuance": "カード発行",
+    "card_issuance_desc": "世界的なカードネットワークにより、1.3億以上の加盟店でシームレスな支払いを実現。バーチャル/物理カード発行に対応。",
+    "payment": "決済",
+    "payment_desc": "従来金融レールの安全性と、ブロックチェーン決済の速度・到達性を融合。",
+    "settlement_desc": "従来の国際銀行システムより迅速な決済。",
+    "banking": "バンキング",
+    "banking_desc": "グローバル対応の地域銀行リーダーとともに、複数法域にまたがる個人金融基盤を構築。",
+    "trading": "トレーディング & Earn",
+    "trading_desc": "ライセンス取引所、T-Billアクセス、DeFi利回りを1つの統合マーケットプレイスで。",
+    "custody": "カストディ",
+    "custody_desc": "MPCベースのカストディと鍵管理。すべての残高に機関投資家レベルの保護を。",
+    "prediction": "予測",
+    "prediction_desc": "手元で使える予測市場。結果に賭け、洞察で収益化。"
+  },
+  "compliance": {
+    "badge": "規制コンプライアンス",
+    "title": "ライセンス取得、信頼性、<span class=\"text-ns-linen\">グローバル</span>金融のための設計",
+    "desc": "機関投資家レベルのインフラで複数法域にて運営",
+    "card1": "取得済み <br class=\"lg:block hidden\" />ライセンス",
+    "card2": "承認中 <br class=\"lg:block hidden\" />ライセンス",
+    "card3": "事業展開国",
+    "card4": "ユーザー登録国"
+  },
+  "products_desc": {
+    "upcard": "暗号資産と法定通貨残高で、1枚のカードで世界中で支払い",
+    "uppay": "高速・安全・シームレスなグローバル送受金",
+    "upswap": "最適化されたリアルタイムレートで通貨と暗号資産を即時スワップ",
+    "upearn": "安全で柔軟な戦略で資産利回りを獲得",
+    "upinvest": "暗号資産とグローバル市場への厳選投資機会",
+    "upfun": "暗号資産・スポーツ・実世界イベントの参加型マーケット"
+  },
+  "social": {
+    "x": "X",
+    "discord": "Discord",
+    "telegram": "Telegram",
+    "whatsapp": "WhatsApp",
+    "linkedin": "LinkedIn"
+  }
+}

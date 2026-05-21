@@ -1,0 +1,224 @@
+{
+  "language": {
+    "name": "English",
+    "short": "EN",
+    "name_en": "English",
+    "name_zh": "Simplified Chinese",
+    "name_zh_tw": "Traditional Chinese",
+    "name_ko": "Korean",
+    "name_jp": "Japanese",
+    "name_vi": "Vietnamese",
+    "name_ar": "Arabic"
+  },
+  "nav": {
+    "products": "Products",
+    "trust_center": "Trust Center",
+    "about": "About",
+    "get_app": "Get the App",
+    "menu": "Menu",
+    "close_menu": "Close Menu",
+    "language": "Language",
+    "solutions": "Solutions",
+    "developers": "Developers",
+    "contact": "Contact",
+    "careers": "Careers",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "compliance": "Compliance",
+    "home": "Home"
+  },
+  "topbar": {
+    "line1": "A modern platform for crypto and fiat payments",
+    "line2": "The future of global payments is here",
+    "marquee_1": "A modern platform for crypto and fiat payments — <a href=\"#\" class=\"cursor-pointer underline hover:underline-offset-2 font-bold\">Learn more</a> swap, spend, and manage money globally with Up Finance.",
+    "marquee_2": "The future of global payments is here — <a href=\"#\" class=\"cursor-pointer underline hover:underline-offset-2 font-bold\">Get started</a> crypto and fiat, unified in one seamless experience."
+  },
+  "products": {
+    "upcard": "UpCard",
+    "uppay": "UpPay",
+    "upswap": "UpSwap",
+    "upearn": "UpEarn",
+    "upinvest": "UpInvest",
+    "upfun": "UpFun",
+    "whats_new": "What's New",
+    "unified_title": "Unified Global Account",
+    "unified_desc": "Manage crypto and fiat in one place with instant transfers, swaps, and spending."
+  },
+  "solutions": {
+    "global_payments": "Global Payments",
+    "freelancers": "Freelancers",
+    "startups": "Startups",
+    "ecommerce": "E-commerce",
+    "remittance": "Remittance",
+    "creators": "Creators"
+  },
+  "solutions_desc": {
+    "global_payments": "Cross-border in seconds",
+    "freelancers": "Get paid worldwide fast",
+    "startups": "Global treasury control",
+    "ecommerce": "Settle across markets",
+    "remittance": "Low-fee international transfers",
+    "creators": "Earn and spend globally"
+  },
+  "trust": {
+    "overview": "Overview",
+    "compliance": "Compliance",
+    "custody": "Custody",
+    "encryption": "Encryption",
+    "fraud": "Fraud Protection",
+    "risk": "Risk Controls"
+  },
+  "trust_desc": {
+    "overview": "Security at every layer",
+    "compliance": "Licensed and compliant",
+    "custody": "Secure asset storage",
+    "encryption": "Data encrypted end-to-end",
+    "fraud": "Monitor and prevent fraud",
+    "risk": "Built-in risk limits"
+  },
+  "dev": {
+    "api_reference": "API Reference",
+    "sdks": "SDKs",
+    "webhooks": "Webhooks",
+    "sandbox": "Sandbox",
+    "auth_keys": "Auth & Keys",
+    "status": "Status"
+  },
+  "footer": {
+    "product": "Product",
+    "developers": "Developers",
+    "company": "Company",
+    "api": "API",
+    "docs": "Docs",
+    "copyright": "Copyright © Up Finance Group 2026",
+    "slogan": "The Web3-Era Digital Bank"
+  },
+  "modal": {
+    "title": "Mobile web app",
+    "copy": "UpFinance is currently available on mobile web only. Please continue on your phone for the best experience.",
+    "cancel": "Cancel",
+    "continue": "Continue"
+  },
+  "a11y": {
+    "back_to_top": "Back to top",
+    "theme_toggle": "Theme toggle button",
+    "select_language": "Select language"
+  },
+  "hero": {
+    "badge": "The Web3-Era Digital Bank",
+    "title": "Money Moves Smarter.",
+    "subtitle": "One account for crypto and fiat. Spend, swap, earn, and invest — borderless, 24/7.",
+    "note": "Secure. Compliant. Built for global scale."
+  },
+  "cta": {
+    "partner_with_us": "Partner With Us"
+  },
+  "clients": {
+    "heading": "Built on The <span class=\"text-ns-linen\" itemprop=\"numberOfEmployees\">World's</span> Leading Financial Networks"
+  },
+  "what_we_do": {
+    "title": "UpFinance is the Web3-Era Digital Bank. We are rebuilding the financial architecture to enable seamless, borderless money movement through stablecoins."
+  },
+  "feature": {
+    "badge": "Web3-Era Digital Bank",
+    "ai_powered": "AI-Powered",
+    "web3_banking": "Web3 Banking",
+    "infrastructure": "Infrastructure",
+    "subtitle": "Built to power the next generation of global banking, payments, and digital asset infrastructure."
+  },
+  "feature_cards": {
+    "card1_title": "One Account, Global Reach",
+    "card1_desc": "- All assets in one account — fiat, crypto, stablecoins <br>- For individuals & enterprises <br>- 22+ currencies, 150+ countries",
+    "card2_title": "Full-Stack Product Suite at Scale",
+    "card2_desc": "- Super App (UpCard, UpPay, UpSwap, UpEarn, UpInvest, UpFun) <br>- API Infrastructure for B2B <br>- SaaS & White-label for enterprises",
+    "card3_title": "AI-Powered Payment Orchestration",
+    "card3_desc": "- Global payment aggregation across fiat & crypto rails <br>- Self-learning routing for best rates <br>- T+0 settlement",
+    "card4_title": "Agent-Embedded Financial Marketplace",
+    "card4_desc": "- DeFi & TradFi in one place <br>- AI portfolio optimization <br>- Prediction markets, tokenized assets"
+  },
+  "steps": {
+    "heading": "Start Your Global Account in <span class=\"text-ns-linen\">4 Simple Steps</span>",
+    "step1_title": "Fund Your Account",
+    "step1_desc": "Deposit via bank transfer, card, or crypto. Everything lands in one unified balance.",
+    "step2_title": "Swap Instantly",
+    "step2_desc": "Convert between fiat and crypto in one tap. Best-rate routing, zero friction.",
+    "step3_title": "Activate UpCard",
+    "step3_desc": "Load from any asset in your balance. Start spending at 130M+ merchants worldwide.",
+    "step4_title": "Go Global",
+    "step4_desc": "Spend at 130M+ merchants. Earn up to 8% APY. All from one account, no borders."
+  },
+  "global_reach": {
+    "badge": "Global Reach",
+    "title": "Available in <span class=\"text-ns-linen\">150+</span> Countries",
+    "desc": "Connected to Visa, Mastercard, SWIFT, and 10+ blockchain networks. Your money moves wherever you want."
+  },
+  "final_cta": {
+    "title": "Level Up Your Wealth",
+    "desc": "Open your account in 5 minutes. <br class=\"lg:block hidden\" />No minimums. No borders."
+  },
+  "gadgets": {
+    "uppay_title": "Send to 150+ countries. Seconds, not days.",
+    "uppay_desc": "22+ currencies. T+0 settlement.",
+    "from": "From",
+    "from_country": "Singapore",
+    "to": "To",
+    "to_country": "Korea",
+    "send_now": "Send Now",
+    "upswap_title": "Crypto ↔ Fiat",
+    "upswap_desc": "Swap between 22 currencies in one tap",
+    "asset": "Asset",
+    "upcard_quote": "\"Spend anywhere Visa and Mastercard is accepted. 130M+ merchants.\"",
+    "wealth_title": "Wealth Favors <br class=\"lg:block hidden\" />The Explorers",
+    "upinvest_title": "Tokenized T-Bills. SFC Licensed.",
+    "upearn_title": "Earn up to 8% APY.",
+    "upearn_desc": "Flexible withdrawal. No lock-up.",
+    "upfun_title": "Predict. <br>Play. <br>Profit. ",
+    "monthly_spending": "Monthly Spending",
+    "total_earned": "Total earned"
+  },
+  "upcard": {
+    "heading": "<span class=\"text-ns-linen\">UpCard</span> - Spend Anywhere. Any Asset. Any Currency.",
+    "desc": "Use crypto or fiat at 130M+ merchants with seamless conversion in real time."
+  },
+  "partners": {
+    "heading": "Powered by the Best in <span class=\"text-ns-linen\">Global Finance</span>",
+    "desc": "We aggregate world-class financial partners across every layer — there's always one built for you.",
+    "card_issuance": "Card Issuance",
+    "card_issuance_desc": "Global card networks powering seamless spending at 130M+ merchants. Virtual and physical issuance, worldwide.",
+    "payment": "Payment",
+    "payment_desc": "The security of traditional finance rails combined with the speed and reach of blockchain settlement.",
+    "settlement_desc": "Faster settlement compared to traditional cross-border banking systems.",
+    "banking": "Banking",
+    "banking_desc": "Regional banking leaders with global reach. Building your personal financial infrastructure across jurisdictions.",
+    "trading": "Trading & Earn",
+    "trading_desc": "Licensed exchange, T-Bill access, and DeFi yield — all from one integrated marketplace.",
+    "custody": "Custody",
+    "custody_desc": "MPC-based custody and key management. Institutional-grade asset protection for every balance.",
+    "prediction": "Prediction",
+    "prediction_desc": "Prediction markets at your fingertips. Bet on outcomes, earn from insight."
+  },
+  "compliance": {
+    "badge": "Regulatory Compliance",
+    "title": "Licensed, Trusted, Built for <span class=\"text-ns-linen\">Global</span> Finance",
+    "desc": "Operating across multiple jurisdictions with institutional-grade infrastructure",
+    "card1": "Licenses <br class=\"lg:block hidden\" />acquired",
+    "card2": "Licenses in <br class=\"lg:block hidden\" />approval",
+    "card3": "Countries for business operations",
+    "card4": "Countries for user registration"
+  },
+  "products_desc": {
+    "upcard": "Spend globally with one card using your crypto and fiat balance",
+    "uppay": "Send and receive money globally with fast, secure, seamless transfers",
+    "upswap": "Instantly swap between currencies and crypto with optimized real-time rates",
+    "upearn": "Earn yields on your assets through secure and flexible strategies",
+    "upinvest": "Invest across crypto and global markets with curated opportunities",
+    "upfun": "Engaging markets for crypto, sports, and real-world events"
+  },
+  "social": {
+    "x": "X",
+    "discord": "Discord",
+    "telegram": "Telegram",
+    "whatsapp": "WhatsApp",
+    "linkedin": "LinkedIn"
+  }
+}

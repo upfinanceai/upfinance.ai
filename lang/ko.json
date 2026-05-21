@@ -1,0 +1,224 @@
+{
+  "language": {
+    "name": "한국어",
+    "short": "KO",
+    "name_en": "영어",
+    "name_zh": "중국어(간체)",
+    "name_zh_tw": "중국어(번체)",
+    "name_ko": "한국어",
+    "name_jp": "일본어",
+    "name_vi": "베트남어",
+    "name_ar": "아랍어"
+  },
+  "nav": {
+    "products": "제품",
+    "trust_center": "신뢰 센터",
+    "about": "소개",
+    "get_app": "앱 받기",
+    "menu": "메뉴",
+    "close_menu": "메뉴 닫기",
+    "language": "언어",
+    "solutions": "솔루션",
+    "developers": "개발자",
+    "contact": "문의하기",
+    "careers": "채용",
+    "terms": "이용약관",
+    "privacy": "개인정보처리방침",
+    "compliance": "컴플라이언스",
+    "home": "홈"
+  },
+  "topbar": {
+    "line1": "암호화폐와 법정화폐 결제를 위한 현대적인 플랫폼",
+    "line2": "글로벌 결제의 미래가 시작되었습니다",
+    "marquee_1": "암호화폐와 법정화폐 결제를 위한 현대적인 플랫폼 — <a href=\"#\" class=\"cursor-pointer underline hover:underline-offset-2 font-bold\">자세히 보기</a> Up Finance로 전 세계에서 교환, 결제, 자금 관리를 간편하게 하세요.",
+    "marquee_2": "글로벌 결제의 미래가 시작되었습니다 — <a href=\"#\" class=\"cursor-pointer underline hover:underline-offset-2 font-bold\">지금 시작</a> 암호화폐와 법정화폐를 하나의 매끄러운 경험으로 통합했습니다."
+  },
+  "products": {
+    "upcard": "UpCard",
+    "uppay": "UpPay",
+    "upswap": "UpSwap",
+    "upearn": "UpEarn",
+    "upinvest": "UpInvest",
+    "upfun": "UpFun",
+    "whats_new": "새로운 소식",
+    "unified_title": "통합 글로벌 계좌",
+    "unified_desc": "한 곳에서 암호화폐와 법정화폐를 관리하고 즉시 송금, 스왑, 결제를 이용하세요."
+  },
+  "solutions": {
+    "global_payments": "글로벌 결제",
+    "freelancers": "프리랜서",
+    "startups": "스타트업",
+    "ecommerce": "이커머스",
+    "remittance": "해외송금",
+    "creators": "크리에이터"
+  },
+  "solutions_desc": {
+    "global_payments": "몇 초 만에 국경 간 결제",
+    "freelancers": "전 세계에서 빠르게 수금",
+    "startups": "글로벌 자금 운영",
+    "ecommerce": "시장 간 정산",
+    "remittance": "저수수료 국제 송금",
+    "creators": "글로벌 수익과 지출"
+  },
+  "trust": {
+    "overview": "개요",
+    "compliance": "컴플라이언스",
+    "custody": "커스터디",
+    "encryption": "암호화",
+    "fraud": "사기 방지",
+    "risk": "리스크 관리"
+  },
+  "trust_desc": {
+    "overview": "모든 계층의 보안",
+    "compliance": "라이선스 및 규정 준수",
+    "custody": "안전한 자산 보관",
+    "encryption": "종단간 데이터 암호화",
+    "fraud": "사기 탐지 및 예방",
+    "risk": "내장 리스크 한도"
+  },
+  "dev": {
+    "api_reference": "API 레퍼런스",
+    "sdks": "SDK",
+    "webhooks": "웹훅",
+    "sandbox": "샌드박스",
+    "auth_keys": "인증 및 키",
+    "status": "상태"
+  },
+  "footer": {
+    "product": "제품",
+    "developers": "개발자",
+    "company": "회사",
+    "api": "API",
+    "docs": "문서",
+    "copyright": "저작권 © Up Finance Group 2026",
+    "slogan": "Web3 시대의 디지털 은행"
+  },
+  "modal": {
+    "title": "모바일 웹 앱",
+    "copy": "UpFinance는 현재 모바일 웹에서만 이용할 수 있습니다. 최상의 경험을 위해 휴대폰에서 계속 진행해 주세요.",
+    "cancel": "취소",
+    "continue": "계속"
+  },
+  "a11y": {
+    "back_to_top": "맨 위로",
+    "theme_toggle": "테마 전환 버튼",
+    "select_language": "언어 선택"
+  },
+  "hero": {
+    "badge": "Web3 시대의 디지털 은행",
+    "title": "더 스마트한 자금 이동.",
+    "subtitle": "암호화폐와 법정화폐를 위한 하나의 계좌. 결제, 스왑, 적립, 투자까지 24시간 국경 없이.",
+    "note": "안전하고, 규정을 준수하며, 글로벌 확장을 위해 설계되었습니다."
+  },
+  "cta": {
+    "partner_with_us": "파트너십 문의"
+  },
+  "clients": {
+    "heading": "<span class=\"text-ns-linen\" itemprop=\"numberOfEmployees\">세계 최고</span> 금융 네트워크 위에 구축되었습니다"
+  },
+  "what_we_do": {
+    "title": "UpFinance는 Web3 시대의 디지털 은행입니다. 우리는 스테이블코인을 통해 끊김 없고 국경 없는 자금 이동을 가능하게 하는 금융 인프라를 재구축하고 있습니다."
+  },
+  "feature": {
+    "badge": "Web3 시대의 디지털 은행",
+    "ai_powered": "AI 기반",
+    "web3_banking": "Web3 뱅킹",
+    "infrastructure": "인프라",
+    "subtitle": "차세대 글로벌 뱅킹, 결제, 디지털 자산 인프라를 구동하도록 설계되었습니다."
+  },
+  "feature_cards": {
+    "card1_title": "하나의 계좌, 글로벌 도달",
+    "card1_desc": "- 법정화폐, 암호화폐, 스테이블코인을 하나의 계좌에서 관리 <br>- 개인 및 기업 모두 지원 <br>- 22개 이상 통화, 150개 이상 국가",
+    "card2_title": "확장 가능한 풀스택 제품군",
+    "card2_desc": "- 슈퍼앱(UpCard, UpPay, UpSwap, UpEarn, UpInvest, UpFun) <br>- B2B용 API 인프라 <br>- 기업용 SaaS 및 화이트라벨",
+    "card3_title": "AI 기반 결제 오케스트레이션",
+    "card3_desc": "- 법정화폐와 암호화폐 레일 전반의 글로벌 결제 집계 <br>- 최적 환율을 위한 자가학습 라우팅 <br>- T+0 정산",
+    "card4_title": "에이전트 임베디드 금융 마켓플레이스",
+    "card4_desc": "- DeFi와 TradFi를 한 곳에서 <br>- AI 포트폴리오 최적화 <br>- 예측 시장과 토큰화 자산"
+  },
+  "steps": {
+    "heading": "<span class=\"text-ns-linen\">4단계</span>로 글로벌 계좌 시작하기",
+    "step1_title": "계좌 입금",
+    "step1_desc": "은행 송금, 카드 또는 암호화폐로 입금하세요. 모든 자금이 하나의 통합 잔액으로 들어옵니다.",
+    "step2_title": "즉시 스왑",
+    "step2_desc": "한 번의 탭으로 법정화폐와 암호화폐를 전환하세요. 최적 라우팅, 마찰 없는 경험.",
+    "step3_title": "UpCard 활성화",
+    "step3_desc": "잔액의 어떤 자산에서든 충전하고 전 세계 1억 3천만+ 가맹점에서 결제하세요.",
+    "step4_title": "글로벌 사용",
+    "step4_desc": "1억 3천만+ 가맹점에서 결제하고 최대 8% APY를 적립하세요. 하나의 계좌, 국경 없음."
+  },
+  "global_reach": {
+    "badge": "글로벌 도달",
+    "title": "<span class=\"text-ns-linen\">150+</span>개국에서 이용 가능",
+    "desc": "Visa, Mastercard, SWIFT 및 10개 이상의 블록체인 네트워크와 연결되어 자금이 원하는 곳으로 이동합니다."
+  },
+  "final_cta": {
+    "title": "자산을 한 단계 업그레이드",
+    "desc": "5분 만에 계좌 개설. <br class=\"lg:block hidden\" />최소 금액 없음. 국경 없음."
+  },
+  "gadgets": {
+    "uppay_title": "150개국+로 송금. 며칠이 아닌 몇 초.",
+    "uppay_desc": "22개 이상 통화. T+0 정산.",
+    "from": "보내는 곳",
+    "from_country": "싱가포르",
+    "to": "받는 곳",
+    "to_country": "대한민국",
+    "send_now": "지금 보내기",
+    "upswap_title": "암호화폐 ↔ 법정화폐",
+    "upswap_desc": "한 번의 탭으로 22개 통화 간 스왑",
+    "asset": "자산",
+    "upcard_quote": "\"Visa와 Mastercard가 되는 곳 어디서나 결제. 1억 3천만+ 가맹점.\"",
+    "wealth_title": "부는 <br class=\"lg:block hidden\" />탐험가의 편",
+    "upinvest_title": "토큰화 T-Bill. SFC 라이선스.",
+    "upearn_title": "최대 8% APY 적립.",
+    "upearn_desc": "유연한 출금. 락업 없음.",
+    "upfun_title": "예측.<br>플레이.<br>수익.",
+    "monthly_spending": "월간 지출",
+    "total_earned": "총 적립"
+  },
+  "upcard": {
+    "heading": "<span class=\"text-ns-linen\">UpCard</span> - 어디서나 결제. 어떤 자산이든. 어떤 통화든.",
+    "desc": "1억 3천만+ 가맹점에서 암호화폐나 법정화폐를 실시간 변환으로 사용하세요."
+  },
+  "partners": {
+    "heading": "<span class=\"text-ns-linen\">글로벌 금융</span> 최고의 파트너와 함께",
+    "desc": "우리는 각 계층의 세계적 금융 파트너를 통합해 언제나 당신에게 맞는 선택을 제공합니다.",
+    "card_issuance": "카드 발급",
+    "card_issuance_desc": "전 세계 카드 네트워크로 1억 3천만+ 가맹점에서 매끄러운 결제를 제공합니다. 가상/실물 카드 모두 지원.",
+    "payment": "결제",
+    "payment_desc": "전통 금융 레일의 보안성과 블록체인 정산의 속도 및 도달 범위를 결합했습니다.",
+    "settlement_desc": "기존 국경 간 은행 시스템 대비 더 빠른 정산.",
+    "banking": "뱅킹",
+    "banking_desc": "글로벌 도달력을 갖춘 지역 은행 리더와 함께 관할권 전반에 걸친 개인 금융 인프라를 구축합니다.",
+    "trading": "트레이딩 & 적립",
+    "trading_desc": "라이선스 거래소, T-Bill 접근, DeFi 수익을 하나의 통합 마켓플레이스에서 제공합니다.",
+    "custody": "커스터디",
+    "custody_desc": "MPC 기반 커스터디와 키 관리. 모든 잔액을 위한 기관급 자산 보호.",
+    "prediction": "예측",
+    "prediction_desc": "손끝에서 만나는 예측 시장. 결과에 베팅하고 인사이트로 수익을 얻으세요."
+  },
+  "compliance": {
+    "badge": "규제 컴플라이언스",
+    "title": "라이선스, 신뢰, <span class=\"text-ns-linen\">글로벌</span> 금융을 위한 설계",
+    "desc": "기관급 인프라로 여러 관할권에서 운영",
+    "card1": "취득 완료 <br class=\"lg:block hidden\" />라이선스",
+    "card2": "승인 진행 중 <br class=\"lg:block hidden\" />라이선스",
+    "card3": "사업 운영 국가",
+    "card4": "사용자 등록 국가"
+  },
+  "products_desc": {
+    "upcard": "암호화폐와 법정화폐 잔액으로 하나의 카드로 전 세계 결제",
+    "uppay": "빠르고 안전하며 매끄러운 글로벌 송금/수취",
+    "upswap": "실시간 최적 환율로 통화와 암호화폐를 즉시 스왑",
+    "upearn": "안전하고 유연한 전략으로 자산 수익 창출",
+    "upinvest": "암호화폐와 글로벌 시장의 큐레이션 투자 기회",
+    "upfun": "암호화폐, 스포츠, 실제 이벤트 기반의 참여형 마켓"
+  },
+  "social": {
+    "x": "X",
+    "discord": "Discord",
+    "telegram": "Telegram",
+    "whatsapp": "WhatsApp",
+    "linkedin": "LinkedIn"
+  }
+}
