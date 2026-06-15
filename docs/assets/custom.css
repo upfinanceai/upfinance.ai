@@ -140,7 +140,7 @@
 
          main>section[role="banner"] {
              min-height: calc(100svh - 34px);
-             padding-top: clamp(118px, 18svh, 160px);
+             padding-top: clamp(118px, 24svh, 160px);
              padding-bottom: 56px;
          }
      }
